@@ -24,20 +24,51 @@ def choose_for_domain(domain):
     if not prompts_files:
         prompts_text = ""
     else:
+        # prompts_files = ["input_prompt.txt","rules.txt","output_prompt.txt"]
+        prompts_files[0],prompts_files[1],prompts_files[2] = prompts_files[2],prompts_files[0],prompts_files[1]
         # pf = random.choice(prompts_files)
         prompts_texts = [pf.read_text(encoding="utf-8").strip() for pf in prompts_files if pf.stat().st_size > 0]
         # prompts_text = pf.read_text(encoding="utf-8")
-        prompts_text = [""+ x + "\n" for x in prompts_texts if x][-1]
+        prompts_text = "\n".join(prompts_texts)
+
     # pick a random image from domain/data/*
     data_dir = domain_path / "data"
     image_files = [p for p in data_dir.iterdir() if p.is_file() and p.suffix.lower() in [".png",".jpg",".jpeg",".gif"]]
-    if not image_files:
-        image_url = ""
-    else:
-        img = random.choice(image_files)
-        # we will serve under /questions/<domain>/<filename>
-        image_url = f"/questions/{domain}/{img.name}"
-    return {"domain": domain, "prompts": prompts_text, "image": image_url}
+    # if not image_files:
+    #     image_url = ""
+    # else:
+    #     img = random.choice(image_files)
+    #     # we will serve under /questions/<domain>/<filename>
+    #     image_url = f"/questions/{domain}/{img.name}"
+    
+    pairs = {}
+    for f in image_files:
+        fname = f.name
+        if fname.startswith("first") and fname[5:-4].isdigit():
+            num = fname[5:-4]
+            second_name = f"second{num}.png"
+            if (Path(data_dir) / second_name).exists():
+                    pairs[num] = (fname, second_name)
+
+    if pairs:  # if pairs exist, pick one pair
+        num, (img1, img2) = random.choice(list(pairs.items()))
+        q = {
+            "domain": domain,
+            "prompts": prompts_text,
+            "image_pair": [
+                f"/questions/{domain}/{img1}",
+                f"/questions/{domain}/{img2}"
+            ]
+        }
+    else:  # fall back to single-image case
+        img_file = random.choice(image_files) if image_files else None
+        q = {
+            "domain": domain,
+            "prompts": prompts_text,
+            "image": f"/questions/{domain}/{img_file}" if img_file else None
+        }
+    return q
+    # return {"domain": domain, "prompts": prompts_text, "image": image_url}
 
 @app.route("/")
 def index():

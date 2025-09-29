@@ -27,7 +27,12 @@
     <div id="questionArea" class="card hidden">
       <div id="progress">Question <span id="qnum">1</span> / 30</div>
       <div id="promptText"></div>
-      <img id="qimg" src="" alt="question image" style="max-width:400px; display:block; margin:10px 0;">
+      <!-- <img id="qimg" src="" alt="question image" style="max-width:400px; display:block; margin:10px 0;"> -->
+      <div id="image-container" style="display:none; gap:10px; margin-top:10px;">
+        <img id="question-image" src="" alt="Question image" style="max-width:400px; border:2px solid #000;">
+        <div id="question-image-pair" style="display:flex; gap:10px;"></div>
+      </div>
+      
       <textarea id="answer" rows="4" cols="60" placeholder="Type your answer here (plain text)"></textarea><br>
       <button id="prevBtn">Previous</button>
       <button id="nextBtn">Next</button>

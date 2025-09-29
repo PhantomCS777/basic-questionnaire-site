@@ -15,7 +15,7 @@ How to run
    source venv/bin/activate
    pip install -r requirements.txt
    ```
-2. Run the app:
+2. Run the app (comment or uncomment for debug or production mode and change that in app.py as well):
    ```bash
    ./run.sh
    ```
@@ -23,6 +23,6 @@ How to run
 
 Replacing with your question bank
 - Replace the `sample_questions` directory with your own directory that uses the same layout:
-  - sample_questions/<domain_i>/prompt/*.txt
+  - sample_questions/<domain_i>/prompts/*.txt
   - sample_questions/<domain_i>/data/*.png (or .jpg/.jpeg/.gif)
 - The app will read domains automatically.

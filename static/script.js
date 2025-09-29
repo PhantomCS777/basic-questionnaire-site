@@ -22,12 +22,38 @@ function showQuestion(i){
   current = i;
   const q = questions[i];
   document.getElementById("promptText").innerText = q.prompts || "(no prompt)";
-  if(q.image){
-    document.getElementById("qimg").src = q.image;
-    document.getElementById("qimg").style.display = "block";
-  } else {
-    document.getElementById("qimg").style.display = "none";
-  }
+  // if(q.image){
+  //   document.getElementById("qimg").src = q.image;
+  //   document.getElementById("qimg").style.display = "block";
+  // } else {
+  //   document.getElementById("qimg").style.display = "none";
+  // }
+
+  const imageContainer = document.getElementById("image-container");
+const img = document.getElementById("question-image");
+const pairDiv = document.getElementById("question-image-pair");
+
+if (q.image) {
+    imageContainer.style.display = "block";
+    img.style.display = "block";
+    img.src = q.image;
+    pairDiv.innerHTML = "";
+} else if (q.image_pair) {
+    imageContainer.style.display = "block";
+    img.style.display = "none";
+    pairDiv.innerHTML = "";
+    q.image_pair.forEach(url => {
+        const im = document.createElement("img");
+        im.src = url;
+        im.style.maxWidth = "300px";
+        im.style.border = "2px solid #000";
+        pairDiv.appendChild(im);
+    });
+} else {
+    imageContainer.style.display = "none";
+}
+
+
   document.getElementById("answer").value = answers[i] || "";
   document.getElementById("qnum").innerText = (i+1);
   // toggle buttons
