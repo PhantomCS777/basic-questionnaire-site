@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Questionnaire</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Study Questionnaire</h1>
+    <div id="userinfo" class="card">
+      <h2>Participant information</h2>
+      <label>Name: <input id="name"></label><br>
+      <label>Entry number: <input id="entry"></label><br>
+      <label>Gender:
+        <select id="gender">
+          <option value="">--select--</option>
+          <option>Male</option>
+          <option>Female</option>
+          <option>Other</option>
+          <option>Prefer not to say</option>
+        </select>
+      </label><br>
+      <button id="startBtn">Start questionnaire</button>
+    </div>
+
+    <div id="questionArea" class="card hidden">
+      <div id="progress">Question <span id="qnum">1</span> / 30</div>
+      <div id="promptText"></div>
+      <img id="qimg" src="" alt="question image" style="max-width:400px; display:block; margin:10px 0;">
+      <textarea id="answer" rows="4" cols="60" placeholder="Type your answer here (plain text)"></textarea><br>
+      <button id="prevBtn">Previous</button>
+      <button id="nextBtn">Next</button>
+      <button id="submitBtn" class="hidden">Submit</button>
+    </div>
+
+    <div id="thanks" class="card hidden">
+      <h2>Thank you!</h2>
+      <div id="result"></div>
+    </div>
+  </div>
+
+<script src="/static/script.js"></script>
+</body>
+</html>
