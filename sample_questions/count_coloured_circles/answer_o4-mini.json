@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "1.png",
+    "num_objects": 1,
+    "red_circle": 1,
+    "gpt_response": "There is 1 red circle in the image.  \nCOUNT:1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "2.png",
+    "num_objects": 1,
+    "red_circle": 1,
+    "gpt_response": "The image contains 1 red circle.  \nCOUNT:1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "3.png",
+    "num_objects": 1,
+    "red_circle": 1,
+    "gpt_response": "I see one red circle in the image.  \nCOUNT:1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "4.png",
+    "num_objects": 1,
+    "red_circle": 1,
+    "gpt_response": "I see one red circle in the image.  \nCOUNT:1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "5.png",
+    "num_objects": 1,
+    "red_circle": 1,
+    "gpt_response": "I see one red circle in the image.  \nCOUNT:1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "6.png",
+    "num_objects": 1,
+    "red_circle": 1,
+    "gpt_response": "COUNT:1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "7.png",
+    "num_objects": 1,
+    "red_circle": 1,
+    "gpt_response": "I can see one red circle in the image.  \nCOUNT:1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "8.png",
+    "num_objects": 1,
+    "red_circle": 1,
+    "gpt_response": "There is 1 red circle in the image.  \nCOUNT:1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "9.png",
+    "num_objects": 1,
+    "red_circle": 1,
+    "gpt_response": "I see one red circle in the image.  \nCOUNT:1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "10.png",
+    "num_objects": 1,
+    "red_circle": 1,
+    "gpt_response": "There is 1 red circle in the image.  \nCOUNT:1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "11.png",
+    "num_objects": 2,
+    "red_circle": 2,
+    "gpt_response": "There are 2 red circles in the image.  \nCOUNT:2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "12.png",
+    "num_objects": 2,
+    "red_circle": 2,
+    "gpt_response": "There are two red circles in the image.  \nCOUNT:2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "13.png",
+    "num_objects": 2,
+    "red_circle": 2,
+    "gpt_response": "There are two red circles in the image.  \nCOUNT:2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "14.png",
+    "num_objects": 2,
+    "red_circle": 2,
+    "gpt_response": "There are 2 red circles.  \nCOUNT:2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "15.png",
+    "num_objects": 2,
+    "red_circle": 2,
+    "gpt_response": "There are two red circles in the image.\nCOUNT:2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "16.png",
+    "num_objects": 2,
+    "red_circle": 2,
+    "gpt_response": "I see two red circles in the image: one large red circle near the top left and one smaller red circle near the bottom left.  \nCOUNT:2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "17.png",
+    "num_objects": 2,
+    "red_circle": 2,
+    "gpt_response": "I counted two red circles in the image.  \nCOUNT:2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "18.png",
+    "num_objects": 2,
+    "red_circle": 2,
+    "gpt_response": "There are 2 red circles in the image.  \nCOUNT:2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "19.png",
+    "num_objects": 2,
+    "red_circle": 2,
+    "gpt_response": "There are 2 red circles in the image.  \nCOUNT:2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "20.png",
+    "num_objects": 2,
+    "red_circle": 2,
+    "gpt_response": "There are 2 red circles in the image.  \nCOUNT:2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "21.png",
+    "num_objects": 3,
+    "red_circle": 3,
+    "gpt_response": "There are 3 red circles in the image.  \nCOUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "22.png",
+    "num_objects": 3,
+    "red_circle": 3,
+    "gpt_response": "I counted three red circles in the image.  \nCOUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "23.png",
+    "num_objects": 3,
+    "red_circle": 3,
+    "gpt_response": "The image contains 3 red circles.  \nCOUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "24.png",
+    "num_objects": 3,
+    "red_circle": 3,
+    "gpt_response": "There are 3 red circles in the image.  \nCOUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "25.png",
+    "num_objects": 3,
+    "red_circle": 3,
+    "gpt_response": "There are 3 red circles in the image.  \nCOUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "26.png",
+    "num_objects": 3,
+    "red_circle": 3,
+    "gpt_response": "There are 3 red circles in the image.  \nCOUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "27.png",
+    "num_objects": 3,
+    "red_circle": 3,
+    "gpt_response": "I can see three red circles in the image.\n\nCOUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "28.png",
+    "num_objects": 3,
+    "red_circle": 3,
+    "gpt_response": "There are three red circles in the image.  \nCOUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "29.png",
+    "num_objects": 3,
+    "red_circle": 3,
+    "gpt_response": "The image contains 3 red circles.  \nCOUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "30.png",
+    "num_objects": 3,
+    "red_circle": 3,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "31.png",
+    "num_objects": 4,
+    "red_circle": 4,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "32.png",
+    "num_objects": 4,
+    "red_circle": 4,
+    "gpt_response": "There are 4 red circles in the image.\nCOUNT:4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "33.png",
+    "num_objects": 4,
+    "red_circle": 4,
+    "gpt_response": "The image contains 4 red circles.  \nCOUNT:4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "34.png",
+    "num_objects": 4,
+    "red_circle": 4,
+    "gpt_response": "After reviewing the image, there are four red circles in total.  \nCOUNT:4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "35.png",
+    "num_objects": 4,
+    "red_circle": 4,
+    "gpt_response": "There are 4 red circles in the image.\nCOUNT:4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "36.png",
+    "num_objects": 4,
+    "red_circle": 4,
+    "gpt_response": "I see four red circles in the image.  \nCOUNT:4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "37.png",
+    "num_objects": 4,
+    "red_circle": 4,
+    "gpt_response": "There are four red circles in the image.  \nCOUNT:4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "38.png",
+    "num_objects": 4,
+    "red_circle": 4,
+    "gpt_response": "COUNT:4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "39.png",
+    "num_objects": 4,
+    "red_circle": 4,
+    "gpt_response": "There are four red circles in the image.  \nCOUNT:4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "40.png",
+    "num_objects": 4,
+    "red_circle": 4,
+    "gpt_response": "The image contains four red circles.  \nCOUNT:4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "41.png",
+    "num_objects": 5,
+    "red_circle": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "42.png",
+    "num_objects": 5,
+    "red_circle": 5,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "43.png",
+    "num_objects": 5,
+    "red_circle": 5,
+    "gpt_response": "There are 5 red circles.  \nCOUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "44.png",
+    "num_objects": 5,
+    "red_circle": 5,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "45.png",
+    "num_objects": 5,
+    "red_circle": 5,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "46.png",
+    "num_objects": 5,
+    "red_circle": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "47.png",
+    "num_objects": 5,
+    "red_circle": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "48.png",
+    "num_objects": 5,
+    "red_circle": 5,
+    "gpt_response": "There are 5 red circles in the image.  \nCOUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "49.png",
+    "num_objects": 5,
+    "red_circle": 5,
+    "gpt_response": "I count five red circles in the image.  \nCOUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "50.png",
+    "num_objects": 5,
+    "red_circle": 5,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "51.png",
+    "num_objects": 6,
+    "red_circle": 6,
+    "gpt_response": "Here\u2019s the breakdown of the red circles:\n\n- Top-left cluster: 3  \n- Top-right: 1  \n- Bottom row: 2  \n\nCOUNT:6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "52.png",
+    "num_objects": 6,
+    "red_circle": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "53.png",
+    "num_objects": 6,
+    "red_circle": 6,
+    "gpt_response": "I counted the red circles in the image and found six of them.  \nCOUNT:6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "54.png",
+    "num_objects": 6,
+    "red_circle": 6,
+    "gpt_response": "I count six red circles in the image.  \nCOUNT:6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "55.png",
+    "num_objects": 6,
+    "red_circle": 6,
+    "gpt_response": "COUNT:6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "56.png",
+    "num_objects": 6,
+    "red_circle": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "57.png",
+    "num_objects": 6,
+    "red_circle": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "58.png",
+    "num_objects": 6,
+    "red_circle": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "59.png",
+    "num_objects": 6,
+    "red_circle": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "60.png",
+    "num_objects": 6,
+    "red_circle": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "61.png",
+    "num_objects": 7,
+    "red_circle": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "62.png",
+    "num_objects": 7,
+    "red_circle": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "63.png",
+    "num_objects": 7,
+    "red_circle": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "64.png",
+    "num_objects": 7,
+    "red_circle": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "65.png",
+    "num_objects": 7,
+    "red_circle": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "66.png",
+    "num_objects": 7,
+    "red_circle": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "67.png",
+    "num_objects": 7,
+    "red_circle": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "68.png",
+    "num_objects": 7,
+    "red_circle": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "69.png",
+    "num_objects": 7,
+    "red_circle": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "70.png",
+    "num_objects": 7,
+    "red_circle": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "71.png",
+    "num_objects": 8,
+    "red_circle": 8,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "72.png",
+    "num_objects": 8,
+    "red_circle": 8,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "73.png",
+    "num_objects": 8,
+    "red_circle": 8,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "74.png",
+    "num_objects": 8,
+    "red_circle": 8,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "75.png",
+    "num_objects": 8,
+    "red_circle": 8,
+    "gpt_response": "There are eight red circles in the image.  \nCOUNT:8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "76.png",
+    "num_objects": 8,
+    "red_circle": 8,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "77.png",
+    "num_objects": 8,
+    "red_circle": 8,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "78.png",
+    "num_objects": 8,
+    "red_circle": 8,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "79.png",
+    "num_objects": 8,
+    "red_circle": 8,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "80.png",
+    "num_objects": 8,
+    "red_circle": 8,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "81.png",
+    "num_objects": 9,
+    "red_circle": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "82.png",
+    "num_objects": 9,
+    "red_circle": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "83.png",
+    "num_objects": 9,
+    "red_circle": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "84.png",
+    "num_objects": 9,
+    "red_circle": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "85.png",
+    "num_objects": 9,
+    "red_circle": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "86.png",
+    "num_objects": 9,
+    "red_circle": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "87.png",
+    "num_objects": 9,
+    "red_circle": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "88.png",
+    "num_objects": 9,
+    "red_circle": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "89.png",
+    "num_objects": 9,
+    "red_circle": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "90.png",
+    "num_objects": 9,
+    "red_circle": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "91.png",
+    "num_objects": 10,
+    "red_circle": 10,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "92.png",
+    "num_objects": 10,
+    "red_circle": 10,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "93.png",
+    "num_objects": 10,
+    "red_circle": 10,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "94.png",
+    "num_objects": 10,
+    "red_circle": 10,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "95.png",
+    "num_objects": 10,
+    "red_circle": 10,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "96.png",
+    "num_objects": 10,
+    "red_circle": 10,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "97.png",
+    "num_objects": 10,
+    "red_circle": 10,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "98.png",
+    "num_objects": 10,
+    "red_circle": 10,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "99.png",
+    "num_objects": 10,
+    "red_circle": 10,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "100.png",
+    "num_objects": 10,
+    "red_circle": 10,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "101.png",
+    "num_objects": 11,
+    "red_circle": 11,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "102.png",
+    "num_objects": 11,
+    "red_circle": 11,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "103.png",
+    "num_objects": 11,
+    "red_circle": 11,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "104.png",
+    "num_objects": 11,
+    "red_circle": 11,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "105.png",
+    "num_objects": 11,
+    "red_circle": 11,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "106.png",
+    "num_objects": 11,
+    "red_circle": 11,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "107.png",
+    "num_objects": 11,
+    "red_circle": 11,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "108.png",
+    "num_objects": 11,
+    "red_circle": 11,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "109.png",
+    "num_objects": 11,
+    "red_circle": 11,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "110.png",
+    "num_objects": 11,
+    "red_circle": 11,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "111.png",
+    "num_objects": 12,
+    "red_circle": 12,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "112.png",
+    "num_objects": 12,
+    "red_circle": 12,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "113.png",
+    "num_objects": 12,
+    "red_circle": 12,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "114.png",
+    "num_objects": 12,
+    "red_circle": 12,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "115.png",
+    "num_objects": 12,
+    "red_circle": 12,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "116.png",
+    "num_objects": 12,
+    "red_circle": 12,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "117.png",
+    "num_objects": 12,
+    "red_circle": 12,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "118.png",
+    "num_objects": 12,
+    "red_circle": 12,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "119.png",
+    "num_objects": 12,
+    "red_circle": 12,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "120.png",
+    "num_objects": 12,
+    "red_circle": 12,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "121.png",
+    "num_objects": 13,
+    "red_circle": 13,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "122.png",
+    "num_objects": 13,
+    "red_circle": 13,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "123.png",
+    "num_objects": 13,
+    "red_circle": 13,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "124.png",
+    "num_objects": 13,
+    "red_circle": 13,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "125.png",
+    "num_objects": 13,
+    "red_circle": 13,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "126.png",
+    "num_objects": 13,
+    "red_circle": 13,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "127.png",
+    "num_objects": 13,
+    "red_circle": 13,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "128.png",
+    "num_objects": 13,
+    "red_circle": 13,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "129.png",
+    "num_objects": 13,
+    "red_circle": 13,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "130.png",
+    "num_objects": 13,
+    "red_circle": 13,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "131.png",
+    "num_objects": 14,
+    "red_circle": 14,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "132.png",
+    "num_objects": 14,
+    "red_circle": 14,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "133.png",
+    "num_objects": 14,
+    "red_circle": 14,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "134.png",
+    "num_objects": 14,
+    "red_circle": 14,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "135.png",
+    "num_objects": 14,
+    "red_circle": 14,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "136.png",
+    "num_objects": 14,
+    "red_circle": 14,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "137.png",
+    "num_objects": 14,
+    "red_circle": 14,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "138.png",
+    "num_objects": 14,
+    "red_circle": 14,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "139.png",
+    "num_objects": 14,
+    "red_circle": 14,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "140.png",
+    "num_objects": 14,
+    "red_circle": 14,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "141.png",
+    "num_objects": 15,
+    "red_circle": 15,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "142.png",
+    "num_objects": 15,
+    "red_circle": 15,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "143.png",
+    "num_objects": 15,
+    "red_circle": 15,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "144.png",
+    "num_objects": 15,
+    "red_circle": 15,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "145.png",
+    "num_objects": 15,
+    "red_circle": 15,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "146.png",
+    "num_objects": 15,
+    "red_circle": 15,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "147.png",
+    "num_objects": 15,
+    "red_circle": 15,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "148.png",
+    "num_objects": 15,
+    "red_circle": 15,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "149.png",
+    "num_objects": 15,
+    "red_circle": 15,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "150.png",
+    "num_objects": 15,
+    "red_circle": 15,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "151.png",
+    "num_objects": 16,
+    "red_circle": 16,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "152.png",
+    "num_objects": 16,
+    "red_circle": 16,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "153.png",
+    "num_objects": 16,
+    "red_circle": 16,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "154.png",
+    "num_objects": 16,
+    "red_circle": 16,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "155.png",
+    "num_objects": 16,
+    "red_circle": 16,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "156.png",
+    "num_objects": 16,
+    "red_circle": 16,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "157.png",
+    "num_objects": 16,
+    "red_circle": 16,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "158.png",
+    "num_objects": 16,
+    "red_circle": 16,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "159.png",
+    "num_objects": 16,
+    "red_circle": 16,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "160.png",
+    "num_objects": 16,
+    "red_circle": 16,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "161.png",
+    "num_objects": 17,
+    "red_circle": 17,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "162.png",
+    "num_objects": 17,
+    "red_circle": 17,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "163.png",
+    "num_objects": 17,
+    "red_circle": 17,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "164.png",
+    "num_objects": 17,
+    "red_circle": 17,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "165.png",
+    "num_objects": 17,
+    "red_circle": 17,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "166.png",
+    "num_objects": 17,
+    "red_circle": 17,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "167.png",
+    "num_objects": 17,
+    "red_circle": 17,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "168.png",
+    "num_objects": 17,
+    "red_circle": 17,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "169.png",
+    "num_objects": 17,
+    "red_circle": 17,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "170.png",
+    "num_objects": 17,
+    "red_circle": 17,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "171.png",
+    "num_objects": 18,
+    "red_circle": 18,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "172.png",
+    "num_objects": 18,
+    "red_circle": 18,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "173.png",
+    "num_objects": 18,
+    "red_circle": 18,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "174.png",
+    "num_objects": 18,
+    "red_circle": 18,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "175.png",
+    "num_objects": 18,
+    "red_circle": 18,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "176.png",
+    "num_objects": 18,
+    "red_circle": 18,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "177.png",
+    "num_objects": 18,
+    "red_circle": 18,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "178.png",
+    "num_objects": 18,
+    "red_circle": 18,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "179.png",
+    "num_objects": 18,
+    "red_circle": 18,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "180.png",
+    "num_objects": 18,
+    "red_circle": 18,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "181.png",
+    "num_objects": 19,
+    "red_circle": 19,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "182.png",
+    "num_objects": 19,
+    "red_circle": 19,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "183.png",
+    "num_objects": 19,
+    "red_circle": 19,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "184.png",
+    "num_objects": 19,
+    "red_circle": 19,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "185.png",
+    "num_objects": 19,
+    "red_circle": 19,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "186.png",
+    "num_objects": 19,
+    "red_circle": 19,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "187.png",
+    "num_objects": 19,
+    "red_circle": 19,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "188.png",
+    "num_objects": 19,
+    "red_circle": 19,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "189.png",
+    "num_objects": 19,
+    "red_circle": 19,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "190.png",
+    "num_objects": 19,
+    "red_circle": 19,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "191.png",
+    "num_objects": 20,
+    "red_circle": 20,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "192.png",
+    "num_objects": 20,
+    "red_circle": 20,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "193.png",
+    "num_objects": 20,
+    "red_circle": 20,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "194.png",
+    "num_objects": 20,
+    "red_circle": 20,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "195.png",
+    "num_objects": 20,
+    "red_circle": 20,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "196.png",
+    "num_objects": 20,
+    "red_circle": 20,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "197.png",
+    "num_objects": 20,
+    "red_circle": 20,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "198.png",
+    "num_objects": 20,
+    "red_circle": 20,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "199.png",
+    "num_objects": 20,
+    "red_circle": 20,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "200.png",
+    "num_objects": 20,
+    "red_circle": 20,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  }
+]

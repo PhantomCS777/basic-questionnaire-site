@@ -1,0 +1,2 @@
+- This is an image with several rows of different shapes where each row is above a horizontal line.
+- Each row contains a coloured shape.

@@ -1,0 +1,2166 @@
+[
+  {
+    "id": "1.png",
+    "circles": 0,
+    "squares": 1,
+    "triangles": 0,
+    "gpt_response": "I see one square and no circles or triangles.\n\nCIRCLES:0 TRIANGLES:0 SQUARES:1",
+    "Output": {
+      "circles": 0,
+      "triangles": 0,
+      "squares": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "2.png",
+    "circles": 0,
+    "squares": 1,
+    "triangles": 0,
+    "gpt_response": "I see one black square and no circles or triangles.\n\nCIRCLES:0 TRIANGLES:0 SQUARES:1",
+    "Output": {
+      "circles": 0,
+      "triangles": 0,
+      "squares": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "3.png",
+    "circles": 0,
+    "squares": 1,
+    "triangles": 0,
+    "gpt_response": "The image contains no circles or triangles and exactly one square.\n\nCIRCLES:0 TRIANGLES:0 SQUARES:1",
+    "Output": {
+      "circles": 0,
+      "triangles": 0,
+      "squares": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "4.png",
+    "circles": 0,
+    "squares": 1,
+    "triangles": 0,
+    "gpt_response": "I see the following shapes in the image:\n\u2022 Circles: 2 (one large outlined circle and one smaller filled circle)  \n\u2022 Triangles: 1 (one outlined right triangle beneath the circles)  \n\u2022 Squares: 2 (one outlined square beneath the triangle, plus one filled square on the right)\n\nCIRCLES:2 TRIANGLES:1 SQUARES:2",
+    "Output": {
+      "circles": 2,
+      "triangles": 1,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "5.png",
+    "circles": 0,
+    "squares": 0,
+    "triangles": 1,
+    "gpt_response": "I see:\n- 2 circles (one large on the left, one small above the square on the right)\n- 1 triangle (in the middle)\n- 1 square (on the right)\n\nCIRCLES:2 TRIANGLES:1 SQUARES:1",
+    "Output": {
+      "circles": 2,
+      "triangles": 1,
+      "squares": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "6.png",
+    "circles": 0,
+    "squares": 0,
+    "triangles": 1,
+    "gpt_response": "There is one black triangle in the image.  \nThere are no circles or squares.  \n\nCIRCLES:0 TRIANGLES:1 SQUARES:0",
+    "Output": {
+      "circles": 0,
+      "triangles": 1,
+      "squares": 0
+    },
+    "ERROR": null
+  },
+  {
+    "id": "7.png",
+    "circles": 1,
+    "squares": 0,
+    "triangles": 0,
+    "gpt_response": "CIRCLES:1 TRIANGLES:0 SQUARES:0",
+    "Output": {
+      "circles": 1,
+      "triangles": 0,
+      "squares": 0
+    },
+    "ERROR": null
+  },
+  {
+    "id": "8.png",
+    "circles": 1,
+    "squares": 0,
+    "triangles": 0,
+    "gpt_response": "The image contains:\n\u2022 1 circle  \n\u2022 0 triangles  \n\u2022 0 squares  \n\nCIRCLES:1 TRIANGLES:0 SQUARES:0",
+    "Output": {
+      "circles": 1,
+      "triangles": 0,
+      "squares": 0
+    },
+    "ERROR": null
+  },
+  {
+    "id": "9.png",
+    "circles": 0,
+    "squares": 0,
+    "triangles": 1,
+    "gpt_response": "I see one triangle and no circles or squares.\n\nCIRCLES:0 TRIANGLES:1 SQUARES:0",
+    "Output": {
+      "circles": 0,
+      "triangles": 1,
+      "squares": 0
+    },
+    "ERROR": null
+  },
+  {
+    "id": "10.png",
+    "circles": 0,
+    "squares": 1,
+    "triangles": 0,
+    "gpt_response": "Here\u2019s the count by shape:\n\nSquares  \n- 1 large black square on the left  \n- 2 smaller black squares beneath it  \nTotal squares: 3  \n\nCircles  \n- 1 large hollow circle (ring)  \n- 1 small filled circle at its center  \n- 2 small separate filled circles (one above, one below)  \n- 4 small filled circles inside the subdivided triangle  \nTotal circles: 8  \n\nTriangles  \n- 1 large outer triangle on the right  \n- 4 smaller triangles formed by its internal lines  \nTotal triangles: 5  \n\nCIRCLES:8 TRIANGLES:5 SQUARES:3",
+    "Output": {
+      "circles": 8,
+      "triangles": 5,
+      "squares": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "11.png",
+    "circles": 0,
+    "squares": 0,
+    "triangles": 2,
+    "gpt_response": "I see two black triangles and no circles or squares in the image.\n\nCIRCLES:0 TRIANGLES:2 SQUARES:0",
+    "Output": {
+      "circles": 0,
+      "triangles": 2,
+      "squares": 0
+    },
+    "ERROR": null
+  },
+  {
+    "id": "12.png",
+    "circles": 0,
+    "squares": 0,
+    "triangles": 2,
+    "gpt_response": "- The image contains two triangles.\n- No circles are present.\n- No squares are present.\n\nCIRCLES:0 TRIANGLES:2 SQUARES:0",
+    "Output": {
+      "circles": 0,
+      "triangles": 2,
+      "squares": 0
+    },
+    "ERROR": null
+  },
+  {
+    "id": "13.png",
+    "circles": 1,
+    "squares": 1,
+    "triangles": 0,
+    "gpt_response": "There is one filled circle and one filled square in the image; no triangles are present.\n\nCIRCLES:1 TRIANGLES:0 SQUARES:1",
+    "Output": {
+      "circles": 1,
+      "triangles": 0,
+      "squares": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "14.png",
+    "circles": 0,
+    "squares": 0,
+    "triangles": 2,
+    "gpt_response": "CIRCLES:0 TRIANGLES:2 SQUARES:0",
+    "Output": {
+      "circles": 0,
+      "triangles": 2,
+      "squares": 0
+    },
+    "ERROR": null
+  },
+  {
+    "id": "15.png",
+    "circles": 1,
+    "squares": 1,
+    "triangles": 0,
+    "gpt_response": "CIRCLES:1 TRIANGLES:0 SQUARES:1",
+    "Output": {
+      "circles": 1,
+      "triangles": 0,
+      "squares": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "16.png",
+    "circles": 1,
+    "squares": 1,
+    "triangles": 0,
+    "gpt_response": "I see:\n- Circles: 1\n- Triangles: 0\n- Squares: 1\n\nCIRCLES:1 TRIANGLES:0 SQUARES:1",
+    "Output": {
+      "circles": 1,
+      "triangles": 0,
+      "squares": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "17.png",
+    "circles": 0,
+    "squares": 0,
+    "triangles": 2,
+    "gpt_response": "Number of circles: 0  \nNumber of triangles: 2  \nNumber of squares: 0  \n\nCIRCLES:0 TRIANGLES:2 SQUARES:0",
+    "Output": {
+      "circles": 0,
+      "triangles": 2,
+      "squares": 0
+    },
+    "ERROR": null
+  },
+  {
+    "id": "18.png",
+    "circles": 1,
+    "squares": 0,
+    "triangles": 1,
+    "gpt_response": "I can see:\n\n- 1 circle  \n- 1 triangle  \n- 0 squares  \n\nCIRCLES:1 TRIANGLES:1 SQUARES:0",
+    "Output": {
+      "circles": 1,
+      "triangles": 1,
+      "squares": 0
+    },
+    "ERROR": null
+  },
+  {
+    "id": "19.png",
+    "circles": 1,
+    "squares": 0,
+    "triangles": 1,
+    "gpt_response": "I can see the following shapes in the image:\n\n- 1 circle (near the top right)  \n- 1 triangle (near the bottom center)  \n- 0 squares  \n\nCIRCLES:1 TRIANGLES:1 SQUARES:0",
+    "Output": {
+      "circles": 1,
+      "triangles": 1,
+      "squares": 0
+    },
+    "ERROR": null
+  },
+  {
+    "id": "20.png",
+    "circles": 0,
+    "squares": 2,
+    "triangles": 0,
+    "gpt_response": "I see 2 squares, and no circles or triangles.\n\nCIRCLES:0 TRIANGLES:0 SQUARES:2",
+    "Output": {
+      "circles": 0,
+      "triangles": 0,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "21.png",
+    "circles": 3,
+    "squares": 0,
+    "triangles": 0,
+    "gpt_response": "There are 3 circles, 0 triangles, and 0 squares.\n\nCIRCLES:3 TRIANGLES:0 SQUARES:0",
+    "Output": {
+      "circles": 3,
+      "triangles": 0,
+      "squares": 0
+    },
+    "ERROR": null
+  },
+  {
+    "id": "22.png",
+    "circles": 1,
+    "squares": 0,
+    "triangles": 2,
+    "gpt_response": "I see two black triangles and one black circle. There are no squares in the image.  \nCIRCLES:1 TRIANGLES:2 SQUARES:0",
+    "Output": {
+      "circles": 1,
+      "triangles": 2,
+      "squares": 0
+    },
+    "ERROR": null
+  },
+  {
+    "id": "23.png",
+    "circles": 1,
+    "squares": 2,
+    "triangles": 0,
+    "gpt_response": "CIRCLES:1 TRIANGLES:0 SQUARES:2",
+    "Output": {
+      "circles": 1,
+      "triangles": 0,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "24.png",
+    "circles": 1,
+    "squares": 1,
+    "triangles": 1,
+    "gpt_response": "CIRCLES:1 TRIANGLES:1 SQUARES:1",
+    "Output": {
+      "circles": 1,
+      "triangles": 1,
+      "squares": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "25.png",
+    "circles": 1,
+    "squares": 1,
+    "triangles": 1,
+    "gpt_response": "There is 1 circle, 1 triangle, and 1 square in the image.\n\nCIRCLES:1 TRIANGLES:1 SQUARES:1",
+    "Output": {
+      "circles": 1,
+      "triangles": 1,
+      "squares": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "26.png",
+    "circles": 2,
+    "squares": 1,
+    "triangles": 0,
+    "gpt_response": "I see the following shapes in the image:\n\n\u2022 Squares: 1  \n\u2022 Circles: 2  \n\u2022 Triangles: 0  \n\nCIRCLES:2 TRIANGLES:0 SQUARES:1",
+    "Output": {
+      "circles": 2,
+      "triangles": 0,
+      "squares": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "27.png",
+    "circles": 3,
+    "squares": 0,
+    "triangles": 0,
+    "gpt_response": "I see three circles, no triangles, and no squares.  \nCIRCLES:3 TRIANGLES:0 SQUARES:0",
+    "Output": {
+      "circles": 3,
+      "triangles": 0,
+      "squares": 0
+    },
+    "ERROR": null
+  },
+  {
+    "id": "28.png",
+    "circles": 3,
+    "squares": 0,
+    "triangles": 0,
+    "gpt_response": "Here are the detected shapes in the image:\n\n- Circles: 3  \n- Triangles: 0  \n- Squares: 0  \n\nCIRCLES:3 TRIANGLES:0 SQUARES:0",
+    "Output": {
+      "circles": 3,
+      "triangles": 0,
+      "squares": 0
+    },
+    "ERROR": null
+  },
+  {
+    "id": "29.png",
+    "circles": 2,
+    "squares": 1,
+    "triangles": 0,
+    "gpt_response": "I can see the following shapes in the image:\n\n\u2022 Two circles  \n\u2022 Zero triangles  \n\u2022 One square  \n\nCIRCLES:2 TRIANGLES:0 SQUARES:1",
+    "Output": {
+      "circles": 2,
+      "triangles": 0,
+      "squares": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "30.png",
+    "circles": 2,
+    "squares": 0,
+    "triangles": 1,
+    "gpt_response": "The image contains two circles and one triangle. There are no squares.  \nCIRCLES:2 TRIANGLES:1 SQUARES:0",
+    "Output": {
+      "circles": 2,
+      "triangles": 1,
+      "squares": 0
+    },
+    "ERROR": null
+  },
+  {
+    "id": "31.png",
+    "circles": 0,
+    "squares": 3,
+    "triangles": 1,
+    "gpt_response": "There are no circles, one triangle, and three squares in the image.\n\nCIRCLES:0 TRIANGLES:1 SQUARES:3",
+    "Output": {
+      "circles": 0,
+      "triangles": 1,
+      "squares": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "32.png",
+    "circles": 0,
+    "squares": 1,
+    "triangles": 3,
+    "gpt_response": "I see one square and three triangles. There are no circles in the image.\n\nCIRCLES:0 TRIANGLES:3 SQUARES:1",
+    "Output": {
+      "circles": 0,
+      "triangles": 3,
+      "squares": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "33.png",
+    "circles": 0,
+    "squares": 2,
+    "triangles": 2,
+    "gpt_response": "I see two triangles (filled, pointing upward) and two squares (filled), and no circles.\n\nCIRCLES:0 TRIANGLES:2 SQUARES:2",
+    "Output": {
+      "circles": 0,
+      "triangles": 2,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "34.png",
+    "circles": 1,
+    "squares": 1,
+    "triangles": 2,
+    "gpt_response": "I can see the following shapes in the image:\n\n\u2022 Two black triangles (one larger, one smaller)  \n\u2022 One black circle  \n\u2022 One black square  \n\nCIRCLES:1 TRIANGLES:2 SQUARES:1",
+    "Output": {
+      "circles": 1,
+      "triangles": 2,
+      "squares": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "35.png",
+    "circles": 0,
+    "squares": 2,
+    "triangles": 2,
+    "gpt_response": "There are no circles in the image.  \nThere are two triangles in the image.  \nThere are two squares in the image.  \n\nCIRCLES:0 TRIANGLES:2 SQUARES:2",
+    "Output": {
+      "circles": 0,
+      "triangles": 2,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "36.png",
+    "circles": 2,
+    "squares": 2,
+    "triangles": 0,
+    "gpt_response": "I can identify the following shapes in the image:\n\n\u2022 Circles: 2  \n\u2022 Triangles: 0  \n\u2022 Squares: 2  \n\nCIRCLES:2 TRIANGLES:0 SQUARES:2",
+    "Output": {
+      "circles": 2,
+      "triangles": 0,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "37.png",
+    "circles": 1,
+    "squares": 1,
+    "triangles": 2,
+    "gpt_response": "I see 2 triangles, 1 square, and 1 circle.  \nCIRCLES:1 TRIANGLES:2 SQUARES:1",
+    "Output": {
+      "circles": 1,
+      "triangles": 2,
+      "squares": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "38.png",
+    "circles": 0,
+    "squares": 3,
+    "triangles": 1,
+    "gpt_response": "Circles: 0  \nTriangles: 1  \nSquares: 3  \n\nCIRCLES:0 TRIANGLES:1 SQUARES:3",
+    "Output": {
+      "circles": 0,
+      "triangles": 1,
+      "squares": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "39.png",
+    "circles": 0,
+    "squares": 2,
+    "triangles": 2,
+    "gpt_response": "I count the following shapes in the image:\n\n- Circles: 0  \n- Triangles: 2  \n- Squares: 2  \n\nCIRCLES:0 TRIANGLES:2 SQUARES:2",
+    "Output": {
+      "circles": 0,
+      "triangles": 2,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "40.png",
+    "circles": 1,
+    "squares": 2,
+    "triangles": 1,
+    "gpt_response": "I see:\n\u2022 Circles: 1  \n\u2022 Triangles: 1  \n\u2022 Squares: 2  \n\nCIRCLES:1 TRIANGLES:1 SQUARES:2",
+    "Output": {
+      "circles": 1,
+      "triangles": 1,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "41.png",
+    "circles": 2,
+    "squares": 1,
+    "triangles": 2,
+    "gpt_response": "Here\u2019s the count of each shape in the image:\n\n\u2022 Circles: 2  \n\u2022 Triangles: 2  \n\u2022 Squares: 1  \n\nCIRCLES:2 TRIANGLES:2 SQUARES:1",
+    "Output": {
+      "circles": 2,
+      "triangles": 2,
+      "squares": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "42.png",
+    "circles": 1,
+    "squares": 3,
+    "triangles": 1,
+    "gpt_response": "I see 1 circle, 1 triangle, and 3 squares.  \nCIRCLES:1 TRIANGLES:1 SQUARES:3",
+    "Output": {
+      "circles": 1,
+      "triangles": 1,
+      "squares": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "43.png",
+    "circles": 4,
+    "squares": 1,
+    "triangles": 0,
+    "gpt_response": "CIRCLES:4 TRIANGLES:0 SQUARES:1",
+    "Output": {
+      "circles": 4,
+      "triangles": 0,
+      "squares": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "44.png",
+    "circles": 0,
+    "squares": 0,
+    "triangles": 5,
+    "gpt_response": "I see no circles and no squares\u2014only triangles. There are five triangles in total.\n\nCIRCLES:0 TRIANGLES:5 SQUARES:0",
+    "Output": {
+      "circles": 0,
+      "triangles": 5,
+      "squares": 0
+    },
+    "ERROR": null
+  },
+  {
+    "id": "45.png",
+    "circles": 1,
+    "squares": 2,
+    "triangles": 2,
+    "gpt_response": "I see:\n\n- 1 circle (top center)  \n- 2 triangles (one left of the circle, one bottom right)  \n- 2 squares (one bottom left, one mid-right)  \n\nCIRCLES:1 TRIANGLES:2 SQUARES:2",
+    "Output": {
+      "circles": 1,
+      "triangles": 2,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "46.png",
+    "circles": 1,
+    "squares": 2,
+    "triangles": 2,
+    "gpt_response": "There is 1 circle, 2 triangles, and 2 squares.  \nCIRCLES:1 TRIANGLES:2 SQUARES:2",
+    "Output": {
+      "circles": 1,
+      "triangles": 2,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "47.png",
+    "circles": 2,
+    "squares": 1,
+    "triangles": 2,
+    "gpt_response": "Here\u2019s the count of each shape in the image:\n\n- Circles: 2  \n- Triangles: 2  \n- Squares: 1  \n\nCIRCLES:2 TRIANGLES:2 SQUARES:1",
+    "Output": {
+      "circles": 2,
+      "triangles": 2,
+      "squares": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "48.png",
+    "circles": 2,
+    "squares": 3,
+    "triangles": 0,
+    "gpt_response": "Circles: 2  \nTriangles: 0  \nSquares: 3  \n\nCIRCLES:2 TRIANGLES:0 SQUARES:3",
+    "Output": {
+      "circles": 2,
+      "triangles": 0,
+      "squares": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "49.png",
+    "circles": 3,
+    "squares": 2,
+    "triangles": 0,
+    "gpt_response": "I see:\n- 3 circles (filled)\n- 0 triangles\n- 2 squares (filled)\n\nCIRCLES:3 TRIANGLES:0 SQUARES:2",
+    "Output": {
+      "circles": 3,
+      "triangles": 0,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "50.png",
+    "circles": 1,
+    "squares": 0,
+    "triangles": 4,
+    "gpt_response": "There is 1 circle.  \nThere are 4 triangles.  \nThere are 0 squares.  \n\nCIRCLES:1 TRIANGLES:4 SQUARES:0",
+    "Output": {
+      "circles": 1,
+      "triangles": 4,
+      "squares": 0
+    },
+    "ERROR": null
+  },
+  {
+    "id": "51.png",
+    "circles": 1,
+    "squares": 1,
+    "triangles": 4,
+    "gpt_response": "I count the following shapes in the image:\n\n\u2022 Circles: 1  \n\u2022 Triangles: 4  \n\u2022 Squares: 1  \n\nCIRCLES:1 TRIANGLES:4 SQUARES:1",
+    "Output": {
+      "circles": 1,
+      "triangles": 4,
+      "squares": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "52.png",
+    "circles": 1,
+    "squares": 3,
+    "triangles": 2,
+    "gpt_response": "Here\u2019s the count of each shape in the image:\n\n\u2022 Circles: 1  \n\u2022 Triangles: 2  \n\u2022 Squares: 3  \n\nCIRCLES:1 TRIANGLES:2 SQUARES:3",
+    "Output": {
+      "circles": 1,
+      "triangles": 2,
+      "squares": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "53.png",
+    "circles": 2,
+    "squares": 2,
+    "triangles": 2,
+    "gpt_response": "I see:  \n- Squares: one large square at the top and one smaller square beneath it (total 2).  \n- Circles: two dots to the right of the lower square (one above the other) (total 2).  \n- Triangles: one below the lower square on the left and one on the far right (total 2).  \n\nCIRCLES:2 TRIANGLES:2 SQUARES:2",
+    "Output": {
+      "circles": 2,
+      "triangles": 2,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "54.png",
+    "circles": 1,
+    "squares": 3,
+    "triangles": 2,
+    "gpt_response": "The image contains the following shapes:\n\u2022 Circles: 1  \n\u2022 Triangles: 2  \n\u2022 Squares: 3  \n\nCIRCLES:1 TRIANGLES:2 SQUARES:3",
+    "Output": {
+      "circles": 1,
+      "triangles": 2,
+      "squares": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "55.png",
+    "circles": 2,
+    "squares": 3,
+    "triangles": 1,
+    "gpt_response": "Here\u2019s the count:\n\n- Circles: 2  \n- Triangles: 1  \n- Squares: 3  \n\nCIRCLES:2 TRIANGLES:1 SQUARES:3",
+    "Output": {
+      "circles": 2,
+      "triangles": 1,
+      "squares": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "56.png",
+    "circles": 2,
+    "squares": 1,
+    "triangles": 3,
+    "gpt_response": "I can see the following shapes in the image:\n\n- Circles: 2  \n- Triangles: 3  \n- Squares: 1  \n\nCIRCLES:2 TRIANGLES:3 SQUARES:1",
+    "Output": {
+      "circles": 2,
+      "triangles": 3,
+      "squares": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "57.png",
+    "circles": 2,
+    "squares": 2,
+    "triangles": 2,
+    "gpt_response": "Circles: 2  \nTriangles: 2  \nSquares: 2  \nCIRCLES:2 TRIANGLES:2 SQUARES:2",
+    "Output": {
+      "circles": 2,
+      "triangles": 2,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "58.png",
+    "circles": 2,
+    "squares": 2,
+    "triangles": 2,
+    "gpt_response": "Here\u2019s the count of each shape as observed:\n\n\u2022 Circles: 2  \n\u2022 Triangles: 2  \n\u2022 Squares: 2  \n\nCIRCLES:2 TRIANGLES:2 SQUARES:2",
+    "Output": {
+      "circles": 2,
+      "triangles": 2,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "59.png",
+    "circles": 1,
+    "squares": 3,
+    "triangles": 2,
+    "gpt_response": "I see one circle, two triangles, and three squares.\n\nCIRCLES:1 TRIANGLES:2 SQUARES:3",
+    "Output": {
+      "circles": 1,
+      "triangles": 2,
+      "squares": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "60.png",
+    "circles": 0,
+    "squares": 3,
+    "triangles": 3,
+    "gpt_response": "There are no circles in the image.  \nYou can see three triangles and three squares.  \n\nCIRCLES:0 TRIANGLES:3 SQUARES:3",
+    "Output": {
+      "circles": 0,
+      "triangles": 3,
+      "squares": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "61.png",
+    "circles": 4,
+    "squares": 1,
+    "triangles": 2,
+    "gpt_response": "There are 4 circles, 2 triangles, and 1 square.  \nCIRCLES:4 TRIANGLES:2 SQUARES:1",
+    "Output": {
+      "circles": 4,
+      "triangles": 2,
+      "squares": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "62.png",
+    "circles": 2,
+    "squares": 2,
+    "triangles": 3,
+    "gpt_response": "Here is the count of shapes in the image:\n\n\u2022 Circles: 2  \n\u2022 Triangles: 3  \n\u2022 Squares: 2  \n\nCIRCLES:2 TRIANGLES:3 SQUARES:2",
+    "Output": {
+      "circles": 2,
+      "triangles": 3,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "63.png",
+    "circles": 1,
+    "squares": 6,
+    "triangles": 0,
+    "gpt_response": "Here are the counts of the shapes in the image:\n\n\u2022 Circles: 1  \n\u2022 Triangles: 0  \n\u2022 Squares: 4  \n\nCIRCLES:1 TRIANGLES:0 SQUARES:4",
+    "Output": {
+      "circles": 1,
+      "triangles": 0,
+      "squares": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "64.png",
+    "circles": 3,
+    "squares": 3,
+    "triangles": 1,
+    "gpt_response": "Here\u2019s the count of each shape in the image:\n\n- Circles: 3  \n- Triangles: 1  \n- Squares: 3  \n\nCIRCLES:3 TRIANGLES:1 SQUARES:3",
+    "Output": {
+      "circles": 3,
+      "triangles": 1,
+      "squares": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "65.png",
+    "circles": 2,
+    "squares": 2,
+    "triangles": 3,
+    "gpt_response": "Here is the count of each shape in the image:\n\nCircles: 2  \nTriangles: 3  \nSquares: 2  \n\nCIRCLES:2 TRIANGLES:3 SQUARES:2",
+    "Output": {
+      "circles": 2,
+      "triangles": 3,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "66.png",
+    "circles": 2,
+    "squares": 4,
+    "triangles": 1,
+    "gpt_response": "Circles: 2  \nTriangles: 1  \nSquares: 4  \n\nCIRCLES:2 TRIANGLES:1 SQUARES:4",
+    "Output": {
+      "circles": 2,
+      "triangles": 1,
+      "squares": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "67.png",
+    "circles": 2,
+    "squares": 4,
+    "triangles": 1,
+    "gpt_response": "Here\u2019s what I observe in the image:\n\n\u2022 Circles: 2  \n\u2022 Triangles: 1  \n\u2022 Squares: 4  \n\nCIRCLES:2 TRIANGLES:1 SQUARES:4",
+    "Output": {
+      "circles": 2,
+      "triangles": 1,
+      "squares": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "68.png",
+    "circles": 0,
+    "squares": 7,
+    "triangles": 0,
+    "gpt_response": "The image contains no circles or triangles, only squares.\n\nCIRCLES:0 TRIANGLES:0 SQUARES:6",
+    "Output": {
+      "circles": 0,
+      "triangles": 0,
+      "squares": 6
+    },
+    "ERROR": null
+  },
+  {
+    "id": "69.png",
+    "circles": 5,
+    "squares": 1,
+    "triangles": 1,
+    "gpt_response": "I see:\n- Circles: 5\n- Triangles: 1\n- Squares: 1\n\nCIRCLES:5 TRIANGLES:1 SQUARES:1",
+    "Output": {
+      "circles": 5,
+      "triangles": 1,
+      "squares": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "70.png",
+    "circles": 1,
+    "squares": 4,
+    "triangles": 2,
+    "gpt_response": "I count:\n\nCircles: 1  \nTriangles: 2  \nSquares: 4  \n\nCIRCLES:1 TRIANGLES:2 SQUARES:4",
+    "Output": {
+      "circles": 1,
+      "triangles": 2,
+      "squares": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "71.png",
+    "circles": 1,
+    "squares": 2,
+    "triangles": 5,
+    "gpt_response": "\u2022 Circles: 1  \n\u2022 Triangles: 5  \n\u2022 Squares: 2  \n\nCIRCLES:1 TRIANGLES:5 SQUARES:2",
+    "Output": {
+      "circles": 1,
+      "triangles": 5,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "72.png",
+    "circles": 1,
+    "squares": 5,
+    "triangles": 2,
+    "gpt_response": "Circles: 1  \nTriangles: 2  \nSquares: 5  \n\nCIRCLES:1 TRIANGLES:2 SQUARES:5",
+    "Output": {
+      "circles": 1,
+      "triangles": 2,
+      "squares": 5
+    },
+    "ERROR": null
+  },
+  {
+    "id": "73.png",
+    "circles": 3,
+    "squares": 2,
+    "triangles": 3,
+    "gpt_response": "Here is the count of shapes in the image:\n\nCircles: 3  \nTriangles: 3  \nSquares: 2  \n\nCIRCLES:3 TRIANGLES:3 SQUARES:2",
+    "Output": {
+      "circles": 3,
+      "triangles": 3,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "74.png",
+    "circles": 6,
+    "squares": 0,
+    "triangles": 2,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "75.png",
+    "circles": 4,
+    "squares": 2,
+    "triangles": 2,
+    "gpt_response": "I count the following shapes in the image:\n\n\u2022 Circles: 4  \n\u2022 Triangles: 2  \n\u2022 Squares: 2  \n\nCIRCLES:4 TRIANGLES:2 SQUARES:2",
+    "Output": {
+      "circles": 4,
+      "triangles": 2,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "76.png",
+    "circles": 2,
+    "squares": 4,
+    "triangles": 2,
+    "gpt_response": "Here is the tally of shapes in the image:\n\n\u2022 Circles: 2  \n\u2022 Triangles: 2  \n\u2022 Squares: 4  \n\nCIRCLES:2 TRIANGLES:2 SQUARES:4",
+    "Output": {
+      "circles": 2,
+      "triangles": 2,
+      "squares": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "77.png",
+    "circles": 2,
+    "squares": 4,
+    "triangles": 2,
+    "gpt_response": "I see:\n- Circles: 2 (one small, one larger)\n- Triangles: 2\n- Squares: 4\n\nCIRCLES:2 TRIANGLES:2 SQUARES:4",
+    "Output": {
+      "circles": 2,
+      "triangles": 2,
+      "squares": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "78.png",
+    "circles": 2,
+    "squares": 4,
+    "triangles": 2,
+    "gpt_response": "Here\u2019s the count of each shape in the image:\n\n\u2022 Circles: 2  \n\u2022 Triangles: 2  \n\u2022 Squares: 4  \n\nCIRCLES:2 TRIANGLES:2 SQUARES:4",
+    "Output": {
+      "circles": 2,
+      "triangles": 2,
+      "squares": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "79.png",
+    "circles": 2,
+    "squares": 2,
+    "triangles": 4,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "80.png",
+    "circles": 2,
+    "squares": 4,
+    "triangles": 2,
+    "gpt_response": "Here are the counts for each shape in the image:\n\n\u2022 Circles: 2  \n\u2022 Triangles: 2  \n\u2022 Squares: 4  \n\nCIRCLES:2 TRIANGLES:2 SQUARES:4",
+    "Output": {
+      "circles": 2,
+      "triangles": 2,
+      "squares": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "81.png",
+    "circles": 2,
+    "squares": 3,
+    "triangles": 4,
+    "gpt_response": "Here\u2019s the count of each shape in the image:\n\n\u2022 Circles: 2  \n\u2022 Triangles: 4  \n\u2022 Squares: 3  \n\nCIRCLES:2 TRIANGLES:4 SQUARES:3",
+    "Output": {
+      "circles": 2,
+      "triangles": 4,
+      "squares": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "82.png",
+    "circles": 2,
+    "squares": 3,
+    "triangles": 4,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "83.png",
+    "circles": 3,
+    "squares": 4,
+    "triangles": 2,
+    "gpt_response": "Here\u2019s the count:\n\n\u2022 Circles: 3  \n\u2022 Triangles: 2  \n\u2022 Squares: 4  \n\nCIRCLES:3 TRIANGLES:2 SQUARES:4",
+    "Output": {
+      "circles": 3,
+      "triangles": 2,
+      "squares": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "84.png",
+    "circles": 2,
+    "squares": 3,
+    "triangles": 4,
+    "gpt_response": "Circles: 2  \nTriangles: 4  \nSquares: 3  \n\nCIRCLES:2 TRIANGLES:4 SQUARES:3",
+    "Output": {
+      "circles": 2,
+      "triangles": 4,
+      "squares": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "85.png",
+    "circles": 3,
+    "squares": 2,
+    "triangles": 4,
+    "gpt_response": "Here are the counts of each shape:\n\n- Circles: 3  \n- Triangles: 4  \n- Squares: 2  \n\nCIRCLES:3 TRIANGLES:4 SQUARES:2",
+    "Output": {
+      "circles": 3,
+      "triangles": 4,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "86.png",
+    "circles": 6,
+    "squares": 0,
+    "triangles": 3,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "87.png",
+    "circles": 4,
+    "squares": 2,
+    "triangles": 3,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "88.png",
+    "circles": 3,
+    "squares": 3,
+    "triangles": 3,
+    "gpt_response": "Here\u2019s the count of each shape in the image:\n\n- Circles: 3  \n- Triangles: 3  \n- Squares: 3  \n\nCIRCLES:3 TRIANGLES:3 SQUARES:3",
+    "Output": {
+      "circles": 3,
+      "triangles": 3,
+      "squares": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "89.png",
+    "circles": 2,
+    "squares": 5,
+    "triangles": 2,
+    "gpt_response": "Here\u2019s the count of each shape in the image:\n\nCircles:\n- One small circle near the left  \n- One larger circle near the top center  \n\nTotal circles = 2\n\nTriangles:\n- One triangle at the upper left  \n- One triangle at the bottom center  \n\nTotal triangles = 2\n\nSquares:\n- One small square left of the small circle  \n- One large square at the lower left  \n- One small square below the bottom-center triangle  \n- One medium square to the right of the large circle  \n- One small square at the far right  \n\nTotal squares = 5\n\nCIRCLES:2 TRIANGLES:2 SQUARES:5",
+    "Output": {
+      "circles": 2,
+      "triangles": 2,
+      "squares": 5
+    },
+    "ERROR": null
+  },
+  {
+    "id": "90.png",
+    "circles": 1,
+    "squares": 7,
+    "triangles": 1,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "91.png",
+    "circles": 3,
+    "squares": 2,
+    "triangles": 5,
+    "gpt_response": "Here\u2019s the count by shape:\n\n\u2022 Circles: 3  \n\u2022 Triangles: 5  \n\u2022 Squares: 2  \n\nCIRCLES:3 TRIANGLES:5 SQUARES:2",
+    "Output": {
+      "circles": 3,
+      "triangles": 5,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "92.png",
+    "circles": 3,
+    "squares": 4,
+    "triangles": 3,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "93.png",
+    "circles": 5,
+    "squares": 4,
+    "triangles": 1,
+    "gpt_response": "Here\u2019s the count by shape:\n\nLeft group  \n- Squares: 2  \n- Circles: 2  \n- Triangles: 0  \n\nRight group  \n- Squares: 2  \n- Circles: 3  \n- Triangles: 1  \n\nOverall:  \nCIRCLES:5 TRIANGLES:1 SQUARES:4",
+    "Output": {
+      "circles": 5,
+      "triangles": 1,
+      "squares": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "94.png",
+    "circles": 5,
+    "squares": 4,
+    "triangles": 1,
+    "gpt_response": "There are 5 circles, 1 triangle, and 4 squares in the image.  \nCIRCLES:5 TRIANGLES:1 SQUARES:4",
+    "Output": {
+      "circles": 5,
+      "triangles": 1,
+      "squares": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "95.png",
+    "circles": 6,
+    "squares": 3,
+    "triangles": 1,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "96.png",
+    "circles": 5,
+    "squares": 2,
+    "triangles": 3,
+    "gpt_response": "Here\u2019s the count of each shape in the image:\n\n\u2022 Circles: 5  \n\u2022 Triangles: 3  \n\u2022 Squares: 2  \n\nCIRCLES:5 TRIANGLES:3 SQUARES:2",
+    "Output": {
+      "circles": 5,
+      "triangles": 3,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "97.png",
+    "circles": 1,
+    "squares": 3,
+    "triangles": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "98.png",
+    "circles": 3,
+    "squares": 2,
+    "triangles": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "99.png",
+    "circles": 4,
+    "squares": 3,
+    "triangles": 3,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "100.png",
+    "circles": 4,
+    "squares": 3,
+    "triangles": 3,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "101.png",
+    "circles": 2,
+    "squares": 6,
+    "triangles": 3,
+    "gpt_response": "Circles: 2  \nTriangles: 3  \nSquares: 5  \nCIRCLES:2 TRIANGLES:3 SQUARES:5",
+    "Output": {
+      "circles": 2,
+      "triangles": 3,
+      "squares": 5
+    },
+    "ERROR": null
+  },
+  {
+    "id": "102.png",
+    "circles": 2,
+    "squares": 5,
+    "triangles": 4,
+    "gpt_response": "I count the following shapes in the image:\n\nCircles:\n- 1 circle near the top-center\n- 1 circle near the bottom-right\n\nTriangles:\n- 1 large triangle on the left\n- 1 small triangle at the top-center\n- 1 small triangle at the bottom-center\n- 1 medium triangle on the right\n\nSquares:\n- 1 large square on the left\n- 2 small squares just to its right\n- 1 medium square near the center-right\n- 1 small square at the top-right\n\nCIRCLES:2 TRIANGLES:4 SQUARES:5",
+    "Output": {
+      "circles": 2,
+      "triangles": 4,
+      "squares": 5
+    },
+    "ERROR": null
+  },
+  {
+    "id": "103.png",
+    "circles": 4,
+    "squares": 2,
+    "triangles": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "104.png",
+    "circles": 1,
+    "squares": 5,
+    "triangles": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "105.png",
+    "circles": 4,
+    "squares": 5,
+    "triangles": 2,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "106.png",
+    "circles": 5,
+    "squares": 2,
+    "triangles": 4,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "107.png",
+    "circles": 3,
+    "squares": 2,
+    "triangles": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "108.png",
+    "circles": 4,
+    "squares": 5,
+    "triangles": 2,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "109.png",
+    "circles": 5,
+    "squares": 4,
+    "triangles": 2,
+    "gpt_response": "I count the following shapes in the image:\n\n\u2022 Circles: 5  \n\u2022 Triangles: 2  \n\u2022 Squares: 4  \n\nCIRCLES:5 TRIANGLES:2 SQUARES:4",
+    "Output": {
+      "circles": 5,
+      "triangles": 2,
+      "squares": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "110.png",
+    "circles": 5,
+    "squares": 2,
+    "triangles": 4,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "111.png",
+    "circles": 4,
+    "squares": 4,
+    "triangles": 4,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "112.png",
+    "circles": 0,
+    "squares": 5,
+    "triangles": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "113.png",
+    "circles": 1,
+    "squares": 2,
+    "triangles": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "114.png",
+    "circles": 5,
+    "squares": 5,
+    "triangles": 2,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "115.png",
+    "circles": 4,
+    "squares": 5,
+    "triangles": 3,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "116.png",
+    "circles": 4,
+    "squares": 1,
+    "triangles": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "117.png",
+    "circles": 3,
+    "squares": 6,
+    "triangles": 3,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "118.png",
+    "circles": 2,
+    "squares": 3,
+    "triangles": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "119.png",
+    "circles": 5,
+    "squares": 1,
+    "triangles": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "120.png",
+    "circles": 6,
+    "squares": 3,
+    "triangles": 3,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "121.png",
+    "circles": 4,
+    "squares": 4,
+    "triangles": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "122.png",
+    "circles": 2,
+    "squares": 2,
+    "triangles": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "123.png",
+    "circles": 4,
+    "squares": 4,
+    "triangles": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "124.png",
+    "circles": 6,
+    "squares": 5,
+    "triangles": 2,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "125.png",
+    "circles": 5,
+    "squares": 4,
+    "triangles": 4,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "126.png",
+    "circles": 6,
+    "squares": 4,
+    "triangles": 3,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "127.png",
+    "circles": 3,
+    "squares": 4,
+    "triangles": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "128.png",
+    "circles": 4,
+    "squares": 5,
+    "triangles": 4,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "129.png",
+    "circles": 4,
+    "squares": 6,
+    "triangles": 3,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "130.png",
+    "circles": 5,
+    "squares": 4,
+    "triangles": 4,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "131.png",
+    "circles": 4,
+    "squares": 8,
+    "triangles": 2,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "132.png",
+    "circles": 5,
+    "squares": 3,
+    "triangles": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "133.png",
+    "circles": 6,
+    "squares": 4,
+    "triangles": 4,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "134.png",
+    "circles": 3,
+    "squares": 7,
+    "triangles": 4,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "135.png",
+    "circles": 6,
+    "squares": 4,
+    "triangles": 4,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "136.png",
+    "circles": 7,
+    "squares": 1,
+    "triangles": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "137.png",
+    "circles": 7,
+    "squares": 5,
+    "triangles": 2,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "138.png",
+    "circles": 6,
+    "squares": 5,
+    "triangles": 3,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "139.png",
+    "circles": 1,
+    "squares": 5,
+    "triangles": 8,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "140.png",
+    "circles": 6,
+    "squares": 3,
+    "triangles": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "141.png",
+    "circles": 6,
+    "squares": 4,
+    "triangles": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "142.png",
+    "circles": 4,
+    "squares": 5,
+    "triangles": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "143.png",
+    "circles": 1,
+    "squares": 5,
+    "triangles": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "144.png",
+    "circles": 2,
+    "squares": 7,
+    "triangles": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "145.png",
+    "circles": 3,
+    "squares": 3,
+    "triangles": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "146.png",
+    "circles": 7,
+    "squares": 3,
+    "triangles": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "147.png",
+    "circles": 6,
+    "squares": 4,
+    "triangles": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "148.png",
+    "circles": 7,
+    "squares": 2,
+    "triangles": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "149.png",
+    "circles": 5,
+    "squares": 6,
+    "triangles": 4,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "150.png",
+    "circles": 5,
+    "squares": 8,
+    "triangles": 2,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "151.png",
+    "circles": 8,
+    "squares": 3,
+    "triangles": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "152.png",
+    "circles": 7,
+    "squares": 5,
+    "triangles": 4,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "153.png",
+    "circles": 7,
+    "squares": 7,
+    "triangles": 2,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "154.png",
+    "circles": 6,
+    "squares": 6,
+    "triangles": 4,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "155.png",
+    "circles": 4,
+    "squares": 6,
+    "triangles": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "156.png",
+    "circles": 6,
+    "squares": 7,
+    "triangles": 3,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "157.png",
+    "circles": 3,
+    "squares": 7,
+    "triangles": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "158.png",
+    "circles": 7,
+    "squares": 6,
+    "triangles": 3,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "159.png",
+    "circles": 3,
+    "squares": 5,
+    "triangles": 8,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "160.png",
+    "circles": 9,
+    "squares": 3,
+    "triangles": 4,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "161.png",
+    "circles": 7,
+    "squares": 8,
+    "triangles": 2,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "162.png",
+    "circles": 3,
+    "squares": 7,
+    "triangles": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "163.png",
+    "circles": 7,
+    "squares": 5,
+    "triangles": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "164.png",
+    "circles": 8,
+    "squares": 6,
+    "triangles": 3,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "165.png",
+    "circles": 5,
+    "squares": 5,
+    "triangles": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "166.png",
+    "circles": 6,
+    "squares": 3,
+    "triangles": 8,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "167.png",
+    "circles": 9,
+    "squares": 3,
+    "triangles": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "168.png",
+    "circles": 8,
+    "squares": 4,
+    "triangles": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "169.png",
+    "circles": 5,
+    "squares": 7,
+    "triangles": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "170.png",
+    "circles": 5,
+    "squares": 7,
+    "triangles": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "171.png",
+    "circles": 8,
+    "squares": 4,
+    "triangles": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "172.png",
+    "circles": 9,
+    "squares": 1,
+    "triangles": 8,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "173.png",
+    "circles": 5,
+    "squares": 5,
+    "triangles": 8,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "174.png",
+    "circles": 5,
+    "squares": 8,
+    "triangles": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "175.png",
+    "circles": 6,
+    "squares": 7,
+    "triangles": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "176.png",
+    "circles": 8,
+    "squares": 3,
+    "triangles": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "177.png",
+    "circles": 7,
+    "squares": 7,
+    "triangles": 4,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "178.png",
+    "circles": 8,
+    "squares": 7,
+    "triangles": 3,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "179.png",
+    "circles": 7,
+    "squares": 6,
+    "triangles": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "180.png",
+    "circles": 4,
+    "squares": 9,
+    "triangles": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "181.png",
+    "circles": 7,
+    "squares": 7,
+    "triangles": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "182.png",
+    "circles": 8,
+    "squares": 7,
+    "triangles": 4,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "183.png",
+    "circles": 7,
+    "squares": 7,
+    "triangles": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "184.png",
+    "circles": 4,
+    "squares": 4,
+    "triangles": 11,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "185.png",
+    "circles": 5,
+    "squares": 5,
+    "triangles": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "186.png",
+    "circles": 9,
+    "squares": 5,
+    "triangles": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "187.png",
+    "circles": 6,
+    "squares": 9,
+    "triangles": 4,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "188.png",
+    "circles": 7,
+    "squares": 6,
+    "triangles": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "189.png",
+    "circles": 10,
+    "squares": 3,
+    "triangles": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "190.png",
+    "circles": 10,
+    "squares": 4,
+    "triangles": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "191.png",
+    "circles": 6,
+    "squares": 8,
+    "triangles": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "192.png",
+    "circles": 8,
+    "squares": 3,
+    "triangles": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "193.png",
+    "circles": 8,
+    "squares": 6,
+    "triangles": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "194.png",
+    "circles": 9,
+    "squares": 4,
+    "triangles": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "195.png",
+    "circles": 9,
+    "squares": 6,
+    "triangles": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "196.png",
+    "circles": 6,
+    "squares": 5,
+    "triangles": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "197.png",
+    "circles": 4,
+    "squares": 7,
+    "triangles": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "198.png",
+    "circles": 7,
+    "squares": 9,
+    "triangles": 4,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "199.png",
+    "circles": 8,
+    "squares": 9,
+    "triangles": 3,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "200.png",
+    "circles": 6,
+    "squares": 8,
+    "triangles": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  }
+]

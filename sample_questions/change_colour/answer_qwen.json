@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "second1.png",
+    "num_differences": 1,
+    "gpt_response": "COUNT:1<|im_end|>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second2.png",
+    "num_differences": 1,
+    "gpt_response": "COUNT:1<|im_end|>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second3.png",
+    "num_differences": 1,
+    "gpt_response": "COUNT:1<|im_end|>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second4.png",
+    "num_differences": 1,
+    "gpt_response": "COUNT:1<|im_end|>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second5.png",
+    "num_differences": 1,
+    "gpt_response": "COUNT:1<|im_end|>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second6.png",
+    "num_differences": 1,
+    "gpt_response": "COUNT:1<|im_end|>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second7.png",
+    "num_differences": 1,
+    "gpt_response": "COUNT:1<|im_end|>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second8.png",
+    "num_differences": 1,
+    "gpt_response": "COUNT:1<|im_end|>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second9.png",
+    "num_differences": 1,
+    "gpt_response": "COUNT:1<|im_end|>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second10.png",
+    "num_differences": 1,
+    "gpt_response": "COUNT:1<|im_end|>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second11.png",
+    "num_differences": 2,
+    "gpt_response": "COUNT:1<|im_end|>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second12.png",
+    "num_differences": 2,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second13.png",
+    "num_differences": 2,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second14.png",
+    "num_differences": 2,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second15.png",
+    "num_differences": 2,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second16.png",
+    "num_differences": 2,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second17.png",
+    "num_differences": 2,
+    "gpt_response": "COUNT:1<|im_end|>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second18.png",
+    "num_differences": 2,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second19.png",
+    "num_differences": 2,
+    "gpt_response": "COUNT:1<|im_end|>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second20.png",
+    "num_differences": 2,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second21.png",
+    "num_differences": 3,
+    "gpt_response": "COUNT:1<|im_end|>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second22.png",
+    "num_differences": 3,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second23.png",
+    "num_differences": 3,
+    "gpt_response": "COUNT:1<|im_end|>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second24.png",
+    "num_differences": 3,
+    "gpt_response": "COUNT:1<|im_end|>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second25.png",
+    "num_differences": 3,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second26.png",
+    "num_differences": 3,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second27.png",
+    "num_differences": 3,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second28.png",
+    "num_differences": 3,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second29.png",
+    "num_differences": 3,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second30.png",
+    "num_differences": 3,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second31.png",
+    "num_differences": 4,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second32.png",
+    "num_differences": 4,
+    "gpt_response": "COUNT:1<|im_end|>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second33.png",
+    "num_differences": 4,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second34.png",
+    "num_differences": 4,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second35.png",
+    "num_differences": 4,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second36.png",
+    "num_differences": 4,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second37.png",
+    "num_differences": 4,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second38.png",
+    "num_differences": 4,
+    "gpt_response": "COUNT:3<|im_end|>",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "second39.png",
+    "num_differences": 4,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second40.png",
+    "num_differences": 4,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second41.png",
+    "num_differences": 5,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second42.png",
+    "num_differences": 5,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second43.png",
+    "num_differences": 5,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second44.png",
+    "num_differences": 5,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second45.png",
+    "num_differences": 5,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second46.png",
+    "num_differences": 5,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second47.png",
+    "num_differences": 5,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second48.png",
+    "num_differences": 5,
+    "gpt_response": "COUNT:4<|im_end|>",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second49.png",
+    "num_differences": 5,
+    "gpt_response": "COUNT:4<|im_end|>",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second50.png",
+    "num_differences": 5,
+    "gpt_response": "COUNT:1<|im_end|>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second51.png",
+    "num_differences": 6,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second52.png",
+    "num_differences": 6,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second53.png",
+    "num_differences": 6,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second54.png",
+    "num_differences": 6,
+    "gpt_response": "COUNT:1<|im_end|>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second55.png",
+    "num_differences": 6,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second56.png",
+    "num_differences": 6,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second57.png",
+    "num_differences": 6,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second58.png",
+    "num_differences": 6,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second59.png",
+    "num_differences": 6,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second60.png",
+    "num_differences": 6,
+    "gpt_response": "COUNT:4<|im_end|>",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second61.png",
+    "num_differences": 7,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second62.png",
+    "num_differences": 7,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second63.png",
+    "num_differences": 7,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second64.png",
+    "num_differences": 7,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second65.png",
+    "num_differences": 7,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second66.png",
+    "num_differences": 7,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second67.png",
+    "num_differences": 7,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second68.png",
+    "num_differences": 7,
+    "gpt_response": "COUNT:1<|im_end|>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second69.png",
+    "num_differences": 7,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second70.png",
+    "num_differences": 7,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second71.png",
+    "num_differences": 8,
+    "gpt_response": "COUNT:4<|im_end|>",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second72.png",
+    "num_differences": 8,
+    "gpt_response": "COUNT:4<|im_end|>",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second73.png",
+    "num_differences": 8,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second74.png",
+    "num_differences": 8,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second75.png",
+    "num_differences": 8,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second76.png",
+    "num_differences": 8,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second77.png",
+    "num_differences": 8,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second78.png",
+    "num_differences": 8,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second79.png",
+    "num_differences": 8,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second80.png",
+    "num_differences": 8,
+    "gpt_response": "COUNT:1<|im_end|>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second81.png",
+    "num_differences": 9,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second82.png",
+    "num_differences": 9,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second83.png",
+    "num_differences": 9,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second84.png",
+    "num_differences": 9,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second85.png",
+    "num_differences": 9,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second86.png",
+    "num_differences": 9,
+    "gpt_response": "COUNT:4<|im_end|>",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second87.png",
+    "num_differences": 9,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second88.png",
+    "num_differences": 9,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second89.png",
+    "num_differences": 9,
+    "gpt_response": "COUNT:4<|im_end|>",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second90.png",
+    "num_differences": 9,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second91.png",
+    "num_differences": 10,
+    "gpt_response": "COUNT:4<|im_end|>",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second92.png",
+    "num_differences": 10,
+    "gpt_response": "COUNT:1<|im_end|>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second93.png",
+    "num_differences": 10,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second94.png",
+    "num_differences": 10,
+    "gpt_response": "COUNT:1<|im_end|>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second95.png",
+    "num_differences": 10,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second96.png",
+    "num_differences": 10,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second97.png",
+    "num_differences": 10,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second98.png",
+    "num_differences": 10,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second99.png",
+    "num_differences": 10,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second100.png",
+    "num_differences": 10,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second101.png",
+    "num_differences": 11,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second102.png",
+    "num_differences": 11,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second103.png",
+    "num_differences": 11,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second104.png",
+    "num_differences": 11,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second105.png",
+    "num_differences": 11,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second106.png",
+    "num_differences": 11,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second107.png",
+    "num_differences": 11,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second108.png",
+    "num_differences": 11,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second109.png",
+    "num_differences": 11,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second110.png",
+    "num_differences": 11,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second111.png",
+    "num_differences": 12,
+    "gpt_response": "COUNT:1<|im_end|>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second112.png",
+    "num_differences": 12,
+    "gpt_response": "COUNT:1<|im_end|>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second113.png",
+    "num_differences": 12,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second114.png",
+    "num_differences": 12,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second115.png",
+    "num_differences": 12,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second116.png",
+    "num_differences": 12,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second117.png",
+    "num_differences": 12,
+    "gpt_response": "COUNT:4<|im_end|>",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second118.png",
+    "num_differences": 12,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second119.png",
+    "num_differences": 12,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second120.png",
+    "num_differences": 12,
+    "gpt_response": "COUNT:4<|im_end|>",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second121.png",
+    "num_differences": 13,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second122.png",
+    "num_differences": 13,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second123.png",
+    "num_differences": 13,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second124.png",
+    "num_differences": 13,
+    "gpt_response": "COUNT:1<|im_end|>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second125.png",
+    "num_differences": 13,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second126.png",
+    "num_differences": 13,
+    "gpt_response": "COUNT:10<|im_end|>",
+    "Output": 10,
+    "ERROR": null
+  },
+  {
+    "id": "second127.png",
+    "num_differences": 13,
+    "gpt_response": "COUNT:1<|im_end|>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second128.png",
+    "num_differences": 13,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second129.png",
+    "num_differences": 13,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second130.png",
+    "num_differences": 13,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second131.png",
+    "num_differences": 14,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second132.png",
+    "num_differences": 14,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second133.png",
+    "num_differences": 14,
+    "gpt_response": "COUNT:1<|im_end|>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second134.png",
+    "num_differences": 14,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second135.png",
+    "num_differences": 14,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second136.png",
+    "num_differences": 14,
+    "gpt_response": "COUNT:10<|im_end|>",
+    "Output": 10,
+    "ERROR": null
+  },
+  {
+    "id": "second137.png",
+    "num_differences": 14,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second138.png",
+    "num_differences": 14,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second139.png",
+    "num_differences": 14,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second140.png",
+    "num_differences": 14,
+    "gpt_response": "COUNT:1<|im_end|>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second141.png",
+    "num_differences": 15,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second142.png",
+    "num_differences": 15,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second143.png",
+    "num_differences": 15,
+    "gpt_response": "COUNT:0<|im_end|>",
+    "Output": 0,
+    "ERROR": null
+  },
+  {
+    "id": "second144.png",
+    "num_differences": 15,
+    "gpt_response": "COUNT:4<|im_end|>",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second145.png",
+    "num_differences": 15,
+    "gpt_response": "COUNT:4<|im_end|>",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second146.png",
+    "num_differences": 15,
+    "gpt_response": "COUNT:1<|im_end|>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second147.png",
+    "num_differences": 15,
+    "gpt_response": "COUNT:10<|im_end|>",
+    "Output": 10,
+    "ERROR": null
+  },
+  {
+    "id": "second148.png",
+    "num_differences": 15,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second149.png",
+    "num_differences": 15,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second150.png",
+    "num_differences": 15,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second151.png",
+    "num_differences": 16,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second152.png",
+    "num_differences": 16,
+    "gpt_response": "COUNT:1<|im_end|>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second153.png",
+    "num_differences": 16,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second154.png",
+    "num_differences": 16,
+    "gpt_response": "COUNT:1<|im_end|>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second155.png",
+    "num_differences": 16,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second156.png",
+    "num_differences": 16,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second157.png",
+    "num_differences": 16,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second158.png",
+    "num_differences": 16,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second159.png",
+    "num_differences": 16,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second160.png",
+    "num_differences": 16,
+    "gpt_response": "COUNT:10<|im_end|>",
+    "Output": 10,
+    "ERROR": null
+  },
+  {
+    "id": "second161.png",
+    "num_differences": 17,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second162.png",
+    "num_differences": 17,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second163.png",
+    "num_differences": 17,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second164.png",
+    "num_differences": 17,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second165.png",
+    "num_differences": 17,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second166.png",
+    "num_differences": 17,
+    "gpt_response": "COUNT:0<|im_end|>",
+    "Output": 0,
+    "ERROR": null
+  },
+  {
+    "id": "second167.png",
+    "num_differences": 17,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second168.png",
+    "num_differences": 17,
+    "gpt_response": "COUNT:10<|im_end|>",
+    "Output": 10,
+    "ERROR": null
+  },
+  {
+    "id": "second169.png",
+    "num_differences": 17,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second170.png",
+    "num_differences": 17,
+    "gpt_response": "COUNT:0<|im_end|>",
+    "Output": 0,
+    "ERROR": null
+  },
+  {
+    "id": "second171.png",
+    "num_differences": 18,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second172.png",
+    "num_differences": 18,
+    "gpt_response": "COUNT:0<|im_end|>",
+    "Output": 0,
+    "ERROR": null
+  },
+  {
+    "id": "second173.png",
+    "num_differences": 18,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second174.png",
+    "num_differences": 18,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second175.png",
+    "num_differences": 18,
+    "gpt_response": "COUNT:0<|im_end|>",
+    "Output": 0,
+    "ERROR": null
+  },
+  {
+    "id": "second176.png",
+    "num_differences": 18,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second177.png",
+    "num_differences": 18,
+    "gpt_response": "COUNT:1<|im_end|>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second178.png",
+    "num_differences": 18,
+    "gpt_response": "COUNT:0<|im_end|>",
+    "Output": 0,
+    "ERROR": null
+  },
+  {
+    "id": "second179.png",
+    "num_differences": 18,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second180.png",
+    "num_differences": 18,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second181.png",
+    "num_differences": 19,
+    "gpt_response": "COUNT:1<|im_end|>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second182.png",
+    "num_differences": 19,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second183.png",
+    "num_differences": 19,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second184.png",
+    "num_differences": 19,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second185.png",
+    "num_differences": 19,
+    "gpt_response": "COUNT:10<|im_end|>",
+    "Output": 10,
+    "ERROR": null
+  },
+  {
+    "id": "second186.png",
+    "num_differences": 19,
+    "gpt_response": "COUNT:0<|im_end|>",
+    "Output": 0,
+    "ERROR": null
+  },
+  {
+    "id": "second187.png",
+    "num_differences": 19,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second188.png",
+    "num_differences": 19,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second189.png",
+    "num_differences": 19,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second190.png",
+    "num_differences": 19,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second191.png",
+    "num_differences": 20,
+    "gpt_response": "COUNT:1<|im_end|>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second192.png",
+    "num_differences": 20,
+    "gpt_response": "COUNT:0<|im_end|>",
+    "Output": 0,
+    "ERROR": null
+  },
+  {
+    "id": "second193.png",
+    "num_differences": 20,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second194.png",
+    "num_differences": 20,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second195.png",
+    "num_differences": 20,
+    "gpt_response": "COUNT:0<|im_end|>",
+    "Output": 0,
+    "ERROR": null
+  },
+  {
+    "id": "second196.png",
+    "num_differences": 20,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second197.png",
+    "num_differences": 20,
+    "gpt_response": "COUNT:10<|im_end|>",
+    "Output": 10,
+    "ERROR": null
+  },
+  {
+    "id": "second198.png",
+    "num_differences": 20,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second199.png",
+    "num_differences": 20,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second200.png",
+    "num_differences": 20,
+    "gpt_response": "COUNT:2<|im_end|>",
+    "Output": 2,
+    "ERROR": null
+  }
+]

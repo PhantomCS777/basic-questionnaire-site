@@ -1,0 +1,2002 @@
+[
+  {
+    "id": "first1.png",
+    "circles": 0,
+    "squares": 1,
+    "triangles": 1,
+    "vanished": 1,
+    "gpt_response": "COUNT:1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "first2.png",
+    "circles": 1,
+    "squares": 0,
+    "triangles": 1,
+    "vanished": 1,
+    "gpt_response": "COUNT:1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "first3.png",
+    "circles": 1,
+    "squares": 0,
+    "triangles": 1,
+    "vanished": 1,
+    "gpt_response": "COUNT:1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "first4.png",
+    "circles": 1,
+    "squares": 0,
+    "triangles": 1,
+    "vanished": 1,
+    "gpt_response": "COUNT:1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "first5.png",
+    "circles": 0,
+    "squares": 1,
+    "triangles": 1,
+    "vanished": 1,
+    "gpt_response": "COUNT:1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "first6.png",
+    "circles": 2,
+    "squares": 0,
+    "triangles": 0,
+    "vanished": 1,
+    "gpt_response": "COUNT:1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "first7.png",
+    "circles": 0,
+    "squares": 1,
+    "triangles": 1,
+    "vanished": 1,
+    "gpt_response": "COUNT:1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "first8.png",
+    "circles": 1,
+    "squares": 0,
+    "triangles": 1,
+    "vanished": 1,
+    "gpt_response": "COUNT:2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "first9.png",
+    "circles": 1,
+    "squares": 1,
+    "triangles": 0,
+    "vanished": 1,
+    "gpt_response": "COUNT:1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "first10.png",
+    "circles": 0,
+    "squares": 1,
+    "triangles": 1,
+    "vanished": 1,
+    "gpt_response": "COUNT:1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "first11.png",
+    "circles": 1,
+    "squares": 1,
+    "triangles": 2,
+    "vanished": 2,
+    "gpt_response": "COUNT:2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "first12.png",
+    "circles": 1,
+    "squares": 2,
+    "triangles": 1,
+    "vanished": 2,
+    "gpt_response": "COUNT:2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "first13.png",
+    "circles": 1,
+    "squares": 1,
+    "triangles": 2,
+    "vanished": 2,
+    "gpt_response": "COUNT:1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "first14.png",
+    "circles": 0,
+    "squares": 2,
+    "triangles": 2,
+    "vanished": 2,
+    "gpt_response": "COUNT:2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "first15.png",
+    "circles": 1,
+    "squares": 2,
+    "triangles": 1,
+    "vanished": 2,
+    "gpt_response": "COUNT:2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "first16.png",
+    "circles": 1,
+    "squares": 2,
+    "triangles": 1,
+    "vanished": 2,
+    "gpt_response": "COUNT:1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "first17.png",
+    "circles": 1,
+    "squares": 1,
+    "triangles": 2,
+    "vanished": 2,
+    "gpt_response": "COUNT:2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "first18.png",
+    "circles": 3,
+    "squares": 0,
+    "triangles": 1,
+    "vanished": 2,
+    "gpt_response": "COUNT:1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "first19.png",
+    "circles": 1,
+    "squares": 1,
+    "triangles": 2,
+    "vanished": 2,
+    "gpt_response": "COUNT:2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "first20.png",
+    "circles": 1,
+    "squares": 2,
+    "triangles": 1,
+    "vanished": 2,
+    "gpt_response": "COUNT:2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "first21.png",
+    "circles": 2,
+    "squares": 1,
+    "triangles": 3,
+    "vanished": 3,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "first22.png",
+    "circles": 2,
+    "squares": 3,
+    "triangles": 1,
+    "vanished": 3,
+    "gpt_response": "COUNT:2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "first23.png",
+    "circles": 3,
+    "squares": 0,
+    "triangles": 3,
+    "vanished": 3,
+    "gpt_response": "COUNT:2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "first24.png",
+    "circles": 2,
+    "squares": 4,
+    "triangles": 0,
+    "vanished": 3,
+    "gpt_response": "COUNT:2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "first25.png",
+    "circles": 3,
+    "squares": 2,
+    "triangles": 1,
+    "vanished": 3,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "first26.png",
+    "circles": 3,
+    "squares": 2,
+    "triangles": 1,
+    "vanished": 3,
+    "gpt_response": "COUNT:2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "first27.png",
+    "circles": 1,
+    "squares": 1,
+    "triangles": 4,
+    "vanished": 3,
+    "gpt_response": "COUNT:2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "first28.png",
+    "circles": 1,
+    "squares": 4,
+    "triangles": 1,
+    "vanished": 3,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "first29.png",
+    "circles": 1,
+    "squares": 4,
+    "triangles": 1,
+    "vanished": 3,
+    "gpt_response": "COUNT:1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "first30.png",
+    "circles": 2,
+    "squares": 2,
+    "triangles": 2,
+    "vanished": 3,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "first31.png",
+    "circles": 2,
+    "squares": 2,
+    "triangles": 4,
+    "vanished": 4,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "first32.png",
+    "circles": 1,
+    "squares": 5,
+    "triangles": 2,
+    "vanished": 4,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "first33.png",
+    "circles": 3,
+    "squares": 3,
+    "triangles": 2,
+    "vanished": 4,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "first34.png",
+    "circles": 3,
+    "squares": 3,
+    "triangles": 2,
+    "vanished": 4,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "first35.png",
+    "circles": 5,
+    "squares": 0,
+    "triangles": 3,
+    "vanished": 4,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "first36.png",
+    "circles": 1,
+    "squares": 2,
+    "triangles": 5,
+    "vanished": 4,
+    "gpt_response": "COUNT:2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "first37.png",
+    "circles": 1,
+    "squares": 5,
+    "triangles": 2,
+    "vanished": 4,
+    "gpt_response": "COUNT:2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "first38.png",
+    "circles": 3,
+    "squares": 2,
+    "triangles": 3,
+    "vanished": 4,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "first39.png",
+    "circles": 3,
+    "squares": 1,
+    "triangles": 4,
+    "vanished": 4,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "first40.png",
+    "circles": 1,
+    "squares": 5,
+    "triangles": 2,
+    "vanished": 4,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "first41.png",
+    "circles": 5,
+    "squares": 2,
+    "triangles": 3,
+    "vanished": 5,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "first42.png",
+    "circles": 2,
+    "squares": 3,
+    "triangles": 5,
+    "vanished": 5,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "first43.png",
+    "circles": 1,
+    "squares": 3,
+    "triangles": 6,
+    "vanished": 5,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "first44.png",
+    "circles": 3,
+    "squares": 4,
+    "triangles": 3,
+    "vanished": 5,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "first45.png",
+    "circles": 4,
+    "squares": 4,
+    "triangles": 2,
+    "vanished": 5,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "first46.png",
+    "circles": 4,
+    "squares": 3,
+    "triangles": 3,
+    "vanished": 5,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "first47.png",
+    "circles": 5,
+    "squares": 3,
+    "triangles": 2,
+    "vanished": 5,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "first48.png",
+    "circles": 1,
+    "squares": 2,
+    "triangles": 7,
+    "vanished": 5,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "first49.png",
+    "circles": 1,
+    "squares": 3,
+    "triangles": 6,
+    "vanished": 5,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "first50.png",
+    "circles": 4,
+    "squares": 4,
+    "triangles": 2,
+    "vanished": 5,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "first51.png",
+    "circles": 7,
+    "squares": 2,
+    "triangles": 3,
+    "vanished": 6,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "first52.png",
+    "circles": 5,
+    "squares": 1,
+    "triangles": 6,
+    "vanished": 6,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "first53.png",
+    "circles": 4,
+    "squares": 4,
+    "triangles": 4,
+    "vanished": 6,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "first54.png",
+    "circles": 6,
+    "squares": 2,
+    "triangles": 4,
+    "vanished": 6,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "first55.png",
+    "circles": 4,
+    "squares": 4,
+    "triangles": 4,
+    "vanished": 6,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "first56.png",
+    "circles": 6,
+    "squares": 3,
+    "triangles": 3,
+    "vanished": 6,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "first57.png",
+    "circles": 4,
+    "squares": 6,
+    "triangles": 2,
+    "vanished": 6,
+    "gpt_response": "COUNT:4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "first58.png",
+    "circles": 2,
+    "squares": 1,
+    "triangles": 9,
+    "vanished": 6,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "first59.png",
+    "circles": 5,
+    "squares": 3,
+    "triangles": 4,
+    "vanished": 6,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "first60.png",
+    "circles": 2,
+    "squares": 6,
+    "triangles": 4,
+    "vanished": 6,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "first61.png",
+    "circles": 4,
+    "squares": 5,
+    "triangles": 5,
+    "vanished": 7,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "first62.png",
+    "circles": 4,
+    "squares": 7,
+    "triangles": 3,
+    "vanished": 7,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "first63.png",
+    "circles": 4,
+    "squares": 5,
+    "triangles": 5,
+    "vanished": 7,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "first64.png",
+    "circles": 5,
+    "squares": 4,
+    "triangles": 5,
+    "vanished": 7,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "first65.png",
+    "circles": 3,
+    "squares": 3,
+    "triangles": 8,
+    "vanished": 7,
+    "gpt_response": "COUNT:4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "first66.png",
+    "circles": 7,
+    "squares": 2,
+    "triangles": 5,
+    "vanished": 7,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "first67.png",
+    "circles": 8,
+    "squares": 4,
+    "triangles": 2,
+    "vanished": 7,
+    "gpt_response": "COUNT:4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "first68.png",
+    "circles": 6,
+    "squares": 5,
+    "triangles": 3,
+    "vanished": 7,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "first69.png",
+    "circles": 3,
+    "squares": 7,
+    "triangles": 4,
+    "vanished": 7,
+    "gpt_response": "COUNT:4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "first70.png",
+    "circles": 5,
+    "squares": 6,
+    "triangles": 3,
+    "vanished": 7,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first71.png",
+    "circles": 4,
+    "squares": 5,
+    "triangles": 7,
+    "vanished": 8,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "first72.png",
+    "circles": 7,
+    "squares": 3,
+    "triangles": 6,
+    "vanished": 8,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "first73.png",
+    "circles": 7,
+    "squares": 5,
+    "triangles": 4,
+    "vanished": 8,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "first74.png",
+    "circles": 7,
+    "squares": 5,
+    "triangles": 4,
+    "vanished": 8,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first75.png",
+    "circles": 5,
+    "squares": 5,
+    "triangles": 6,
+    "vanished": 8,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "first76.png",
+    "circles": 9,
+    "squares": 5,
+    "triangles": 2,
+    "vanished": 8,
+    "gpt_response": "COUNT:4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "first77.png",
+    "circles": 7,
+    "squares": 4,
+    "triangles": 5,
+    "vanished": 8,
+    "gpt_response": "COUNT:4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "first78.png",
+    "circles": 5,
+    "squares": 7,
+    "triangles": 4,
+    "vanished": 8,
+    "gpt_response": "COUNT:4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "first79.png",
+    "circles": 8,
+    "squares": 2,
+    "triangles": 6,
+    "vanished": 8,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first80.png",
+    "circles": 6,
+    "squares": 1,
+    "triangles": 9,
+    "vanished": 8,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first81.png",
+    "circles": 6,
+    "squares": 4,
+    "triangles": 8,
+    "vanished": 9,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first82.png",
+    "circles": 7,
+    "squares": 5,
+    "triangles": 6,
+    "vanished": 9,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first83.png",
+    "circles": 6,
+    "squares": 5,
+    "triangles": 7,
+    "vanished": 9,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first84.png",
+    "circles": 3,
+    "squares": 9,
+    "triangles": 6,
+    "vanished": 9,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first85.png",
+    "circles": 1,
+    "squares": 5,
+    "triangles": 12,
+    "vanished": 9,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "first86.png",
+    "circles": 5,
+    "squares": 6,
+    "triangles": 7,
+    "vanished": 9,
+    "gpt_response": "COUNT:4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "first87.png",
+    "circles": 5,
+    "squares": 6,
+    "triangles": 7,
+    "vanished": 9,
+    "gpt_response": "COUNT:4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "first88.png",
+    "circles": 5,
+    "squares": 3,
+    "triangles": 10,
+    "vanished": 9,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first89.png",
+    "circles": 6,
+    "squares": 7,
+    "triangles": 5,
+    "vanished": 9,
+    "gpt_response": "COUNT:6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "first90.png",
+    "circles": 7,
+    "squares": 6,
+    "triangles": 5,
+    "vanished": 9,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "first91.png",
+    "circles": 9,
+    "squares": 6,
+    "triangles": 5,
+    "vanished": 10,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first92.png",
+    "circles": 8,
+    "squares": 8,
+    "triangles": 4,
+    "vanished": 10,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first93.png",
+    "circles": 8,
+    "squares": 7,
+    "triangles": 5,
+    "vanished": 10,
+    "gpt_response": "COUNT:4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "first94.png",
+    "circles": 8,
+    "squares": 6,
+    "triangles": 6,
+    "vanished": 10,
+    "gpt_response": "COUNT:7",
+    "Output": 7,
+    "ERROR": null
+  },
+  {
+    "id": "first95.png",
+    "circles": 4,
+    "squares": 12,
+    "triangles": 4,
+    "vanished": 10,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first96.png",
+    "circles": 3,
+    "squares": 9,
+    "triangles": 8,
+    "vanished": 10,
+    "gpt_response": "COUNT:4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "first97.png",
+    "circles": 7,
+    "squares": 6,
+    "triangles": 7,
+    "vanished": 10,
+    "gpt_response": "COUNT:4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "first98.png",
+    "circles": 9,
+    "squares": 6,
+    "triangles": 5,
+    "vanished": 10,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first99.png",
+    "circles": 7,
+    "squares": 6,
+    "triangles": 7,
+    "vanished": 10,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first100.png",
+    "circles": 12,
+    "squares": 4,
+    "triangles": 4,
+    "vanished": 10,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first101.png",
+    "circles": 11,
+    "squares": 6,
+    "triangles": 5,
+    "vanished": 11,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first102.png",
+    "circles": 6,
+    "squares": 7,
+    "triangles": 9,
+    "vanished": 11,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first103.png",
+    "circles": 8,
+    "squares": 8,
+    "triangles": 6,
+    "vanished": 11,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first104.png",
+    "circles": 6,
+    "squares": 6,
+    "triangles": 10,
+    "vanished": 11,
+    "gpt_response": "COUNT:6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "first105.png",
+    "circles": 9,
+    "squares": 8,
+    "triangles": 5,
+    "vanished": 11,
+    "gpt_response": "COUNT:7",
+    "Output": 7,
+    "ERROR": null
+  },
+  {
+    "id": "first106.png",
+    "circles": 6,
+    "squares": 10,
+    "triangles": 6,
+    "vanished": 11,
+    "gpt_response": "COUNT:4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "first107.png",
+    "circles": 8,
+    "squares": 8,
+    "triangles": 6,
+    "vanished": 11,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first108.png",
+    "circles": 6,
+    "squares": 12,
+    "triangles": 4,
+    "vanished": 11,
+    "gpt_response": "COUNT:4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "first109.png",
+    "circles": 8,
+    "squares": 10,
+    "triangles": 4,
+    "vanished": 11,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first110.png",
+    "circles": 7,
+    "squares": 9,
+    "triangles": 6,
+    "vanished": 11,
+    "gpt_response": "COUNT:6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "first111.png",
+    "circles": 7,
+    "squares": 10,
+    "triangles": 7,
+    "vanished": 12,
+    "gpt_response": "COUNT:6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "first112.png",
+    "circles": 5,
+    "squares": 10,
+    "triangles": 9,
+    "vanished": 12,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first113.png",
+    "circles": 5,
+    "squares": 11,
+    "triangles": 8,
+    "vanished": 12,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first114.png",
+    "circles": 5,
+    "squares": 8,
+    "triangles": 11,
+    "vanished": 12,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first115.png",
+    "circles": 5,
+    "squares": 11,
+    "triangles": 8,
+    "vanished": 12,
+    "gpt_response": "COUNT:6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "first116.png",
+    "circles": 9,
+    "squares": 7,
+    "triangles": 8,
+    "vanished": 12,
+    "gpt_response": "COUNT:6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "first117.png",
+    "circles": 11,
+    "squares": 7,
+    "triangles": 6,
+    "vanished": 12,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first118.png",
+    "circles": 14,
+    "squares": 3,
+    "triangles": 7,
+    "vanished": 12,
+    "gpt_response": "COUNT:4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "first119.png",
+    "circles": 5,
+    "squares": 9,
+    "triangles": 10,
+    "vanished": 12,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first120.png",
+    "circles": 7,
+    "squares": 9,
+    "triangles": 8,
+    "vanished": 12,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first121.png",
+    "circles": 7,
+    "squares": 7,
+    "triangles": 12,
+    "vanished": 13,
+    "gpt_response": "COUNT:7",
+    "Output": 7,
+    "ERROR": null
+  },
+  {
+    "id": "first122.png",
+    "circles": 8,
+    "squares": 9,
+    "triangles": 9,
+    "vanished": 13,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first123.png",
+    "circles": 7,
+    "squares": 9,
+    "triangles": 10,
+    "vanished": 13,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first124.png",
+    "circles": 7,
+    "squares": 11,
+    "triangles": 8,
+    "vanished": 13,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first125.png",
+    "circles": 8,
+    "squares": 6,
+    "triangles": 12,
+    "vanished": 13,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first126.png",
+    "circles": 8,
+    "squares": 5,
+    "triangles": 13,
+    "vanished": 13,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first127.png",
+    "circles": 7,
+    "squares": 13,
+    "triangles": 6,
+    "vanished": 13,
+    "gpt_response": "COUNT:10",
+    "Output": 10,
+    "ERROR": null
+  },
+  {
+    "id": "first128.png",
+    "circles": 14,
+    "squares": 7,
+    "triangles": 5,
+    "vanished": 13,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first129.png",
+    "circles": 11,
+    "squares": 8,
+    "triangles": 7,
+    "vanished": 13,
+    "gpt_response": "COUNT:7",
+    "Output": 7,
+    "ERROR": null
+  },
+  {
+    "id": "first130.png",
+    "circles": 11,
+    "squares": 11,
+    "triangles": 4,
+    "vanished": 13,
+    "gpt_response": "COUNT:7",
+    "Output": 7,
+    "ERROR": null
+  },
+  {
+    "id": "first131.png",
+    "circles": 10,
+    "squares": 10,
+    "triangles": 8,
+    "vanished": 14,
+    "gpt_response": "COUNT:7",
+    "Output": 7,
+    "ERROR": null
+  },
+  {
+    "id": "first132.png",
+    "circles": 12,
+    "squares": 7,
+    "triangles": 9,
+    "vanished": 14,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first133.png",
+    "circles": 9,
+    "squares": 12,
+    "triangles": 7,
+    "vanished": 14,
+    "gpt_response": "COUNT:6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "first134.png",
+    "circles": 11,
+    "squares": 11,
+    "triangles": 6,
+    "vanished": 14,
+    "gpt_response": "COUNT:6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "first135.png",
+    "circles": 9,
+    "squares": 5,
+    "triangles": 14,
+    "vanished": 14,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first136.png",
+    "circles": 6,
+    "squares": 5,
+    "triangles": 17,
+    "vanished": 14,
+    "gpt_response": "COUNT:6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "first137.png",
+    "circles": 12,
+    "squares": 7,
+    "triangles": 9,
+    "vanished": 14,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first138.png",
+    "circles": 10,
+    "squares": 9,
+    "triangles": 9,
+    "vanished": 14,
+    "gpt_response": "COUNT:6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "first139.png",
+    "circles": 10,
+    "squares": 10,
+    "triangles": 8,
+    "vanished": 14,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first140.png",
+    "circles": 11,
+    "squares": 10,
+    "triangles": 7,
+    "vanished": 14,
+    "gpt_response": "COUNT:6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "first141.png",
+    "circles": 10,
+    "squares": 10,
+    "triangles": 10,
+    "vanished": 15,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first142.png",
+    "circles": 13,
+    "squares": 7,
+    "triangles": 10,
+    "vanished": 15,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first143.png",
+    "circles": 8,
+    "squares": 15,
+    "triangles": 7,
+    "vanished": 15,
+    "gpt_response": "COUNT:8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "first144.png",
+    "circles": 10,
+    "squares": 12,
+    "triangles": 8,
+    "vanished": 15,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first145.png",
+    "circles": 9,
+    "squares": 9,
+    "triangles": 12,
+    "vanished": 15,
+    "gpt_response": "COUNT:6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "first146.png",
+    "circles": 8,
+    "squares": 11,
+    "triangles": 11,
+    "vanished": 15,
+    "gpt_response": "COUNT:7",
+    "Output": 7,
+    "ERROR": null
+  },
+  {
+    "id": "first147.png",
+    "circles": 5,
+    "squares": 9,
+    "triangles": 16,
+    "vanished": 15,
+    "gpt_response": "COUNT:9",
+    "Output": 9,
+    "ERROR": null
+  },
+  {
+    "id": "first148.png",
+    "circles": 12,
+    "squares": 5,
+    "triangles": 13,
+    "vanished": 15,
+    "gpt_response": "COUNT:7",
+    "Output": 7,
+    "ERROR": null
+  },
+  {
+    "id": "first149.png",
+    "circles": 11,
+    "squares": 12,
+    "triangles": 7,
+    "vanished": 15,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first150.png",
+    "circles": 13,
+    "squares": 3,
+    "triangles": 14,
+    "vanished": 15,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first151.png",
+    "circles": 10,
+    "squares": 10,
+    "triangles": 12,
+    "vanished": 16,
+    "gpt_response": "COUNT:7",
+    "Output": 7,
+    "ERROR": null
+  },
+  {
+    "id": "first152.png",
+    "circles": 8,
+    "squares": 11,
+    "triangles": 13,
+    "vanished": 16,
+    "gpt_response": "COUNT:6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "first153.png",
+    "circles": 10,
+    "squares": 16,
+    "triangles": 6,
+    "vanished": 16,
+    "gpt_response": "COUNT:8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "first154.png",
+    "circles": 10,
+    "squares": 13,
+    "triangles": 9,
+    "vanished": 16,
+    "gpt_response": "COUNT:8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "first155.png",
+    "circles": 7,
+    "squares": 11,
+    "triangles": 14,
+    "vanished": 16,
+    "gpt_response": "COUNT:6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "first156.png",
+    "circles": 8,
+    "squares": 9,
+    "triangles": 15,
+    "vanished": 16,
+    "gpt_response": "COUNT:10",
+    "Output": 10,
+    "ERROR": null
+  },
+  {
+    "id": "first157.png",
+    "circles": 14,
+    "squares": 10,
+    "triangles": 8,
+    "vanished": 16,
+    "gpt_response": "COUNT:8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "first158.png",
+    "circles": 10,
+    "squares": 11,
+    "triangles": 11,
+    "vanished": 16,
+    "gpt_response": "COUNT:8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "first159.png",
+    "circles": 16,
+    "squares": 10,
+    "triangles": 6,
+    "vanished": 16,
+    "gpt_response": "COUNT:6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "first160.png",
+    "circles": 12,
+    "squares": 10,
+    "triangles": 10,
+    "vanished": 16,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first161.png",
+    "circles": 13,
+    "squares": 8,
+    "triangles": 13,
+    "vanished": 17,
+    "gpt_response": "COUNT:7",
+    "Output": 7,
+    "ERROR": null
+  },
+  {
+    "id": "first162.png",
+    "circles": 16,
+    "squares": 9,
+    "triangles": 9,
+    "vanished": 17,
+    "gpt_response": "COUNT:6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "first163.png",
+    "circles": 9,
+    "squares": 14,
+    "triangles": 11,
+    "vanished": 17,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first164.png",
+    "circles": 13,
+    "squares": 10,
+    "triangles": 11,
+    "vanished": 17,
+    "gpt_response": "COUNT:10",
+    "Output": 10,
+    "ERROR": null
+  },
+  {
+    "id": "first165.png",
+    "circles": 8,
+    "squares": 13,
+    "triangles": 13,
+    "vanished": 17,
+    "gpt_response": "COUNT:6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "first166.png",
+    "circles": 10,
+    "squares": 16,
+    "triangles": 8,
+    "vanished": 17,
+    "gpt_response": "COUNT:7",
+    "Output": 7,
+    "ERROR": null
+  },
+  {
+    "id": "first167.png",
+    "circles": 9,
+    "squares": 12,
+    "triangles": 13,
+    "vanished": 17,
+    "gpt_response": "COUNT:8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "first168.png",
+    "circles": 13,
+    "squares": 9,
+    "triangles": 12,
+    "vanished": 17,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first169.png",
+    "circles": 10,
+    "squares": 14,
+    "triangles": 10,
+    "vanished": 17,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first170.png",
+    "circles": 9,
+    "squares": 11,
+    "triangles": 14,
+    "vanished": 17,
+    "gpt_response": "COUNT:8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "first171.png",
+    "circles": 12,
+    "squares": 13,
+    "triangles": 11,
+    "vanished": 18,
+    "gpt_response": "COUNT:10",
+    "Output": 10,
+    "ERROR": null
+  },
+  {
+    "id": "first172.png",
+    "circles": 10,
+    "squares": 13,
+    "triangles": 13,
+    "vanished": 18,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first173.png",
+    "circles": 10,
+    "squares": 11,
+    "triangles": 15,
+    "vanished": 18,
+    "gpt_response": "COUNT:8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "first174.png",
+    "circles": 11,
+    "squares": 15,
+    "triangles": 10,
+    "vanished": 18,
+    "gpt_response": "COUNT:6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "first175.png",
+    "circles": 15,
+    "squares": 14,
+    "triangles": 7,
+    "vanished": 18,
+    "gpt_response": "COUNT:8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "first176.png",
+    "circles": 15,
+    "squares": 11,
+    "triangles": 10,
+    "vanished": 18,
+    "gpt_response": "COUNT:7",
+    "Output": 7,
+    "ERROR": null
+  },
+  {
+    "id": "first177.png",
+    "circles": 11,
+    "squares": 6,
+    "triangles": 19,
+    "vanished": 18,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first178.png",
+    "circles": 11,
+    "squares": 9,
+    "triangles": 16,
+    "vanished": 18,
+    "gpt_response": "COUNT:8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "first179.png",
+    "circles": 14,
+    "squares": 10,
+    "triangles": 12,
+    "vanished": 18,
+    "gpt_response": "COUNT:7",
+    "Output": 7,
+    "ERROR": null
+  },
+  {
+    "id": "first180.png",
+    "circles": 9,
+    "squares": 10,
+    "triangles": 17,
+    "vanished": 18,
+    "gpt_response": "COUNT:8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "first181.png",
+    "circles": 12,
+    "squares": 9,
+    "triangles": 17,
+    "vanished": 19,
+    "gpt_response": "COUNT:10",
+    "Output": 10,
+    "ERROR": null
+  },
+  {
+    "id": "first182.png",
+    "circles": 13,
+    "squares": 8,
+    "triangles": 17,
+    "vanished": 19,
+    "gpt_response": "COUNT:8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "first183.png",
+    "circles": 14,
+    "squares": 11,
+    "triangles": 13,
+    "vanished": 19,
+    "gpt_response": "COUNT:7",
+    "Output": 7,
+    "ERROR": null
+  },
+  {
+    "id": "first184.png",
+    "circles": 18,
+    "squares": 10,
+    "triangles": 10,
+    "vanished": 19,
+    "gpt_response": "COUNT:6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "first185.png",
+    "circles": 10,
+    "squares": 10,
+    "triangles": 18,
+    "vanished": 19,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first186.png",
+    "circles": 14,
+    "squares": 13,
+    "triangles": 11,
+    "vanished": 19,
+    "gpt_response": "COUNT:10",
+    "Output": 10,
+    "ERROR": null
+  },
+  {
+    "id": "first187.png",
+    "circles": 7,
+    "squares": 14,
+    "triangles": 17,
+    "vanished": 19,
+    "gpt_response": "COUNT:8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "first188.png",
+    "circles": 19,
+    "squares": 11,
+    "triangles": 8,
+    "vanished": 19,
+    "gpt_response": "COUNT:10",
+    "Output": 10,
+    "ERROR": null
+  },
+  {
+    "id": "first189.png",
+    "circles": 13,
+    "squares": 13,
+    "triangles": 12,
+    "vanished": 19,
+    "gpt_response": "COUNT:7",
+    "Output": 7,
+    "ERROR": null
+  },
+  {
+    "id": "first190.png",
+    "circles": 18,
+    "squares": 9,
+    "triangles": 11,
+    "vanished": 19,
+    "gpt_response": "COUNT:10",
+    "Output": 10,
+    "ERROR": null
+  },
+  {
+    "id": "first191.png",
+    "circles": 15,
+    "squares": 13,
+    "triangles": 12,
+    "vanished": 20,
+    "gpt_response": "COUNT:10",
+    "Output": 10,
+    "ERROR": null
+  },
+  {
+    "id": "first192.png",
+    "circles": 11,
+    "squares": 15,
+    "triangles": 14,
+    "vanished": 20,
+    "gpt_response": "COUNT:10",
+    "Output": 10,
+    "ERROR": null
+  },
+  {
+    "id": "first193.png",
+    "circles": 15,
+    "squares": 12,
+    "triangles": 13,
+    "vanished": 20,
+    "gpt_response": "COUNT:9",
+    "Output": 9,
+    "ERROR": null
+  },
+  {
+    "id": "first194.png",
+    "circles": 12,
+    "squares": 10,
+    "triangles": 18,
+    "vanished": 20,
+    "gpt_response": "COUNT:8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "first195.png",
+    "circles": 12,
+    "squares": 15,
+    "triangles": 13,
+    "vanished": 20,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "first196.png",
+    "circles": 8,
+    "squares": 21,
+    "triangles": 11,
+    "vanished": 20,
+    "gpt_response": "COUNT:9",
+    "Output": 9,
+    "ERROR": null
+  },
+  {
+    "id": "first197.png",
+    "circles": 17,
+    "squares": 9,
+    "triangles": 14,
+    "vanished": 20,
+    "gpt_response": "COUNT:10",
+    "Output": 10,
+    "ERROR": null
+  },
+  {
+    "id": "first198.png",
+    "circles": 7,
+    "squares": 17,
+    "triangles": 16,
+    "vanished": 20,
+    "gpt_response": "COUNT:10",
+    "Output": 10,
+    "ERROR": null
+  },
+  {
+    "id": "first199.png",
+    "circles": 13,
+    "squares": 13,
+    "triangles": 14,
+    "vanished": 20,
+    "gpt_response": "COUNT:10",
+    "Output": 10,
+    "ERROR": null
+  },
+  {
+    "id": "first200.png",
+    "circles": 15,
+    "squares": 12,
+    "triangles": 13,
+    "vanished": 20,
+    "gpt_response": "COUNT:6",
+    "Output": 6,
+    "ERROR": null
+  }
+]

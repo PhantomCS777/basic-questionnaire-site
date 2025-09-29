@@ -1,0 +1,1 @@
+- Identify the shape present in each row.

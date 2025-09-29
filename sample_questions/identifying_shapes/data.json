@@ -1,0 +1,5802 @@
+[
+    {
+        "id": "1.png",
+        "Gold_output": [
+            "Diamond"
+        ],
+        "Gold_side": [
+            4
+        ],
+        "Rows": 1
+    },
+    {
+        "id": "2.png",
+        "Gold_output": [
+            "Triangle"
+        ],
+        "Gold_side": [
+            3
+        ],
+        "Rows": 1
+    },
+    {
+        "id": "3.png",
+        "Gold_output": [
+            "Hexagon"
+        ],
+        "Gold_side": [
+            6
+        ],
+        "Rows": 1
+    },
+    {
+        "id": "4.png",
+        "Gold_output": [
+            "Diamond"
+        ],
+        "Gold_side": [
+            4
+        ],
+        "Rows": 1
+    },
+    {
+        "id": "5.png",
+        "Gold_output": [
+            "Diamond"
+        ],
+        "Gold_side": [
+            4
+        ],
+        "Rows": 1
+    },
+    {
+        "id": "6.png",
+        "Gold_output": [
+            "Circle"
+        ],
+        "Gold_side": [
+            0
+        ],
+        "Rows": 1
+    },
+    {
+        "id": "7.png",
+        "Gold_output": [
+            "Diamond"
+        ],
+        "Gold_side": [
+            4
+        ],
+        "Rows": 1
+    },
+    {
+        "id": "8.png",
+        "Gold_output": [
+            "Hexagon"
+        ],
+        "Gold_side": [
+            6
+        ],
+        "Rows": 1
+    },
+    {
+        "id": "9.png",
+        "Gold_output": [
+            "Circle"
+        ],
+        "Gold_side": [
+            0
+        ],
+        "Rows": 1
+    },
+    {
+        "id": "10.png",
+        "Gold_output": [
+            "Circle"
+        ],
+        "Gold_side": [
+            0
+        ],
+        "Rows": 1
+    },
+    {
+        "id": "11.png",
+        "Gold_output": [
+            "Circle",
+            "Pentagon"
+        ],
+        "Gold_side": [
+            0,
+            5
+        ],
+        "Rows": 2
+    },
+    {
+        "id": "12.png",
+        "Gold_output": [
+            "Pentagon",
+            "Pentagon"
+        ],
+        "Gold_side": [
+            5,
+            5
+        ],
+        "Rows": 2
+    },
+    {
+        "id": "13.png",
+        "Gold_output": [
+            "Circle",
+            "Circle"
+        ],
+        "Gold_side": [
+            0,
+            0
+        ],
+        "Rows": 2
+    },
+    {
+        "id": "14.png",
+        "Gold_output": [
+            "Diamond",
+            "Diamond"
+        ],
+        "Gold_side": [
+            4,
+            4
+        ],
+        "Rows": 2
+    },
+    {
+        "id": "15.png",
+        "Gold_output": [
+            "Circle",
+            "Triangle"
+        ],
+        "Gold_side": [
+            0,
+            3
+        ],
+        "Rows": 2
+    },
+    {
+        "id": "16.png",
+        "Gold_output": [
+            "Hexagon",
+            "Circle"
+        ],
+        "Gold_side": [
+            6,
+            0
+        ],
+        "Rows": 2
+    },
+    {
+        "id": "17.png",
+        "Gold_output": [
+            "Triangle",
+            "Hexagon"
+        ],
+        "Gold_side": [
+            3,
+            6
+        ],
+        "Rows": 2
+    },
+    {
+        "id": "18.png",
+        "Gold_output": [
+            "Pentagon",
+            "Triangle"
+        ],
+        "Gold_side": [
+            5,
+            3
+        ],
+        "Rows": 2
+    },
+    {
+        "id": "19.png",
+        "Gold_output": [
+            "Hexagon",
+            "Diamond"
+        ],
+        "Gold_side": [
+            6,
+            4
+        ],
+        "Rows": 2
+    },
+    {
+        "id": "20.png",
+        "Gold_output": [
+            "Diamond",
+            "Diamond"
+        ],
+        "Gold_side": [
+            4,
+            4
+        ],
+        "Rows": 2
+    },
+    {
+        "id": "21.png",
+        "Gold_output": [
+            "Hexagon",
+            "Circle",
+            "Circle"
+        ],
+        "Gold_side": [
+            6,
+            0,
+            0
+        ],
+        "Rows": 3
+    },
+    {
+        "id": "22.png",
+        "Gold_output": [
+            "Triangle",
+            "Diamond",
+            "Pentagon"
+        ],
+        "Gold_side": [
+            3,
+            4,
+            5
+        ],
+        "Rows": 3
+    },
+    {
+        "id": "23.png",
+        "Gold_output": [
+            "Pentagon",
+            "Hexagon",
+            "Triangle"
+        ],
+        "Gold_side": [
+            5,
+            6,
+            3
+        ],
+        "Rows": 3
+    },
+    {
+        "id": "24.png",
+        "Gold_output": [
+            "Circle",
+            "Triangle",
+            "Circle"
+        ],
+        "Gold_side": [
+            0,
+            3,
+            0
+        ],
+        "Rows": 3
+    },
+    {
+        "id": "25.png",
+        "Gold_output": [
+            "Hexagon",
+            "Pentagon",
+            "Circle"
+        ],
+        "Gold_side": [
+            6,
+            5,
+            0
+        ],
+        "Rows": 3
+    },
+    {
+        "id": "26.png",
+        "Gold_output": [
+            "Hexagon",
+            "Diamond",
+            "Diamond"
+        ],
+        "Gold_side": [
+            6,
+            4,
+            4
+        ],
+        "Rows": 3
+    },
+    {
+        "id": "27.png",
+        "Gold_output": [
+            "Diamond",
+            "Hexagon",
+            "Triangle"
+        ],
+        "Gold_side": [
+            4,
+            6,
+            3
+        ],
+        "Rows": 3
+    },
+    {
+        "id": "28.png",
+        "Gold_output": [
+            "Diamond",
+            "Pentagon",
+            "Diamond"
+        ],
+        "Gold_side": [
+            4,
+            5,
+            4
+        ],
+        "Rows": 3
+    },
+    {
+        "id": "29.png",
+        "Gold_output": [
+            "Pentagon",
+            "Triangle",
+            "Hexagon"
+        ],
+        "Gold_side": [
+            5,
+            3,
+            6
+        ],
+        "Rows": 3
+    },
+    {
+        "id": "30.png",
+        "Gold_output": [
+            "Circle",
+            "Diamond",
+            "Triangle"
+        ],
+        "Gold_side": [
+            0,
+            4,
+            3
+        ],
+        "Rows": 3
+    },
+    {
+        "id": "31.png",
+        "Gold_output": [
+            "Hexagon",
+            "Triangle",
+            "Pentagon",
+            "Diamond"
+        ],
+        "Gold_side": [
+            6,
+            3,
+            5,
+            4
+        ],
+        "Rows": 4
+    },
+    {
+        "id": "32.png",
+        "Gold_output": [
+            "Diamond",
+            "Triangle",
+            "Diamond",
+            "Diamond"
+        ],
+        "Gold_side": [
+            4,
+            3,
+            4,
+            4
+        ],
+        "Rows": 4
+    },
+    {
+        "id": "33.png",
+        "Gold_output": [
+            "Circle",
+            "Hexagon",
+            "Hexagon",
+            "Pentagon"
+        ],
+        "Gold_side": [
+            0,
+            6,
+            6,
+            5
+        ],
+        "Rows": 4
+    },
+    {
+        "id": "34.png",
+        "Gold_output": [
+            "Pentagon",
+            "Triangle",
+            "Hexagon",
+            "Diamond"
+        ],
+        "Gold_side": [
+            5,
+            3,
+            6,
+            4
+        ],
+        "Rows": 4
+    },
+    {
+        "id": "35.png",
+        "Gold_output": [
+            "Triangle",
+            "Diamond",
+            "Pentagon",
+            "Diamond"
+        ],
+        "Gold_side": [
+            3,
+            4,
+            5,
+            4
+        ],
+        "Rows": 4
+    },
+    {
+        "id": "36.png",
+        "Gold_output": [
+            "Pentagon",
+            "Circle",
+            "Triangle",
+            "Hexagon"
+        ],
+        "Gold_side": [
+            5,
+            0,
+            3,
+            6
+        ],
+        "Rows": 4
+    },
+    {
+        "id": "37.png",
+        "Gold_output": [
+            "Pentagon",
+            "Diamond",
+            "Hexagon",
+            "Pentagon"
+        ],
+        "Gold_side": [
+            5,
+            4,
+            6,
+            5
+        ],
+        "Rows": 4
+    },
+    {
+        "id": "38.png",
+        "Gold_output": [
+            "Diamond",
+            "Diamond",
+            "Hexagon",
+            "Hexagon"
+        ],
+        "Gold_side": [
+            4,
+            4,
+            6,
+            6
+        ],
+        "Rows": 4
+    },
+    {
+        "id": "39.png",
+        "Gold_output": [
+            "Circle",
+            "Diamond",
+            "Circle",
+            "Circle"
+        ],
+        "Gold_side": [
+            0,
+            4,
+            0,
+            0
+        ],
+        "Rows": 4
+    },
+    {
+        "id": "40.png",
+        "Gold_output": [
+            "Hexagon",
+            "Hexagon",
+            "Triangle",
+            "Circle"
+        ],
+        "Gold_side": [
+            6,
+            6,
+            3,
+            0
+        ],
+        "Rows": 4
+    },
+    {
+        "id": "41.png",
+        "Gold_output": [
+            "Triangle",
+            "Hexagon",
+            "Hexagon",
+            "Diamond",
+            "Diamond"
+        ],
+        "Gold_side": [
+            3,
+            6,
+            6,
+            4,
+            4
+        ],
+        "Rows": 5
+    },
+    {
+        "id": "42.png",
+        "Gold_output": [
+            "Diamond",
+            "Circle",
+            "Pentagon",
+            "Triangle",
+            "Circle"
+        ],
+        "Gold_side": [
+            4,
+            0,
+            5,
+            3,
+            0
+        ],
+        "Rows": 5
+    },
+    {
+        "id": "43.png",
+        "Gold_output": [
+            "Triangle",
+            "Triangle",
+            "Circle",
+            "Triangle",
+            "Pentagon"
+        ],
+        "Gold_side": [
+            3,
+            3,
+            0,
+            3,
+            5
+        ],
+        "Rows": 5
+    },
+    {
+        "id": "44.png",
+        "Gold_output": [
+            "Diamond",
+            "Diamond",
+            "Circle",
+            "Pentagon",
+            "Circle"
+        ],
+        "Gold_side": [
+            4,
+            4,
+            0,
+            5,
+            0
+        ],
+        "Rows": 5
+    },
+    {
+        "id": "45.png",
+        "Gold_output": [
+            "Diamond",
+            "Circle",
+            "Circle",
+            "Pentagon",
+            "Diamond"
+        ],
+        "Gold_side": [
+            4,
+            0,
+            0,
+            5,
+            4
+        ],
+        "Rows": 5
+    },
+    {
+        "id": "46.png",
+        "Gold_output": [
+            "Hexagon",
+            "Circle",
+            "Pentagon",
+            "Pentagon",
+            "Diamond"
+        ],
+        "Gold_side": [
+            6,
+            0,
+            5,
+            5,
+            4
+        ],
+        "Rows": 5
+    },
+    {
+        "id": "47.png",
+        "Gold_output": [
+            "Diamond",
+            "Hexagon",
+            "Circle",
+            "Diamond",
+            "Hexagon"
+        ],
+        "Gold_side": [
+            4,
+            6,
+            0,
+            4,
+            6
+        ],
+        "Rows": 5
+    },
+    {
+        "id": "48.png",
+        "Gold_output": [
+            "Circle",
+            "Hexagon",
+            "Circle",
+            "Hexagon",
+            "Hexagon"
+        ],
+        "Gold_side": [
+            0,
+            6,
+            0,
+            6,
+            6
+        ],
+        "Rows": 5
+    },
+    {
+        "id": "49.png",
+        "Gold_output": [
+            "Circle",
+            "Diamond",
+            "Hexagon",
+            "Hexagon",
+            "Circle"
+        ],
+        "Gold_side": [
+            0,
+            4,
+            6,
+            6,
+            0
+        ],
+        "Rows": 5
+    },
+    {
+        "id": "50.png",
+        "Gold_output": [
+            "Diamond",
+            "Pentagon",
+            "Hexagon",
+            "Triangle",
+            "Diamond"
+        ],
+        "Gold_side": [
+            4,
+            5,
+            6,
+            3,
+            4
+        ],
+        "Rows": 5
+    },
+    {
+        "id": "51.png",
+        "Gold_output": [
+            "Diamond",
+            "Triangle",
+            "Hexagon",
+            "Pentagon",
+            "Circle",
+            "Pentagon"
+        ],
+        "Gold_side": [
+            4,
+            3,
+            6,
+            5,
+            0,
+            5
+        ],
+        "Rows": 6
+    },
+    {
+        "id": "52.png",
+        "Gold_output": [
+            "Triangle",
+            "Pentagon",
+            "Pentagon",
+            "Pentagon",
+            "Diamond",
+            "Circle"
+        ],
+        "Gold_side": [
+            3,
+            5,
+            5,
+            5,
+            4,
+            0
+        ],
+        "Rows": 6
+    },
+    {
+        "id": "53.png",
+        "Gold_output": [
+            "Triangle",
+            "Triangle",
+            "Triangle",
+            "Diamond",
+            "Triangle",
+            "Hexagon"
+        ],
+        "Gold_side": [
+            3,
+            3,
+            3,
+            4,
+            3,
+            6
+        ],
+        "Rows": 6
+    },
+    {
+        "id": "54.png",
+        "Gold_output": [
+            "Circle",
+            "Triangle",
+            "Circle",
+            "Hexagon",
+            "Hexagon",
+            "Triangle"
+        ],
+        "Gold_side": [
+            0,
+            3,
+            0,
+            6,
+            6,
+            3
+        ],
+        "Rows": 6
+    },
+    {
+        "id": "55.png",
+        "Gold_output": [
+            "Diamond",
+            "Triangle",
+            "Hexagon",
+            "Diamond",
+            "Circle",
+            "Circle"
+        ],
+        "Gold_side": [
+            4,
+            3,
+            6,
+            4,
+            0,
+            0
+        ],
+        "Rows": 6
+    },
+    {
+        "id": "56.png",
+        "Gold_output": [
+            "Triangle",
+            "Diamond",
+            "Pentagon",
+            "Diamond",
+            "Hexagon",
+            "Hexagon"
+        ],
+        "Gold_side": [
+            3,
+            4,
+            5,
+            4,
+            6,
+            6
+        ],
+        "Rows": 6
+    },
+    {
+        "id": "57.png",
+        "Gold_output": [
+            "Circle",
+            "Triangle",
+            "Diamond",
+            "Pentagon",
+            "Triangle",
+            "Triangle"
+        ],
+        "Gold_side": [
+            0,
+            3,
+            4,
+            5,
+            3,
+            3
+        ],
+        "Rows": 6
+    },
+    {
+        "id": "58.png",
+        "Gold_output": [
+            "Diamond",
+            "Triangle",
+            "Diamond",
+            "Pentagon",
+            "Diamond",
+            "Pentagon"
+        ],
+        "Gold_side": [
+            4,
+            3,
+            4,
+            5,
+            4,
+            5
+        ],
+        "Rows": 6
+    },
+    {
+        "id": "59.png",
+        "Gold_output": [
+            "Triangle",
+            "Diamond",
+            "Hexagon",
+            "Circle",
+            "Pentagon",
+            "Diamond"
+        ],
+        "Gold_side": [
+            3,
+            4,
+            6,
+            0,
+            5,
+            4
+        ],
+        "Rows": 6
+    },
+    {
+        "id": "60.png",
+        "Gold_output": [
+            "Circle",
+            "Circle",
+            "Pentagon",
+            "Diamond",
+            "Diamond",
+            "Diamond"
+        ],
+        "Gold_side": [
+            0,
+            0,
+            5,
+            4,
+            4,
+            4
+        ],
+        "Rows": 6
+    },
+    {
+        "id": "61.png",
+        "Gold_output": [
+            "Triangle",
+            "Pentagon",
+            "Pentagon",
+            "Hexagon",
+            "Circle",
+            "Circle",
+            "Hexagon"
+        ],
+        "Gold_side": [
+            3,
+            5,
+            5,
+            6,
+            0,
+            0,
+            6
+        ],
+        "Rows": 7
+    },
+    {
+        "id": "62.png",
+        "Gold_output": [
+            "Triangle",
+            "Triangle",
+            "Hexagon",
+            "Triangle",
+            "Diamond",
+            "Triangle",
+            "Circle"
+        ],
+        "Gold_side": [
+            3,
+            3,
+            6,
+            3,
+            4,
+            3,
+            0
+        ],
+        "Rows": 7
+    },
+    {
+        "id": "63.png",
+        "Gold_output": [
+            "Pentagon",
+            "Circle",
+            "Triangle",
+            "Pentagon",
+            "Triangle",
+            "Diamond",
+            "Diamond"
+        ],
+        "Gold_side": [
+            5,
+            0,
+            3,
+            5,
+            3,
+            4,
+            4
+        ],
+        "Rows": 7
+    },
+    {
+        "id": "64.png",
+        "Gold_output": [
+            "Triangle",
+            "Diamond",
+            "Circle",
+            "Pentagon",
+            "Circle",
+            "Diamond",
+            "Diamond"
+        ],
+        "Gold_side": [
+            3,
+            4,
+            0,
+            5,
+            0,
+            4,
+            4
+        ],
+        "Rows": 7
+    },
+    {
+        "id": "65.png",
+        "Gold_output": [
+            "Pentagon",
+            "Pentagon",
+            "Pentagon",
+            "Diamond",
+            "Hexagon",
+            "Triangle",
+            "Diamond"
+        ],
+        "Gold_side": [
+            5,
+            5,
+            5,
+            4,
+            6,
+            3,
+            4
+        ],
+        "Rows": 7
+    },
+    {
+        "id": "66.png",
+        "Gold_output": [
+            "Triangle",
+            "Triangle",
+            "Diamond",
+            "Hexagon",
+            "Diamond",
+            "Diamond",
+            "Diamond"
+        ],
+        "Gold_side": [
+            3,
+            3,
+            4,
+            6,
+            4,
+            4,
+            4
+        ],
+        "Rows": 7
+    },
+    {
+        "id": "67.png",
+        "Gold_output": [
+            "Hexagon",
+            "Circle",
+            "Pentagon",
+            "Hexagon",
+            "Circle",
+            "Hexagon",
+            "Circle"
+        ],
+        "Gold_side": [
+            6,
+            0,
+            5,
+            6,
+            0,
+            6,
+            0
+        ],
+        "Rows": 7
+    },
+    {
+        "id": "68.png",
+        "Gold_output": [
+            "Pentagon",
+            "Circle",
+            "Circle",
+            "Triangle",
+            "Diamond",
+            "Pentagon",
+            "Circle"
+        ],
+        "Gold_side": [
+            5,
+            0,
+            0,
+            3,
+            4,
+            5,
+            0
+        ],
+        "Rows": 7
+    },
+    {
+        "id": "69.png",
+        "Gold_output": [
+            "Diamond",
+            "Circle",
+            "Pentagon",
+            "Hexagon",
+            "Diamond",
+            "Circle",
+            "Diamond"
+        ],
+        "Gold_side": [
+            4,
+            0,
+            5,
+            6,
+            4,
+            0,
+            4
+        ],
+        "Rows": 7
+    },
+    {
+        "id": "70.png",
+        "Gold_output": [
+            "Triangle",
+            "Triangle",
+            "Triangle",
+            "Hexagon",
+            "Pentagon",
+            "Hexagon",
+            "Triangle"
+        ],
+        "Gold_side": [
+            3,
+            3,
+            3,
+            6,
+            5,
+            6,
+            3
+        ],
+        "Rows": 7
+    },
+    {
+        "id": "71.png",
+        "Gold_output": [
+            "Hexagon",
+            "Hexagon",
+            "Circle",
+            "Circle",
+            "Diamond",
+            "Pentagon",
+            "Hexagon",
+            "Pentagon"
+        ],
+        "Gold_side": [
+            6,
+            6,
+            0,
+            0,
+            4,
+            5,
+            6,
+            5
+        ],
+        "Rows": 8
+    },
+    {
+        "id": "72.png",
+        "Gold_output": [
+            "Circle",
+            "Hexagon",
+            "Hexagon",
+            "Diamond",
+            "Circle",
+            "Pentagon",
+            "Pentagon",
+            "Diamond"
+        ],
+        "Gold_side": [
+            0,
+            6,
+            6,
+            4,
+            0,
+            5,
+            5,
+            4
+        ],
+        "Rows": 8
+    },
+    {
+        "id": "73.png",
+        "Gold_output": [
+            "Diamond",
+            "Hexagon",
+            "Hexagon",
+            "Circle",
+            "Hexagon",
+            "Circle",
+            "Pentagon",
+            "Triangle"
+        ],
+        "Gold_side": [
+            4,
+            6,
+            6,
+            0,
+            6,
+            0,
+            5,
+            3
+        ],
+        "Rows": 8
+    },
+    {
+        "id": "74.png",
+        "Gold_output": [
+            "Circle",
+            "Circle",
+            "Hexagon",
+            "Triangle",
+            "Triangle",
+            "Hexagon",
+            "Pentagon",
+            "Circle"
+        ],
+        "Gold_side": [
+            0,
+            0,
+            6,
+            3,
+            3,
+            6,
+            5,
+            0
+        ],
+        "Rows": 8
+    },
+    {
+        "id": "75.png",
+        "Gold_output": [
+            "Pentagon",
+            "Hexagon",
+            "Hexagon",
+            "Circle",
+            "Pentagon",
+            "Triangle",
+            "Hexagon",
+            "Diamond"
+        ],
+        "Gold_side": [
+            5,
+            6,
+            6,
+            0,
+            5,
+            3,
+            6,
+            4
+        ],
+        "Rows": 8
+    },
+    {
+        "id": "76.png",
+        "Gold_output": [
+            "Triangle",
+            "Diamond",
+            "Hexagon",
+            "Hexagon",
+            "Hexagon",
+            "Diamond",
+            "Triangle",
+            "Diamond"
+        ],
+        "Gold_side": [
+            3,
+            4,
+            6,
+            6,
+            6,
+            4,
+            3,
+            4
+        ],
+        "Rows": 8
+    },
+    {
+        "id": "77.png",
+        "Gold_output": [
+            "Triangle",
+            "Triangle",
+            "Hexagon",
+            "Triangle",
+            "Circle",
+            "Hexagon",
+            "Triangle",
+            "Circle"
+        ],
+        "Gold_side": [
+            3,
+            3,
+            6,
+            3,
+            0,
+            6,
+            3,
+            0
+        ],
+        "Rows": 8
+    },
+    {
+        "id": "78.png",
+        "Gold_output": [
+            "Circle",
+            "Pentagon",
+            "Triangle",
+            "Circle",
+            "Triangle",
+            "Pentagon",
+            "Circle",
+            "Pentagon"
+        ],
+        "Gold_side": [
+            0,
+            5,
+            3,
+            0,
+            3,
+            5,
+            0,
+            5
+        ],
+        "Rows": 8
+    },
+    {
+        "id": "79.png",
+        "Gold_output": [
+            "Circle",
+            "Hexagon",
+            "Hexagon",
+            "Triangle",
+            "Circle",
+            "Diamond",
+            "Diamond",
+            "Circle"
+        ],
+        "Gold_side": [
+            0,
+            6,
+            6,
+            3,
+            0,
+            4,
+            4,
+            0
+        ],
+        "Rows": 8
+    },
+    {
+        "id": "80.png",
+        "Gold_output": [
+            "Diamond",
+            "Hexagon",
+            "Diamond",
+            "Hexagon",
+            "Triangle",
+            "Diamond",
+            "Circle",
+            "Pentagon"
+        ],
+        "Gold_side": [
+            4,
+            6,
+            4,
+            6,
+            3,
+            4,
+            0,
+            5
+        ],
+        "Rows": 8
+    },
+    {
+        "id": "81.png",
+        "Gold_output": [
+            "Pentagon",
+            "Hexagon",
+            "Pentagon",
+            "Hexagon",
+            "Pentagon",
+            "Triangle",
+            "Circle",
+            "Triangle",
+            "Diamond"
+        ],
+        "Gold_side": [
+            5,
+            6,
+            5,
+            6,
+            5,
+            3,
+            0,
+            3,
+            4
+        ],
+        "Rows": 9
+    },
+    {
+        "id": "82.png",
+        "Gold_output": [
+            "Circle",
+            "Diamond",
+            "Hexagon",
+            "Diamond",
+            "Circle",
+            "Circle",
+            "Diamond",
+            "Triangle",
+            "Pentagon"
+        ],
+        "Gold_side": [
+            0,
+            4,
+            6,
+            4,
+            0,
+            0,
+            4,
+            3,
+            5
+        ],
+        "Rows": 9
+    },
+    {
+        "id": "83.png",
+        "Gold_output": [
+            "Pentagon",
+            "Pentagon",
+            "Hexagon",
+            "Triangle",
+            "Hexagon",
+            "Pentagon",
+            "Triangle",
+            "Pentagon",
+            "Hexagon"
+        ],
+        "Gold_side": [
+            5,
+            5,
+            6,
+            3,
+            6,
+            5,
+            3,
+            5,
+            6
+        ],
+        "Rows": 9
+    },
+    {
+        "id": "84.png",
+        "Gold_output": [
+            "Diamond",
+            "Circle",
+            "Diamond",
+            "Circle",
+            "Pentagon",
+            "Pentagon",
+            "Diamond",
+            "Pentagon",
+            "Diamond"
+        ],
+        "Gold_side": [
+            4,
+            0,
+            4,
+            0,
+            5,
+            5,
+            4,
+            5,
+            4
+        ],
+        "Rows": 9
+    },
+    {
+        "id": "85.png",
+        "Gold_output": [
+            "Circle",
+            "Pentagon",
+            "Diamond",
+            "Triangle",
+            "Pentagon",
+            "Hexagon",
+            "Diamond",
+            "Circle",
+            "Hexagon"
+        ],
+        "Gold_side": [
+            0,
+            5,
+            4,
+            3,
+            5,
+            6,
+            4,
+            0,
+            6
+        ],
+        "Rows": 9
+    },
+    {
+        "id": "86.png",
+        "Gold_output": [
+            "Circle",
+            "Pentagon",
+            "Triangle",
+            "Pentagon",
+            "Triangle",
+            "Circle",
+            "Hexagon",
+            "Circle",
+            "Hexagon"
+        ],
+        "Gold_side": [
+            0,
+            5,
+            3,
+            5,
+            3,
+            0,
+            6,
+            0,
+            6
+        ],
+        "Rows": 9
+    },
+    {
+        "id": "87.png",
+        "Gold_output": [
+            "Triangle",
+            "Diamond",
+            "Diamond",
+            "Hexagon",
+            "Hexagon",
+            "Hexagon",
+            "Hexagon",
+            "Circle",
+            "Diamond"
+        ],
+        "Gold_side": [
+            3,
+            4,
+            4,
+            6,
+            6,
+            6,
+            6,
+            0,
+            4
+        ],
+        "Rows": 9
+    },
+    {
+        "id": "88.png",
+        "Gold_output": [
+            "Pentagon",
+            "Pentagon",
+            "Circle",
+            "Pentagon",
+            "Triangle",
+            "Pentagon",
+            "Pentagon",
+            "Hexagon",
+            "Circle"
+        ],
+        "Gold_side": [
+            5,
+            5,
+            0,
+            5,
+            3,
+            5,
+            5,
+            6,
+            0
+        ],
+        "Rows": 9
+    },
+    {
+        "id": "89.png",
+        "Gold_output": [
+            "Hexagon",
+            "Hexagon",
+            "Triangle",
+            "Diamond",
+            "Triangle",
+            "Circle",
+            "Triangle",
+            "Diamond",
+            "Hexagon"
+        ],
+        "Gold_side": [
+            6,
+            6,
+            3,
+            4,
+            3,
+            0,
+            3,
+            4,
+            6
+        ],
+        "Rows": 9
+    },
+    {
+        "id": "90.png",
+        "Gold_output": [
+            "Triangle",
+            "Diamond",
+            "Circle",
+            "Diamond",
+            "Circle",
+            "Circle",
+            "Hexagon",
+            "Pentagon",
+            "Circle"
+        ],
+        "Gold_side": [
+            3,
+            4,
+            0,
+            4,
+            0,
+            0,
+            6,
+            5,
+            0
+        ],
+        "Rows": 9
+    },
+    {
+        "id": "91.png",
+        "Gold_output": [
+            "Circle",
+            "Circle",
+            "Triangle",
+            "Pentagon",
+            "Pentagon",
+            "Hexagon",
+            "Pentagon",
+            "Pentagon",
+            "Pentagon",
+            "Circle"
+        ],
+        "Gold_side": [
+            0,
+            0,
+            3,
+            5,
+            5,
+            6,
+            5,
+            5,
+            5,
+            0
+        ],
+        "Rows": 10
+    },
+    {
+        "id": "92.png",
+        "Gold_output": [
+            "Pentagon",
+            "Triangle",
+            "Circle",
+            "Triangle",
+            "Triangle",
+            "Diamond",
+            "Diamond",
+            "Circle",
+            "Hexagon",
+            "Circle"
+        ],
+        "Gold_side": [
+            5,
+            3,
+            0,
+            3,
+            3,
+            4,
+            4,
+            0,
+            6,
+            0
+        ],
+        "Rows": 10
+    },
+    {
+        "id": "93.png",
+        "Gold_output": [
+            "Circle",
+            "Triangle",
+            "Hexagon",
+            "Pentagon",
+            "Triangle",
+            "Pentagon",
+            "Triangle",
+            "Hexagon",
+            "Hexagon",
+            "Diamond"
+        ],
+        "Gold_side": [
+            0,
+            3,
+            6,
+            5,
+            3,
+            5,
+            3,
+            6,
+            6,
+            4
+        ],
+        "Rows": 10
+    },
+    {
+        "id": "94.png",
+        "Gold_output": [
+            "Circle",
+            "Circle",
+            "Hexagon",
+            "Triangle",
+            "Hexagon",
+            "Triangle",
+            "Diamond",
+            "Hexagon",
+            "Triangle",
+            "Diamond"
+        ],
+        "Gold_side": [
+            0,
+            0,
+            6,
+            3,
+            6,
+            3,
+            4,
+            6,
+            3,
+            4
+        ],
+        "Rows": 10
+    },
+    {
+        "id": "95.png",
+        "Gold_output": [
+            "Hexagon",
+            "Circle",
+            "Diamond",
+            "Hexagon",
+            "Hexagon",
+            "Diamond",
+            "Diamond",
+            "Diamond",
+            "Circle",
+            "Pentagon"
+        ],
+        "Gold_side": [
+            6,
+            0,
+            4,
+            6,
+            6,
+            4,
+            4,
+            4,
+            0,
+            5
+        ],
+        "Rows": 10
+    },
+    {
+        "id": "96.png",
+        "Gold_output": [
+            "Diamond",
+            "Hexagon",
+            "Triangle",
+            "Triangle",
+            "Circle",
+            "Circle",
+            "Pentagon",
+            "Triangle",
+            "Circle",
+            "Hexagon"
+        ],
+        "Gold_side": [
+            4,
+            6,
+            3,
+            3,
+            0,
+            0,
+            5,
+            3,
+            0,
+            6
+        ],
+        "Rows": 10
+    },
+    {
+        "id": "97.png",
+        "Gold_output": [
+            "Triangle",
+            "Diamond",
+            "Pentagon",
+            "Diamond",
+            "Triangle",
+            "Circle",
+            "Triangle",
+            "Hexagon",
+            "Triangle",
+            "Circle"
+        ],
+        "Gold_side": [
+            3,
+            4,
+            5,
+            4,
+            3,
+            0,
+            3,
+            6,
+            3,
+            0
+        ],
+        "Rows": 10
+    },
+    {
+        "id": "98.png",
+        "Gold_output": [
+            "Hexagon",
+            "Pentagon",
+            "Circle",
+            "Circle",
+            "Circle",
+            "Circle",
+            "Pentagon",
+            "Hexagon",
+            "Diamond",
+            "Circle"
+        ],
+        "Gold_side": [
+            6,
+            5,
+            0,
+            0,
+            0,
+            0,
+            5,
+            6,
+            4,
+            0
+        ],
+        "Rows": 10
+    },
+    {
+        "id": "99.png",
+        "Gold_output": [
+            "Diamond",
+            "Triangle",
+            "Diamond",
+            "Pentagon",
+            "Pentagon",
+            "Pentagon",
+            "Triangle",
+            "Circle",
+            "Hexagon",
+            "Diamond"
+        ],
+        "Gold_side": [
+            4,
+            3,
+            4,
+            5,
+            5,
+            5,
+            3,
+            0,
+            6,
+            4
+        ],
+        "Rows": 10
+    },
+    {
+        "id": "100.png",
+        "Gold_output": [
+            "Pentagon",
+            "Hexagon",
+            "Diamond",
+            "Diamond",
+            "Triangle",
+            "Triangle",
+            "Hexagon",
+            "Diamond",
+            "Pentagon",
+            "Hexagon"
+        ],
+        "Gold_side": [
+            5,
+            6,
+            4,
+            4,
+            3,
+            3,
+            6,
+            4,
+            5,
+            6
+        ],
+        "Rows": 10
+    },
+    {
+        "id": "101.png",
+        "Gold_output": [
+            "Diamond",
+            "Hexagon",
+            "Diamond",
+            "Pentagon",
+            "Diamond",
+            "Diamond",
+            "Triangle",
+            "Hexagon",
+            "Diamond",
+            "Pentagon",
+            "Triangle"
+        ],
+        "Gold_side": [
+            4,
+            6,
+            4,
+            5,
+            4,
+            4,
+            3,
+            6,
+            4,
+            5,
+            3
+        ],
+        "Rows": 11
+    },
+    {
+        "id": "102.png",
+        "Gold_output": [
+            "Circle",
+            "Diamond",
+            "Diamond",
+            "Pentagon",
+            "Pentagon",
+            "Circle",
+            "Hexagon",
+            "Circle",
+            "Pentagon",
+            "Pentagon",
+            "Hexagon"
+        ],
+        "Gold_side": [
+            0,
+            4,
+            4,
+            5,
+            5,
+            0,
+            6,
+            0,
+            5,
+            5,
+            6
+        ],
+        "Rows": 11
+    },
+    {
+        "id": "103.png",
+        "Gold_output": [
+            "Hexagon",
+            "Pentagon",
+            "Hexagon",
+            "Diamond",
+            "Pentagon",
+            "Pentagon",
+            "Triangle",
+            "Hexagon",
+            "Triangle",
+            "Hexagon",
+            "Triangle"
+        ],
+        "Gold_side": [
+            6,
+            5,
+            6,
+            4,
+            5,
+            5,
+            3,
+            6,
+            3,
+            6,
+            3
+        ],
+        "Rows": 11
+    },
+    {
+        "id": "104.png",
+        "Gold_output": [
+            "Diamond",
+            "Diamond",
+            "Hexagon",
+            "Diamond",
+            "Hexagon",
+            "Hexagon",
+            "Pentagon",
+            "Pentagon",
+            "Circle",
+            "Hexagon",
+            "Hexagon"
+        ],
+        "Gold_side": [
+            4,
+            4,
+            6,
+            4,
+            6,
+            6,
+            5,
+            5,
+            0,
+            6,
+            6
+        ],
+        "Rows": 11
+    },
+    {
+        "id": "105.png",
+        "Gold_output": [
+            "Pentagon",
+            "Pentagon",
+            "Circle",
+            "Hexagon",
+            "Pentagon",
+            "Triangle",
+            "Circle",
+            "Diamond",
+            "Circle",
+            "Circle",
+            "Circle"
+        ],
+        "Gold_side": [
+            5,
+            5,
+            0,
+            6,
+            5,
+            3,
+            0,
+            4,
+            0,
+            0,
+            0
+        ],
+        "Rows": 11
+    },
+    {
+        "id": "106.png",
+        "Gold_output": [
+            "Triangle",
+            "Diamond",
+            "Pentagon",
+            "Diamond",
+            "Hexagon",
+            "Circle",
+            "Diamond",
+            "Pentagon",
+            "Circle",
+            "Circle",
+            "Pentagon"
+        ],
+        "Gold_side": [
+            3,
+            4,
+            5,
+            4,
+            6,
+            0,
+            4,
+            5,
+            0,
+            0,
+            5
+        ],
+        "Rows": 11
+    },
+    {
+        "id": "107.png",
+        "Gold_output": [
+            "Hexagon",
+            "Diamond",
+            "Diamond",
+            "Hexagon",
+            "Circle",
+            "Pentagon",
+            "Hexagon",
+            "Circle",
+            "Diamond",
+            "Hexagon",
+            "Triangle"
+        ],
+        "Gold_side": [
+            6,
+            4,
+            4,
+            6,
+            0,
+            5,
+            6,
+            0,
+            4,
+            6,
+            3
+        ],
+        "Rows": 11
+    },
+    {
+        "id": "108.png",
+        "Gold_output": [
+            "Circle",
+            "Triangle",
+            "Diamond",
+            "Triangle",
+            "Pentagon",
+            "Hexagon",
+            "Circle",
+            "Hexagon",
+            "Triangle",
+            "Circle",
+            "Circle"
+        ],
+        "Gold_side": [
+            0,
+            3,
+            4,
+            3,
+            5,
+            6,
+            0,
+            6,
+            3,
+            0,
+            0
+        ],
+        "Rows": 11
+    },
+    {
+        "id": "109.png",
+        "Gold_output": [
+            "Diamond",
+            "Pentagon",
+            "Diamond",
+            "Diamond",
+            "Diamond",
+            "Hexagon",
+            "Circle",
+            "Triangle",
+            "Triangle",
+            "Hexagon",
+            "Circle"
+        ],
+        "Gold_side": [
+            4,
+            5,
+            4,
+            4,
+            4,
+            6,
+            0,
+            3,
+            3,
+            6,
+            0
+        ],
+        "Rows": 11
+    },
+    {
+        "id": "110.png",
+        "Gold_output": [
+            "Circle",
+            "Triangle",
+            "Triangle",
+            "Circle",
+            "Pentagon",
+            "Triangle",
+            "Triangle",
+            "Triangle",
+            "Pentagon",
+            "Hexagon",
+            "Triangle"
+        ],
+        "Gold_side": [
+            0,
+            3,
+            3,
+            0,
+            5,
+            3,
+            3,
+            3,
+            5,
+            6,
+            3
+        ],
+        "Rows": 11
+    },
+    {
+        "id": "111.png",
+        "Gold_output": [
+            "Triangle",
+            "Hexagon",
+            "Circle",
+            "Pentagon",
+            "Triangle",
+            "Diamond",
+            "Diamond",
+            "Diamond",
+            "Pentagon",
+            "Circle",
+            "Triangle",
+            "Pentagon"
+        ],
+        "Gold_side": [
+            3,
+            6,
+            0,
+            5,
+            3,
+            4,
+            4,
+            4,
+            5,
+            0,
+            3,
+            5
+        ],
+        "Rows": 12
+    },
+    {
+        "id": "112.png",
+        "Gold_output": [
+            "Circle",
+            "Hexagon",
+            "Diamond",
+            "Pentagon",
+            "Hexagon",
+            "Triangle",
+            "Triangle",
+            "Circle",
+            "Diamond",
+            "Triangle",
+            "Pentagon",
+            "Hexagon"
+        ],
+        "Gold_side": [
+            0,
+            6,
+            4,
+            5,
+            6,
+            3,
+            3,
+            0,
+            4,
+            3,
+            5,
+            6
+        ],
+        "Rows": 12
+    },
+    {
+        "id": "113.png",
+        "Gold_output": [
+            "Pentagon",
+            "Hexagon",
+            "Hexagon",
+            "Triangle",
+            "Hexagon",
+            "Pentagon",
+            "Pentagon",
+            "Pentagon",
+            "Circle",
+            "Pentagon",
+            "Diamond",
+            "Diamond"
+        ],
+        "Gold_side": [
+            5,
+            6,
+            6,
+            3,
+            6,
+            5,
+            5,
+            5,
+            0,
+            5,
+            4,
+            4
+        ],
+        "Rows": 12
+    },
+    {
+        "id": "114.png",
+        "Gold_output": [
+            "Diamond",
+            "Diamond",
+            "Pentagon",
+            "Triangle",
+            "Circle",
+            "Hexagon",
+            "Triangle",
+            "Circle",
+            "Hexagon",
+            "Pentagon",
+            "Pentagon",
+            "Pentagon"
+        ],
+        "Gold_side": [
+            4,
+            4,
+            5,
+            3,
+            0,
+            6,
+            3,
+            0,
+            6,
+            5,
+            5,
+            5
+        ],
+        "Rows": 12
+    },
+    {
+        "id": "115.png",
+        "Gold_output": [
+            "Pentagon",
+            "Circle",
+            "Diamond",
+            "Pentagon",
+            "Hexagon",
+            "Hexagon",
+            "Pentagon",
+            "Triangle",
+            "Hexagon",
+            "Circle",
+            "Pentagon",
+            "Pentagon"
+        ],
+        "Gold_side": [
+            5,
+            0,
+            4,
+            5,
+            6,
+            6,
+            5,
+            3,
+            6,
+            0,
+            5,
+            5
+        ],
+        "Rows": 12
+    },
+    {
+        "id": "116.png",
+        "Gold_output": [
+            "Pentagon",
+            "Triangle",
+            "Diamond",
+            "Triangle",
+            "Diamond",
+            "Circle",
+            "Circle",
+            "Pentagon",
+            "Hexagon",
+            "Diamond",
+            "Pentagon",
+            "Diamond"
+        ],
+        "Gold_side": [
+            5,
+            3,
+            4,
+            3,
+            4,
+            0,
+            0,
+            5,
+            6,
+            4,
+            5,
+            4
+        ],
+        "Rows": 12
+    },
+    {
+        "id": "117.png",
+        "Gold_output": [
+            "Circle",
+            "Pentagon",
+            "Pentagon",
+            "Triangle",
+            "Diamond",
+            "Hexagon",
+            "Hexagon",
+            "Pentagon",
+            "Diamond",
+            "Pentagon",
+            "Diamond",
+            "Diamond"
+        ],
+        "Gold_side": [
+            0,
+            5,
+            5,
+            3,
+            4,
+            6,
+            6,
+            5,
+            4,
+            5,
+            4,
+            4
+        ],
+        "Rows": 12
+    },
+    {
+        "id": "118.png",
+        "Gold_output": [
+            "Circle",
+            "Pentagon",
+            "Hexagon",
+            "Diamond",
+            "Triangle",
+            "Triangle",
+            "Hexagon",
+            "Circle",
+            "Hexagon",
+            "Hexagon",
+            "Diamond",
+            "Triangle"
+        ],
+        "Gold_side": [
+            0,
+            5,
+            6,
+            4,
+            3,
+            3,
+            6,
+            0,
+            6,
+            6,
+            4,
+            3
+        ],
+        "Rows": 12
+    },
+    {
+        "id": "119.png",
+        "Gold_output": [
+            "Diamond",
+            "Circle",
+            "Triangle",
+            "Diamond",
+            "Circle",
+            "Hexagon",
+            "Hexagon",
+            "Pentagon",
+            "Circle",
+            "Triangle",
+            "Hexagon",
+            "Diamond"
+        ],
+        "Gold_side": [
+            4,
+            0,
+            3,
+            4,
+            0,
+            6,
+            6,
+            5,
+            0,
+            3,
+            6,
+            4
+        ],
+        "Rows": 12
+    },
+    {
+        "id": "120.png",
+        "Gold_output": [
+            "Diamond",
+            "Triangle",
+            "Hexagon",
+            "Circle",
+            "Triangle",
+            "Triangle",
+            "Pentagon",
+            "Diamond",
+            "Diamond",
+            "Pentagon",
+            "Diamond",
+            "Pentagon"
+        ],
+        "Gold_side": [
+            4,
+            3,
+            6,
+            0,
+            3,
+            3,
+            5,
+            4,
+            4,
+            5,
+            4,
+            5
+        ],
+        "Rows": 12
+    },
+    {
+        "id": "121.png",
+        "Gold_output": [
+            "Circle",
+            "Triangle",
+            "Pentagon",
+            "Hexagon",
+            "Circle",
+            "Pentagon",
+            "Diamond",
+            "Circle",
+            "Triangle",
+            "Diamond",
+            "Hexagon",
+            "Circle",
+            "Pentagon"
+        ],
+        "Gold_side": [
+            0,
+            3,
+            5,
+            6,
+            0,
+            5,
+            4,
+            0,
+            3,
+            4,
+            6,
+            0,
+            5
+        ],
+        "Rows": 13
+    },
+    {
+        "id": "122.png",
+        "Gold_output": [
+            "Circle",
+            "Triangle",
+            "Diamond",
+            "Diamond",
+            "Pentagon",
+            "Triangle",
+            "Hexagon",
+            "Circle",
+            "Hexagon",
+            "Diamond",
+            "Circle",
+            "Diamond",
+            "Triangle"
+        ],
+        "Gold_side": [
+            0,
+            3,
+            4,
+            4,
+            5,
+            3,
+            6,
+            0,
+            6,
+            4,
+            0,
+            4,
+            3
+        ],
+        "Rows": 13
+    },
+    {
+        "id": "123.png",
+        "Gold_output": [
+            "Triangle",
+            "Triangle",
+            "Diamond",
+            "Hexagon",
+            "Diamond",
+            "Hexagon",
+            "Pentagon",
+            "Triangle",
+            "Pentagon",
+            "Triangle",
+            "Diamond",
+            "Hexagon",
+            "Circle"
+        ],
+        "Gold_side": [
+            3,
+            3,
+            4,
+            6,
+            4,
+            6,
+            5,
+            3,
+            5,
+            3,
+            4,
+            6,
+            0
+        ],
+        "Rows": 13
+    },
+    {
+        "id": "124.png",
+        "Gold_output": [
+            "Triangle",
+            "Triangle",
+            "Circle",
+            "Triangle",
+            "Diamond",
+            "Circle",
+            "Pentagon",
+            "Hexagon",
+            "Pentagon",
+            "Pentagon",
+            "Triangle",
+            "Circle",
+            "Pentagon"
+        ],
+        "Gold_side": [
+            3,
+            3,
+            0,
+            3,
+            4,
+            0,
+            5,
+            6,
+            5,
+            5,
+            3,
+            0,
+            5
+        ],
+        "Rows": 13
+    },
+    {
+        "id": "125.png",
+        "Gold_output": [
+            "Pentagon",
+            "Circle",
+            "Hexagon",
+            "Triangle",
+            "Diamond",
+            "Triangle",
+            "Pentagon",
+            "Pentagon",
+            "Pentagon",
+            "Diamond",
+            "Triangle",
+            "Triangle",
+            "Hexagon"
+        ],
+        "Gold_side": [
+            5,
+            0,
+            6,
+            3,
+            4,
+            3,
+            5,
+            5,
+            5,
+            4,
+            3,
+            3,
+            6
+        ],
+        "Rows": 13
+    },
+    {
+        "id": "126.png",
+        "Gold_output": [
+            "Diamond",
+            "Pentagon",
+            "Diamond",
+            "Diamond",
+            "Pentagon",
+            "Triangle",
+            "Hexagon",
+            "Circle",
+            "Diamond",
+            "Diamond",
+            "Hexagon",
+            "Circle",
+            "Circle"
+        ],
+        "Gold_side": [
+            4,
+            5,
+            4,
+            4,
+            5,
+            3,
+            6,
+            0,
+            4,
+            4,
+            6,
+            0,
+            0
+        ],
+        "Rows": 13
+    },
+    {
+        "id": "127.png",
+        "Gold_output": [
+            "Pentagon",
+            "Hexagon",
+            "Hexagon",
+            "Diamond",
+            "Triangle",
+            "Hexagon",
+            "Diamond",
+            "Hexagon",
+            "Pentagon",
+            "Pentagon",
+            "Circle",
+            "Diamond",
+            "Circle"
+        ],
+        "Gold_side": [
+            5,
+            6,
+            6,
+            4,
+            3,
+            6,
+            4,
+            6,
+            5,
+            5,
+            0,
+            4,
+            0
+        ],
+        "Rows": 13
+    },
+    {
+        "id": "128.png",
+        "Gold_output": [
+            "Diamond",
+            "Diamond",
+            "Diamond",
+            "Triangle",
+            "Hexagon",
+            "Pentagon",
+            "Triangle",
+            "Triangle",
+            "Pentagon",
+            "Triangle",
+            "Circle",
+            "Circle",
+            "Triangle"
+        ],
+        "Gold_side": [
+            4,
+            4,
+            4,
+            3,
+            6,
+            5,
+            3,
+            3,
+            5,
+            3,
+            0,
+            0,
+            3
+        ],
+        "Rows": 13
+    },
+    {
+        "id": "129.png",
+        "Gold_output": [
+            "Diamond",
+            "Pentagon",
+            "Circle",
+            "Pentagon",
+            "Hexagon",
+            "Triangle",
+            "Hexagon",
+            "Pentagon",
+            "Pentagon",
+            "Pentagon",
+            "Pentagon",
+            "Hexagon",
+            "Circle"
+        ],
+        "Gold_side": [
+            4,
+            5,
+            0,
+            5,
+            6,
+            3,
+            6,
+            5,
+            5,
+            5,
+            5,
+            6,
+            0
+        ],
+        "Rows": 13
+    },
+    {
+        "id": "130.png",
+        "Gold_output": [
+            "Pentagon",
+            "Circle",
+            "Diamond",
+            "Circle",
+            "Diamond",
+            "Hexagon",
+            "Pentagon",
+            "Diamond",
+            "Hexagon",
+            "Circle",
+            "Pentagon",
+            "Diamond",
+            "Hexagon"
+        ],
+        "Gold_side": [
+            5,
+            0,
+            4,
+            0,
+            4,
+            6,
+            5,
+            4,
+            6,
+            0,
+            5,
+            4,
+            6
+        ],
+        "Rows": 13
+    },
+    {
+        "id": "131.png",
+        "Gold_output": [
+            "Diamond",
+            "Hexagon",
+            "Hexagon",
+            "Circle",
+            "Triangle",
+            "Circle",
+            "Circle",
+            "Pentagon",
+            "Triangle",
+            "Triangle",
+            "Pentagon",
+            "Pentagon",
+            "Diamond",
+            "Pentagon"
+        ],
+        "Gold_side": [
+            4,
+            6,
+            6,
+            0,
+            3,
+            0,
+            0,
+            5,
+            3,
+            3,
+            5,
+            5,
+            4,
+            5
+        ],
+        "Rows": 14
+    },
+    {
+        "id": "132.png",
+        "Gold_output": [
+            "Pentagon",
+            "Circle",
+            "Diamond",
+            "Pentagon",
+            "Pentagon",
+            "Diamond",
+            "Triangle",
+            "Hexagon",
+            "Circle",
+            "Hexagon",
+            "Diamond",
+            "Hexagon",
+            "Pentagon",
+            "Diamond"
+        ],
+        "Gold_side": [
+            5,
+            0,
+            4,
+            5,
+            5,
+            4,
+            3,
+            6,
+            0,
+            6,
+            4,
+            6,
+            5,
+            4
+        ],
+        "Rows": 14
+    },
+    {
+        "id": "133.png",
+        "Gold_output": [
+            "Pentagon",
+            "Hexagon",
+            "Diamond",
+            "Circle",
+            "Diamond",
+            "Circle",
+            "Hexagon",
+            "Triangle",
+            "Triangle",
+            "Triangle",
+            "Triangle",
+            "Hexagon",
+            "Hexagon",
+            "Hexagon"
+        ],
+        "Gold_side": [
+            5,
+            6,
+            4,
+            0,
+            4,
+            0,
+            6,
+            3,
+            3,
+            3,
+            3,
+            6,
+            6,
+            6
+        ],
+        "Rows": 14
+    },
+    {
+        "id": "134.png",
+        "Gold_output": [
+            "Diamond",
+            "Hexagon",
+            "Hexagon",
+            "Triangle",
+            "Diamond",
+            "Pentagon",
+            "Pentagon",
+            "Diamond",
+            "Diamond",
+            "Diamond",
+            "Hexagon",
+            "Circle",
+            "Hexagon",
+            "Hexagon"
+        ],
+        "Gold_side": [
+            4,
+            6,
+            6,
+            3,
+            4,
+            5,
+            5,
+            4,
+            4,
+            4,
+            6,
+            0,
+            6,
+            6
+        ],
+        "Rows": 14
+    },
+    {
+        "id": "135.png",
+        "Gold_output": [
+            "Circle",
+            "Hexagon",
+            "Hexagon",
+            "Pentagon",
+            "Pentagon",
+            "Pentagon",
+            "Hexagon",
+            "Pentagon",
+            "Pentagon",
+            "Hexagon",
+            "Circle",
+            "Triangle",
+            "Diamond",
+            "Circle"
+        ],
+        "Gold_side": [
+            0,
+            6,
+            6,
+            5,
+            5,
+            5,
+            6,
+            5,
+            5,
+            6,
+            0,
+            3,
+            4,
+            0
+        ],
+        "Rows": 14
+    },
+    {
+        "id": "136.png",
+        "Gold_output": [
+            "Pentagon",
+            "Circle",
+            "Hexagon",
+            "Hexagon",
+            "Triangle",
+            "Hexagon",
+            "Circle",
+            "Hexagon",
+            "Triangle",
+            "Hexagon",
+            "Pentagon",
+            "Circle",
+            "Triangle",
+            "Diamond"
+        ],
+        "Gold_side": [
+            5,
+            0,
+            6,
+            6,
+            3,
+            6,
+            0,
+            6,
+            3,
+            6,
+            5,
+            0,
+            3,
+            4
+        ],
+        "Rows": 14
+    },
+    {
+        "id": "137.png",
+        "Gold_output": [
+            "Hexagon",
+            "Hexagon",
+            "Triangle",
+            "Triangle",
+            "Hexagon",
+            "Triangle",
+            "Triangle",
+            "Hexagon",
+            "Triangle",
+            "Triangle",
+            "Hexagon",
+            "Circle",
+            "Hexagon",
+            "Triangle"
+        ],
+        "Gold_side": [
+            6,
+            6,
+            3,
+            3,
+            6,
+            3,
+            3,
+            6,
+            3,
+            3,
+            6,
+            0,
+            6,
+            3
+        ],
+        "Rows": 14
+    },
+    {
+        "id": "138.png",
+        "Gold_output": [
+            "Pentagon",
+            "Hexagon",
+            "Pentagon",
+            "Hexagon",
+            "Pentagon",
+            "Pentagon",
+            "Circle",
+            "Diamond",
+            "Hexagon",
+            "Pentagon",
+            "Hexagon",
+            "Hexagon",
+            "Triangle",
+            "Circle"
+        ],
+        "Gold_side": [
+            5,
+            6,
+            5,
+            6,
+            5,
+            5,
+            0,
+            4,
+            6,
+            5,
+            6,
+            6,
+            3,
+            0
+        ],
+        "Rows": 14
+    },
+    {
+        "id": "139.png",
+        "Gold_output": [
+            "Hexagon",
+            "Triangle",
+            "Circle",
+            "Circle",
+            "Hexagon",
+            "Pentagon",
+            "Triangle",
+            "Hexagon",
+            "Hexagon",
+            "Hexagon",
+            "Triangle",
+            "Pentagon",
+            "Circle",
+            "Triangle"
+        ],
+        "Gold_side": [
+            6,
+            3,
+            0,
+            0,
+            6,
+            5,
+            3,
+            6,
+            6,
+            6,
+            3,
+            5,
+            0,
+            3
+        ],
+        "Rows": 14
+    },
+    {
+        "id": "140.png",
+        "Gold_output": [
+            "Pentagon",
+            "Triangle",
+            "Pentagon",
+            "Circle",
+            "Triangle",
+            "Pentagon",
+            "Circle",
+            "Hexagon",
+            "Triangle",
+            "Circle",
+            "Diamond",
+            "Hexagon",
+            "Circle",
+            "Triangle"
+        ],
+        "Gold_side": [
+            5,
+            3,
+            5,
+            0,
+            3,
+            5,
+            0,
+            6,
+            3,
+            0,
+            4,
+            6,
+            0,
+            3
+        ],
+        "Rows": 14
+    },
+    {
+        "id": "141.png",
+        "Gold_output": [
+            "Triangle",
+            "Circle",
+            "Circle",
+            "Circle",
+            "Hexagon",
+            "Diamond",
+            "Triangle",
+            "Triangle",
+            "Diamond",
+            "Circle",
+            "Hexagon",
+            "Pentagon",
+            "Triangle",
+            "Circle",
+            "Diamond"
+        ],
+        "Gold_side": [
+            3,
+            0,
+            0,
+            0,
+            6,
+            4,
+            3,
+            3,
+            4,
+            0,
+            6,
+            5,
+            3,
+            0,
+            4
+        ],
+        "Rows": 15
+    },
+    {
+        "id": "142.png",
+        "Gold_output": [
+            "Diamond",
+            "Pentagon",
+            "Circle",
+            "Hexagon",
+            "Pentagon",
+            "Diamond",
+            "Diamond",
+            "Hexagon",
+            "Pentagon",
+            "Triangle",
+            "Triangle",
+            "Diamond",
+            "Circle",
+            "Pentagon",
+            "Triangle"
+        ],
+        "Gold_side": [
+            4,
+            5,
+            0,
+            6,
+            5,
+            4,
+            4,
+            6,
+            5,
+            3,
+            3,
+            4,
+            0,
+            5,
+            3
+        ],
+        "Rows": 15
+    },
+    {
+        "id": "143.png",
+        "Gold_output": [
+            "Circle",
+            "Triangle",
+            "Pentagon",
+            "Pentagon",
+            "Hexagon",
+            "Hexagon",
+            "Triangle",
+            "Circle",
+            "Pentagon",
+            "Triangle",
+            "Pentagon",
+            "Diamond",
+            "Circle",
+            "Pentagon",
+            "Pentagon"
+        ],
+        "Gold_side": [
+            0,
+            3,
+            5,
+            5,
+            6,
+            6,
+            3,
+            0,
+            5,
+            3,
+            5,
+            4,
+            0,
+            5,
+            5
+        ],
+        "Rows": 15
+    },
+    {
+        "id": "144.png",
+        "Gold_output": [
+            "Circle",
+            "Diamond",
+            "Circle",
+            "Pentagon",
+            "Diamond",
+            "Pentagon",
+            "Hexagon",
+            "Diamond",
+            "Circle",
+            "Pentagon",
+            "Circle",
+            "Diamond",
+            "Circle",
+            "Hexagon",
+            "Diamond"
+        ],
+        "Gold_side": [
+            0,
+            4,
+            0,
+            5,
+            4,
+            5,
+            6,
+            4,
+            0,
+            5,
+            0,
+            4,
+            0,
+            6,
+            4
+        ],
+        "Rows": 15
+    },
+    {
+        "id": "145.png",
+        "Gold_output": [
+            "Pentagon",
+            "Triangle",
+            "Hexagon",
+            "Pentagon",
+            "Hexagon",
+            "Triangle",
+            "Pentagon",
+            "Diamond",
+            "Triangle",
+            "Pentagon",
+            "Hexagon",
+            "Pentagon",
+            "Circle",
+            "Triangle",
+            "Pentagon"
+        ],
+        "Gold_side": [
+            5,
+            3,
+            6,
+            5,
+            6,
+            3,
+            5,
+            4,
+            3,
+            5,
+            6,
+            5,
+            0,
+            3,
+            5
+        ],
+        "Rows": 15
+    },
+    {
+        "id": "146.png",
+        "Gold_output": [
+            "Hexagon",
+            "Circle",
+            "Circle",
+            "Pentagon",
+            "Hexagon",
+            "Diamond",
+            "Pentagon",
+            "Hexagon",
+            "Hexagon",
+            "Circle",
+            "Circle",
+            "Pentagon",
+            "Hexagon",
+            "Circle",
+            "Circle"
+        ],
+        "Gold_side": [
+            6,
+            0,
+            0,
+            5,
+            6,
+            4,
+            5,
+            6,
+            6,
+            0,
+            0,
+            5,
+            6,
+            0,
+            0
+        ],
+        "Rows": 15
+    },
+    {
+        "id": "147.png",
+        "Gold_output": [
+            "Pentagon",
+            "Triangle",
+            "Hexagon",
+            "Triangle",
+            "Diamond",
+            "Hexagon",
+            "Diamond",
+            "Diamond",
+            "Diamond",
+            "Hexagon",
+            "Diamond",
+            "Diamond",
+            "Hexagon",
+            "Hexagon",
+            "Diamond"
+        ],
+        "Gold_side": [
+            5,
+            3,
+            6,
+            3,
+            4,
+            6,
+            4,
+            4,
+            4,
+            6,
+            4,
+            4,
+            6,
+            6,
+            4
+        ],
+        "Rows": 15
+    },
+    {
+        "id": "148.png",
+        "Gold_output": [
+            "Hexagon",
+            "Circle",
+            "Circle",
+            "Triangle",
+            "Hexagon",
+            "Circle",
+            "Triangle",
+            "Diamond",
+            "Pentagon",
+            "Triangle",
+            "Circle",
+            "Pentagon",
+            "Diamond",
+            "Circle",
+            "Pentagon"
+        ],
+        "Gold_side": [
+            6,
+            0,
+            0,
+            3,
+            6,
+            0,
+            3,
+            4,
+            5,
+            3,
+            0,
+            5,
+            4,
+            0,
+            5
+        ],
+        "Rows": 15
+    },
+    {
+        "id": "149.png",
+        "Gold_output": [
+            "Triangle",
+            "Diamond",
+            "Triangle",
+            "Triangle",
+            "Triangle",
+            "Pentagon",
+            "Diamond",
+            "Triangle",
+            "Circle",
+            "Triangle",
+            "Pentagon",
+            "Diamond",
+            "Pentagon",
+            "Diamond",
+            "Pentagon"
+        ],
+        "Gold_side": [
+            3,
+            4,
+            3,
+            3,
+            3,
+            5,
+            4,
+            3,
+            0,
+            3,
+            5,
+            4,
+            5,
+            4,
+            5
+        ],
+        "Rows": 15
+    },
+    {
+        "id": "150.png",
+        "Gold_output": [
+            "Diamond",
+            "Diamond",
+            "Pentagon",
+            "Circle",
+            "Pentagon",
+            "Diamond",
+            "Circle",
+            "Circle",
+            "Circle",
+            "Diamond",
+            "Circle",
+            "Pentagon",
+            "Diamond",
+            "Hexagon",
+            "Pentagon"
+        ],
+        "Gold_side": [
+            4,
+            4,
+            5,
+            0,
+            5,
+            4,
+            0,
+            0,
+            0,
+            4,
+            0,
+            5,
+            4,
+            6,
+            5
+        ],
+        "Rows": 15
+    },
+    {
+        "id": "151.png",
+        "Gold_output": [
+            "Diamond",
+            "Circle",
+            "Triangle",
+            "Triangle",
+            "Pentagon",
+            "Triangle",
+            "Pentagon",
+            "Hexagon",
+            "Pentagon",
+            "Circle",
+            "Circle",
+            "Pentagon",
+            "Hexagon",
+            "Circle",
+            "Circle",
+            "Triangle"
+        ],
+        "Gold_side": [
+            4,
+            0,
+            3,
+            3,
+            5,
+            3,
+            5,
+            6,
+            5,
+            0,
+            0,
+            5,
+            6,
+            0,
+            0,
+            3
+        ],
+        "Rows": 16
+    },
+    {
+        "id": "152.png",
+        "Gold_output": [
+            "Triangle",
+            "Diamond",
+            "Pentagon",
+            "Triangle",
+            "Triangle",
+            "Diamond",
+            "Triangle",
+            "Diamond",
+            "Triangle",
+            "Diamond",
+            "Circle",
+            "Hexagon",
+            "Pentagon",
+            "Circle",
+            "Hexagon",
+            "Pentagon"
+        ],
+        "Gold_side": [
+            3,
+            4,
+            5,
+            3,
+            3,
+            4,
+            3,
+            4,
+            3,
+            4,
+            0,
+            6,
+            5,
+            0,
+            6,
+            5
+        ],
+        "Rows": 16
+    },
+    {
+        "id": "153.png",
+        "Gold_output": [
+            "Circle",
+            "Hexagon",
+            "Diamond",
+            "Triangle",
+            "Diamond",
+            "Pentagon",
+            "Pentagon",
+            "Pentagon",
+            "Triangle",
+            "Triangle",
+            "Pentagon",
+            "Pentagon",
+            "Pentagon",
+            "Pentagon",
+            "Hexagon",
+            "Hexagon"
+        ],
+        "Gold_side": [
+            0,
+            6,
+            4,
+            3,
+            4,
+            5,
+            5,
+            5,
+            3,
+            3,
+            5,
+            5,
+            5,
+            5,
+            6,
+            6
+        ],
+        "Rows": 16
+    },
+    {
+        "id": "154.png",
+        "Gold_output": [
+            "Triangle",
+            "Circle",
+            "Triangle",
+            "Circle",
+            "Circle",
+            "Circle",
+            "Circle",
+            "Diamond",
+            "Diamond",
+            "Pentagon",
+            "Diamond",
+            "Circle",
+            "Hexagon",
+            "Hexagon",
+            "Hexagon",
+            "Diamond"
+        ],
+        "Gold_side": [
+            3,
+            0,
+            3,
+            0,
+            0,
+            0,
+            0,
+            4,
+            4,
+            5,
+            4,
+            0,
+            6,
+            6,
+            6,
+            4
+        ],
+        "Rows": 16
+    },
+    {
+        "id": "155.png",
+        "Gold_output": [
+            "Pentagon",
+            "Triangle",
+            "Circle",
+            "Circle",
+            "Triangle",
+            "Circle",
+            "Circle",
+            "Triangle",
+            "Triangle",
+            "Triangle",
+            "Triangle",
+            "Hexagon",
+            "Circle",
+            "Triangle",
+            "Hexagon",
+            "Circle"
+        ],
+        "Gold_side": [
+            5,
+            3,
+            0,
+            0,
+            3,
+            0,
+            0,
+            3,
+            3,
+            3,
+            3,
+            6,
+            0,
+            3,
+            6,
+            0
+        ],
+        "Rows": 16
+    },
+    {
+        "id": "156.png",
+        "Gold_output": [
+            "Circle",
+            "Triangle",
+            "Hexagon",
+            "Pentagon",
+            "Diamond",
+            "Pentagon",
+            "Hexagon",
+            "Triangle",
+            "Pentagon",
+            "Triangle",
+            "Triangle",
+            "Pentagon",
+            "Circle",
+            "Hexagon",
+            "Hexagon",
+            "Hexagon"
+        ],
+        "Gold_side": [
+            0,
+            3,
+            6,
+            5,
+            4,
+            5,
+            6,
+            3,
+            5,
+            3,
+            3,
+            5,
+            0,
+            6,
+            6,
+            6
+        ],
+        "Rows": 16
+    },
+    {
+        "id": "157.png",
+        "Gold_output": [
+            "Pentagon",
+            "Triangle",
+            "Triangle",
+            "Circle",
+            "Triangle",
+            "Hexagon",
+            "Pentagon",
+            "Diamond",
+            "Diamond",
+            "Hexagon",
+            "Diamond",
+            "Circle",
+            "Circle",
+            "Hexagon",
+            "Circle",
+            "Pentagon"
+        ],
+        "Gold_side": [
+            5,
+            3,
+            3,
+            0,
+            3,
+            6,
+            5,
+            4,
+            4,
+            6,
+            4,
+            0,
+            0,
+            6,
+            0,
+            5
+        ],
+        "Rows": 16
+    },
+    {
+        "id": "158.png",
+        "Gold_output": [
+            "Pentagon",
+            "Pentagon",
+            "Triangle",
+            "Diamond",
+            "Circle",
+            "Diamond",
+            "Circle",
+            "Triangle",
+            "Circle",
+            "Hexagon",
+            "Hexagon",
+            "Diamond",
+            "Triangle",
+            "Triangle",
+            "Diamond",
+            "Diamond"
+        ],
+        "Gold_side": [
+            5,
+            5,
+            3,
+            4,
+            0,
+            4,
+            0,
+            3,
+            0,
+            6,
+            6,
+            4,
+            3,
+            3,
+            4,
+            4
+        ],
+        "Rows": 16
+    },
+    {
+        "id": "159.png",
+        "Gold_output": [
+            "Pentagon",
+            "Circle",
+            "Hexagon",
+            "Pentagon",
+            "Triangle",
+            "Triangle",
+            "Triangle",
+            "Triangle",
+            "Triangle",
+            "Triangle",
+            "Diamond",
+            "Diamond",
+            "Hexagon",
+            "Circle",
+            "Diamond",
+            "Triangle"
+        ],
+        "Gold_side": [
+            5,
+            0,
+            6,
+            5,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            4,
+            4,
+            6,
+            0,
+            4,
+            3
+        ],
+        "Rows": 16
+    },
+    {
+        "id": "160.png",
+        "Gold_output": [
+            "Hexagon",
+            "Triangle",
+            "Diamond",
+            "Pentagon",
+            "Circle",
+            "Circle",
+            "Circle",
+            "Diamond",
+            "Pentagon",
+            "Diamond",
+            "Pentagon",
+            "Triangle",
+            "Pentagon",
+            "Triangle",
+            "Triangle",
+            "Diamond"
+        ],
+        "Gold_side": [
+            6,
+            3,
+            4,
+            5,
+            0,
+            0,
+            0,
+            4,
+            5,
+            4,
+            5,
+            3,
+            5,
+            3,
+            3,
+            4
+        ],
+        "Rows": 16
+    },
+    {
+        "id": "161.png",
+        "Gold_output": [
+            "Circle",
+            "Diamond",
+            "Triangle",
+            "Circle",
+            "Pentagon",
+            "Hexagon",
+            "Pentagon",
+            "Hexagon",
+            "Hexagon",
+            "Pentagon",
+            "Hexagon",
+            "Pentagon",
+            "Pentagon",
+            "Pentagon",
+            "Pentagon",
+            "Triangle",
+            "Triangle"
+        ],
+        "Gold_side": [
+            0,
+            4,
+            3,
+            0,
+            5,
+            6,
+            5,
+            6,
+            6,
+            5,
+            6,
+            5,
+            5,
+            5,
+            5,
+            3,
+            3
+        ],
+        "Rows": 17
+    },
+    {
+        "id": "162.png",
+        "Gold_output": [
+            "Hexagon",
+            "Circle",
+            "Pentagon",
+            "Hexagon",
+            "Diamond",
+            "Hexagon",
+            "Pentagon",
+            "Circle",
+            "Hexagon",
+            "Diamond",
+            "Circle",
+            "Hexagon",
+            "Hexagon",
+            "Pentagon",
+            "Triangle",
+            "Diamond",
+            "Pentagon"
+        ],
+        "Gold_side": [
+            6,
+            0,
+            5,
+            6,
+            4,
+            6,
+            5,
+            0,
+            6,
+            4,
+            0,
+            6,
+            6,
+            5,
+            3,
+            4,
+            5
+        ],
+        "Rows": 17
+    },
+    {
+        "id": "163.png",
+        "Gold_output": [
+            "Diamond",
+            "Pentagon",
+            "Circle",
+            "Hexagon",
+            "Hexagon",
+            "Hexagon",
+            "Diamond",
+            "Triangle",
+            "Triangle",
+            "Pentagon",
+            "Hexagon",
+            "Circle",
+            "Circle",
+            "Hexagon",
+            "Diamond",
+            "Hexagon",
+            "Diamond"
+        ],
+        "Gold_side": [
+            4,
+            5,
+            0,
+            6,
+            6,
+            6,
+            4,
+            3,
+            3,
+            5,
+            6,
+            0,
+            0,
+            6,
+            4,
+            6,
+            4
+        ],
+        "Rows": 17
+    },
+    {
+        "id": "164.png",
+        "Gold_output": [
+            "Hexagon",
+            "Circle",
+            "Diamond",
+            "Pentagon",
+            "Hexagon",
+            "Triangle",
+            "Triangle",
+            "Pentagon",
+            "Triangle",
+            "Hexagon",
+            "Triangle",
+            "Circle",
+            "Hexagon",
+            "Diamond",
+            "Hexagon",
+            "Diamond",
+            "Hexagon"
+        ],
+        "Gold_side": [
+            6,
+            0,
+            4,
+            5,
+            6,
+            3,
+            3,
+            5,
+            3,
+            6,
+            3,
+            0,
+            6,
+            4,
+            6,
+            4,
+            6
+        ],
+        "Rows": 17
+    },
+    {
+        "id": "165.png",
+        "Gold_output": [
+            "Hexagon",
+            "Triangle",
+            "Diamond",
+            "Pentagon",
+            "Pentagon",
+            "Pentagon",
+            "Hexagon",
+            "Pentagon",
+            "Triangle",
+            "Diamond",
+            "Triangle",
+            "Triangle",
+            "Triangle",
+            "Hexagon",
+            "Triangle",
+            "Triangle",
+            "Triangle"
+        ],
+        "Gold_side": [
+            6,
+            3,
+            4,
+            5,
+            5,
+            5,
+            6,
+            5,
+            3,
+            4,
+            3,
+            3,
+            3,
+            6,
+            3,
+            3,
+            3
+        ],
+        "Rows": 17
+    },
+    {
+        "id": "166.png",
+        "Gold_output": [
+            "Hexagon",
+            "Diamond",
+            "Triangle",
+            "Hexagon",
+            "Hexagon",
+            "Diamond",
+            "Circle",
+            "Diamond",
+            "Pentagon",
+            "Pentagon",
+            "Pentagon",
+            "Circle",
+            "Circle",
+            "Diamond",
+            "Circle",
+            "Pentagon",
+            "Triangle"
+        ],
+        "Gold_side": [
+            6,
+            4,
+            3,
+            6,
+            6,
+            4,
+            0,
+            4,
+            5,
+            5,
+            5,
+            0,
+            0,
+            4,
+            0,
+            5,
+            3
+        ],
+        "Rows": 17
+    },
+    {
+        "id": "167.png",
+        "Gold_output": [
+            "Diamond",
+            "Triangle",
+            "Diamond",
+            "Pentagon",
+            "Triangle",
+            "Triangle",
+            "Diamond",
+            "Triangle",
+            "Diamond",
+            "Circle",
+            "Circle",
+            "Hexagon",
+            "Hexagon",
+            "Diamond",
+            "Diamond",
+            "Hexagon",
+            "Pentagon"
+        ],
+        "Gold_side": [
+            4,
+            3,
+            4,
+            5,
+            3,
+            3,
+            4,
+            3,
+            4,
+            0,
+            0,
+            6,
+            6,
+            4,
+            4,
+            6,
+            5
+        ],
+        "Rows": 17
+    },
+    {
+        "id": "168.png",
+        "Gold_output": [
+            "Triangle",
+            "Circle",
+            "Diamond",
+            "Triangle",
+            "Circle",
+            "Triangle",
+            "Pentagon",
+            "Circle",
+            "Triangle",
+            "Pentagon",
+            "Diamond",
+            "Triangle",
+            "Triangle",
+            "Triangle",
+            "Circle",
+            "Hexagon",
+            "Diamond"
+        ],
+        "Gold_side": [
+            3,
+            0,
+            4,
+            3,
+            0,
+            3,
+            5,
+            0,
+            3,
+            5,
+            4,
+            3,
+            3,
+            3,
+            0,
+            6,
+            4
+        ],
+        "Rows": 17
+    },
+    {
+        "id": "169.png",
+        "Gold_output": [
+            "Triangle",
+            "Hexagon",
+            "Hexagon",
+            "Diamond",
+            "Circle",
+            "Pentagon",
+            "Diamond",
+            "Diamond",
+            "Hexagon",
+            "Circle",
+            "Triangle",
+            "Hexagon",
+            "Hexagon",
+            "Pentagon",
+            "Triangle",
+            "Diamond",
+            "Pentagon"
+        ],
+        "Gold_side": [
+            3,
+            6,
+            6,
+            4,
+            0,
+            5,
+            4,
+            4,
+            6,
+            0,
+            3,
+            6,
+            6,
+            5,
+            3,
+            4,
+            5
+        ],
+        "Rows": 17
+    },
+    {
+        "id": "170.png",
+        "Gold_output": [
+            "Pentagon",
+            "Circle",
+            "Circle",
+            "Circle",
+            "Pentagon",
+            "Triangle",
+            "Circle",
+            "Triangle",
+            "Diamond",
+            "Diamond",
+            "Hexagon",
+            "Circle",
+            "Circle",
+            "Hexagon",
+            "Diamond",
+            "Diamond",
+            "Pentagon"
+        ],
+        "Gold_side": [
+            5,
+            0,
+            0,
+            0,
+            5,
+            3,
+            0,
+            3,
+            4,
+            4,
+            6,
+            0,
+            0,
+            6,
+            4,
+            4,
+            5
+        ],
+        "Rows": 17
+    },
+    {
+        "id": "171.png",
+        "Gold_output": [
+            "Diamond",
+            "Circle",
+            "Triangle",
+            "Hexagon",
+            "Circle",
+            "Triangle",
+            "Diamond",
+            "Diamond",
+            "Diamond",
+            "Circle",
+            "Circle",
+            "Triangle",
+            "Diamond",
+            "Circle",
+            "Circle",
+            "Pentagon",
+            "Hexagon",
+            "Hexagon"
+        ],
+        "Gold_side": [
+            4,
+            0,
+            3,
+            6,
+            0,
+            3,
+            4,
+            4,
+            4,
+            0,
+            0,
+            3,
+            4,
+            0,
+            0,
+            5,
+            6,
+            6
+        ],
+        "Rows": 18
+    },
+    {
+        "id": "172.png",
+        "Gold_output": [
+            "Circle",
+            "Pentagon",
+            "Diamond",
+            "Circle",
+            "Pentagon",
+            "Hexagon",
+            "Pentagon",
+            "Hexagon",
+            "Diamond",
+            "Diamond",
+            "Pentagon",
+            "Triangle",
+            "Triangle",
+            "Triangle",
+            "Pentagon",
+            "Hexagon",
+            "Hexagon",
+            "Triangle"
+        ],
+        "Gold_side": [
+            0,
+            5,
+            4,
+            0,
+            5,
+            6,
+            5,
+            6,
+            4,
+            4,
+            5,
+            3,
+            3,
+            3,
+            5,
+            6,
+            6,
+            3
+        ],
+        "Rows": 18
+    },
+    {
+        "id": "173.png",
+        "Gold_output": [
+            "Circle",
+            "Pentagon",
+            "Pentagon",
+            "Triangle",
+            "Triangle",
+            "Hexagon",
+            "Triangle",
+            "Hexagon",
+            "Hexagon",
+            "Diamond",
+            "Hexagon",
+            "Diamond",
+            "Pentagon",
+            "Hexagon",
+            "Pentagon",
+            "Diamond",
+            "Pentagon",
+            "Circle"
+        ],
+        "Gold_side": [
+            0,
+            5,
+            5,
+            3,
+            3,
+            6,
+            3,
+            6,
+            6,
+            4,
+            6,
+            4,
+            5,
+            6,
+            5,
+            4,
+            5,
+            0
+        ],
+        "Rows": 18
+    },
+    {
+        "id": "174.png",
+        "Gold_output": [
+            "Circle",
+            "Hexagon",
+            "Hexagon",
+            "Circle",
+            "Hexagon",
+            "Circle",
+            "Triangle",
+            "Hexagon",
+            "Circle",
+            "Hexagon",
+            "Circle",
+            "Triangle",
+            "Hexagon",
+            "Hexagon",
+            "Pentagon",
+            "Triangle",
+            "Pentagon",
+            "Pentagon"
+        ],
+        "Gold_side": [
+            0,
+            6,
+            6,
+            0,
+            6,
+            0,
+            3,
+            6,
+            0,
+            6,
+            0,
+            3,
+            6,
+            6,
+            5,
+            3,
+            5,
+            5
+        ],
+        "Rows": 18
+    },
+    {
+        "id": "175.png",
+        "Gold_output": [
+            "Diamond",
+            "Diamond",
+            "Circle",
+            "Hexagon",
+            "Hexagon",
+            "Circle",
+            "Circle",
+            "Pentagon",
+            "Circle",
+            "Diamond",
+            "Triangle",
+            "Pentagon",
+            "Circle",
+            "Triangle",
+            "Pentagon",
+            "Diamond",
+            "Circle",
+            "Hexagon"
+        ],
+        "Gold_side": [
+            4,
+            4,
+            0,
+            6,
+            6,
+            0,
+            0,
+            5,
+            0,
+            4,
+            3,
+            5,
+            0,
+            3,
+            5,
+            4,
+            0,
+            6
+        ],
+        "Rows": 18
+    },
+    {
+        "id": "176.png",
+        "Gold_output": [
+            "Pentagon",
+            "Hexagon",
+            "Hexagon",
+            "Pentagon",
+            "Triangle",
+            "Diamond",
+            "Circle",
+            "Pentagon",
+            "Diamond",
+            "Diamond",
+            "Circle",
+            "Circle",
+            "Circle",
+            "Diamond",
+            "Circle",
+            "Diamond",
+            "Hexagon",
+            "Diamond"
+        ],
+        "Gold_side": [
+            5,
+            6,
+            6,
+            5,
+            3,
+            4,
+            0,
+            5,
+            4,
+            4,
+            0,
+            0,
+            0,
+            4,
+            0,
+            4,
+            6,
+            4
+        ],
+        "Rows": 18
+    },
+    {
+        "id": "177.png",
+        "Gold_output": [
+            "Circle",
+            "Triangle",
+            "Circle",
+            "Circle",
+            "Circle",
+            "Triangle",
+            "Pentagon",
+            "Pentagon",
+            "Hexagon",
+            "Diamond",
+            "Hexagon",
+            "Diamond",
+            "Diamond",
+            "Pentagon",
+            "Hexagon",
+            "Circle",
+            "Diamond",
+            "Circle"
+        ],
+        "Gold_side": [
+            0,
+            3,
+            0,
+            0,
+            0,
+            3,
+            5,
+            5,
+            6,
+            4,
+            6,
+            4,
+            4,
+            5,
+            6,
+            0,
+            4,
+            0
+        ],
+        "Rows": 18
+    },
+    {
+        "id": "178.png",
+        "Gold_output": [
+            "Diamond",
+            "Triangle",
+            "Circle",
+            "Hexagon",
+            "Pentagon",
+            "Hexagon",
+            "Triangle",
+            "Hexagon",
+            "Triangle",
+            "Pentagon",
+            "Pentagon",
+            "Hexagon",
+            "Triangle",
+            "Diamond",
+            "Hexagon",
+            "Hexagon",
+            "Pentagon",
+            "Pentagon"
+        ],
+        "Gold_side": [
+            4,
+            3,
+            0,
+            6,
+            5,
+            6,
+            3,
+            6,
+            3,
+            5,
+            5,
+            6,
+            3,
+            4,
+            6,
+            6,
+            5,
+            5
+        ],
+        "Rows": 18
+    },
+    {
+        "id": "179.png",
+        "Gold_output": [
+            "Pentagon",
+            "Hexagon",
+            "Circle",
+            "Diamond",
+            "Pentagon",
+            "Diamond",
+            "Triangle",
+            "Hexagon",
+            "Circle",
+            "Diamond",
+            "Diamond",
+            "Hexagon",
+            "Hexagon",
+            "Circle",
+            "Diamond",
+            "Hexagon",
+            "Hexagon",
+            "Diamond"
+        ],
+        "Gold_side": [
+            5,
+            6,
+            0,
+            4,
+            5,
+            4,
+            3,
+            6,
+            0,
+            4,
+            4,
+            6,
+            6,
+            0,
+            4,
+            6,
+            6,
+            4
+        ],
+        "Rows": 18
+    },
+    {
+        "id": "180.png",
+        "Gold_output": [
+            "Pentagon",
+            "Pentagon",
+            "Hexagon",
+            "Hexagon",
+            "Diamond",
+            "Hexagon",
+            "Pentagon",
+            "Triangle",
+            "Circle",
+            "Circle",
+            "Circle",
+            "Hexagon",
+            "Hexagon",
+            "Circle",
+            "Circle",
+            "Diamond",
+            "Diamond",
+            "Triangle"
+        ],
+        "Gold_side": [
+            5,
+            5,
+            6,
+            6,
+            4,
+            6,
+            5,
+            3,
+            0,
+            0,
+            0,
+            6,
+            6,
+            0,
+            0,
+            4,
+            4,
+            3
+        ],
+        "Rows": 18
+    },
+    {
+        "id": "181.png",
+        "Gold_output": [
+            "Hexagon",
+            "Triangle",
+            "Triangle",
+            "Hexagon",
+            "Hexagon",
+            "Triangle",
+            "Hexagon",
+            "Hexagon",
+            "Circle",
+            "Diamond",
+            "Diamond",
+            "Circle",
+            "Pentagon",
+            "Triangle",
+            "Pentagon",
+            "Triangle",
+            "Hexagon",
+            "Circle",
+            "Hexagon"
+        ],
+        "Gold_side": [
+            6,
+            3,
+            3,
+            6,
+            6,
+            3,
+            6,
+            6,
+            0,
+            4,
+            4,
+            0,
+            5,
+            3,
+            5,
+            3,
+            6,
+            0,
+            6
+        ],
+        "Rows": 19
+    },
+    {
+        "id": "182.png",
+        "Gold_output": [
+            "Circle",
+            "Circle",
+            "Hexagon",
+            "Triangle",
+            "Hexagon",
+            "Triangle",
+            "Pentagon",
+            "Diamond",
+            "Hexagon",
+            "Circle",
+            "Triangle",
+            "Triangle",
+            "Diamond",
+            "Circle",
+            "Circle",
+            "Hexagon",
+            "Hexagon",
+            "Hexagon",
+            "Pentagon"
+        ],
+        "Gold_side": [
+            0,
+            0,
+            6,
+            3,
+            6,
+            3,
+            5,
+            4,
+            6,
+            0,
+            3,
+            3,
+            4,
+            0,
+            0,
+            6,
+            6,
+            6,
+            5
+        ],
+        "Rows": 19
+    },
+    {
+        "id": "183.png",
+        "Gold_output": [
+            "Pentagon",
+            "Hexagon",
+            "Hexagon",
+            "Diamond",
+            "Hexagon",
+            "Pentagon",
+            "Hexagon",
+            "Hexagon",
+            "Diamond",
+            "Circle",
+            "Diamond",
+            "Hexagon",
+            "Pentagon",
+            "Triangle",
+            "Circle",
+            "Pentagon",
+            "Diamond",
+            "Pentagon",
+            "Triangle"
+        ],
+        "Gold_side": [
+            5,
+            6,
+            6,
+            4,
+            6,
+            5,
+            6,
+            6,
+            4,
+            0,
+            4,
+            6,
+            5,
+            3,
+            0,
+            5,
+            4,
+            5,
+            3
+        ],
+        "Rows": 19
+    },
+    {
+        "id": "184.png",
+        "Gold_output": [
+            "Triangle",
+            "Diamond",
+            "Diamond",
+            "Hexagon",
+            "Diamond",
+            "Triangle",
+            "Pentagon",
+            "Diamond",
+            "Hexagon",
+            "Pentagon",
+            "Pentagon",
+            "Circle",
+            "Diamond",
+            "Circle",
+            "Pentagon",
+            "Circle",
+            "Diamond",
+            "Diamond",
+            "Diamond"
+        ],
+        "Gold_side": [
+            3,
+            4,
+            4,
+            6,
+            4,
+            3,
+            5,
+            4,
+            6,
+            5,
+            5,
+            0,
+            4,
+            0,
+            5,
+            0,
+            4,
+            4,
+            4
+        ],
+        "Rows": 19
+    },
+    {
+        "id": "185.png",
+        "Gold_output": [
+            "Diamond",
+            "Pentagon",
+            "Circle",
+            "Pentagon",
+            "Hexagon",
+            "Diamond",
+            "Circle",
+            "Circle",
+            "Hexagon",
+            "Circle",
+            "Hexagon",
+            "Pentagon",
+            "Diamond",
+            "Hexagon",
+            "Diamond",
+            "Pentagon",
+            "Hexagon",
+            "Diamond",
+            "Circle"
+        ],
+        "Gold_side": [
+            4,
+            5,
+            0,
+            5,
+            6,
+            4,
+            0,
+            0,
+            6,
+            0,
+            6,
+            5,
+            4,
+            6,
+            4,
+            5,
+            6,
+            4,
+            0
+        ],
+        "Rows": 19
+    },
+    {
+        "id": "186.png",
+        "Gold_output": [
+            "Pentagon",
+            "Triangle",
+            "Circle",
+            "Circle",
+            "Diamond",
+            "Circle",
+            "Pentagon",
+            "Hexagon",
+            "Hexagon",
+            "Circle",
+            "Pentagon",
+            "Pentagon",
+            "Triangle",
+            "Diamond",
+            "Diamond",
+            "Triangle",
+            "Triangle",
+            "Pentagon",
+            "Hexagon"
+        ],
+        "Gold_side": [
+            5,
+            3,
+            0,
+            0,
+            4,
+            0,
+            5,
+            6,
+            6,
+            0,
+            5,
+            5,
+            3,
+            4,
+            4,
+            3,
+            3,
+            5,
+            6
+        ],
+        "Rows": 19
+    },
+    {
+        "id": "187.png",
+        "Gold_output": [
+            "Triangle",
+            "Diamond",
+            "Hexagon",
+            "Hexagon",
+            "Hexagon",
+            "Diamond",
+            "Hexagon",
+            "Circle",
+            "Circle",
+            "Hexagon",
+            "Circle",
+            "Pentagon",
+            "Pentagon",
+            "Triangle",
+            "Diamond",
+            "Triangle",
+            "Diamond",
+            "Circle",
+            "Pentagon"
+        ],
+        "Gold_side": [
+            3,
+            4,
+            6,
+            6,
+            6,
+            4,
+            6,
+            0,
+            0,
+            6,
+            0,
+            5,
+            5,
+            3,
+            4,
+            3,
+            4,
+            0,
+            5
+        ],
+        "Rows": 19
+    },
+    {
+        "id": "188.png",
+        "Gold_output": [
+            "Hexagon",
+            "Pentagon",
+            "Circle",
+            "Triangle",
+            "Pentagon",
+            "Circle",
+            "Circle",
+            "Diamond",
+            "Pentagon",
+            "Pentagon",
+            "Triangle",
+            "Diamond",
+            "Circle",
+            "Triangle",
+            "Pentagon",
+            "Hexagon",
+            "Diamond",
+            "Hexagon",
+            "Pentagon"
+        ],
+        "Gold_side": [
+            6,
+            5,
+            0,
+            3,
+            5,
+            0,
+            0,
+            4,
+            5,
+            5,
+            3,
+            4,
+            0,
+            3,
+            5,
+            6,
+            4,
+            6,
+            5
+        ],
+        "Rows": 19
+    },
+    {
+        "id": "189.png",
+        "Gold_output": [
+            "Triangle",
+            "Pentagon",
+            "Circle",
+            "Pentagon",
+            "Hexagon",
+            "Hexagon",
+            "Circle",
+            "Hexagon",
+            "Hexagon",
+            "Circle",
+            "Circle",
+            "Diamond",
+            "Pentagon",
+            "Pentagon",
+            "Triangle",
+            "Circle",
+            "Triangle",
+            "Hexagon",
+            "Hexagon"
+        ],
+        "Gold_side": [
+            3,
+            5,
+            0,
+            5,
+            6,
+            6,
+            0,
+            6,
+            6,
+            0,
+            0,
+            4,
+            5,
+            5,
+            3,
+            0,
+            3,
+            6,
+            6
+        ],
+        "Rows": 19
+    },
+    {
+        "id": "190.png",
+        "Gold_output": [
+            "Hexagon",
+            "Pentagon",
+            "Pentagon",
+            "Circle",
+            "Hexagon",
+            "Diamond",
+            "Circle",
+            "Diamond",
+            "Hexagon",
+            "Pentagon",
+            "Diamond",
+            "Triangle",
+            "Circle",
+            "Hexagon",
+            "Hexagon",
+            "Circle",
+            "Hexagon",
+            "Pentagon",
+            "Triangle"
+        ],
+        "Gold_side": [
+            6,
+            5,
+            5,
+            0,
+            6,
+            4,
+            0,
+            4,
+            6,
+            5,
+            4,
+            3,
+            0,
+            6,
+            6,
+            0,
+            6,
+            5,
+            3
+        ],
+        "Rows": 19
+    },
+    {
+        "id": "191.png",
+        "Gold_output": [
+            "Triangle",
+            "Pentagon",
+            "Triangle",
+            "Hexagon",
+            "Triangle",
+            "Triangle",
+            "Hexagon",
+            "Pentagon",
+            "Hexagon",
+            "Triangle",
+            "Diamond",
+            "Circle",
+            "Hexagon",
+            "Hexagon",
+            "Triangle",
+            "Diamond",
+            "Triangle",
+            "Diamond",
+            "Pentagon",
+            "Pentagon"
+        ],
+        "Gold_side": [
+            3,
+            5,
+            3,
+            6,
+            3,
+            3,
+            6,
+            5,
+            6,
+            3,
+            4,
+            0,
+            6,
+            6,
+            3,
+            4,
+            3,
+            4,
+            5,
+            5
+        ],
+        "Rows": 20
+    },
+    {
+        "id": "192.png",
+        "Gold_output": [
+            "Circle",
+            "Hexagon",
+            "Diamond",
+            "Triangle",
+            "Pentagon",
+            "Pentagon",
+            "Pentagon",
+            "Diamond",
+            "Pentagon",
+            "Pentagon",
+            "Circle",
+            "Hexagon",
+            "Hexagon",
+            "Circle",
+            "Triangle",
+            "Pentagon",
+            "Circle",
+            "Diamond",
+            "Diamond",
+            "Hexagon"
+        ],
+        "Gold_side": [
+            0,
+            6,
+            4,
+            3,
+            5,
+            5,
+            5,
+            4,
+            5,
+            5,
+            0,
+            6,
+            6,
+            0,
+            3,
+            5,
+            0,
+            4,
+            4,
+            6
+        ],
+        "Rows": 20
+    },
+    {
+        "id": "193.png",
+        "Gold_output": [
+            "Pentagon",
+            "Triangle",
+            "Pentagon",
+            "Diamond",
+            "Hexagon",
+            "Triangle",
+            "Pentagon",
+            "Pentagon",
+            "Triangle",
+            "Circle",
+            "Triangle",
+            "Pentagon",
+            "Hexagon",
+            "Diamond",
+            "Diamond",
+            "Triangle",
+            "Pentagon",
+            "Hexagon",
+            "Pentagon",
+            "Hexagon"
+        ],
+        "Gold_side": [
+            5,
+            3,
+            5,
+            4,
+            6,
+            3,
+            5,
+            5,
+            3,
+            0,
+            3,
+            5,
+            6,
+            4,
+            4,
+            3,
+            5,
+            6,
+            5,
+            6
+        ],
+        "Rows": 20
+    },
+    {
+        "id": "194.png",
+        "Gold_output": [
+            "Pentagon",
+            "Triangle",
+            "Circle",
+            "Diamond",
+            "Hexagon",
+            "Circle",
+            "Triangle",
+            "Pentagon",
+            "Diamond",
+            "Triangle",
+            "Hexagon",
+            "Pentagon",
+            "Pentagon",
+            "Pentagon",
+            "Pentagon",
+            "Diamond",
+            "Diamond",
+            "Hexagon",
+            "Circle",
+            "Hexagon"
+        ],
+        "Gold_side": [
+            5,
+            3,
+            0,
+            4,
+            6,
+            0,
+            3,
+            5,
+            4,
+            3,
+            6,
+            5,
+            5,
+            5,
+            5,
+            4,
+            4,
+            6,
+            0,
+            6
+        ],
+        "Rows": 20
+    },
+    {
+        "id": "195.png",
+        "Gold_output": [
+            "Triangle",
+            "Triangle",
+            "Pentagon",
+            "Hexagon",
+            "Triangle",
+            "Triangle",
+            "Pentagon",
+            "Circle",
+            "Circle",
+            "Hexagon",
+            "Diamond",
+            "Pentagon",
+            "Diamond",
+            "Triangle",
+            "Pentagon",
+            "Circle",
+            "Pentagon",
+            "Hexagon",
+            "Hexagon",
+            "Pentagon"
+        ],
+        "Gold_side": [
+            3,
+            3,
+            5,
+            6,
+            3,
+            3,
+            5,
+            0,
+            0,
+            6,
+            4,
+            5,
+            4,
+            3,
+            5,
+            0,
+            5,
+            6,
+            6,
+            5
+        ],
+        "Rows": 20
+    },
+    {
+        "id": "196.png",
+        "Gold_output": [
+            "Diamond",
+            "Pentagon",
+            "Pentagon",
+            "Circle",
+            "Triangle",
+            "Hexagon",
+            "Triangle",
+            "Circle",
+            "Diamond",
+            "Pentagon",
+            "Triangle",
+            "Hexagon",
+            "Pentagon",
+            "Hexagon",
+            "Hexagon",
+            "Circle",
+            "Circle",
+            "Circle",
+            "Circle",
+            "Triangle"
+        ],
+        "Gold_side": [
+            4,
+            5,
+            5,
+            0,
+            3,
+            6,
+            3,
+            0,
+            4,
+            5,
+            3,
+            6,
+            5,
+            6,
+            6,
+            0,
+            0,
+            0,
+            0,
+            3
+        ],
+        "Rows": 20
+    },
+    {
+        "id": "197.png",
+        "Gold_output": [
+            "Pentagon",
+            "Circle",
+            "Hexagon",
+            "Circle",
+            "Hexagon",
+            "Pentagon",
+            "Triangle",
+            "Hexagon",
+            "Circle",
+            "Diamond",
+            "Hexagon",
+            "Circle",
+            "Pentagon",
+            "Hexagon",
+            "Diamond",
+            "Triangle",
+            "Pentagon",
+            "Triangle",
+            "Pentagon",
+            "Circle"
+        ],
+        "Gold_side": [
+            5,
+            0,
+            6,
+            0,
+            6,
+            5,
+            3,
+            6,
+            0,
+            4,
+            6,
+            0,
+            5,
+            6,
+            4,
+            3,
+            5,
+            3,
+            5,
+            0
+        ],
+        "Rows": 20
+    },
+    {
+        "id": "198.png",
+        "Gold_output": [
+            "Diamond",
+            "Hexagon",
+            "Hexagon",
+            "Triangle",
+            "Triangle",
+            "Triangle",
+            "Pentagon",
+            "Triangle",
+            "Circle",
+            "Hexagon",
+            "Circle",
+            "Pentagon",
+            "Pentagon",
+            "Circle",
+            "Hexagon",
+            "Pentagon",
+            "Circle",
+            "Diamond",
+            "Circle",
+            "Hexagon"
+        ],
+        "Gold_side": [
+            4,
+            6,
+            6,
+            3,
+            3,
+            3,
+            5,
+            3,
+            0,
+            6,
+            0,
+            5,
+            5,
+            0,
+            6,
+            5,
+            0,
+            4,
+            0,
+            6
+        ],
+        "Rows": 20
+    },
+    {
+        "id": "199.png",
+        "Gold_output": [
+            "Hexagon",
+            "Diamond",
+            "Diamond",
+            "Pentagon",
+            "Hexagon",
+            "Pentagon",
+            "Circle",
+            "Diamond",
+            "Diamond",
+            "Triangle",
+            "Diamond",
+            "Circle",
+            "Triangle",
+            "Triangle",
+            "Diamond",
+            "Pentagon",
+            "Hexagon",
+            "Diamond",
+            "Pentagon",
+            "Triangle"
+        ],
+        "Gold_side": [
+            6,
+            4,
+            4,
+            5,
+            6,
+            5,
+            0,
+            4,
+            4,
+            3,
+            4,
+            0,
+            3,
+            3,
+            4,
+            5,
+            6,
+            4,
+            5,
+            3
+        ],
+        "Rows": 20
+    },
+    {
+        "id": "200.png",
+        "Gold_output": [
+            "Circle",
+            "Diamond",
+            "Circle",
+            "Diamond",
+            "Circle",
+            "Hexagon",
+            "Diamond",
+            "Diamond",
+            "Hexagon",
+            "Pentagon",
+            "Diamond",
+            "Hexagon",
+            "Hexagon",
+            "Hexagon",
+            "Diamond",
+            "Pentagon",
+            "Triangle",
+            "Triangle",
+            "Hexagon",
+            "Circle"
+        ],
+        "Gold_side": [
+            0,
+            4,
+            0,
+            4,
+            0,
+            6,
+            4,
+            4,
+            6,
+            5,
+            4,
+            6,
+            6,
+            6,
+            4,
+            5,
+            3,
+            3,
+            6,
+            0
+        ],
+        "Rows": 20
+    }
+]

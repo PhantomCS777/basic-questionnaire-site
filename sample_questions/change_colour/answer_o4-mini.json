@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "second1.png",
+    "num_differences": 1,
+    "gpt_response": "COUNT:1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second2.png",
+    "num_differences": 1,
+    "gpt_response": "COUNT:1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second3.png",
+    "num_differences": 1,
+    "gpt_response": "COUNT:1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second4.png",
+    "num_differences": 1,
+    "gpt_response": "COUNT:1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second5.png",
+    "num_differences": 1,
+    "gpt_response": "COUNT:1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second6.png",
+    "num_differences": 1,
+    "gpt_response": "COUNT:1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second7.png",
+    "num_differences": 1,
+    "gpt_response": "COUNT:1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second8.png",
+    "num_differences": 1,
+    "gpt_response": "COUNT:1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second9.png",
+    "num_differences": 1,
+    "gpt_response": "COUNT:1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second10.png",
+    "num_differences": 1,
+    "gpt_response": "COUNT:1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second11.png",
+    "num_differences": 2,
+    "gpt_response": "COUNT:2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second12.png",
+    "num_differences": 2,
+    "gpt_response": "COUNT:2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second13.png",
+    "num_differences": 2,
+    "gpt_response": "COUNT:2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second14.png",
+    "num_differences": 2,
+    "gpt_response": "COUNT:2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second15.png",
+    "num_differences": 2,
+    "gpt_response": "COUNT:2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second16.png",
+    "num_differences": 2,
+    "gpt_response": "COUNT:2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second17.png",
+    "num_differences": 2,
+    "gpt_response": "COUNT:2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second18.png",
+    "num_differences": 2,
+    "gpt_response": "COUNT:2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second19.png",
+    "num_differences": 2,
+    "gpt_response": "COUNT:2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second20.png",
+    "num_differences": 2,
+    "gpt_response": "COUNT:2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second21.png",
+    "num_differences": 3,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second22.png",
+    "num_differences": 3,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "second23.png",
+    "num_differences": 3,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second24.png",
+    "num_differences": 3,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second25.png",
+    "num_differences": 3,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "second26.png",
+    "num_differences": 3,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second27.png",
+    "num_differences": 3,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "second28.png",
+    "num_differences": 3,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "second29.png",
+    "num_differences": 3,
+    "gpt_response": "COUNT:3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "second30.png",
+    "num_differences": 3,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second31.png",
+    "num_differences": 4,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second32.png",
+    "num_differences": 4,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second33.png",
+    "num_differences": 4,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second34.png",
+    "num_differences": 4,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second35.png",
+    "num_differences": 4,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second36.png",
+    "num_differences": 4,
+    "gpt_response": "COUNT:4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second37.png",
+    "num_differences": 4,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second38.png",
+    "num_differences": 4,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second39.png",
+    "num_differences": 4,
+    "gpt_response": "COUNT:4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second40.png",
+    "num_differences": 4,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second41.png",
+    "num_differences": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second42.png",
+    "num_differences": 5,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "second43.png",
+    "num_differences": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second44.png",
+    "num_differences": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second45.png",
+    "num_differences": 5,
+    "gpt_response": "COUNT:5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "second46.png",
+    "num_differences": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second47.png",
+    "num_differences": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second48.png",
+    "num_differences": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second49.png",
+    "num_differences": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second50.png",
+    "num_differences": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second51.png",
+    "num_differences": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second52.png",
+    "num_differences": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second53.png",
+    "num_differences": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second54.png",
+    "num_differences": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second55.png",
+    "num_differences": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second56.png",
+    "num_differences": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second57.png",
+    "num_differences": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second58.png",
+    "num_differences": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second59.png",
+    "num_differences": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second60.png",
+    "num_differences": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second61.png",
+    "num_differences": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second62.png",
+    "num_differences": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second63.png",
+    "num_differences": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second64.png",
+    "num_differences": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second65.png",
+    "num_differences": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second66.png",
+    "num_differences": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second67.png",
+    "num_differences": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second68.png",
+    "num_differences": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second69.png",
+    "num_differences": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second70.png",
+    "num_differences": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second71.png",
+    "num_differences": 8,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second72.png",
+    "num_differences": 8,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second73.png",
+    "num_differences": 8,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second74.png",
+    "num_differences": 8,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second75.png",
+    "num_differences": 8,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second76.png",
+    "num_differences": 8,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second77.png",
+    "num_differences": 8,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second78.png",
+    "num_differences": 8,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second79.png",
+    "num_differences": 8,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second80.png",
+    "num_differences": 8,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second81.png",
+    "num_differences": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second82.png",
+    "num_differences": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second83.png",
+    "num_differences": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second84.png",
+    "num_differences": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second85.png",
+    "num_differences": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second86.png",
+    "num_differences": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second87.png",
+    "num_differences": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second88.png",
+    "num_differences": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second89.png",
+    "num_differences": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second90.png",
+    "num_differences": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second91.png",
+    "num_differences": 10,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second92.png",
+    "num_differences": 10,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second93.png",
+    "num_differences": 10,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second94.png",
+    "num_differences": 10,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second95.png",
+    "num_differences": 10,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second96.png",
+    "num_differences": 10,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second97.png",
+    "num_differences": 10,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second98.png",
+    "num_differences": 10,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second99.png",
+    "num_differences": 10,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second100.png",
+    "num_differences": 10,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second101.png",
+    "num_differences": 11,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second102.png",
+    "num_differences": 11,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second103.png",
+    "num_differences": 11,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second104.png",
+    "num_differences": 11,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second105.png",
+    "num_differences": 11,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second106.png",
+    "num_differences": 11,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second107.png",
+    "num_differences": 11,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second108.png",
+    "num_differences": 11,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second109.png",
+    "num_differences": 11,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second110.png",
+    "num_differences": 11,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second111.png",
+    "num_differences": 12,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second112.png",
+    "num_differences": 12,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second113.png",
+    "num_differences": 12,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second114.png",
+    "num_differences": 12,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second115.png",
+    "num_differences": 12,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second116.png",
+    "num_differences": 12,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second117.png",
+    "num_differences": 12,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second118.png",
+    "num_differences": 12,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second119.png",
+    "num_differences": 12,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second120.png",
+    "num_differences": 12,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second121.png",
+    "num_differences": 13,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second122.png",
+    "num_differences": 13,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second123.png",
+    "num_differences": 13,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second124.png",
+    "num_differences": 13,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second125.png",
+    "num_differences": 13,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second126.png",
+    "num_differences": 13,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second127.png",
+    "num_differences": 13,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second128.png",
+    "num_differences": 13,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second129.png",
+    "num_differences": 13,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second130.png",
+    "num_differences": 13,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second131.png",
+    "num_differences": 14,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second132.png",
+    "num_differences": 14,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second133.png",
+    "num_differences": 14,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second134.png",
+    "num_differences": 14,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second135.png",
+    "num_differences": 14,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second136.png",
+    "num_differences": 14,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second137.png",
+    "num_differences": 14,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second138.png",
+    "num_differences": 14,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second139.png",
+    "num_differences": 14,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second140.png",
+    "num_differences": 14,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second141.png",
+    "num_differences": 15,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second142.png",
+    "num_differences": 15,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second143.png",
+    "num_differences": 15,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second144.png",
+    "num_differences": 15,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second145.png",
+    "num_differences": 15,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second146.png",
+    "num_differences": 15,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second147.png",
+    "num_differences": 15,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second148.png",
+    "num_differences": 15,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second149.png",
+    "num_differences": 15,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second150.png",
+    "num_differences": 15,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second151.png",
+    "num_differences": 16,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second152.png",
+    "num_differences": 16,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second153.png",
+    "num_differences": 16,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second154.png",
+    "num_differences": 16,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second155.png",
+    "num_differences": 16,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second156.png",
+    "num_differences": 16,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second157.png",
+    "num_differences": 16,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second158.png",
+    "num_differences": 16,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second159.png",
+    "num_differences": 16,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second160.png",
+    "num_differences": 16,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second161.png",
+    "num_differences": 17,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second162.png",
+    "num_differences": 17,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second163.png",
+    "num_differences": 17,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second164.png",
+    "num_differences": 17,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second165.png",
+    "num_differences": 17,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second166.png",
+    "num_differences": 17,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second167.png",
+    "num_differences": 17,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second168.png",
+    "num_differences": 17,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second169.png",
+    "num_differences": 17,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second170.png",
+    "num_differences": 17,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second171.png",
+    "num_differences": 18,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second172.png",
+    "num_differences": 18,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second173.png",
+    "num_differences": 18,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second174.png",
+    "num_differences": 18,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second175.png",
+    "num_differences": 18,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second176.png",
+    "num_differences": 18,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second177.png",
+    "num_differences": 18,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second178.png",
+    "num_differences": 18,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second179.png",
+    "num_differences": 18,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second180.png",
+    "num_differences": 18,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second181.png",
+    "num_differences": 19,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second182.png",
+    "num_differences": 19,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second183.png",
+    "num_differences": 19,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second184.png",
+    "num_differences": 19,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second185.png",
+    "num_differences": 19,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second186.png",
+    "num_differences": 19,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second187.png",
+    "num_differences": 19,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second188.png",
+    "num_differences": 19,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second189.png",
+    "num_differences": 19,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second190.png",
+    "num_differences": 19,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second191.png",
+    "num_differences": 20,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second192.png",
+    "num_differences": 20,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second193.png",
+    "num_differences": 20,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second194.png",
+    "num_differences": 20,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second195.png",
+    "num_differences": 20,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second196.png",
+    "num_differences": 20,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second197.png",
+    "num_differences": 20,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second198.png",
+    "num_differences": 20,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second199.png",
+    "num_differences": 20,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second200.png",
+    "num_differences": 20,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  }
+]

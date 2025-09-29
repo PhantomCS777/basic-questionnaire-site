@@ -21,7 +21,7 @@ document.getElementById("startBtn").addEventListener("click", async ()=>{
 function showQuestion(i){
   current = i;
   const q = questions[i];
-  document.getElementById("promptText").innerText = q.prompt || "(no prompt)";
+  document.getElementById("promptText").innerText = q.prompts || "(no prompt)";
   if(q.image){
     document.getElementById("qimg").src = q.image;
     document.getElementById("qimg").style.display = "block";

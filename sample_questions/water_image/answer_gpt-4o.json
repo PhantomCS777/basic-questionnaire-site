@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "second1.png",
+    "water_image": 1,
+    "num_objects": 1,
+    "gpt_response": "COUNT: 1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second2.png",
+    "water_image": 1,
+    "num_objects": 1,
+    "gpt_response": "COUNT: 1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second3.png",
+    "water_image": 1,
+    "num_objects": 1,
+    "gpt_response": "COUNT: 1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second4.png",
+    "water_image": 1,
+    "num_objects": 1,
+    "gpt_response": "COUNT: 2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second5.png",
+    "water_image": 1,
+    "num_objects": 1,
+    "gpt_response": "COUNT: 1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second6.png",
+    "water_image": 1,
+    "num_objects": 1,
+    "gpt_response": "COUNT: 1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second7.png",
+    "water_image": 1,
+    "num_objects": 1,
+    "gpt_response": "COUNT: 1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second8.png",
+    "water_image": 1,
+    "num_objects": 1,
+    "gpt_response": "COUNT: 0",
+    "Output": 0,
+    "ERROR": null
+  },
+  {
+    "id": "second9.png",
+    "water_image": 1,
+    "num_objects": 1,
+    "gpt_response": "COUNT: 1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second10.png",
+    "water_image": 1,
+    "num_objects": 1,
+    "gpt_response": "COUNT: 2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second11.png",
+    "water_image": 2,
+    "num_objects": 2,
+    "gpt_response": "COUNT: 2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second12.png",
+    "water_image": 2,
+    "num_objects": 2,
+    "gpt_response": "COUNT: 2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second13.png",
+    "water_image": 2,
+    "num_objects": 2,
+    "gpt_response": "COUNT: 1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second14.png",
+    "water_image": 2,
+    "num_objects": 2,
+    "gpt_response": "COUNT: 2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second15.png",
+    "water_image": 2,
+    "num_objects": 2,
+    "gpt_response": "COUNT: 2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second16.png",
+    "water_image": 2,
+    "num_objects": 2,
+    "gpt_response": "COUNT: 2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second17.png",
+    "water_image": 2,
+    "num_objects": 2,
+    "gpt_response": "COUNT: 2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second18.png",
+    "water_image": 2,
+    "num_objects": 2,
+    "gpt_response": "COUNT: 1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second19.png",
+    "water_image": 2,
+    "num_objects": 2,
+    "gpt_response": "COUNT: 2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second20.png",
+    "water_image": 2,
+    "num_objects": 2,
+    "gpt_response": "COUNT: 1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second21.png",
+    "water_image": 3,
+    "num_objects": 3,
+    "gpt_response": "COUNT: 3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "second22.png",
+    "water_image": 3,
+    "num_objects": 3,
+    "gpt_response": "COUNT: 3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "second23.png",
+    "water_image": 3,
+    "num_objects": 3,
+    "gpt_response": "COUNT: 3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "second24.png",
+    "water_image": 3,
+    "num_objects": 3,
+    "gpt_response": "COUNT: 3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "second25.png",
+    "water_image": 3,
+    "num_objects": 3,
+    "gpt_response": "COUNT: 2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second26.png",
+    "water_image": 3,
+    "num_objects": 3,
+    "gpt_response": "COUNT: 1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second27.png",
+    "water_image": 3,
+    "num_objects": 3,
+    "gpt_response": "COUNT: 2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second28.png",
+    "water_image": 3,
+    "num_objects": 3,
+    "gpt_response": "COUNT: 3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "second29.png",
+    "water_image": 3,
+    "num_objects": 3,
+    "gpt_response": "COUNT: 1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second30.png",
+    "water_image": 3,
+    "num_objects": 3,
+    "gpt_response": "COUNT: 3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "second31.png",
+    "water_image": 4,
+    "num_objects": 4,
+    "gpt_response": "COUNT: 3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "second32.png",
+    "water_image": 4,
+    "num_objects": 4,
+    "gpt_response": "COUNT: 2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second33.png",
+    "water_image": 4,
+    "num_objects": 4,
+    "gpt_response": "COUNT: 3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "second34.png",
+    "water_image": 4,
+    "num_objects": 4,
+    "gpt_response": "COUNT: 3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "second35.png",
+    "water_image": 4,
+    "num_objects": 4,
+    "gpt_response": "COUNT: 3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "second36.png",
+    "water_image": 4,
+    "num_objects": 4,
+    "gpt_response": "COUNT: 3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "second37.png",
+    "water_image": 4,
+    "num_objects": 4,
+    "gpt_response": "COUNT: 3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "second38.png",
+    "water_image": 4,
+    "num_objects": 4,
+    "gpt_response": "COUNT: 3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "second39.png",
+    "water_image": 4,
+    "num_objects": 4,
+    "gpt_response": "COUNT: 2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second40.png",
+    "water_image": 4,
+    "num_objects": 4,
+    "gpt_response": "COUNT: 3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "second41.png",
+    "water_image": 5,
+    "num_objects": 5,
+    "gpt_response": "COUNT: 4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second42.png",
+    "water_image": 5,
+    "num_objects": 5,
+    "gpt_response": "COUNT: 4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second43.png",
+    "water_image": 5,
+    "num_objects": 5,
+    "gpt_response": "COUNT: 3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "second44.png",
+    "water_image": 5,
+    "num_objects": 5,
+    "gpt_response": "COUNT: 3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "second45.png",
+    "water_image": 5,
+    "num_objects": 5,
+    "gpt_response": "COUNT: 3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "second46.png",
+    "water_image": 5,
+    "num_objects": 5,
+    "gpt_response": "COUNT: 3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "second47.png",
+    "water_image": 5,
+    "num_objects": 5,
+    "gpt_response": "COUNT: 4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second48.png",
+    "water_image": 5,
+    "num_objects": 5,
+    "gpt_response": "COUNT: 2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second49.png",
+    "water_image": 5,
+    "num_objects": 5,
+    "gpt_response": "COUNT: 3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "second50.png",
+    "water_image": 5,
+    "num_objects": 5,
+    "gpt_response": "COUNT: 2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second51.png",
+    "water_image": 6,
+    "num_objects": 6,
+    "gpt_response": "COUNT: 3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "second52.png",
+    "water_image": 6,
+    "num_objects": 6,
+    "gpt_response": "COUNT: 5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "second53.png",
+    "water_image": 6,
+    "num_objects": 6,
+    "gpt_response": "COUNT: 4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second54.png",
+    "water_image": 6,
+    "num_objects": 6,
+    "gpt_response": "COUNT: 4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second55.png",
+    "water_image": 6,
+    "num_objects": 6,
+    "gpt_response": "COUNT: 4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second56.png",
+    "water_image": 6,
+    "num_objects": 6,
+    "gpt_response": "COUNT: 4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second57.png",
+    "water_image": 6,
+    "num_objects": 6,
+    "gpt_response": "COUNT: 4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second58.png",
+    "water_image": 6,
+    "num_objects": 6,
+    "gpt_response": "COUNT: 4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second59.png",
+    "water_image": 6,
+    "num_objects": 6,
+    "gpt_response": "COUNT: 3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "second60.png",
+    "water_image": 6,
+    "num_objects": 6,
+    "gpt_response": "COUNT: 3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "second61.png",
+    "water_image": 7,
+    "num_objects": 7,
+    "gpt_response": "COUNT: 4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second62.png",
+    "water_image": 7,
+    "num_objects": 7,
+    "gpt_response": "COUNT: 4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second63.png",
+    "water_image": 7,
+    "num_objects": 7,
+    "gpt_response": "COUNT: 5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "second64.png",
+    "water_image": 7,
+    "num_objects": 7,
+    "gpt_response": "COUNT: 2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second65.png",
+    "water_image": 7,
+    "num_objects": 7,
+    "gpt_response": "COUNT: 4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second66.png",
+    "water_image": 7,
+    "num_objects": 7,
+    "gpt_response": "COUNT: 4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second67.png",
+    "water_image": 7,
+    "num_objects": 7,
+    "gpt_response": "COUNT: 4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second68.png",
+    "water_image": 7,
+    "num_objects": 7,
+    "gpt_response": "COUNT: 4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second69.png",
+    "water_image": 7,
+    "num_objects": 7,
+    "gpt_response": "COUNT: 5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "second70.png",
+    "water_image": 7,
+    "num_objects": 7,
+    "gpt_response": "COUNT: 4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second71.png",
+    "water_image": 8,
+    "num_objects": 8,
+    "gpt_response": "COUNT: 4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second72.png",
+    "water_image": 8,
+    "num_objects": 8,
+    "gpt_response": "COUNT: 5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "second73.png",
+    "water_image": 8,
+    "num_objects": 8,
+    "gpt_response": "COUNT: 5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "second74.png",
+    "water_image": 8,
+    "num_objects": 8,
+    "gpt_response": "COUNT: 4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second75.png",
+    "water_image": 8,
+    "num_objects": 8,
+    "gpt_response": "COUNT: 4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second76.png",
+    "water_image": 8,
+    "num_objects": 8,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second77.png",
+    "water_image": 8,
+    "num_objects": 8,
+    "gpt_response": "COUNT: 5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "second78.png",
+    "water_image": 8,
+    "num_objects": 8,
+    "gpt_response": "COUNT: 4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second79.png",
+    "water_image": 8,
+    "num_objects": 8,
+    "gpt_response": "COUNT: 5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "second80.png",
+    "water_image": 8,
+    "num_objects": 8,
+    "gpt_response": "COUNT: 3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "second81.png",
+    "water_image": 9,
+    "num_objects": 9,
+    "gpt_response": "COUNT: 3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "second82.png",
+    "water_image": 9,
+    "num_objects": 9,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second83.png",
+    "water_image": 9,
+    "num_objects": 9,
+    "gpt_response": "COUNT: 4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second84.png",
+    "water_image": 9,
+    "num_objects": 9,
+    "gpt_response": "COUNT: 5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "second85.png",
+    "water_image": 9,
+    "num_objects": 9,
+    "gpt_response": "COUNT: 5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "second86.png",
+    "water_image": 9,
+    "num_objects": 9,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second87.png",
+    "water_image": 9,
+    "num_objects": 9,
+    "gpt_response": "COUNT: 5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "second88.png",
+    "water_image": 9,
+    "num_objects": 9,
+    "gpt_response": "COUNT: 5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "second89.png",
+    "water_image": 9,
+    "num_objects": 9,
+    "gpt_response": "COUNT: 4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second90.png",
+    "water_image": 9,
+    "num_objects": 9,
+    "gpt_response": "COUNT: 5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "second91.png",
+    "water_image": 10,
+    "num_objects": 10,
+    "gpt_response": "COUNT: 5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "second92.png",
+    "water_image": 10,
+    "num_objects": 10,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second93.png",
+    "water_image": 10,
+    "num_objects": 10,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second94.png",
+    "water_image": 10,
+    "num_objects": 10,
+    "gpt_response": "COUNT: 5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "second95.png",
+    "water_image": 10,
+    "num_objects": 10,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second96.png",
+    "water_image": 10,
+    "num_objects": 10,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second97.png",
+    "water_image": 10,
+    "num_objects": 10,
+    "gpt_response": "COUNT: 5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "second98.png",
+    "water_image": 10,
+    "num_objects": 10,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second99.png",
+    "water_image": 10,
+    "num_objects": 10,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second100.png",
+    "water_image": 10,
+    "num_objects": 10,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second101.png",
+    "water_image": 11,
+    "num_objects": 11,
+    "gpt_response": "COUNT: 5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "second102.png",
+    "water_image": 11,
+    "num_objects": 11,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second103.png",
+    "water_image": 11,
+    "num_objects": 11,
+    "gpt_response": "COUNT: 5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "second104.png",
+    "water_image": 11,
+    "num_objects": 11,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second105.png",
+    "water_image": 11,
+    "num_objects": 11,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second106.png",
+    "water_image": 11,
+    "num_objects": 11,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second107.png",
+    "water_image": 11,
+    "num_objects": 11,
+    "gpt_response": "COUNT: 5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "second108.png",
+    "water_image": 11,
+    "num_objects": 11,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second109.png",
+    "water_image": 11,
+    "num_objects": 11,
+    "gpt_response": "COUNT: 5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "second110.png",
+    "water_image": 11,
+    "num_objects": 11,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second111.png",
+    "water_image": 12,
+    "num_objects": 12,
+    "gpt_response": "COUNT: 5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "second112.png",
+    "water_image": 12,
+    "num_objects": 12,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second113.png",
+    "water_image": 12,
+    "num_objects": 12,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second114.png",
+    "water_image": 12,
+    "num_objects": 12,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second115.png",
+    "water_image": 12,
+    "num_objects": 12,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second116.png",
+    "water_image": 12,
+    "num_objects": 12,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second117.png",
+    "water_image": 12,
+    "num_objects": 12,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second118.png",
+    "water_image": 12,
+    "num_objects": 12,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second119.png",
+    "water_image": 12,
+    "num_objects": 12,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second120.png",
+    "water_image": 12,
+    "num_objects": 12,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second121.png",
+    "water_image": 13,
+    "num_objects": 13,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second122.png",
+    "water_image": 13,
+    "num_objects": 13,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second123.png",
+    "water_image": 13,
+    "num_objects": 13,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second124.png",
+    "water_image": 13,
+    "num_objects": 13,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second125.png",
+    "water_image": 13,
+    "num_objects": 13,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second126.png",
+    "water_image": 13,
+    "num_objects": 13,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second127.png",
+    "water_image": 13,
+    "num_objects": 13,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second128.png",
+    "water_image": 13,
+    "num_objects": 13,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second129.png",
+    "water_image": 13,
+    "num_objects": 13,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second130.png",
+    "water_image": 13,
+    "num_objects": 13,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second131.png",
+    "water_image": 14,
+    "num_objects": 14,
+    "gpt_response": "COUNT: 5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "second132.png",
+    "water_image": 14,
+    "num_objects": 14,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second133.png",
+    "water_image": 14,
+    "num_objects": 14,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second134.png",
+    "water_image": 14,
+    "num_objects": 14,
+    "gpt_response": "COUNT: 10",
+    "Output": 10,
+    "ERROR": null
+  },
+  {
+    "id": "second135.png",
+    "water_image": 14,
+    "num_objects": 14,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second136.png",
+    "water_image": 14,
+    "num_objects": 14,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second137.png",
+    "water_image": 14,
+    "num_objects": 14,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second138.png",
+    "water_image": 14,
+    "num_objects": 14,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second139.png",
+    "water_image": 14,
+    "num_objects": 14,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second140.png",
+    "water_image": 14,
+    "num_objects": 14,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second141.png",
+    "water_image": 15,
+    "num_objects": 15,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second142.png",
+    "water_image": 15,
+    "num_objects": 15,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second143.png",
+    "water_image": 15,
+    "num_objects": 15,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second144.png",
+    "water_image": 15,
+    "num_objects": 15,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second145.png",
+    "water_image": 15,
+    "num_objects": 15,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second146.png",
+    "water_image": 15,
+    "num_objects": 15,
+    "gpt_response": "COUNT: 10",
+    "Output": 10,
+    "ERROR": null
+  },
+  {
+    "id": "second147.png",
+    "water_image": 15,
+    "num_objects": 15,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second148.png",
+    "water_image": 15,
+    "num_objects": 15,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second149.png",
+    "water_image": 15,
+    "num_objects": 15,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second150.png",
+    "water_image": 15,
+    "num_objects": 15,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second151.png",
+    "water_image": 16,
+    "num_objects": 16,
+    "gpt_response": "COUNT: 10",
+    "Output": 10,
+    "ERROR": null
+  },
+  {
+    "id": "second152.png",
+    "water_image": 16,
+    "num_objects": 16,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second153.png",
+    "water_image": 16,
+    "num_objects": 16,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second154.png",
+    "water_image": 16,
+    "num_objects": 16,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second155.png",
+    "water_image": 16,
+    "num_objects": 16,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second156.png",
+    "water_image": 16,
+    "num_objects": 16,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second157.png",
+    "water_image": 16,
+    "num_objects": 16,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second158.png",
+    "water_image": 16,
+    "num_objects": 16,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second159.png",
+    "water_image": 16,
+    "num_objects": 16,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second160.png",
+    "water_image": 16,
+    "num_objects": 16,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second161.png",
+    "water_image": 17,
+    "num_objects": 17,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second162.png",
+    "water_image": 17,
+    "num_objects": 17,
+    "gpt_response": "COUNT: 12",
+    "Output": 12,
+    "ERROR": null
+  },
+  {
+    "id": "second163.png",
+    "water_image": 17,
+    "num_objects": 17,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second164.png",
+    "water_image": 17,
+    "num_objects": 17,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second165.png",
+    "water_image": 17,
+    "num_objects": 17,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second166.png",
+    "water_image": 17,
+    "num_objects": 17,
+    "gpt_response": "COUNT: 10",
+    "Output": 10,
+    "ERROR": null
+  },
+  {
+    "id": "second167.png",
+    "water_image": 17,
+    "num_objects": 17,
+    "gpt_response": "COUNT: 10",
+    "Output": 10,
+    "ERROR": null
+  },
+  {
+    "id": "second168.png",
+    "water_image": 17,
+    "num_objects": 17,
+    "gpt_response": "COUNT: 12",
+    "Output": 12,
+    "ERROR": null
+  },
+  {
+    "id": "second169.png",
+    "water_image": 17,
+    "num_objects": 17,
+    "gpt_response": "COUNT: 10",
+    "Output": 10,
+    "ERROR": null
+  },
+  {
+    "id": "second170.png",
+    "water_image": 17,
+    "num_objects": 17,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second171.png",
+    "water_image": 18,
+    "num_objects": 18,
+    "gpt_response": "COUNT: 10",
+    "Output": 10,
+    "ERROR": null
+  },
+  {
+    "id": "second172.png",
+    "water_image": 18,
+    "num_objects": 18,
+    "gpt_response": "COUNT: 10",
+    "Output": 10,
+    "ERROR": null
+  },
+  {
+    "id": "second173.png",
+    "water_image": 18,
+    "num_objects": 18,
+    "gpt_response": "COUNT: 10",
+    "Output": 10,
+    "ERROR": null
+  },
+  {
+    "id": "second174.png",
+    "water_image": 18,
+    "num_objects": 18,
+    "gpt_response": "COUNT: 12",
+    "Output": 12,
+    "ERROR": null
+  },
+  {
+    "id": "second175.png",
+    "water_image": 18,
+    "num_objects": 18,
+    "gpt_response": "COUNT: 5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "second176.png",
+    "water_image": 18,
+    "num_objects": 18,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second177.png",
+    "water_image": 18,
+    "num_objects": 18,
+    "gpt_response": "COUNT: 12",
+    "Output": 12,
+    "ERROR": null
+  },
+  {
+    "id": "second178.png",
+    "water_image": 18,
+    "num_objects": 18,
+    "gpt_response": "COUNT: 12",
+    "Output": 12,
+    "ERROR": null
+  },
+  {
+    "id": "second179.png",
+    "water_image": 18,
+    "num_objects": 18,
+    "gpt_response": "COUNT: 10",
+    "Output": 10,
+    "ERROR": null
+  },
+  {
+    "id": "second180.png",
+    "water_image": 18,
+    "num_objects": 18,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second181.png",
+    "water_image": 19,
+    "num_objects": 19,
+    "gpt_response": "COUNT: 12",
+    "Output": 12,
+    "ERROR": null
+  },
+  {
+    "id": "second182.png",
+    "water_image": 19,
+    "num_objects": 19,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second183.png",
+    "water_image": 19,
+    "num_objects": 19,
+    "gpt_response": "COUNT: 12",
+    "Output": 12,
+    "ERROR": null
+  },
+  {
+    "id": "second184.png",
+    "water_image": 19,
+    "num_objects": 19,
+    "gpt_response": "COUNT: 10",
+    "Output": 10,
+    "ERROR": null
+  },
+  {
+    "id": "second185.png",
+    "water_image": 19,
+    "num_objects": 19,
+    "gpt_response": "COUNT: 12",
+    "Output": 12,
+    "ERROR": null
+  },
+  {
+    "id": "second186.png",
+    "water_image": 19,
+    "num_objects": 19,
+    "gpt_response": "COUNT: 12",
+    "Output": 12,
+    "ERROR": null
+  },
+  {
+    "id": "second187.png",
+    "water_image": 19,
+    "num_objects": 19,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second188.png",
+    "water_image": 19,
+    "num_objects": 19,
+    "gpt_response": "COUNT: 10",
+    "Output": 10,
+    "ERROR": null
+  },
+  {
+    "id": "second189.png",
+    "water_image": 19,
+    "num_objects": 19,
+    "gpt_response": "COUNT: 12",
+    "Output": 12,
+    "ERROR": null
+  },
+  {
+    "id": "second190.png",
+    "water_image": 19,
+    "num_objects": 19,
+    "gpt_response": "COUNT: 10",
+    "Output": 10,
+    "ERROR": null
+  },
+  {
+    "id": "second191.png",
+    "water_image": 20,
+    "num_objects": 20,
+    "gpt_response": "COUNT: 12",
+    "Output": 12,
+    "ERROR": null
+  },
+  {
+    "id": "second192.png",
+    "water_image": 20,
+    "num_objects": 20,
+    "gpt_response": "COUNT: 12",
+    "Output": 12,
+    "ERROR": null
+  },
+  {
+    "id": "second193.png",
+    "water_image": 20,
+    "num_objects": 20,
+    "gpt_response": "COUNT: 12",
+    "Output": 12,
+    "ERROR": null
+  },
+  {
+    "id": "second194.png",
+    "water_image": 20,
+    "num_objects": 20,
+    "gpt_response": "COUNT: 12",
+    "Output": 12,
+    "ERROR": null
+  },
+  {
+    "id": "second195.png",
+    "water_image": 20,
+    "num_objects": 20,
+    "gpt_response": "COUNT: 10",
+    "Output": 10,
+    "ERROR": null
+  },
+  {
+    "id": "second196.png",
+    "water_image": 20,
+    "num_objects": 20,
+    "gpt_response": "COUNT: 12",
+    "Output": 12,
+    "ERROR": null
+  },
+  {
+    "id": "second197.png",
+    "water_image": 20,
+    "num_objects": 20,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second198.png",
+    "water_image": 20,
+    "num_objects": 20,
+    "gpt_response": "COUNT: 12",
+    "Output": 12,
+    "ERROR": null
+  },
+  {
+    "id": "second199.png",
+    "water_image": 20,
+    "num_objects": 20,
+    "gpt_response": "COUNT: 10",
+    "Output": 10,
+    "ERROR": null
+  },
+  {
+    "id": "second200.png",
+    "water_image": 20,
+    "num_objects": 20,
+    "gpt_response": "COUNT: 10",
+    "Output": 10,
+    "ERROR": null
+  }
+]

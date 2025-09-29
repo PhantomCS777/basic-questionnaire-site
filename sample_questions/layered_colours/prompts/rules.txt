@@ -1,0 +1,3 @@
+- Write down the sequence of colours seen from inside to outside.
+- The colours belong to the following list - [black, gray, brown, maroon, red, coral, tan, orange, ivory, goldenrod, yellow, green, olive, turquoise, skyblue, blue, lavender, purple, pink, fuchsia]
+- No colour is repeated

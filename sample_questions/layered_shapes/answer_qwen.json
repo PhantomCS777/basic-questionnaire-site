@@ -1,0 +1,5529 @@
+[
+  {
+    "id": "1.png",
+    "num_layers": 1,
+    "order": [
+      "square"
+    ],
+    "gpt_response": "SHAPE : Diamond<|im_end|>",
+    "Output": [
+      "Diamond<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "2.png",
+    "num_layers": 1,
+    "order": [
+      "square"
+    ],
+    "gpt_response": "SHAPE : Diamond<|im_end|>",
+    "Output": [
+      "Diamond<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "3.png",
+    "num_layers": 1,
+    "order": [
+      "square"
+    ],
+    "gpt_response": "SHAPE : Diamond<|im_end|>",
+    "Output": [
+      "Diamond<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "4.png",
+    "num_layers": 1,
+    "order": [
+      "triangle"
+    ],
+    "gpt_response": "SHAPES : Triangle<|im_end|>",
+    "Output": [
+      "Triangle<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "5.png",
+    "num_layers": 1,
+    "order": [
+      "square"
+    ],
+    "gpt_response": "SHAPE : Diamond<|im_end|>",
+    "Output": [
+      "Diamond<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "6.png",
+    "num_layers": 1,
+    "order": [
+      "square"
+    ],
+    "gpt_response": "SHAPE : Diamond<|im_end|>",
+    "Output": [
+      "Diamond<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "7.png",
+    "num_layers": 1,
+    "order": [
+      "square"
+    ],
+    "gpt_response": "SHAPE : Diamond<|im_end|>",
+    "Output": [
+      "Diamond<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "8.png",
+    "num_layers": 1,
+    "order": [
+      "square"
+    ],
+    "gpt_response": "SHAPE : Diamond<|im_end|>",
+    "Output": [
+      "Diamond<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "9.png",
+    "num_layers": 1,
+    "order": [
+      "triangle"
+    ],
+    "gpt_response": "SHAPE : Triangle<|im_end|>",
+    "Output": [
+      "Triangle<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "10.png",
+    "num_layers": 1,
+    "order": [
+      "hexagon"
+    ],
+    "gpt_response": "SHAPE : Hexagon<|im_end|>",
+    "Output": [
+      "Hexagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "11.png",
+    "num_layers": 2,
+    "order": [
+      "hexagon",
+      "hexagon"
+    ],
+    "gpt_response": "SHAPES : Hexagon, Hexagon<|im_end|>",
+    "Output": [
+      "Hexagon",
+      "Hexagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "12.png",
+    "num_layers": 2,
+    "order": [
+      "triangle",
+      "hexagon"
+    ],
+    "gpt_response": "SHAPE: Triangle, Hexagon<|im_end|>",
+    "Output": [
+      "Triangle",
+      "Hexagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "13.png",
+    "num_layers": 2,
+    "order": [
+      "pentagon",
+      "pentagon"
+    ],
+    "gpt_response": "SHAPE: Pentagon, Hexagon<|im_end|>",
+    "Output": [
+      "Pentagon",
+      "Hexagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "14.png",
+    "num_layers": 2,
+    "order": [
+      "hexagon",
+      "square"
+    ],
+    "gpt_response": "SHAPES : Hexagon, Diamond<|im_end|>",
+    "Output": [
+      "Hexagon",
+      "Diamond<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "15.png",
+    "num_layers": 2,
+    "order": [
+      "hexagon",
+      "square"
+    ],
+    "gpt_response": "SHAPE: Hexagon, Diamond<|im_end|>",
+    "Output": [
+      "Hexagon",
+      "Diamond<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "16.png",
+    "num_layers": 2,
+    "order": [
+      "triangle",
+      "square"
+    ],
+    "gpt_response": "SHAPES : Triangle, Diamond<|im_end|>",
+    "Output": [
+      "Triangle",
+      "Diamond<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "17.png",
+    "num_layers": 2,
+    "order": [
+      "triangle",
+      "pentagon"
+    ],
+    "gpt_response": "SHAPE: Pentagon, Triangle<|im_end|>",
+    "Output": [
+      "Pentagon",
+      "Triangle<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "18.png",
+    "num_layers": 2,
+    "order": [
+      "hexagon",
+      "triangle"
+    ],
+    "gpt_response": "SHAPE: Hexagon, Triangle<|im_end|>",
+    "Output": [
+      "Hexagon",
+      "Triangle<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "19.png",
+    "num_layers": 2,
+    "order": [
+      "pentagon",
+      "triangle"
+    ],
+    "gpt_response": "SHAPE: Pentagon, Triangle<|im_end|>",
+    "Output": [
+      "Pentagon",
+      "Triangle<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "20.png",
+    "num_layers": 2,
+    "order": [
+      "pentagon",
+      "pentagon"
+    ],
+    "gpt_response": "SHAPE: Pentagon, Hexagon<|im_end|>",
+    "Output": [
+      "Pentagon",
+      "Hexagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "21.png",
+    "num_layers": 3,
+    "order": [
+      "triangle",
+      "triangle",
+      "pentagon"
+    ],
+    "gpt_response": "SHAPES : Triangle, Hexagon<|im_end|>",
+    "Output": [
+      "Triangle",
+      "Hexagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "22.png",
+    "num_layers": 3,
+    "order": [
+      "square",
+      "triangle",
+      "triangle"
+    ],
+    "gpt_response": "SHAPE: Diamond, Triangle, Triangle<|im_end|>",
+    "Output": [
+      "Diamond",
+      "Triangle",
+      "Triangle<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "23.png",
+    "num_layers": 3,
+    "order": [
+      "triangle",
+      "pentagon",
+      "hexagon"
+    ],
+    "gpt_response": "SHAPES : Triangle, Square, Hexagon<|im_end|>",
+    "Output": [
+      "Triangle",
+      "Square",
+      "Hexagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "24.png",
+    "num_layers": 3,
+    "order": [
+      "hexagon",
+      "hexagon",
+      "triangle"
+    ],
+    "gpt_response": "SHAPE: Hexagon, Triangle, Triangle, Hexagon<|im_end|>",
+    "Output": [
+      "Hexagon",
+      "Triangle",
+      "Triangle",
+      "Hexagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "25.png",
+    "num_layers": 3,
+    "order": [
+      "pentagon",
+      "pentagon",
+      "pentagon"
+    ],
+    "gpt_response": "SHAPE: Pentagon, Hexagon, Square<|im_end|>",
+    "Output": [
+      "Pentagon",
+      "Hexagon",
+      "Square<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "26.png",
+    "num_layers": 3,
+    "order": [
+      "triangle",
+      "hexagon",
+      "pentagon"
+    ],
+    "gpt_response": "SHAPE: Pentagon, Hexagon<|im_end|>",
+    "Output": [
+      "Pentagon",
+      "Hexagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "27.png",
+    "num_layers": 3,
+    "order": [
+      "square",
+      "hexagon",
+      "square"
+    ],
+    "gpt_response": "SHAPE: Diamond, Hexagon, Square<|im_end|>",
+    "Output": [
+      "Diamond",
+      "Hexagon",
+      "Square<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "28.png",
+    "num_layers": 3,
+    "order": [
+      "triangle",
+      "square",
+      "square"
+    ],
+    "gpt_response": "SHAPES : Triangle, Square, Diamond<|im_end|>",
+    "Output": [
+      "Triangle",
+      "Square",
+      "Diamond<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "29.png",
+    "num_layers": 3,
+    "order": [
+      "triangle",
+      "hexagon",
+      "triangle"
+    ],
+    "gpt_response": "Triangle, Hexagon, Triangle, Pentagon, Triangle, Triangle, Triangle\n\nSHAPES : Triangle, Hexagon, Triangle, Pentagon, Triangle<|im_end|>",
+    "Output": [
+      "Triangle",
+      "Hexagon",
+      "Triangle",
+      "Pentagon",
+      "Triangle<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "30.png",
+    "num_layers": 3,
+    "order": [
+      "square",
+      "hexagon",
+      "hexagon"
+    ],
+    "gpt_response": "SHAPE: Diamond, Hexagon, Hexagon<|im_end|>",
+    "Output": [
+      "Diamond",
+      "Hexagon",
+      "Hexagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "31.png",
+    "num_layers": 4,
+    "order": [
+      "pentagon",
+      "triangle",
+      "triangle",
+      "triangle"
+    ],
+    "gpt_response": "Hexagon, Triangle, Square, Circle, Pentagon, Hexagon,\nSHAPES : Hexagon, Triangle, Square, Circle, Pentagon<|im_end|>",
+    "Output": [
+      "Hexagon",
+      "Triangle",
+      "Square",
+      "Circle",
+      "Pentagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "32.png",
+    "num_layers": 4,
+    "order": [
+      "triangle",
+      "triangle",
+      "pentagon",
+      "hexagon"
+    ],
+    "gpt_response": "Triangle, Square, Hexagon, Pentagon, Octagon, Decagon, Hexagon, Square, Triangle, Pentagon, Octagon, Decagon, Hexagon\n\nSHAPES : Hexagon<|im_end|>",
+    "Output": [
+      "Hexagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "33.png",
+    "num_layers": 4,
+    "order": [
+      "hexagon",
+      "pentagon",
+      "square",
+      "hexagon"
+    ],
+    "gpt_response": "SHAPE: Hexagon, Diamond, Square, Hexagon<|im_end|>",
+    "Output": [
+      "Hexagon",
+      "Diamond",
+      "Square",
+      "Hexagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "34.png",
+    "num_layers": 4,
+    "order": [
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon"
+    ],
+    "gpt_response": "SHAPE: Hexagon, Hexagon, Hexagon<|im_end|>",
+    "Output": [
+      "Hexagon",
+      "Hexagon",
+      "Hexagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "35.png",
+    "num_layers": 4,
+    "order": [
+      "hexagon",
+      "square",
+      "square",
+      "triangle"
+    ],
+    "gpt_response": "Hexagon, Diamond, Square, Triangle, Triangle\n\nSHAPES : Hexagon, Diamond, Square, Triangle, Triangle<|im_end|>",
+    "Output": [
+      "Hexagon",
+      "Diamond",
+      "Square",
+      "Triangle",
+      "Triangle<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "36.png",
+    "num_layers": 4,
+    "order": [
+      "hexagon",
+      "square",
+      "hexagon",
+      "pentagon"
+    ],
+    "gpt_response": "Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hex",
+    "Output": [
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hex"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "37.png",
+    "num_layers": 4,
+    "order": [
+      "square",
+      "pentagon",
+      "triangle",
+      "hexagon"
+    ],
+    "gpt_response": "SHAPE: Diamond, Triangle, Square, Hexagon<|im_end|>",
+    "Output": [
+      "Diamond",
+      "Triangle",
+      "Square",
+      "Hexagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "38.png",
+    "num_layers": 4,
+    "order": [
+      "pentagon",
+      "pentagon",
+      "square",
+      "pentagon"
+    ],
+    "gpt_response": "SHAPE: Pentagon, Square, Diamond<|im_end|>",
+    "Output": [
+      "Pentagon",
+      "Square",
+      "Diamond<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "39.png",
+    "num_layers": 4,
+    "order": [
+      "triangle",
+      "pentagon",
+      "hexagon",
+      "pentagon"
+    ],
+    "gpt_response": "SHAPES : Triangle, Pentagon, Hexagon<|im_end|>",
+    "Output": [
+      "Triangle",
+      "Pentagon",
+      "Hexagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "40.png",
+    "num_layers": 4,
+    "order": [
+      "square",
+      "triangle",
+      "square",
+      "pentagon"
+    ],
+    "gpt_response": "SHAPE: Triangle, Square, Diamond, Hexagon<|im_end|>",
+    "Output": [
+      "Triangle",
+      "Square",
+      "Diamond",
+      "Hexagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "41.png",
+    "num_layers": 5,
+    "order": [
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "square",
+      "triangle"
+    ],
+    "gpt_response": "Hexagon, Diamond, Triangle, Square, Hexagon, Triangle, Diamond, Square, Hexagon, Triangle, Diamond, Square, Hexagon, Triangle, Diamond, Square, Hexagon, Triangle",
+    "Output": [
+      "Hexagon",
+      "Diamond",
+      "Triangle",
+      "Square",
+      "Hexagon",
+      "Triangle",
+      "Diamond",
+      "Square",
+      "Hexagon",
+      "Triangle",
+      "Diamond",
+      "Square",
+      "Hexagon",
+      "Triangle",
+      "Diamond",
+      "Square",
+      "Hexagon",
+      "Triangle"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "42.png",
+    "num_layers": 5,
+    "order": [
+      "triangle",
+      "hexagon",
+      "square",
+      "hexagon",
+      "pentagon"
+    ],
+    "gpt_response": "The image contains multiple shapes layered on top of each other.\n\n1. The innermost shape is a triangle.\n2. The next layer is a hexagon.\n3. The outermost layer is a",
+    "Output": [
+      "The image contains multiple shapes layered on top of each other.\n\n1. The innermost shape is a triangle.\n2. The next layer is a hexagon.\n3. The outermost layer is a"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "43.png",
+    "num_layers": 5,
+    "order": [
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "triangle",
+      "hexagon"
+    ],
+    "gpt_response": "The sequence of shapes from the inside layer to the outside layer is:\n1. Pentagon (purple)\n2. Triangle (yellow)\n3. Hexagon (blue)\n\nSHAPES : Pentagon, Triangle",
+    "Output": [
+      "Pentagon",
+      "Triangle"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "44.png",
+    "num_layers": 5,
+    "order": [
+      "triangle",
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "triangle"
+    ],
+    "gpt_response": "The image contains multiple shapes layered on top of each other.\n\n1. The innermost shape is a pentagon.\n2. The next layer is a triangle.\n3. The outermost layer is another",
+    "Output": [
+      "The image contains multiple shapes layered on top of each other.\n\n1. The innermost shape is a pentagon.\n2. The next layer is a triangle.\n3. The outermost layer is another"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "45.png",
+    "num_layers": 5,
+    "order": [
+      "triangle",
+      "triangle",
+      "triangle",
+      "triangle",
+      "triangle"
+    ],
+    "gpt_response": "SHAPES : Triangle, Triangle, Triangle<|im_end|>",
+    "Output": [
+      "Triangle",
+      "Triangle",
+      "Triangle<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "46.png",
+    "num_layers": 5,
+    "order": [
+      "square",
+      "square",
+      "hexagon",
+      "pentagon",
+      "hexagon"
+    ],
+    "gpt_response": "SHAPE: Diamond, Hexagon, Pentagon, Hexagon<|im_end|>",
+    "Output": [
+      "Diamond",
+      "Hexagon",
+      "Pentagon",
+      "Hexagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "47.png",
+    "num_layers": 5,
+    "order": [
+      "square",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "pentagon"
+    ],
+    "gpt_response": "SHAPE: Hexagon, Pentagon, Square<|im_end|>",
+    "Output": [
+      "Hexagon",
+      "Pentagon",
+      "Square<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "48.png",
+    "num_layers": 5,
+    "order": [
+      "hexagon",
+      "square",
+      "square",
+      "triangle",
+      "hexagon"
+    ],
+    "gpt_response": "Hexagon, Diamond, Triangle, Hexagon, Diamond, Triangle, Hexagon, Diamond, Triangle, Hexagon, Diamond, Triangle, Hexagon, Diamond, Triangle, Hexagon, Diamond,",
+    "Output": [
+      "Hexagon",
+      "Diamond",
+      "Triangle",
+      "Hexagon",
+      "Diamond",
+      "Triangle",
+      "Hexagon",
+      "Diamond",
+      "Triangle",
+      "Hexagon",
+      "Diamond",
+      "Triangle",
+      "Hexagon",
+      "Diamond",
+      "Triangle",
+      "Hexagon",
+      "Diamond",
+      ""
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "49.png",
+    "num_layers": 5,
+    "order": [
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "pentagon"
+    ],
+    "gpt_response": "Hexagon, Pentagon, Hexagon, Pentagon, Hexagon, Pentagon, Hexagon, Pentagon, Hexagon, Pentagon, Hexagon, Pentagon, Hexagon, Pentagon, Hexagon, Pentagon,",
+    "Output": [
+      "Hexagon",
+      "Pentagon",
+      "Hexagon",
+      "Pentagon",
+      "Hexagon",
+      "Pentagon",
+      "Hexagon",
+      "Pentagon",
+      "Hexagon",
+      "Pentagon",
+      "Hexagon",
+      "Pentagon",
+      "Hexagon",
+      "Pentagon",
+      "Hexagon",
+      "Pentagon",
+      ""
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "50.png",
+    "num_layers": 5,
+    "order": [
+      "pentagon",
+      "hexagon",
+      "square",
+      "triangle",
+      "square"
+    ],
+    "gpt_response": "Hexagon, Triangle, Diamond, Square, Pentagon, Hexagon, Triangle, Diamond, Square, Pentagon, Hexagon, Triangle, Diamond, Square, Pentagon, Hexagon, Triangle, Diamond,",
+    "Output": [
+      "Hexagon",
+      "Triangle",
+      "Diamond",
+      "Square",
+      "Pentagon",
+      "Hexagon",
+      "Triangle",
+      "Diamond",
+      "Square",
+      "Pentagon",
+      "Hexagon",
+      "Triangle",
+      "Diamond",
+      "Square",
+      "Pentagon",
+      "Hexagon",
+      "Triangle",
+      "Diamond",
+      ""
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "51.png",
+    "num_layers": 6,
+    "order": [
+      "triangle",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "triangle",
+      "square"
+    ],
+    "gpt_response": "The sequence of shapes from the inside layer to the outside layer is:\n1. Pentagon\n2. Triangle\n3. Diamond\n4. Square\n\nSHAPES : Pentagon, Triangle, Diamond,",
+    "Output": [
+      "Pentagon",
+      "Triangle",
+      "Diamond",
+      ""
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "52.png",
+    "num_layers": 6,
+    "order": [
+      "triangle",
+      "square",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "hexagon"
+    ],
+    "gpt_response": "SHAPES : triangle, square, triangle, hexagon<|im_end|>",
+    "Output": [
+      "triangle",
+      "square",
+      "triangle",
+      "hexagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "53.png",
+    "num_layers": 6,
+    "order": [
+      "pentagon",
+      "square",
+      "square",
+      "pentagon",
+      "triangle",
+      "pentagon"
+    ],
+    "gpt_response": "SHAPE: Pentagon, Square, Hexagon, Octagon<|im_end|>",
+    "Output": [
+      "Pentagon",
+      "Square",
+      "Hexagon",
+      "Octagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "54.png",
+    "num_layers": 6,
+    "order": [
+      "pentagon",
+      "square",
+      "triangle",
+      "triangle",
+      "triangle",
+      "square"
+    ],
+    "gpt_response": "Hexagon, Triangle, Square, Diamond, Hexagon, Triangle, Square, Diamond, Hexagon, Triangle, Square, Diamond, Hexagon, Triangle, Square, Diamond, Hexagon, Triangle",
+    "Output": [
+      "Hexagon",
+      "Triangle",
+      "Square",
+      "Diamond",
+      "Hexagon",
+      "Triangle",
+      "Square",
+      "Diamond",
+      "Hexagon",
+      "Triangle",
+      "Square",
+      "Diamond",
+      "Hexagon",
+      "Triangle",
+      "Square",
+      "Diamond",
+      "Hexagon",
+      "Triangle"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "55.png",
+    "num_layers": 6,
+    "order": [
+      "pentagon",
+      "square",
+      "hexagon",
+      "square",
+      "hexagon",
+      "square"
+    ],
+    "gpt_response": "SHAPE SEQUENCE: Pentagon, Square, Hexagon, Octagon, Decagon\n\nSHAPES: Pentagon, Square, Hexagon, Octagon, Decagon<|im_end|>",
+    "Output": [
+      "Pentagon",
+      "Square",
+      "Hexagon",
+      "Octagon",
+      "Decagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "56.png",
+    "num_layers": 6,
+    "order": [
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "hexagon"
+    ],
+    "gpt_response": "SHAPE: Hexagon<|im_end|>",
+    "Output": [
+      "Hexagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "57.png",
+    "num_layers": 6,
+    "order": [
+      "pentagon",
+      "square",
+      "square",
+      "square",
+      "triangle",
+      "hexagon"
+    ],
+    "gpt_response": "SHAPE SEQUENCE: Pentagon, Diamond, Square, Hexagon<|im_end|>",
+    "Output": [
+      "Pentagon",
+      "Diamond",
+      "Square",
+      "Hexagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "58.png",
+    "num_layers": 6,
+    "order": [
+      "square",
+      "square",
+      "square",
+      "triangle",
+      "pentagon",
+      "pentagon"
+    ],
+    "gpt_response": "The image contains multiple shapes layered on top of each other.\n\n- The sequence of shapes from the inside layer to the outside layer is: Diamond, Square, Triangle, Pentagon, Hexagon.\n- The",
+    "Output": [
+      "Diamond",
+      "Square",
+      "Triangle",
+      "Pentagon",
+      "Hexagon.\n- The"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "59.png",
+    "num_layers": 6,
+    "order": [
+      "triangle",
+      "triangle",
+      "square",
+      "triangle",
+      "hexagon",
+      "pentagon"
+    ],
+    "gpt_response": "Triangle, Triangle, Triangle, Hexagon, Hexagon, Hexagon\n\nSHAPES : Hexagon<|im_end|>",
+    "Output": [
+      "Hexagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "60.png",
+    "num_layers": 6,
+    "order": [
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "triangle"
+    ],
+    "gpt_response": "SHAPE SEQUENCE: Pentagon, Triangle, Hexagon, Hexagon<|im_end|>",
+    "Output": [
+      "Pentagon",
+      "Triangle",
+      "Hexagon",
+      "Hexagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "61.png",
+    "num_layers": 7,
+    "order": [
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "triangle",
+      "hexagon",
+      "pentagon",
+      "hexagon"
+    ],
+    "gpt_response": "The image contains multiple shapes layered on top of each other.\n\n- The sequence of shapes from the inside layer to the outside layer is: pentagon, triangle, hexagon, octagon, decagon",
+    "Output": [
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "octagon",
+      "decagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "62.png",
+    "num_layers": 7,
+    "order": [
+      "pentagon",
+      "square",
+      "pentagon",
+      "hexagon",
+      "square",
+      "pentagon",
+      "triangle"
+    ],
+    "gpt_response": "The image contains multiple shapes layered on top of each other.\n\nSequence of shapes from the inside layer to the outside layer:\n1. Blue pentagon\n2. Red pentagon\n3. Purple pent",
+    "Output": [
+      "1. Blue pentagon\n2. Red pentagon\n3. Purple pent"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "63.png",
+    "num_layers": 7,
+    "order": [
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "pentagon"
+    ],
+    "gpt_response": "Hexagon, Pentagon, Hexagon, Pentagon, Hexagon, Pentagon, Hexagon, Pentagon, Hexagon, Pentagon, Hexagon, Pentagon, Hexagon, Pentagon, Hexagon, Pentagon,",
+    "Output": [
+      "Hexagon",
+      "Pentagon",
+      "Hexagon",
+      "Pentagon",
+      "Hexagon",
+      "Pentagon",
+      "Hexagon",
+      "Pentagon",
+      "Hexagon",
+      "Pentagon",
+      "Hexagon",
+      "Pentagon",
+      "Hexagon",
+      "Pentagon",
+      "Hexagon",
+      "Pentagon",
+      ""
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "64.png",
+    "num_layers": 7,
+    "order": [
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "hexagon",
+      "square",
+      "pentagon"
+    ],
+    "gpt_response": "Triangle, Pentagon, Hexagon, Octagon, Decagon, Dodecagon, Tetradecagon, Hexadecagon, Octadecagon, Icosagon, Trigint",
+    "Output": [
+      "Triangle",
+      "Pentagon",
+      "Hexagon",
+      "Octagon",
+      "Decagon",
+      "Dodecagon",
+      "Tetradecagon",
+      "Hexadecagon",
+      "Octadecagon",
+      "Icosagon",
+      "Trigint"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "65.png",
+    "num_layers": 7,
+    "order": [
+      "square",
+      "triangle",
+      "triangle",
+      "square",
+      "square",
+      "pentagon",
+      "square"
+    ],
+    "gpt_response": "Triangle, Square, Diamond, Hexagon, Octagon\n\nSHAPES : Triangle, Square, Diamond, Hexagon, Octagon<|im_end|>",
+    "Output": [
+      "Triangle",
+      "Square",
+      "Diamond",
+      "Hexagon",
+      "Octagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "66.png",
+    "num_layers": 7,
+    "order": [
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "triangle"
+    ],
+    "gpt_response": "Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon",
+    "Output": [
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "67.png",
+    "num_layers": 7,
+    "order": [
+      "square",
+      "square",
+      "pentagon",
+      "pentagon",
+      "square",
+      "pentagon",
+      "square"
+    ],
+    "gpt_response": "SHAPE SEQUENCE: Square, Pentagon, Hexagon, Octagon, Decagon, Dodecagon, Tetradecagon\n\nSHAPE: Square<|im_end|>",
+    "Output": [
+      "Square<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "68.png",
+    "num_layers": 7,
+    "order": [
+      "triangle",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "square",
+      "square",
+      "triangle"
+    ],
+    "gpt_response": "The image contains multiple shapes layered on top of each other.\n\n1. The innermost shape is a hexagon.\n2. The next layer is a pentagon.\n3. The outermost layer is",
+    "Output": [
+      "The image contains multiple shapes layered on top of each other.\n\n1. The innermost shape is a hexagon.\n2. The next layer is a pentagon.\n3. The outermost layer is"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "69.png",
+    "num_layers": 7,
+    "order": [
+      "pentagon",
+      "hexagon",
+      "square",
+      "pentagon",
+      "square",
+      "pentagon",
+      "pentagon"
+    ],
+    "gpt_response": "SHAPE: Hexagon, Pentagon, Square, Triangle, Hexagon<|im_end|>",
+    "Output": [
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "70.png",
+    "num_layers": 7,
+    "order": [
+      "hexagon",
+      "hexagon",
+      "square",
+      "triangle",
+      "triangle",
+      "pentagon",
+      "pentagon"
+    ],
+    "gpt_response": "Hexagon, Triangle, Square, Pentagon, Hexagon, Triangle, Square, Pentagon, Hexagon, Triangle, Square, Pentagon, Hexagon, Triangle, Square, Pentagon, Hexagon, Triangle",
+    "Output": [
+      "Hexagon",
+      "Triangle",
+      "Square",
+      "Pentagon",
+      "Hexagon",
+      "Triangle",
+      "Square",
+      "Pentagon",
+      "Hexagon",
+      "Triangle",
+      "Square",
+      "Pentagon",
+      "Hexagon",
+      "Triangle",
+      "Square",
+      "Pentagon",
+      "Hexagon",
+      "Triangle"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "71.png",
+    "num_layers": 8,
+    "order": [
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "triangle",
+      "square",
+      "hexagon"
+    ],
+    "gpt_response": "Pentagon, Hexagon, Octagon, Decagon, Dodecagon, Hexagon, Pentagon, Hexagon, Octagon, Decagon, Dodecagon, Hexagon,",
+    "Output": [
+      "Pentagon",
+      "Hexagon",
+      "Octagon",
+      "Decagon",
+      "Dodecagon",
+      "Hexagon",
+      "Pentagon",
+      "Hexagon",
+      "Octagon",
+      "Decagon",
+      "Dodecagon",
+      "Hexagon",
+      ""
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "72.png",
+    "num_layers": 8,
+    "order": [
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "square",
+      "pentagon",
+      "pentagon"
+    ],
+    "gpt_response": "Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon",
+    "Output": [
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "73.png",
+    "num_layers": 8,
+    "order": [
+      "triangle",
+      "hexagon",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "triangle",
+      "pentagon"
+    ],
+    "gpt_response": "SHAPES : Triangle, Hexagon, Hexagon, Hexagon<|im_end|>",
+    "Output": [
+      "Triangle",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "74.png",
+    "num_layers": 8,
+    "order": [
+      "pentagon",
+      "square",
+      "triangle",
+      "square",
+      "square",
+      "pentagon",
+      "hexagon",
+      "pentagon"
+    ],
+    "gpt_response": "Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon",
+    "Output": [
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "75.png",
+    "num_layers": 8,
+    "order": [
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "hexagon",
+      "hexagon",
+      "triangle"
+    ],
+    "gpt_response": "Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hex",
+    "Output": [
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hex"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "76.png",
+    "num_layers": 8,
+    "order": [
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "square",
+      "square",
+      "square"
+    ],
+    "gpt_response": "Hexagon, Pentagon, Square, Triangle, Diamond, Hexagon, Pentagon, Square, Triangle, Diamond, Hexagon, Pentagon, Square, Triangle, Diamond, Hexagon, Pentagon, Square,",
+    "Output": [
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Diamond",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Diamond",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Diamond",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      ""
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "77.png",
+    "num_layers": 8,
+    "order": [
+      "triangle",
+      "square",
+      "hexagon",
+      "square",
+      "hexagon",
+      "triangle",
+      "triangle",
+      "pentagon"
+    ],
+    "gpt_response": "SHAPES : Triangle, Square, Pentagon, Hexagon<|im_end|>",
+    "Output": [
+      "Triangle",
+      "Square",
+      "Pentagon",
+      "Hexagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "78.png",
+    "num_layers": 8,
+    "order": [
+      "triangle",
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "square",
+      "triangle",
+      "hexagon"
+    ],
+    "gpt_response": "SHAPES : Hexagon, Pentagon, Square, Triangle<|im_end|>",
+    "Output": [
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "79.png",
+    "num_layers": 8,
+    "order": [
+      "triangle",
+      "triangle",
+      "triangle",
+      "triangle",
+      "square",
+      "square",
+      "pentagon",
+      "pentagon"
+    ],
+    "gpt_response": "SHAPES : Triangle, Square, Diamond, Hexagon<|im_end|>",
+    "Output": [
+      "Triangle",
+      "Square",
+      "Diamond",
+      "Hexagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "80.png",
+    "num_layers": 8,
+    "order": [
+      "square",
+      "square",
+      "pentagon",
+      "triangle",
+      "square",
+      "square",
+      "square",
+      "square"
+    ],
+    "gpt_response": "SHAPE SEQUENCE: Diamond, Triangle, Square, Diamond, Triangle, Square<|im_end|>",
+    "Output": [
+      "Diamond",
+      "Triangle",
+      "Square",
+      "Diamond",
+      "Triangle",
+      "Square<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "81.png",
+    "num_layers": 9,
+    "order": [
+      "hexagon",
+      "square",
+      "hexagon",
+      "pentagon",
+      "hexagon",
+      "square",
+      "triangle",
+      "pentagon",
+      "triangle"
+    ],
+    "gpt_response": "Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon",
+    "Output": [
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "82.png",
+    "num_layers": 9,
+    "order": [
+      "pentagon",
+      "triangle",
+      "pentagon",
+      "square",
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "triangle",
+      "pentagon"
+    ],
+    "gpt_response": "SHAPES : Pentagon, Hexagon, Square, Triangle, Diamond<|im_end|>",
+    "Output": [
+      "Pentagon",
+      "Hexagon",
+      "Square",
+      "Triangle",
+      "Diamond<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "83.png",
+    "num_layers": 9,
+    "order": [
+      "hexagon",
+      "hexagon",
+      "square",
+      "square",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "square"
+    ],
+    "gpt_response": "Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon",
+    "Output": [
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "84.png",
+    "num_layers": 9,
+    "order": [
+      "hexagon",
+      "square",
+      "hexagon",
+      "square",
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "pentagon",
+      "square"
+    ],
+    "gpt_response": "Hexagon, Pentagon, Square, Triangle, Diamond, Hexagon, Pentagon, Square, Triangle, Diamond, Hexagon, Pentagon, Square, Triangle, Diamond, Hexagon, Pentagon, Square,",
+    "Output": [
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Diamond",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Diamond",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Diamond",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      ""
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "85.png",
+    "num_layers": 9,
+    "order": [
+      "triangle",
+      "pentagon",
+      "square",
+      "hexagon",
+      "triangle",
+      "square",
+      "pentagon",
+      "square",
+      "square"
+    ],
+    "gpt_response": "Triangle, Square, Pentagon, Hexagon, Octagon, Decagon, Dodecagon, Tetradecagon, Hexadecagon, Octadecagon, Icosagon, Tr",
+    "Output": [
+      "Triangle",
+      "Square",
+      "Pentagon",
+      "Hexagon",
+      "Octagon",
+      "Decagon",
+      "Dodecagon",
+      "Tetradecagon",
+      "Hexadecagon",
+      "Octadecagon",
+      "Icosagon",
+      "Tr"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "86.png",
+    "num_layers": 9,
+    "order": [
+      "triangle",
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "square",
+      "pentagon",
+      "triangle",
+      "square",
+      "hexagon"
+    ],
+    "gpt_response": "Triangle, Diamond, Hexagon, Pentagon, Square, Octagon, Circle, Hexagon, Pentagon, Square, Diamond, Triangle, Hexagon, Pentagon, Square, Diamond, Triangle, Hexagon",
+    "Output": [
+      "Triangle",
+      "Diamond",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Octagon",
+      "Circle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Diamond",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Diamond",
+      "Triangle",
+      "Hexagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "87.png",
+    "num_layers": 9,
+    "order": [
+      "pentagon",
+      "hexagon",
+      "square",
+      "hexagon",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "triangle",
+      "triangle"
+    ],
+    "gpt_response": "The image contains multiple shapes layered on top of each other.\n\nSequence of shapes from the inside layer to the outside layer:\n1. Pentagon (purple)\n2. Hexagon (green)\n3. Oct",
+    "Output": [
+      "1. Pentagon (purple)\n2. Hexagon (green)\n3. Oct"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "88.png",
+    "num_layers": 9,
+    "order": [
+      "triangle",
+      "triangle",
+      "square",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "square",
+      "hexagon",
+      "pentagon"
+    ],
+    "gpt_response": "SHAPES : Triangle, Square, Pentagon, Hexagon<|im_end|>",
+    "Output": [
+      "Triangle",
+      "Square",
+      "Pentagon",
+      "Hexagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "89.png",
+    "num_layers": 9,
+    "order": [
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "square"
+    ],
+    "gpt_response": "Hexagon, Pentagon, Square, Hexagon, Pentagon, Square, Hexagon, Pentagon, Square\n\nSHAPES : Hexagon, Pentagon, Square<|im_end|>",
+    "Output": [
+      "Hexagon",
+      "Pentagon",
+      "Square<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "90.png",
+    "num_layers": 9,
+    "order": [
+      "hexagon",
+      "triangle",
+      "square",
+      "square",
+      "square",
+      "square",
+      "hexagon",
+      "square",
+      "triangle"
+    ],
+    "gpt_response": "Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon",
+    "Output": [
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "91.png",
+    "num_layers": 10,
+    "order": [
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "square",
+      "square",
+      "pentagon",
+      "hexagon",
+      "triangle"
+    ],
+    "gpt_response": "SHAPES : Pentagon, Hexagon, Octagon<|im_end|>",
+    "Output": [
+      "Pentagon",
+      "Hexagon",
+      "Octagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "92.png",
+    "num_layers": 10,
+    "order": [
+      "triangle",
+      "pentagon",
+      "triangle",
+      "square",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "pentagon"
+    ],
+    "gpt_response": "Triangle, Hexagon, Pentagon, Square, Octagon, Decagon, Hexagon, Triangle\n\nSHAPES : Hexagon<|im_end|>",
+    "Output": [
+      "Hexagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "93.png",
+    "num_layers": 10,
+    "order": [
+      "hexagon",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "square"
+    ],
+    "gpt_response": "Hexagon, Pentagon, Square, Triangle, Diamond, Hexagon, Pentagon, Square, Triangle, Diamond, Hexagon, Pentagon, Square, Triangle, Diamond, Hexagon, Pentagon, Square,",
+    "Output": [
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Diamond",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Diamond",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Diamond",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      ""
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "94.png",
+    "num_layers": 10,
+    "order": [
+      "hexagon",
+      "square",
+      "pentagon",
+      "square",
+      "pentagon",
+      "hexagon",
+      "square",
+      "square",
+      "triangle",
+      "square"
+    ],
+    "gpt_response": "Hexagon, Square, Triangle, Diamond, Hexagon, Square, Triangle, Diamond, Hexagon, Square, Triangle, Diamond, Hexagon, Square, Triangle, Diamond, Hexagon, Square",
+    "Output": [
+      "Hexagon",
+      "Square",
+      "Triangle",
+      "Diamond",
+      "Hexagon",
+      "Square",
+      "Triangle",
+      "Diamond",
+      "Hexagon",
+      "Square",
+      "Triangle",
+      "Diamond",
+      "Hexagon",
+      "Square",
+      "Triangle",
+      "Diamond",
+      "Hexagon",
+      "Square"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "95.png",
+    "num_layers": 10,
+    "order": [
+      "square",
+      "square",
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "square",
+      "triangle",
+      "pentagon",
+      "triangle",
+      "triangle"
+    ],
+    "gpt_response": "SHAPE SEQUENCE: Hexagon, Diamond, Triangle, Square, Pentagon, Octagon, Hexagon, Diamond, Triangle, Square, Pentagon, Octagon\n\nSHAPE: Hexagon<|im_end|>",
+    "Output": [
+      "Hexagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "96.png",
+    "num_layers": 10,
+    "order": [
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "square",
+      "hexagon",
+      "square",
+      "triangle"
+    ],
+    "gpt_response": "The image contains multiple layers of shapes. From the inside layer to the outside layer, the sequence of shapes is:\n\n1. Purple pentagon\n2. Blue hexagon\n3. Green triangle\n",
+    "Output": [
+      "1. Purple pentagon\n2. Blue hexagon\n3. Green triangle"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "97.png",
+    "num_layers": 10,
+    "order": [
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "triangle",
+      "square",
+      "triangle"
+    ],
+    "gpt_response": "TRIANGLE, HEXAGON, OCTAGON, DECAGON, DODECAGON, OCTAGON, HEXAGON, TRIANGLE, DECAGON, DODECAGON, OCTAGON, HEXAGON",
+    "Output": [
+      "TRIANGLE",
+      "HEXAGON",
+      "OCTAGON",
+      "DECAGON",
+      "DODECAGON",
+      "OCTAGON",
+      "HEXAGON",
+      "TRIANGLE",
+      "DECAGON",
+      "DODECAGON",
+      "OCTAGON",
+      "HEXAGON"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "98.png",
+    "num_layers": 10,
+    "order": [
+      "hexagon",
+      "triangle",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "hexagon"
+    ],
+    "gpt_response": "SHAPES : Hexagon, Pentagon, Square, Triangle<|im_end|>",
+    "Output": [
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "99.png",
+    "num_layers": 10,
+    "order": [
+      "hexagon",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "hexagon",
+      "hexagon",
+      "square",
+      "pentagon",
+      "pentagon",
+      "triangle"
+    ],
+    "gpt_response": "Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon",
+    "Output": [
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "100.png",
+    "num_layers": 10,
+    "order": [
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "square",
+      "pentagon",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "pentagon"
+    ],
+    "gpt_response": "Pentagon, Hexagon, Octagon, Decagon, Dodecagon, Hexagon, Pentagon, Triangle, Triangle, Triangle, Triangle, Triangle, Triangle, Triangle, Triangle\n\nSH",
+    "Output": [
+      "Pentagon",
+      "Hexagon",
+      "Octagon",
+      "Decagon",
+      "Dodecagon",
+      "Hexagon",
+      "Pentagon",
+      "Triangle",
+      "Triangle",
+      "Triangle",
+      "Triangle",
+      "Triangle",
+      "Triangle",
+      "Triangle",
+      "Triangle\n\nSH"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "101.png",
+    "num_layers": 11,
+    "order": [
+      "triangle",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "square",
+      "hexagon",
+      "square",
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "hexagon"
+    ],
+    "gpt_response": "SHAPES : Triangle, Hexagon, Pentagon, Square, Octagon, Decagon<|im_end|>",
+    "Output": [
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Octagon",
+      "Decagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "102.png",
+    "num_layers": 11,
+    "order": [
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "pentagon"
+    ],
+    "gpt_response": "SHAPES : Pentagon, Hexagon, Octagon<|im_end|>",
+    "Output": [
+      "Pentagon",
+      "Hexagon",
+      "Octagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "103.png",
+    "num_layers": 11,
+    "order": [
+      "pentagon",
+      "triangle",
+      "square",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "square",
+      "triangle",
+      "triangle",
+      "square",
+      "square"
+    ],
+    "gpt_response": "SHAPE SEQUENCE: Diamond, Pentagon, Hexagon, Octagon, Decagon\n\nSHAPES: Diamond, Pentagon, Hexagon, Octagon, Decagon<|im_end|>",
+    "Output": [
+      "Diamond",
+      "Pentagon",
+      "Hexagon",
+      "Octagon",
+      "Decagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "104.png",
+    "num_layers": 11,
+    "order": [
+      "hexagon",
+      "square",
+      "pentagon",
+      "pentagon",
+      "square",
+      "square",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "square",
+      "triangle"
+    ],
+    "gpt_response": "Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon",
+    "Output": [
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "105.png",
+    "num_layers": 11,
+    "order": [
+      "pentagon",
+      "square",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "square",
+      "triangle",
+      "pentagon"
+    ],
+    "gpt_response": "Pentagon, Hexagon, Octagon, Decagon, Dodecagon, Tetradecagon, Hexadecagon, Octadecagon, Icosagon, Trigonal",
+    "Output": [
+      "Pentagon",
+      "Hexagon",
+      "Octagon",
+      "Decagon",
+      "Dodecagon",
+      "Tetradecagon",
+      "Hexadecagon",
+      "Octadecagon",
+      "Icosagon",
+      "Trigonal"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "106.png",
+    "num_layers": 11,
+    "order": [
+      "triangle",
+      "square",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "square",
+      "pentagon"
+    ],
+    "gpt_response": "SHAPES : Triangle, Hexagon, Pentagon, Square, Octagon<|im_end|>",
+    "Output": [
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Octagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "107.png",
+    "num_layers": 11,
+    "order": [
+      "hexagon",
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "square",
+      "square",
+      "triangle",
+      "pentagon"
+    ],
+    "gpt_response": "Hexagon, Pentagon, Triangle, Hexagon, Pentagon, Triangle, Hexagon, Pentagon, Triangle, Hexagon, Pentagon, Triangle, Hexagon, Pentagon, Triangle, Hexagon, Pentagon,",
+    "Output": [
+      "Hexagon",
+      "Pentagon",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      ""
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "108.png",
+    "num_layers": 11,
+    "order": [
+      "square",
+      "pentagon",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "triangle",
+      "hexagon",
+      "hexagon"
+    ],
+    "gpt_response": "SHAPES : Hexagon, Pentagon, Square, Triangle<|im_end|>",
+    "Output": [
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "109.png",
+    "num_layers": 11,
+    "order": [
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "square",
+      "hexagon",
+      "triangle"
+    ],
+    "gpt_response": "Pentagon, Hexagon, Heptagon, Octagon, Nonagon, Decagon, Undecagon, Dodecagon, Tridecagon, Tetradecagon, Pent",
+    "Output": [
+      "Pentagon",
+      "Hexagon",
+      "Heptagon",
+      "Octagon",
+      "Nonagon",
+      "Decagon",
+      "Undecagon",
+      "Dodecagon",
+      "Tridecagon",
+      "Tetradecagon",
+      "Pent"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "110.png",
+    "num_layers": 11,
+    "order": [
+      "hexagon",
+      "hexagon",
+      "square",
+      "pentagon",
+      "square",
+      "hexagon",
+      "triangle",
+      "triangle",
+      "pentagon",
+      "triangle",
+      "pentagon"
+    ],
+    "gpt_response": "Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon",
+    "Output": [
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "111.png",
+    "num_layers": 12,
+    "order": [
+      "hexagon",
+      "square",
+      "square",
+      "triangle",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "triangle"
+    ],
+    "gpt_response": "Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon",
+    "Output": [
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "112.png",
+    "num_layers": 12,
+    "order": [
+      "square",
+      "square",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "square",
+      "hexagon",
+      "square",
+      "hexagon"
+    ],
+    "gpt_response": "SHAPES : Diamond, Square, Triangle<|im_end|>",
+    "Output": [
+      "Diamond",
+      "Square",
+      "Triangle<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "113.png",
+    "num_layers": 12,
+    "order": [
+      "pentagon",
+      "square",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "square",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "triangle"
+    ],
+    "gpt_response": "Pentagon, Hexagon, Square, Diamond, Triangle, Hexagon, Pentagon, Square, Diamond, Triangle, Hexagon, Pentagon, Square, Diamond, Triangle, Hexagon, Pentagon,",
+    "Output": [
+      "Pentagon",
+      "Hexagon",
+      "Square",
+      "Diamond",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Diamond",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Diamond",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      ""
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "114.png",
+    "num_layers": 12,
+    "order": [
+      "square",
+      "pentagon",
+      "square",
+      "pentagon",
+      "pentagon",
+      "square",
+      "square",
+      "pentagon",
+      "triangle",
+      "pentagon",
+      "square",
+      "triangle"
+    ],
+    "gpt_response": "The image contains multiple shapes layered on top of each other.\n\nSequence of shapes from the inside layer to the outside layer:\n1. Blue square\n2. Purple square\n3. Light blue square\n",
+    "Output": [
+      "1. Blue square\n2. Purple square\n3. Light blue square"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "115.png",
+    "num_layers": 12,
+    "order": [
+      "hexagon",
+      "square",
+      "pentagon",
+      "triangle",
+      "triangle",
+      "square",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "square",
+      "pentagon",
+      "pentagon"
+    ],
+    "gpt_response": "Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon",
+    "Output": [
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "116.png",
+    "num_layers": 12,
+    "order": [
+      "triangle",
+      "hexagon",
+      "square",
+      "square",
+      "triangle",
+      "triangle",
+      "square",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "square",
+      "pentagon"
+    ],
+    "gpt_response": "Triangle, Square, Pentagon, Hexagon, Heptagon, Octagon, Nonagon, Decagon\n\nSHAPES : Triangle, Square, Pentagon, Hexagon, Heptagon, Oct",
+    "Output": [
+      "Triangle",
+      "Square",
+      "Pentagon",
+      "Hexagon",
+      "Heptagon",
+      "Oct"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "117.png",
+    "num_layers": 12,
+    "order": [
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "square",
+      "hexagon",
+      "square",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "pentagon"
+    ],
+    "gpt_response": "SHAPE SEQUENCE: Pentagon, Hexagon, Octagon, Decagon, Dodecagon\n\nSHAPES: Pentagon, Hexagon, Octagon, Decagon, Dodecagon",
+    "Output": [
+      "Pentagon",
+      "Hexagon",
+      "Octagon",
+      "Decagon",
+      "Dodecagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "118.png",
+    "num_layers": 12,
+    "order": [
+      "square",
+      "square",
+      "pentagon",
+      "pentagon",
+      "square",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "triangle"
+    ],
+    "gpt_response": "SHAPES : Diamond, Square, Hexagon<|im_end|>",
+    "Output": [
+      "Diamond",
+      "Square",
+      "Hexagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "119.png",
+    "num_layers": 12,
+    "order": [
+      "triangle",
+      "triangle",
+      "hexagon",
+      "triangle",
+      "triangle",
+      "square",
+      "hexagon",
+      "square",
+      "pentagon",
+      "pentagon",
+      "square",
+      "triangle"
+    ],
+    "gpt_response": "Triangle, Diamond, Square, Hexagon, Octagon, Decagon, Pentagon, Triangle, Diamond, Square, Hexagon, Octagon, Decagon, Pentagon, Triangle\n\nSHAPES :",
+    "Output": [
+      ""
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "120.png",
+    "num_layers": 12,
+    "order": [
+      "triangle",
+      "pentagon",
+      "square",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "square",
+      "hexagon",
+      "triangle"
+    ],
+    "gpt_response": "SHAPES : Triangle, Hexagon, Pentagon, Square, Octagon<|im_end|>",
+    "Output": [
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Octagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "121.png",
+    "num_layers": 13,
+    "order": [
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "square",
+      "hexagon",
+      "square",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "pentagon",
+      "square",
+      "square"
+    ],
+    "gpt_response": "The image contains multiple layers of shapes. From the inside layer to the outside layer, the sequence of shapes is:\n\n1. Pentagon\n2. Hexagon\n3. Octagon\n4. Dec",
+    "Output": [
+      "1. Pentagon\n2. Hexagon\n3. Octagon\n4. Dec"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "122.png",
+    "num_layers": 13,
+    "order": [
+      "triangle",
+      "triangle",
+      "square",
+      "pentagon",
+      "hexagon",
+      "hexagon",
+      "square",
+      "hexagon",
+      "hexagon",
+      "square",
+      "pentagon",
+      "triangle",
+      "pentagon"
+    ],
+    "gpt_response": "Triangle, Hexagon, Octagon, Decagon, Dodecagon, Hexagon, Triangle, Hexagon, Octagon, Decagon, Dodecagon, Hexagon, Triangle\n\n",
+    "Output": [
+      "Triangle",
+      "Hexagon",
+      "Octagon",
+      "Decagon",
+      "Dodecagon",
+      "Hexagon",
+      "Triangle",
+      "Hexagon",
+      "Octagon",
+      "Decagon",
+      "Dodecagon",
+      "Hexagon",
+      "Triangle"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "123.png",
+    "num_layers": 13,
+    "order": [
+      "triangle",
+      "square",
+      "square",
+      "hexagon",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "pentagon",
+      "pentagon"
+    ],
+    "gpt_response": "Triangle, Pentagon, Hexagon, Octagon, Decagon, Dodecagon, Tetradecagon, Hexadecagon, Octadecagon, Icosagon, Trigint",
+    "Output": [
+      "Triangle",
+      "Pentagon",
+      "Hexagon",
+      "Octagon",
+      "Decagon",
+      "Dodecagon",
+      "Tetradecagon",
+      "Hexadecagon",
+      "Octadecagon",
+      "Icosagon",
+      "Trigint"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "124.png",
+    "num_layers": 13,
+    "order": [
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "hexagon",
+      "square",
+      "hexagon",
+      "triangle",
+      "hexagon",
+      "square",
+      "triangle",
+      "hexagon",
+      "square",
+      "hexagon"
+    ],
+    "gpt_response": "Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hex",
+    "Output": [
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hex"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "125.png",
+    "num_layers": 13,
+    "order": [
+      "square",
+      "triangle",
+      "hexagon",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "square",
+      "pentagon",
+      "triangle",
+      "triangle",
+      "triangle"
+    ],
+    "gpt_response": "SHAPE SEQUENCE: Hexagon, Pentagon, Square, Triangle\n\nSHAPES: Hexagon<|im_end|>",
+    "Output": [
+      "Hexagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "126.png",
+    "num_layers": 13,
+    "order": [
+      "square",
+      "triangle",
+      "square",
+      "pentagon",
+      "square",
+      "triangle",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "square",
+      "hexagon",
+      "triangle",
+      "pentagon"
+    ],
+    "gpt_response": "SHAPES : Triangle, Square, Pentagon, Hexagon<|im_end|>",
+    "Output": [
+      "Triangle",
+      "Square",
+      "Pentagon",
+      "Hexagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "127.png",
+    "num_layers": 13,
+    "order": [
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "pentagon",
+      "hexagon",
+      "hexagon",
+      "square",
+      "pentagon",
+      "square",
+      "hexagon",
+      "triangle",
+      "square",
+      "pentagon"
+    ],
+    "gpt_response": "Triangle, Hexagon, Pentagon, Octagon, Decagon, Dodecagon, Hexagon, Triangle, Hexagon, Pentagon, Octagon, Decagon, Dodecagon, Hex",
+    "Output": [
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Octagon",
+      "Decagon",
+      "Dodecagon",
+      "Hexagon",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Octagon",
+      "Decagon",
+      "Dodecagon",
+      "Hex"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "128.png",
+    "num_layers": 13,
+    "order": [
+      "square",
+      "pentagon",
+      "square",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "square",
+      "hexagon",
+      "square",
+      "hexagon",
+      "square",
+      "triangle"
+    ],
+    "gpt_response": "The image contains multiple layers of shapes. From the inside layer to the outside layer, the sequence of shapes is:\n\n1. Pentagon (purple)\n2. Hexagon (green)\n3. Octagon",
+    "Output": [
+      "1. Pentagon (purple)\n2. Hexagon (green)\n3. Octagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "129.png",
+    "num_layers": 13,
+    "order": [
+      "triangle",
+      "hexagon",
+      "square",
+      "pentagon",
+      "hexagon",
+      "square",
+      "square",
+      "hexagon",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "square",
+      "pentagon"
+    ],
+    "gpt_response": "SHAPES : Triangle, Hexagon<|im_end|>",
+    "Output": [
+      "Triangle",
+      "Hexagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "130.png",
+    "num_layers": 13,
+    "order": [
+      "pentagon",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "square",
+      "triangle",
+      "pentagon"
+    ],
+    "gpt_response": "The image contains multiple shapes layered on top of each other.\n\n- The sequence of shapes from the inside layer to the outside layer is: pentagon, hexagon, octagon, decagon, d",
+    "Output": [
+      "pentagon",
+      "hexagon",
+      "octagon",
+      "decagon",
+      "d"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "131.png",
+    "num_layers": 14,
+    "order": [
+      "triangle",
+      "square",
+      "pentagon",
+      "triangle",
+      "triangle",
+      "triangle",
+      "square",
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "triangle",
+      "triangle"
+    ],
+    "gpt_response": "Triangle, Square, Pentagon, Hexagon, Octagon, Decagon, Dodecagon, Tetradecagon, Hexadecagon, Octadecagon, Icosagon, Tr",
+    "Output": [
+      "Triangle",
+      "Square",
+      "Pentagon",
+      "Hexagon",
+      "Octagon",
+      "Decagon",
+      "Dodecagon",
+      "Tetradecagon",
+      "Hexadecagon",
+      "Octadecagon",
+      "Icosagon",
+      "Tr"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "132.png",
+    "num_layers": 14,
+    "order": [
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "triangle",
+      "triangle",
+      "triangle",
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "square",
+      "hexagon",
+      "pentagon"
+    ],
+    "gpt_response": "SHAPES : Hexagon, Pentagon, Triangle, Hexagon<|im_end|>",
+    "Output": [
+      "Hexagon",
+      "Pentagon",
+      "Triangle",
+      "Hexagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "133.png",
+    "num_layers": 14,
+    "order": [
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "square",
+      "hexagon",
+      "square",
+      "triangle",
+      "triangle",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "triangle"
+    ],
+    "gpt_response": "Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hex",
+    "Output": [
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hex"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "134.png",
+    "num_layers": 14,
+    "order": [
+      "triangle",
+      "square",
+      "triangle",
+      "triangle",
+      "triangle",
+      "pentagon",
+      "square",
+      "square",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "square",
+      "hexagon"
+    ],
+    "gpt_response": "SHAPES : Diamond, Triangle, Hexagon<|im_end|>",
+    "Output": [
+      "Diamond",
+      "Triangle",
+      "Hexagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "135.png",
+    "num_layers": 14,
+    "order": [
+      "square",
+      "square",
+      "hexagon",
+      "square",
+      "pentagon",
+      "pentagon",
+      "square",
+      "triangle",
+      "square",
+      "square",
+      "triangle",
+      "pentagon",
+      "hexagon",
+      "triangle"
+    ],
+    "gpt_response": "SHAPES : Hexagon, Pentagon, Square, Triangle<|im_end|>",
+    "Output": [
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "136.png",
+    "num_layers": 14,
+    "order": [
+      "triangle",
+      "pentagon",
+      "square",
+      "triangle",
+      "pentagon",
+      "square",
+      "square",
+      "hexagon",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "triangle"
+    ],
+    "gpt_response": "SHAPES : Triangle, Hexagon, Pentagon, Octagon<|im_end|>",
+    "Output": [
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Octagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "137.png",
+    "num_layers": 14,
+    "order": [
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "square",
+      "triangle",
+      "square",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "square",
+      "square"
+    ],
+    "gpt_response": "SHAPES : Hexagon, Pentagon, Square, Triangle, Diamond<|im_end|>",
+    "Output": [
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Diamond<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "138.png",
+    "num_layers": 14,
+    "order": [
+      "square",
+      "square",
+      "hexagon",
+      "square",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "square",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "triangle",
+      "square",
+      "hexagon"
+    ],
+    "gpt_response": "SHAPES : Diamond, Triangle, Hexagon<|im_end|>",
+    "Output": [
+      "Diamond",
+      "Triangle",
+      "Hexagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "139.png",
+    "num_layers": 14,
+    "order": [
+      "hexagon",
+      "square",
+      "square",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "square",
+      "pentagon"
+    ],
+    "gpt_response": "SHAPES : Hexagon, Pentagon, Square, Triangle<|im_end|>",
+    "Output": [
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "140.png",
+    "num_layers": 14,
+    "order": [
+      "square",
+      "square",
+      "square",
+      "hexagon",
+      "triangle",
+      "hexagon",
+      "square",
+      "triangle",
+      "square",
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "pentagon",
+      "triangle"
+    ],
+    "gpt_response": "The image contains multiple shapes layered on top of each other.\n\n- The sequence of shapes from the inside layer to the outside layer is: Pentagon, Hexagon, Octagon, Decagon, Dode",
+    "Output": [
+      "Pentagon",
+      "Hexagon",
+      "Octagon",
+      "Decagon",
+      "Dode"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "141.png",
+    "num_layers": 15,
+    "order": [
+      "pentagon",
+      "square",
+      "triangle",
+      "triangle",
+      "square",
+      "hexagon",
+      "hexagon",
+      "triangle",
+      "triangle",
+      "triangle",
+      "square",
+      "square",
+      "triangle",
+      "pentagon",
+      "hexagon"
+    ],
+    "gpt_response": "SHAPES : Triangle, Hexagon, Pentagon, Square, Octagon<|im_end|>",
+    "Output": [
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Octagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "142.png",
+    "num_layers": 15,
+    "order": [
+      "square",
+      "triangle",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "triangle",
+      "hexagon",
+      "square",
+      "square",
+      "hexagon",
+      "hexagon",
+      "square",
+      "hexagon",
+      "triangle",
+      "square"
+    ],
+    "gpt_response": "SHAPES : Triangle, Hexagon, Pentagon, Square, Octagon<|im_end|>",
+    "Output": [
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Octagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "143.png",
+    "num_layers": 15,
+    "order": [
+      "hexagon",
+      "hexagon",
+      "square",
+      "square",
+      "hexagon",
+      "square",
+      "triangle",
+      "triangle",
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "square"
+    ],
+    "gpt_response": "Hexagon, Pentagon, Square, Triangle, Diamond, Hexagon, Pentagon, Square, Triangle, Diamond, Hexagon, Pentagon, Square, Triangle, Diamond, Hexagon, Pentagon, Square,",
+    "Output": [
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Diamond",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Diamond",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Diamond",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      ""
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "144.png",
+    "num_layers": 15,
+    "order": [
+      "pentagon",
+      "square",
+      "hexagon",
+      "pentagon",
+      "hexagon",
+      "hexagon",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "triangle"
+    ],
+    "gpt_response": "Pentagon, Hexagon, Octagon, Decagon, Dodecagon, Hexagon, Pentagon, Hexagon, Octagon, Decagon, Dodecagon, Hexagon,",
+    "Output": [
+      "Pentagon",
+      "Hexagon",
+      "Octagon",
+      "Decagon",
+      "Dodecagon",
+      "Hexagon",
+      "Pentagon",
+      "Hexagon",
+      "Octagon",
+      "Decagon",
+      "Dodecagon",
+      "Hexagon",
+      ""
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "145.png",
+    "num_layers": 15,
+    "order": [
+      "pentagon",
+      "pentagon",
+      "square",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "square",
+      "pentagon",
+      "hexagon",
+      "square",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "hexagon",
+      "pentagon"
+    ],
+    "gpt_response": "Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon",
+    "Output": [
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "146.png",
+    "num_layers": 15,
+    "order": [
+      "hexagon",
+      "pentagon",
+      "square",
+      "pentagon",
+      "triangle",
+      "square",
+      "pentagon",
+      "pentagon",
+      "square",
+      "square",
+      "hexagon",
+      "triangle",
+      "triangle",
+      "pentagon",
+      "hexagon"
+    ],
+    "gpt_response": "Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon",
+    "Output": [
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "147.png",
+    "num_layers": 15,
+    "order": [
+      "triangle",
+      "triangle",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "square",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "pentagon",
+      "square",
+      "pentagon",
+      "hexagon",
+      "square"
+    ],
+    "gpt_response": "SHAPES : Triangle, Hexagon, Octagon<|im_end|>",
+    "Output": [
+      "Triangle",
+      "Hexagon",
+      "Octagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "148.png",
+    "num_layers": 15,
+    "order": [
+      "square",
+      "square",
+      "triangle",
+      "hexagon",
+      "triangle",
+      "triangle",
+      "pentagon",
+      "triangle",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "square",
+      "triangle",
+      "triangle"
+    ],
+    "gpt_response": "SHAPE SEQUENCE: Diamond, Square, Triangle, Hexagon, Pentagon, Octagon\n\nSHAPES: Octagon<|im_end|>",
+    "Output": [
+      "Octagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "149.png",
+    "num_layers": 15,
+    "order": [
+      "pentagon",
+      "hexagon",
+      "square",
+      "pentagon",
+      "square",
+      "hexagon",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "square",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "pentagon"
+    ],
+    "gpt_response": "SHAPES : Pentagon, Hexagon, Octagon<|im_end|>",
+    "Output": [
+      "Pentagon",
+      "Hexagon",
+      "Octagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "150.png",
+    "num_layers": 15,
+    "order": [
+      "pentagon",
+      "hexagon",
+      "square",
+      "hexagon",
+      "pentagon",
+      "square",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "square",
+      "pentagon",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "square"
+    ],
+    "gpt_response": "Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon",
+    "Output": [
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "151.png",
+    "num_layers": 16,
+    "order": [
+      "hexagon",
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "square",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "square",
+      "triangle"
+    ],
+    "gpt_response": "Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon",
+    "Output": [
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "152.png",
+    "num_layers": 16,
+    "order": [
+      "triangle",
+      "pentagon",
+      "square",
+      "pentagon",
+      "hexagon",
+      "square",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "triangle",
+      "square",
+      "triangle",
+      "pentagon",
+      "square",
+      "triangle"
+    ],
+    "gpt_response": "SHAPES : Triangle, Hexagon, Octagon, Decagon<|im_end|>",
+    "Output": [
+      "Triangle",
+      "Hexagon",
+      "Octagon",
+      "Decagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "153.png",
+    "num_layers": 16,
+    "order": [
+      "square",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "square",
+      "hexagon",
+      "triangle",
+      "hexagon",
+      "square",
+      "triangle",
+      "square",
+      "square",
+      "hexagon",
+      "pentagon",
+      "square"
+    ],
+    "gpt_response": "Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hex",
+    "Output": [
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hex"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "154.png",
+    "num_layers": 16,
+    "order": [
+      "pentagon",
+      "triangle",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "pentagon",
+      "square",
+      "triangle",
+      "hexagon",
+      "triangle",
+      "square",
+      "square",
+      "hexagon",
+      "triangle",
+      "triangle"
+    ],
+    "gpt_response": "Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon",
+    "Output": [
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "155.png",
+    "num_layers": 16,
+    "order": [
+      "triangle",
+      "hexagon",
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "triangle"
+    ],
+    "gpt_response": "Triangle, Pentagon, Hexagon, Octagon, Decagon, Dodecagon, Tetradecagon, Hexadecagon, Octadecagon, Icosagon, Trigint",
+    "Output": [
+      "Triangle",
+      "Pentagon",
+      "Hexagon",
+      "Octagon",
+      "Decagon",
+      "Dodecagon",
+      "Tetradecagon",
+      "Hexadecagon",
+      "Octadecagon",
+      "Icosagon",
+      "Trigint"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "156.png",
+    "num_layers": 16,
+    "order": [
+      "square",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "hexagon",
+      "square",
+      "pentagon",
+      "triangle",
+      "triangle",
+      "pentagon",
+      "square",
+      "triangle",
+      "hexagon",
+      "pentagon",
+      "square"
+    ],
+    "gpt_response": "The image contains multiple layers of shapes. From the inside layer to the outside layer, the sequence of shapes is:\n\n1. Diamond\n2. Square\n3. Hexagon\n4. Octagon",
+    "Output": [
+      "1. Diamond\n2. Square\n3. Hexagon\n4. Octagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "157.png",
+    "num_layers": 16,
+    "order": [
+      "square",
+      "triangle",
+      "pentagon",
+      "square",
+      "triangle",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "triangle",
+      "square",
+      "pentagon",
+      "hexagon",
+      "hexagon",
+      "square",
+      "triangle"
+    ],
+    "gpt_response": "SHAPE SEQUENCE: Diamond, Triangle, Hexagon, Square, Pentagon, Octagon\n\nSHAPES: Hexagon<|im_end|>",
+    "Output": [
+      "Hexagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "158.png",
+    "num_layers": 16,
+    "order": [
+      "square",
+      "triangle",
+      "square",
+      "hexagon",
+      "square",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "square",
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "pentagon",
+      "triangle",
+      "square",
+      "hexagon"
+    ],
+    "gpt_response": "SHAPES : Diamond, Hexagon, Pentagon, Hexagon, Diamond<|im_end|>",
+    "Output": [
+      "Diamond",
+      "Hexagon",
+      "Pentagon",
+      "Hexagon",
+      "Diamond<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "159.png",
+    "num_layers": 16,
+    "order": [
+      "square",
+      "hexagon",
+      "square",
+      "pentagon",
+      "square",
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "triangle",
+      "square",
+      "hexagon",
+      "pentagon",
+      "square",
+      "hexagon",
+      "pentagon",
+      "hexagon"
+    ],
+    "gpt_response": "SHAPES : Hexagon, Pentagon, Square, Triangle<|im_end|>",
+    "Output": [
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "160.png",
+    "num_layers": 16,
+    "order": [
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "square",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "square",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "square",
+      "triangle"
+    ],
+    "gpt_response": "The image contains multiple layers of shapes. From the inside layer to the outside layer, the sequence of shapes is:\n\n1. Blue pentagon\n2. Green hexagon\n3. Purple octagon",
+    "Output": [
+      "1. Blue pentagon\n2. Green hexagon\n3. Purple octagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "161.png",
+    "num_layers": 17,
+    "order": [
+      "square",
+      "square",
+      "pentagon",
+      "square",
+      "square",
+      "triangle",
+      "hexagon",
+      "square",
+      "square",
+      "hexagon",
+      "square",
+      "triangle",
+      "triangle",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "hexagon"
+    ],
+    "gpt_response": "SHAPES : Diamond, Triangle, Hexagon<|im_end|>",
+    "Output": [
+      "Diamond",
+      "Triangle",
+      "Hexagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "162.png",
+    "num_layers": 17,
+    "order": [
+      "square",
+      "hexagon",
+      "square",
+      "square",
+      "square",
+      "square",
+      "pentagon",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "square",
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "square"
+    ],
+    "gpt_response": "SHAPE SEQUENCE: Diamond, Pentagon, Hexagon, Octagon, Decagon\n\nSHAPES: Diamond, Pentagon, Hexagon, Octagon, Decagon<|im_end|>",
+    "Output": [
+      "Diamond",
+      "Pentagon",
+      "Hexagon",
+      "Octagon",
+      "Decagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "163.png",
+    "num_layers": 17,
+    "order": [
+      "square",
+      "hexagon",
+      "pentagon",
+      "square",
+      "square",
+      "triangle",
+      "hexagon",
+      "square",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "square",
+      "triangle",
+      "pentagon",
+      "triangle",
+      "triangle"
+    ],
+    "gpt_response": "SHAPE SEQUENCE: Diamond, Square, Hexagon, Octagon, Decagon\n\nSHAPES: Decagon<|im_end|>",
+    "Output": [
+      "Decagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "164.png",
+    "num_layers": 17,
+    "order": [
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "triangle",
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "triangle",
+      "square",
+      "square",
+      "triangle",
+      "pentagon",
+      "square",
+      "triangle",
+      "square",
+      "hexagon"
+    ],
+    "gpt_response": "SHAPES : Hexagon, Pentagon, Triangle<|im_end|>",
+    "Output": [
+      "Hexagon",
+      "Pentagon",
+      "Triangle<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "165.png",
+    "num_layers": 17,
+    "order": [
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "hexagon",
+      "triangle",
+      "square",
+      "hexagon",
+      "square",
+      "hexagon",
+      "triangle",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "square",
+      "pentagon",
+      "square",
+      "triangle"
+    ],
+    "gpt_response": "Pentagon, Hexagon, Octagon, Decagon, Dodecagon, Tetradecagon, Hexadecagon, Octadecagon, Icosagon, Trigonal",
+    "Output": [
+      "Pentagon",
+      "Hexagon",
+      "Octagon",
+      "Decagon",
+      "Dodecagon",
+      "Tetradecagon",
+      "Hexadecagon",
+      "Octadecagon",
+      "Icosagon",
+      "Trigonal"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "166.png",
+    "num_layers": 17,
+    "order": [
+      "square",
+      "pentagon",
+      "square",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "square",
+      "triangle",
+      "hexagon",
+      "triangle",
+      "square",
+      "square",
+      "pentagon",
+      "pentagon",
+      "pentagon"
+    ],
+    "gpt_response": "SHAPES : Diamond, Square, Triangle, Hexagon<|im_end|>",
+    "Output": [
+      "Diamond",
+      "Square",
+      "Triangle",
+      "Hexagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "167.png",
+    "num_layers": 17,
+    "order": [
+      "hexagon",
+      "pentagon",
+      "square",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "triangle",
+      "square",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "triangle"
+    ],
+    "gpt_response": "Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon",
+    "Output": [
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "168.png",
+    "num_layers": 17,
+    "order": [
+      "pentagon",
+      "hexagon",
+      "square",
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "square",
+      "triangle",
+      "square",
+      "square",
+      "square",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "triangle",
+      "hexagon"
+    ],
+    "gpt_response": "SHAPES : Hexagon, Pentagon, Square, Triangle, Circle<|im_end|>",
+    "Output": [
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Circle<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "169.png",
+    "num_layers": 17,
+    "order": [
+      "pentagon",
+      "square",
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "triangle",
+      "pentagon",
+      "square",
+      "pentagon",
+      "square",
+      "square",
+      "square"
+    ],
+    "gpt_response": "Pentagon, Hexagon, Octagon, Decagon, Dodecagon, Tetradecagon, Hexadecagon, Octadecagon, Icosagon, Trigonal",
+    "Output": [
+      "Pentagon",
+      "Hexagon",
+      "Octagon",
+      "Decagon",
+      "Dodecagon",
+      "Tetradecagon",
+      "Hexadecagon",
+      "Octadecagon",
+      "Icosagon",
+      "Trigonal"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "170.png",
+    "num_layers": 17,
+    "order": [
+      "triangle",
+      "square",
+      "hexagon",
+      "square",
+      "triangle",
+      "triangle",
+      "triangle",
+      "pentagon",
+      "square",
+      "square",
+      "triangle",
+      "square",
+      "triangle",
+      "square",
+      "hexagon",
+      "pentagon",
+      "square"
+    ],
+    "gpt_response": "SHAPES : Diamond, Triangle, Square, Hexagon<|im_end|>",
+    "Output": [
+      "Diamond",
+      "Triangle",
+      "Square",
+      "Hexagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "171.png",
+    "num_layers": 18,
+    "order": [
+      "hexagon",
+      "square",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "square",
+      "hexagon",
+      "hexagon",
+      "square",
+      "triangle",
+      "pentagon",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "pentagon"
+    ],
+    "gpt_response": "Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hex",
+    "Output": [
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hex"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "172.png",
+    "num_layers": 18,
+    "order": [
+      "triangle",
+      "hexagon",
+      "pentagon",
+      "square",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "pentagon",
+      "square",
+      "pentagon",
+      "square",
+      "hexagon",
+      "square",
+      "pentagon",
+      "pentagon"
+    ],
+    "gpt_response": "Triangle, Pentagon, Hexagon, Octagon, Decagon, Dodecagon, Tetradecagon, Hexadecagon, Octadecagon, Icosagon, Trigonal",
+    "Output": [
+      "Triangle",
+      "Pentagon",
+      "Hexagon",
+      "Octagon",
+      "Decagon",
+      "Dodecagon",
+      "Tetradecagon",
+      "Hexadecagon",
+      "Octadecagon",
+      "Icosagon",
+      "Trigonal"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "173.png",
+    "num_layers": 18,
+    "order": [
+      "triangle",
+      "square",
+      "triangle",
+      "square",
+      "pentagon",
+      "hexagon",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "square",
+      "triangle",
+      "pentagon",
+      "square",
+      "pentagon",
+      "triangle",
+      "triangle",
+      "pentagon"
+    ],
+    "gpt_response": "SHAPES : Triangle, Square, Pentagon, Hexagon<|im_end|>",
+    "Output": [
+      "Triangle",
+      "Square",
+      "Pentagon",
+      "Hexagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "174.png",
+    "num_layers": 18,
+    "order": [
+      "square",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "square",
+      "square",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "square",
+      "square",
+      "square",
+      "pentagon",
+      "square",
+      "hexagon",
+      "pentagon",
+      "square"
+    ],
+    "gpt_response": "SHAPE SEQUENCE: Diamond, Square, Pentagon, Hexagon, Octagon, Decagon\n\nSHAPES: Diamond, Square, Pentagon, Hexagon, Octagon, Decagon<|im_end|>",
+    "Output": [
+      "Diamond",
+      "Square",
+      "Pentagon",
+      "Hexagon",
+      "Octagon",
+      "Decagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "175.png",
+    "num_layers": 18,
+    "order": [
+      "square",
+      "square",
+      "square",
+      "square",
+      "triangle",
+      "pentagon",
+      "square",
+      "hexagon",
+      "pentagon",
+      "square",
+      "square",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "square"
+    ],
+    "gpt_response": "SHAPE: Diamond<|im_end|>",
+    "Output": [
+      "Diamond<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "176.png",
+    "num_layers": 18,
+    "order": [
+      "square",
+      "triangle",
+      "square",
+      "square",
+      "triangle",
+      "square",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "square",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "square"
+    ],
+    "gpt_response": "SHAPES : Diamond, Square, Triangle<|im_end|>",
+    "Output": [
+      "Diamond",
+      "Square",
+      "Triangle<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "177.png",
+    "num_layers": 18,
+    "order": [
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "square",
+      "square",
+      "hexagon",
+      "triangle",
+      "square",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "square",
+      "triangle",
+      "hexagon"
+    ],
+    "gpt_response": "SHAPES : Triangle, Hexagon, Pentagon, Square, Octagon, Decagon<|im_end|>",
+    "Output": [
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Octagon",
+      "Decagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "178.png",
+    "num_layers": 18,
+    "order": [
+      "triangle",
+      "triangle",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "square",
+      "hexagon",
+      "triangle",
+      "hexagon",
+      "pentagon",
+      "square",
+      "square",
+      "hexagon",
+      "triangle",
+      "hexagon"
+    ],
+    "gpt_response": "SHAPES : Triangle, Hexagon<|im_end|>",
+    "Output": [
+      "Triangle",
+      "Hexagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "179.png",
+    "num_layers": 18,
+    "order": [
+      "square",
+      "pentagon",
+      "triangle",
+      "pentagon",
+      "square",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "square",
+      "pentagon",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "pentagon",
+      "triangle"
+    ],
+    "gpt_response": "SHAPE SEQUENCE: Pentagon, Hexagon, Octagon, Decagon\n\nSHAPES: Pentagon, Hexagon, Octagon, Decagon<|im_end|>",
+    "Output": [
+      "Pentagon",
+      "Hexagon",
+      "Octagon",
+      "Decagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "180.png",
+    "num_layers": 18,
+    "order": [
+      "triangle",
+      "hexagon",
+      "pentagon",
+      "square",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "hexagon",
+      "triangle",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "square",
+      "triangle"
+    ],
+    "gpt_response": "Triangle, Hexagon, Pentagon, Square, Octagon, Decagon, Dodecagon, Hexadecagon, Icosagon, Tridecagon, Hexadecagon, Dec",
+    "Output": [
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Octagon",
+      "Decagon",
+      "Dodecagon",
+      "Hexadecagon",
+      "Icosagon",
+      "Tridecagon",
+      "Hexadecagon",
+      "Dec"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "181.png",
+    "num_layers": 19,
+    "order": [
+      "hexagon",
+      "hexagon",
+      "triangle",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "square",
+      "triangle",
+      "square",
+      "hexagon",
+      "hexagon",
+      "square",
+      "pentagon",
+      "square",
+      "triangle",
+      "triangle",
+      "hexagon"
+    ],
+    "gpt_response": "Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon",
+    "Output": [
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "182.png",
+    "num_layers": 19,
+    "order": [
+      "square",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "triangle",
+      "triangle",
+      "pentagon",
+      "hexagon",
+      "square",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "square",
+      "pentagon"
+    ],
+    "gpt_response": "SHAPES : Hexagon, Pentagon, Square, Triangle<|im_end|>",
+    "Output": [
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "183.png",
+    "num_layers": 19,
+    "order": [
+      "pentagon",
+      "square",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "square",
+      "pentagon",
+      "hexagon",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "triangle",
+      "pentagon",
+      "square",
+      "square",
+      "triangle",
+      "square",
+      "square",
+      "pentagon"
+    ],
+    "gpt_response": "SHAPES : Diamond, Hexagon, Pentagon, Square, Triangle<|im_end|>",
+    "Output": [
+      "Diamond",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "184.png",
+    "num_layers": 19,
+    "order": [
+      "pentagon",
+      "square",
+      "square",
+      "square",
+      "triangle",
+      "triangle",
+      "square",
+      "hexagon",
+      "pentagon",
+      "square",
+      "square",
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "square",
+      "hexagon",
+      "triangle",
+      "square",
+      "square"
+    ],
+    "gpt_response": "Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon",
+    "Output": [
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "185.png",
+    "num_layers": 19,
+    "order": [
+      "square",
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "square",
+      "square",
+      "hexagon",
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "square",
+      "square"
+    ],
+    "gpt_response": "SHAPES : Diamond, Pentagon, Hexagon, Octagon<|im_end|>",
+    "Output": [
+      "Diamond",
+      "Pentagon",
+      "Hexagon",
+      "Octagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "186.png",
+    "num_layers": 19,
+    "order": [
+      "triangle",
+      "triangle",
+      "triangle",
+      "square",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "square",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "square",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "square"
+    ],
+    "gpt_response": "TRIANGLE, DIAMOND, OCTAGON, OCTAGON, DIAMOND, TRIANGLE, OCTAGON, OCTAGON, DIAMOND, TRIANGLE, OCTAGON, OCTAGON,",
+    "Output": [
+      "TRIANGLE",
+      "DIAMOND",
+      "OCTAGON",
+      "OCTAGON",
+      "DIAMOND",
+      "TRIANGLE",
+      "OCTAGON",
+      "OCTAGON",
+      "DIAMOND",
+      "TRIANGLE",
+      "OCTAGON",
+      "OCTAGON",
+      ""
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "187.png",
+    "num_layers": 19,
+    "order": [
+      "pentagon",
+      "hexagon",
+      "hexagon",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "square",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "triangle",
+      "pentagon",
+      "square"
+    ],
+    "gpt_response": "Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon",
+    "Output": [
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "188.png",
+    "num_layers": 19,
+    "order": [
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "triangle",
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "triangle",
+      "square",
+      "triangle",
+      "pentagon",
+      "square",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "triangle"
+    ],
+    "gpt_response": "Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon, Square, Triangle, Hexagon, Pentagon",
+    "Output": [
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Pentagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "189.png",
+    "num_layers": 19,
+    "order": [
+      "hexagon",
+      "pentagon",
+      "hexagon",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "square",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "hexagon"
+    ],
+    "gpt_response": "Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hex",
+    "Output": [
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hex"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "190.png",
+    "num_layers": 19,
+    "order": [
+      "triangle",
+      "square",
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "square",
+      "hexagon",
+      "hexagon",
+      "square",
+      "square",
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "pentagon",
+      "square",
+      "pentagon",
+      "square"
+    ],
+    "gpt_response": "Triangle, Square, Pentagon, Hexagon, Heptagon, Octagon, Nonagon, Decagon, Undecagon, Dodecagon, Tridecagon, Tetradecagon",
+    "Output": [
+      "Triangle",
+      "Square",
+      "Pentagon",
+      "Hexagon",
+      "Heptagon",
+      "Octagon",
+      "Nonagon",
+      "Decagon",
+      "Undecagon",
+      "Dodecagon",
+      "Tridecagon",
+      "Tetradecagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "191.png",
+    "num_layers": 20,
+    "order": [
+      "hexagon",
+      "square",
+      "pentagon",
+      "pentagon",
+      "square",
+      "square",
+      "hexagon",
+      "pentagon",
+      "hexagon",
+      "square",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "square",
+      "triangle",
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "hexagon",
+      "hexagon"
+    ],
+    "gpt_response": "Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hex",
+    "Output": [
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hex"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "192.png",
+    "num_layers": 20,
+    "order": [
+      "square",
+      "triangle",
+      "square",
+      "pentagon",
+      "pentagon",
+      "square",
+      "hexagon",
+      "hexagon",
+      "triangle",
+      "hexagon",
+      "square",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "triangle",
+      "square"
+    ],
+    "gpt_response": "SHAPES : Hexagon, Pentagon, Square, Triangle<|im_end|>",
+    "Output": [
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "193.png",
+    "num_layers": 20,
+    "order": [
+      "pentagon",
+      "pentagon",
+      "square",
+      "pentagon",
+      "pentagon",
+      "square",
+      "square",
+      "hexagon",
+      "triangle",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "square",
+      "square",
+      "pentagon",
+      "triangle",
+      "square",
+      "triangle",
+      "hexagon"
+    ],
+    "gpt_response": "Pentagon, Hexagon, Octagon, Decagon, Dodecagon, Hexagon, Pentagon, Hexagon, Octagon, Decagon, Dodecagon, Hexagon,",
+    "Output": [
+      "Pentagon",
+      "Hexagon",
+      "Octagon",
+      "Decagon",
+      "Dodecagon",
+      "Hexagon",
+      "Pentagon",
+      "Hexagon",
+      "Octagon",
+      "Decagon",
+      "Dodecagon",
+      "Hexagon",
+      ""
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "194.png",
+    "num_layers": 20,
+    "order": [
+      "pentagon",
+      "triangle",
+      "square",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "square",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "square",
+      "pentagon",
+      "triangle",
+      "square",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "pentagon"
+    ],
+    "gpt_response": "The image contains multiple layers of shapes. From the inside layer to the outside layer, the sequence of shapes is as follows:\n\n1. Diamond\n2. Hexagon\n3. Pentagon\n4.",
+    "Output": [
+      "1. Diamond\n2. Hexagon\n3. Pentagon\n4."
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "195.png",
+    "num_layers": 20,
+    "order": [
+      "square",
+      "hexagon",
+      "triangle",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "square",
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "square",
+      "hexagon",
+      "square",
+      "square"
+    ],
+    "gpt_response": "SHAPE SEQUENCE: Diamond, Hexagon, Pentagon, Octagon, Decagon\n\nSHAPES: Diamond, Hexagon, Pentagon, Octagon, Decagon<|im_end|>",
+    "Output": [
+      "Diamond",
+      "Hexagon",
+      "Pentagon",
+      "Octagon",
+      "Decagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "196.png",
+    "num_layers": 20,
+    "order": [
+      "square",
+      "pentagon",
+      "triangle",
+      "triangle",
+      "triangle",
+      "square",
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "square",
+      "triangle",
+      "square",
+      "hexagon",
+      "pentagon",
+      "hexagon",
+      "triangle"
+    ],
+    "gpt_response": "SHAPES : Diamond, Triangle, Hexagon<|im_end|>",
+    "Output": [
+      "Diamond",
+      "Triangle",
+      "Hexagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "197.png",
+    "num_layers": 20,
+    "order": [
+      "triangle",
+      "pentagon",
+      "square",
+      "hexagon",
+      "square",
+      "square",
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "triangle",
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "square",
+      "triangle",
+      "square",
+      "pentagon"
+    ],
+    "gpt_response": "TRIANGLE, HEXAGON, OCTAGON, DECAGON, DODECAGON, HEXAGON, OCTAGON, DECAGON, DODECAGON, HEXAGON, OCTAGON, DECAGON",
+    "Output": [
+      "TRIANGLE",
+      "HEXAGON",
+      "OCTAGON",
+      "DECAGON",
+      "DODECAGON",
+      "HEXAGON",
+      "OCTAGON",
+      "DECAGON",
+      "DODECAGON",
+      "HEXAGON",
+      "OCTAGON",
+      "DECAGON"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "198.png",
+    "num_layers": 20,
+    "order": [
+      "triangle",
+      "square",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "triangle",
+      "square",
+      "square",
+      "triangle",
+      "square",
+      "hexagon",
+      "pentagon",
+      "hexagon",
+      "square",
+      "hexagon",
+      "pentagon",
+      "square",
+      "triangle",
+      "hexagon",
+      "hexagon"
+    ],
+    "gpt_response": "SHAPES : Triangle, Diamond, Hexagon<|im_end|>",
+    "Output": [
+      "Triangle",
+      "Diamond",
+      "Hexagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "199.png",
+    "num_layers": 20,
+    "order": [
+      "pentagon",
+      "triangle",
+      "triangle",
+      "triangle",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "square",
+      "triangle",
+      "triangle",
+      "square",
+      "triangle",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "pentagon",
+      "square"
+    ],
+    "gpt_response": "SHAPES : Pentagon, Hexagon, Octagon, Decagon<|im_end|>",
+    "Output": [
+      "Pentagon",
+      "Hexagon",
+      "Octagon",
+      "Decagon<|im_end|>"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "200.png",
+    "num_layers": 20,
+    "order": [
+      "pentagon",
+      "triangle",
+      "square",
+      "square",
+      "square",
+      "square",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "square",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "square",
+      "hexagon",
+      "pentagon",
+      "hexagon"
+    ],
+    "gpt_response": "The image contains multiple layers of shapes. From the inside layer to the outside layer, the sequence of shapes is:\n\n1. Pentagon\n2. Hexagon\n3. Octagon\n4. Dec",
+    "Output": [
+      "1. Pentagon\n2. Hexagon\n3. Octagon\n4. Dec"
+    ],
+    "ERROR": null
+  }
+]

@@ -1,0 +1,2 @@
+- Count the total number of circles in the image which contain the red dot
+- Note that a circle containing the red dot means the centre of the dot is present inside the circumference of the circle

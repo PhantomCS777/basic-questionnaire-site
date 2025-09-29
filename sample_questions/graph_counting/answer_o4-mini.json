@@ -1,0 +1,1761 @@
+[
+  {
+    "id": "1.png",
+    "num_nodes": 1,
+    "num_edges": 0,
+    "gpt_response": "NODES:1 EDGES:0",
+    "Output": {
+      "num_nodes": 1,
+      "num_edges": 0
+    },
+    "ERROR": null
+  },
+  {
+    "id": "2.png",
+    "num_nodes": 1,
+    "num_edges": 0,
+    "gpt_response": "NODES:1 EDGES:0",
+    "Output": {
+      "num_nodes": 1,
+      "num_edges": 0
+    },
+    "ERROR": null
+  },
+  {
+    "id": "3.png",
+    "num_nodes": 1,
+    "num_edges": 0,
+    "gpt_response": "NODES:1 EDGES:0",
+    "Output": {
+      "num_nodes": 1,
+      "num_edges": 0
+    },
+    "ERROR": null
+  },
+  {
+    "id": "4.png",
+    "num_nodes": 1,
+    "num_edges": 0,
+    "gpt_response": "NODES:1 EDGES:0",
+    "Output": {
+      "num_nodes": 1,
+      "num_edges": 0
+    },
+    "ERROR": null
+  },
+  {
+    "id": "5.png",
+    "num_nodes": 1,
+    "num_edges": 0,
+    "gpt_response": "NODES:1 EDGES:0",
+    "Output": {
+      "num_nodes": 1,
+      "num_edges": 0
+    },
+    "ERROR": null
+  },
+  {
+    "id": "6.png",
+    "num_nodes": 1,
+    "num_edges": 0,
+    "gpt_response": "NODES:1 EDGES:0",
+    "Output": {
+      "num_nodes": 1,
+      "num_edges": 0
+    },
+    "ERROR": null
+  },
+  {
+    "id": "7.png",
+    "num_nodes": 1,
+    "num_edges": 0,
+    "gpt_response": "NODES:1 EDGES:0",
+    "Output": {
+      "num_nodes": 1,
+      "num_edges": 0
+    },
+    "ERROR": null
+  },
+  {
+    "id": "8.png",
+    "num_nodes": 1,
+    "num_edges": 0,
+    "gpt_response": "NODES:1 EDGES:0",
+    "Output": {
+      "num_nodes": 1,
+      "num_edges": 0
+    },
+    "ERROR": null
+  },
+  {
+    "id": "9.png",
+    "num_nodes": 1,
+    "num_edges": 0,
+    "gpt_response": "NODES:1 EDGES:0",
+    "Output": {
+      "num_nodes": 1,
+      "num_edges": 0
+    },
+    "ERROR": null
+  },
+  {
+    "id": "10.png",
+    "num_nodes": 1,
+    "num_edges": 0,
+    "gpt_response": "NODES:1 EDGES:0",
+    "Output": {
+      "num_nodes": 1,
+      "num_edges": 0
+    },
+    "ERROR": null
+  },
+  {
+    "id": "11.png",
+    "num_nodes": 2,
+    "num_edges": 1,
+    "gpt_response": "There are two blue nodes in the diagram, and they are connected by a single edge.  \nNODES:2 EDGES:1",
+    "Output": {
+      "num_nodes": 2,
+      "num_edges": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "12.png",
+    "num_nodes": 2,
+    "num_edges": 1,
+    "gpt_response": "There are 2 nodes and 1 edge in the graph.  \nNODES:2 EDGES:1",
+    "Output": {
+      "num_nodes": 2,
+      "num_edges": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "13.png",
+    "num_nodes": 2,
+    "num_edges": 1,
+    "gpt_response": "There are two blue circles, and one line connecting them.\n\nNODES:2 EDGES:1",
+    "Output": {
+      "num_nodes": 2,
+      "num_edges": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "14.png",
+    "num_nodes": 2,
+    "num_edges": 1,
+    "gpt_response": "The graph has 2 nodes and 1 edge.  \nNODES:2 EDGES:1",
+    "Output": {
+      "num_nodes": 2,
+      "num_edges": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "15.png",
+    "num_nodes": 2,
+    "num_edges": 1,
+    "gpt_response": "Here\u2019s the count:\n\nNODES: 2  \nEDGES: 1\n\nLast line as requested:  \nNODES:2 EDGES:1",
+    "Output": {
+      "num_nodes": 2,
+      "num_edges": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "16.png",
+    "num_nodes": 2,
+    "num_edges": 1,
+    "gpt_response": "There are 2 nodes and 1 edge.  \nNODES:2 EDGES:1",
+    "Output": {
+      "num_nodes": 2,
+      "num_edges": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "17.png",
+    "num_nodes": 2,
+    "num_edges": 1,
+    "gpt_response": "The graph consists of two blue nodes joined by a single edge.\n\nNODES:2 EDGES:1",
+    "Output": {
+      "num_nodes": 2,
+      "num_edges": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "18.png",
+    "num_nodes": 2,
+    "num_edges": 1,
+    "gpt_response": "There are 2 nodes and 1 edge in the graph.  \nNODES:2 EDGES:1",
+    "Output": {
+      "num_nodes": 2,
+      "num_edges": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "19.png",
+    "num_nodes": 2,
+    "num_edges": 1,
+    "gpt_response": "The graph consists of two blue nodes connected by a single edge.\n\nNODES:2 EDGES:1",
+    "Output": {
+      "num_nodes": 2,
+      "num_edges": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "20.png",
+    "num_nodes": 2,
+    "num_edges": 1,
+    "gpt_response": "Number of nodes: 2  \nNumber of edges: 1  \n\nNODES:2 EDGES:1",
+    "Output": {
+      "num_nodes": 2,
+      "num_edges": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "21.png",
+    "num_nodes": 3,
+    "num_edges": 2,
+    "gpt_response": "There are 3 nodes and 2 edges in the graph.\n\nNODES:3 EDGES:2",
+    "Output": {
+      "num_nodes": 3,
+      "num_edges": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "22.png",
+    "num_nodes": 3,
+    "num_edges": 2,
+    "gpt_response": "The graph consists of 3 nodes connected in a single path, giving a total of 2 edges.  \nNODES:3 EDGES:2",
+    "Output": {
+      "num_nodes": 3,
+      "num_edges": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "23.png",
+    "num_nodes": 3,
+    "num_edges": 2,
+    "gpt_response": "The graph contains 3 nodes and 2 edges.  \nNODES:3 EDGES:2",
+    "Output": {
+      "num_nodes": 3,
+      "num_edges": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "24.png",
+    "num_nodes": 3,
+    "num_edges": 2,
+    "gpt_response": "Number of nodes = 3  \nNumber of edges = 2  \n\nNODES:3 EDGES:2",
+    "Output": {
+      "num_nodes": 3,
+      "num_edges": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "25.png",
+    "num_nodes": 3,
+    "num_edges": 3,
+    "gpt_response": "There are 3 blue nodes and 3 edges forming a triangle.\n\nNODES:3 EDGES:3",
+    "Output": {
+      "num_nodes": 3,
+      "num_edges": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "26.png",
+    "num_nodes": 3,
+    "num_edges": 3,
+    "gpt_response": "The graph contains 3 nodes and 3 edges.  \nNODES:3 EDGES:3",
+    "Output": {
+      "num_nodes": 3,
+      "num_edges": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "27.png",
+    "num_nodes": 3,
+    "num_edges": 3,
+    "gpt_response": "There are 3 nodes and 3 edges in the graph.  \nNODES:3 EDGES:3",
+    "Output": {
+      "num_nodes": 3,
+      "num_edges": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "28.png",
+    "num_nodes": 3,
+    "num_edges": 2,
+    "gpt_response": "NODES:3 EDGES:2",
+    "Output": {
+      "num_nodes": 3,
+      "num_edges": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "29.png",
+    "num_nodes": 3,
+    "num_edges": 2,
+    "gpt_response": "The graph has 3 nodes and 2 edges.  \nNODES:3 EDGES:2",
+    "Output": {
+      "num_nodes": 3,
+      "num_edges": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "30.png",
+    "num_nodes": 3,
+    "num_edges": 2,
+    "gpt_response": "The graph contains 3 nodes and 2 edges.  \nNODES:3 EDGES:2",
+    "Output": {
+      "num_nodes": 3,
+      "num_edges": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "31.png",
+    "num_nodes": 4,
+    "num_edges": 3,
+    "gpt_response": "Here is the count:\n\nNodes:\n- Central node  \n- Top node  \n- Bottom-left node  \n- Bottom-right node  \n\nTotal nodes = 4\n\nEdges:\n- Central\u2013top  \n- Central\u2013bottom-left  \n- Central\u2013bottom-right  \n\nTotal edges = 3\n\nNODES:4 EDGES:3",
+    "Output": {
+      "num_nodes": 4,
+      "num_edges": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "32.png",
+    "num_nodes": 4,
+    "num_edges": 4,
+    "gpt_response": "I count the circles (nodes) and the connecting lines (edges) as follows:\n\nNodes:\n1. Leftmost node  \n2. Central node  \n3. Bottom-right node  \n4. Top-right node  \n\nEdges:\n1. Leftmost \u2013 Central  \n2. Leftmost \u2013 Bottom-right  \n3. Central \u2013 Bottom-right  \n4. Central \u2013 Top-right  \n\nNODES:4 EDGES:4",
+    "Output": {
+      "num_nodes": 4,
+      "num_edges": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "33.png",
+    "num_nodes": 4,
+    "num_edges": 4,
+    "gpt_response": "The graph has 4 nodes and 4 edges.  \nNODES:4 EDGES:4",
+    "Output": {
+      "num_nodes": 4,
+      "num_edges": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "34.png",
+    "num_nodes": 4,
+    "num_edges": 5,
+    "gpt_response": "There are 4 nodes and 5 edges in the graph.  \nNODES:4 EDGES:5",
+    "Output": {
+      "num_nodes": 4,
+      "num_edges": 5
+    },
+    "ERROR": null
+  },
+  {
+    "id": "35.png",
+    "num_nodes": 4,
+    "num_edges": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "36.png",
+    "num_nodes": 4,
+    "num_edges": 5,
+    "gpt_response": "There are 4 nodes and 5 edges in the graph.  \nNODES:4 EDGES:5",
+    "Output": {
+      "num_nodes": 4,
+      "num_edges": 5
+    },
+    "ERROR": null
+  },
+  {
+    "id": "37.png",
+    "num_nodes": 4,
+    "num_edges": 6,
+    "gpt_response": "Here are the counts:\n\nNumber of nodes: 4  \nNumber of edges: 6  \n\nNODES:4 EDGES:6",
+    "Output": {
+      "num_nodes": 4,
+      "num_edges": 6
+    },
+    "ERROR": null
+  },
+  {
+    "id": "38.png",
+    "num_nodes": 4,
+    "num_edges": 6,
+    "gpt_response": "The graph has 4 nodes and 6 edges.  \nNODES:4 EDGES:6",
+    "Output": {
+      "num_nodes": 4,
+      "num_edges": 6
+    },
+    "ERROR": null
+  },
+  {
+    "id": "39.png",
+    "num_nodes": 4,
+    "num_edges": 3,
+    "gpt_response": "NODES:4 EDGES:3",
+    "Output": {
+      "num_nodes": 4,
+      "num_edges": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "40.png",
+    "num_nodes": 4,
+    "num_edges": 4,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "41.png",
+    "num_nodes": 5,
+    "num_edges": 4,
+    "gpt_response": "Number of nodes: 5  \nNumber of edges: 4  \n\nNODES:5 EDGES:4",
+    "Output": {
+      "num_nodes": 5,
+      "num_edges": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "42.png",
+    "num_nodes": 5,
+    "num_edges": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "43.png",
+    "num_nodes": 5,
+    "num_edges": 5,
+    "gpt_response": "The graph contains 5 nodes and 5 edges.  \nNODES:5 EDGES:5",
+    "Output": {
+      "num_nodes": 5,
+      "num_edges": 5
+    },
+    "ERROR": null
+  },
+  {
+    "id": "44.png",
+    "num_nodes": 5,
+    "num_edges": 4,
+    "gpt_response": "Here are the counts:\n\nNODES:5 EDGES:4",
+    "Output": {
+      "num_nodes": 5,
+      "num_edges": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "45.png",
+    "num_nodes": 5,
+    "num_edges": 10,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "46.png",
+    "num_nodes": 5,
+    "num_edges": 6,
+    "gpt_response": "Number of nodes: 5  \nNumber of edges: 6  \n\nNODES:5 EDGES:6",
+    "Output": {
+      "num_nodes": 5,
+      "num_edges": 6
+    },
+    "ERROR": null
+  },
+  {
+    "id": "47.png",
+    "num_nodes": 5,
+    "num_edges": 4,
+    "gpt_response": "The graph is a simple path connecting five nodes in a line.  \nThere are 5 blue circles (nodes) and 4 line segments (edges) joining them.  \n\nNODES:5 EDGES:4",
+    "Output": {
+      "num_nodes": 5,
+      "num_edges": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "48.png",
+    "num_nodes": 5,
+    "num_edges": 10,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "49.png",
+    "num_nodes": 5,
+    "num_edges": 8,
+    "gpt_response": "The graph contains 5 nodes and 8 edges in total.  \nNODES:5 EDGES:8",
+    "Output": {
+      "num_nodes": 5,
+      "num_edges": 8
+    },
+    "ERROR": null
+  },
+  {
+    "id": "50.png",
+    "num_nodes": 5,
+    "num_edges": 4,
+    "gpt_response": "The graph consists of 5 nodes and 4 edges.  \nNODES:5 EDGES:4",
+    "Output": {
+      "num_nodes": 5,
+      "num_edges": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "51.png",
+    "num_nodes": 6,
+    "num_edges": 10,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "52.png",
+    "num_nodes": 6,
+    "num_edges": 8,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "53.png",
+    "num_nodes": 6,
+    "num_edges": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "54.png",
+    "num_nodes": 6,
+    "num_edges": 7,
+    "gpt_response": "I count six nodes and seven edges in the graph.  \nNODES:6 EDGES:7",
+    "Output": {
+      "num_nodes": 6,
+      "num_edges": 7
+    },
+    "ERROR": null
+  },
+  {
+    "id": "55.png",
+    "num_nodes": 6,
+    "num_edges": 11,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "56.png",
+    "num_nodes": 6,
+    "num_edges": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "57.png",
+    "num_nodes": 6,
+    "num_edges": 15,
+    "gpt_response": "Here\u2019s the count for the given graph:\n\nNodes:\n\u2022 Top  \n\u2022 Top-left  \n\u2022 Top-right  \n\u2022 Bottom-left  \n\u2022 Bottom  \n\u2022 Bottom-right  \n\nEdges: Every node is connected to each of the other five (complete graph on 6 vertices), so there are 6\u00b75/2 = 15 edges.\n\nNODES:6 EDGES:15",
+    "Output": {
+      "num_nodes": 6,
+      "num_edges": 15
+    },
+    "ERROR": null
+  },
+  {
+    "id": "58.png",
+    "num_nodes": 6,
+    "num_edges": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "59.png",
+    "num_nodes": 6,
+    "num_edges": 10,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "60.png",
+    "num_nodes": 6,
+    "num_edges": 5,
+    "gpt_response": "I count 6 blue nodes in total.  \nThey form 5 edges (2 in the chain and 3 in the triangle).  \n\nNODES:6 EDGES:5",
+    "Output": {
+      "num_nodes": 6,
+      "num_edges": 5
+    },
+    "ERROR": null
+  },
+  {
+    "id": "61.png",
+    "num_nodes": 7,
+    "num_edges": 15,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "62.png",
+    "num_nodes": 7,
+    "num_edges": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "63.png",
+    "num_nodes": 7,
+    "num_edges": 18,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "64.png",
+    "num_nodes": 7,
+    "num_edges": 18,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "65.png",
+    "num_nodes": 7,
+    "num_edges": 19,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "66.png",
+    "num_nodes": 7,
+    "num_edges": 20,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "67.png",
+    "num_nodes": 7,
+    "num_edges": 9,
+    "gpt_response": "Here\u2019s the breakdown:\n\n\u2022 Nodes (blue circles): 7  \n\u2022 Edges (lines): 9  \n\nNODES:7 EDGES:9",
+    "Output": {
+      "num_nodes": 7,
+      "num_edges": 9
+    },
+    "ERROR": null
+  },
+  {
+    "id": "68.png",
+    "num_nodes": 7,
+    "num_edges": 10,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "69.png",
+    "num_nodes": 7,
+    "num_edges": 7,
+    "gpt_response": "NODES:7 EDGES:7",
+    "Output": {
+      "num_nodes": 7,
+      "num_edges": 7
+    },
+    "ERROR": null
+  },
+  {
+    "id": "70.png",
+    "num_nodes": 7,
+    "num_edges": 10,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "71.png",
+    "num_nodes": 8,
+    "num_edges": 17,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "72.png",
+    "num_nodes": 8,
+    "num_edges": 16,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "73.png",
+    "num_nodes": 8,
+    "num_edges": 13,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "74.png",
+    "num_nodes": 8,
+    "num_edges": 8,
+    "gpt_response": "I count 7 distinct blue nodes and 7 edges connecting them.\n\nNODES:7 EDGES:7",
+    "Output": {
+      "num_nodes": 7,
+      "num_edges": 7
+    },
+    "ERROR": null
+  },
+  {
+    "id": "75.png",
+    "num_nodes": 8,
+    "num_edges": 16,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "76.png",
+    "num_nodes": 8,
+    "num_edges": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "77.png",
+    "num_nodes": 8,
+    "num_edges": 15,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "78.png",
+    "num_nodes": 8,
+    "num_edges": 11,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "79.png",
+    "num_nodes": 8,
+    "num_edges": 8,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "80.png",
+    "num_nodes": 8,
+    "num_edges": 14,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "81.png",
+    "num_nodes": 9,
+    "num_edges": 32,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "82.png",
+    "num_nodes": 9,
+    "num_edges": 17,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "83.png",
+    "num_nodes": 9,
+    "num_edges": 24,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "84.png",
+    "num_nodes": 9,
+    "num_edges": 12,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "85.png",
+    "num_nodes": 9,
+    "num_edges": 19,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "86.png",
+    "num_nodes": 9,
+    "num_edges": 22,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "87.png",
+    "num_nodes": 9,
+    "num_edges": 20,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "88.png",
+    "num_nodes": 9,
+    "num_edges": 14,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "89.png",
+    "num_nodes": 9,
+    "num_edges": 11,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "90.png",
+    "num_nodes": 9,
+    "num_edges": 19,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "91.png",
+    "num_nodes": 10,
+    "num_edges": 28,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "92.png",
+    "num_nodes": 10,
+    "num_edges": 11,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "93.png",
+    "num_nodes": 10,
+    "num_edges": 11,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "94.png",
+    "num_nodes": 10,
+    "num_edges": 39,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "95.png",
+    "num_nodes": 10,
+    "num_edges": 45,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "96.png",
+    "num_nodes": 10,
+    "num_edges": 43,
+    "gpt_response": "Counted the blue circles, there are 9 nodes in total.  \nEvery pair of nodes is connected by an edge (it\u2019s a complete graph), so there are C(9, 2) = 36 edges.  \nNODES:9 EDGES:36",
+    "Output": {
+      "num_nodes": 9,
+      "num_edges": 36
+    },
+    "ERROR": null
+  },
+  {
+    "id": "97.png",
+    "num_nodes": 10,
+    "num_edges": 19,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "98.png",
+    "num_nodes": 10,
+    "num_edges": 13,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "99.png",
+    "num_nodes": 10,
+    "num_edges": 44,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "100.png",
+    "num_nodes": 10,
+    "num_edges": 11,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "101.png",
+    "num_nodes": 11,
+    "num_edges": 34,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "102.png",
+    "num_nodes": 11,
+    "num_edges": 48,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "103.png",
+    "num_nodes": 11,
+    "num_edges": 47,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "104.png",
+    "num_nodes": 11,
+    "num_edges": 41,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "105.png",
+    "num_nodes": 11,
+    "num_edges": 25,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "106.png",
+    "num_nodes": 11,
+    "num_edges": 26,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "107.png",
+    "num_nodes": 11,
+    "num_edges": 32,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "108.png",
+    "num_nodes": 11,
+    "num_edges": 25,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "109.png",
+    "num_nodes": 11,
+    "num_edges": 25,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "110.png",
+    "num_nodes": 11,
+    "num_edges": 16,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "111.png",
+    "num_nodes": 12,
+    "num_edges": 47,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "112.png",
+    "num_nodes": 12,
+    "num_edges": 25,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "113.png",
+    "num_nodes": 12,
+    "num_edges": 57,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "114.png",
+    "num_nodes": 12,
+    "num_edges": 33,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "115.png",
+    "num_nodes": 12,
+    "num_edges": 12,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "116.png",
+    "num_nodes": 12,
+    "num_edges": 59,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "117.png",
+    "num_nodes": 12,
+    "num_edges": 45,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "118.png",
+    "num_nodes": 12,
+    "num_edges": 42,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "119.png",
+    "num_nodes": 12,
+    "num_edges": 37,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "120.png",
+    "num_nodes": 12,
+    "num_edges": 18,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "121.png",
+    "num_nodes": 13,
+    "num_edges": 61,
+    "gpt_response": "The graph contains 12 nodes and, since every pair of nodes is joined by an edge, it has 12\u00b711/2 = 66 edges.  \nNODES:12 EDGES:66",
+    "Output": {
+      "num_nodes": 12,
+      "num_edges": 66
+    },
+    "ERROR": null
+  },
+  {
+    "id": "122.png",
+    "num_nodes": 13,
+    "num_edges": 21,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "123.png",
+    "num_nodes": 13,
+    "num_edges": 33,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "124.png",
+    "num_nodes": 13,
+    "num_edges": 38,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "125.png",
+    "num_nodes": 13,
+    "num_edges": 26,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "126.png",
+    "num_nodes": 13,
+    "num_edges": 62,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "127.png",
+    "num_nodes": 13,
+    "num_edges": 38,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "128.png",
+    "num_nodes": 13,
+    "num_edges": 24,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "129.png",
+    "num_nodes": 13,
+    "num_edges": 14,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "130.png",
+    "num_nodes": 13,
+    "num_edges": 16,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "131.png",
+    "num_nodes": 14,
+    "num_edges": 73,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "132.png",
+    "num_nodes": 14,
+    "num_edges": 82,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "133.png",
+    "num_nodes": 14,
+    "num_edges": 62,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "134.png",
+    "num_nodes": 14,
+    "num_edges": 60,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "135.png",
+    "num_nodes": 14,
+    "num_edges": 43,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "136.png",
+    "num_nodes": 14,
+    "num_edges": 65,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "137.png",
+    "num_nodes": 14,
+    "num_edges": 87,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "138.png",
+    "num_nodes": 14,
+    "num_edges": 39,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "139.png",
+    "num_nodes": 14,
+    "num_edges": 45,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "140.png",
+    "num_nodes": 14,
+    "num_edges": 41,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "141.png",
+    "num_nodes": 15,
+    "num_edges": 83,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "142.png",
+    "num_nodes": 15,
+    "num_edges": 102,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "143.png",
+    "num_nodes": 15,
+    "num_edges": 41,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "144.png",
+    "num_nodes": 15,
+    "num_edges": 37,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "145.png",
+    "num_nodes": 15,
+    "num_edges": 92,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "146.png",
+    "num_nodes": 15,
+    "num_edges": 37,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "147.png",
+    "num_nodes": 15,
+    "num_edges": 21,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "148.png",
+    "num_nodes": 15,
+    "num_edges": 33,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "149.png",
+    "num_nodes": 15,
+    "num_edges": 70,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "150.png",
+    "num_nodes": 15,
+    "num_edges": 60,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "151.png",
+    "num_nodes": 16,
+    "num_edges": 78,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "152.png",
+    "num_nodes": 16,
+    "num_edges": 66,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "153.png",
+    "num_nodes": 16,
+    "num_edges": 52,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "154.png",
+    "num_nodes": 16,
+    "num_edges": 57,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "155.png",
+    "num_nodes": 16,
+    "num_edges": 39,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "156.png",
+    "num_nodes": 16,
+    "num_edges": 21,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "157.png",
+    "num_nodes": 16,
+    "num_edges": 42,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "158.png",
+    "num_nodes": 16,
+    "num_edges": 109,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "159.png",
+    "num_nodes": 16,
+    "num_edges": 50,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "160.png",
+    "num_nodes": 16,
+    "num_edges": 113,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "161.png",
+    "num_nodes": 17,
+    "num_edges": 32,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "162.png",
+    "num_nodes": 17,
+    "num_edges": 92,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "163.png",
+    "num_nodes": 17,
+    "num_edges": 67,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "164.png",
+    "num_nodes": 17,
+    "num_edges": 49,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "165.png",
+    "num_nodes": 17,
+    "num_edges": 109,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "166.png",
+    "num_nodes": 17,
+    "num_edges": 74,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "167.png",
+    "num_nodes": 17,
+    "num_edges": 85,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "168.png",
+    "num_nodes": 17,
+    "num_edges": 122,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "169.png",
+    "num_nodes": 17,
+    "num_edges": 129,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "170.png",
+    "num_nodes": 17,
+    "num_edges": 72,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "171.png",
+    "num_nodes": 18,
+    "num_edges": 39,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "172.png",
+    "num_nodes": 18,
+    "num_edges": 45,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "173.png",
+    "num_nodes": 18,
+    "num_edges": 23,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "174.png",
+    "num_nodes": 18,
+    "num_edges": 97,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "175.png",
+    "num_nodes": 18,
+    "num_edges": 78,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "176.png",
+    "num_nodes": 18,
+    "num_edges": 142,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "177.png",
+    "num_nodes": 18,
+    "num_edges": 126,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "178.png",
+    "num_nodes": 18,
+    "num_edges": 58,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "179.png",
+    "num_nodes": 18,
+    "num_edges": 152,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "180.png",
+    "num_nodes": 18,
+    "num_edges": 126,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "181.png",
+    "num_nodes": 19,
+    "num_edges": 157,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "182.png",
+    "num_nodes": 19,
+    "num_edges": 151,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "183.png",
+    "num_nodes": 19,
+    "num_edges": 130,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "184.png",
+    "num_nodes": 19,
+    "num_edges": 53,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "185.png",
+    "num_nodes": 19,
+    "num_edges": 137,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "186.png",
+    "num_nodes": 19,
+    "num_edges": 18,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "187.png",
+    "num_nodes": 19,
+    "num_edges": 24,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "188.png",
+    "num_nodes": 19,
+    "num_edges": 56,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "189.png",
+    "num_nodes": 19,
+    "num_edges": 130,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "190.png",
+    "num_nodes": 19,
+    "num_edges": 19,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "191.png",
+    "num_nodes": 20,
+    "num_edges": 152,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "192.png",
+    "num_nodes": 20,
+    "num_edges": 154,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "193.png",
+    "num_nodes": 20,
+    "num_edges": 171,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "194.png",
+    "num_nodes": 20,
+    "num_edges": 46,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "195.png",
+    "num_nodes": 20,
+    "num_edges": 133,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "196.png",
+    "num_nodes": 20,
+    "num_edges": 148,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "197.png",
+    "num_nodes": 20,
+    "num_edges": 106,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "198.png",
+    "num_nodes": 20,
+    "num_edges": 103,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "199.png",
+    "num_nodes": 20,
+    "num_edges": 118,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  },
+  {
+    "id": "200.png",
+    "num_nodes": 20,
+    "num_edges": 22,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "No match found"
+  }
+]

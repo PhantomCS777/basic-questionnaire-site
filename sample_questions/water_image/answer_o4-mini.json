@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "second1.png",
+    "water_image": 1,
+    "num_objects": 1,
+    "gpt_response": "COUNT: 1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second2.png",
+    "water_image": 1,
+    "num_objects": 1,
+    "gpt_response": "COUNT: 1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second3.png",
+    "water_image": 1,
+    "num_objects": 1,
+    "gpt_response": "COUNT: 1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second4.png",
+    "water_image": 1,
+    "num_objects": 1,
+    "gpt_response": "COUNT: 1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second5.png",
+    "water_image": 1,
+    "num_objects": 1,
+    "gpt_response": "COUNT: 1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second6.png",
+    "water_image": 1,
+    "num_objects": 1,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second7.png",
+    "water_image": 1,
+    "num_objects": 1,
+    "gpt_response": "COUNT: 1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second8.png",
+    "water_image": 1,
+    "num_objects": 1,
+    "gpt_response": "COUNT: 2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second9.png",
+    "water_image": 1,
+    "num_objects": 1,
+    "gpt_response": "COUNT: 1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second10.png",
+    "water_image": 1,
+    "num_objects": 1,
+    "gpt_response": "COUNT: 1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second11.png",
+    "water_image": 2,
+    "num_objects": 2,
+    "gpt_response": "COUNT: 2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second12.png",
+    "water_image": 2,
+    "num_objects": 2,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second13.png",
+    "water_image": 2,
+    "num_objects": 2,
+    "gpt_response": "COUNT: 1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second14.png",
+    "water_image": 2,
+    "num_objects": 2,
+    "gpt_response": "COUNT: 4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second15.png",
+    "water_image": 2,
+    "num_objects": 2,
+    "gpt_response": "COUNT: 2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second16.png",
+    "water_image": 2,
+    "num_objects": 2,
+    "gpt_response": "COUNT: 2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second17.png",
+    "water_image": 2,
+    "num_objects": 2,
+    "gpt_response": "COUNT: 2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second18.png",
+    "water_image": 2,
+    "num_objects": 2,
+    "gpt_response": "COUNT: 1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second19.png",
+    "water_image": 2,
+    "num_objects": 2,
+    "gpt_response": "COUNT: 2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second20.png",
+    "water_image": 2,
+    "num_objects": 2,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second21.png",
+    "water_image": 3,
+    "num_objects": 3,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second22.png",
+    "water_image": 3,
+    "num_objects": 3,
+    "gpt_response": "COUNT: 3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "second23.png",
+    "water_image": 3,
+    "num_objects": 3,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second24.png",
+    "water_image": 3,
+    "num_objects": 3,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second25.png",
+    "water_image": 3,
+    "num_objects": 3,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second26.png",
+    "water_image": 3,
+    "num_objects": 3,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second27.png",
+    "water_image": 3,
+    "num_objects": 3,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second28.png",
+    "water_image": 3,
+    "num_objects": 3,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second29.png",
+    "water_image": 3,
+    "num_objects": 3,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second30.png",
+    "water_image": 3,
+    "num_objects": 3,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second31.png",
+    "water_image": 4,
+    "num_objects": 4,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second32.png",
+    "water_image": 4,
+    "num_objects": 4,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second33.png",
+    "water_image": 4,
+    "num_objects": 4,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second34.png",
+    "water_image": 4,
+    "num_objects": 4,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second35.png",
+    "water_image": 4,
+    "num_objects": 4,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second36.png",
+    "water_image": 4,
+    "num_objects": 4,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second37.png",
+    "water_image": 4,
+    "num_objects": 4,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second38.png",
+    "water_image": 4,
+    "num_objects": 4,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second39.png",
+    "water_image": 4,
+    "num_objects": 4,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second40.png",
+    "water_image": 4,
+    "num_objects": 4,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second41.png",
+    "water_image": 5,
+    "num_objects": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second42.png",
+    "water_image": 5,
+    "num_objects": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second43.png",
+    "water_image": 5,
+    "num_objects": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second44.png",
+    "water_image": 5,
+    "num_objects": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second45.png",
+    "water_image": 5,
+    "num_objects": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second46.png",
+    "water_image": 5,
+    "num_objects": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second47.png",
+    "water_image": 5,
+    "num_objects": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second48.png",
+    "water_image": 5,
+    "num_objects": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second49.png",
+    "water_image": 5,
+    "num_objects": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second50.png",
+    "water_image": 5,
+    "num_objects": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second51.png",
+    "water_image": 6,
+    "num_objects": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second52.png",
+    "water_image": 6,
+    "num_objects": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second53.png",
+    "water_image": 6,
+    "num_objects": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second54.png",
+    "water_image": 6,
+    "num_objects": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second55.png",
+    "water_image": 6,
+    "num_objects": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second56.png",
+    "water_image": 6,
+    "num_objects": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second57.png",
+    "water_image": 6,
+    "num_objects": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second58.png",
+    "water_image": 6,
+    "num_objects": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second59.png",
+    "water_image": 6,
+    "num_objects": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second60.png",
+    "water_image": 6,
+    "num_objects": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second61.png",
+    "water_image": 7,
+    "num_objects": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second62.png",
+    "water_image": 7,
+    "num_objects": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second63.png",
+    "water_image": 7,
+    "num_objects": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second64.png",
+    "water_image": 7,
+    "num_objects": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second65.png",
+    "water_image": 7,
+    "num_objects": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second66.png",
+    "water_image": 7,
+    "num_objects": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second67.png",
+    "water_image": 7,
+    "num_objects": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second68.png",
+    "water_image": 7,
+    "num_objects": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second69.png",
+    "water_image": 7,
+    "num_objects": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second70.png",
+    "water_image": 7,
+    "num_objects": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second71.png",
+    "water_image": 8,
+    "num_objects": 8,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second72.png",
+    "water_image": 8,
+    "num_objects": 8,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second73.png",
+    "water_image": 8,
+    "num_objects": 8,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second74.png",
+    "water_image": 8,
+    "num_objects": 8,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second75.png",
+    "water_image": 8,
+    "num_objects": 8,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second76.png",
+    "water_image": 8,
+    "num_objects": 8,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second77.png",
+    "water_image": 8,
+    "num_objects": 8,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second78.png",
+    "water_image": 8,
+    "num_objects": 8,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second79.png",
+    "water_image": 8,
+    "num_objects": 8,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second80.png",
+    "water_image": 8,
+    "num_objects": 8,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second81.png",
+    "water_image": 9,
+    "num_objects": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second82.png",
+    "water_image": 9,
+    "num_objects": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second83.png",
+    "water_image": 9,
+    "num_objects": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second84.png",
+    "water_image": 9,
+    "num_objects": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second85.png",
+    "water_image": 9,
+    "num_objects": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second86.png",
+    "water_image": 9,
+    "num_objects": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second87.png",
+    "water_image": 9,
+    "num_objects": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second88.png",
+    "water_image": 9,
+    "num_objects": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second89.png",
+    "water_image": 9,
+    "num_objects": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second90.png",
+    "water_image": 9,
+    "num_objects": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second91.png",
+    "water_image": 10,
+    "num_objects": 10,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second92.png",
+    "water_image": 10,
+    "num_objects": 10,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second93.png",
+    "water_image": 10,
+    "num_objects": 10,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second94.png",
+    "water_image": 10,
+    "num_objects": 10,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second95.png",
+    "water_image": 10,
+    "num_objects": 10,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second96.png",
+    "water_image": 10,
+    "num_objects": 10,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second97.png",
+    "water_image": 10,
+    "num_objects": 10,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second98.png",
+    "water_image": 10,
+    "num_objects": 10,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second99.png",
+    "water_image": 10,
+    "num_objects": 10,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second100.png",
+    "water_image": 10,
+    "num_objects": 10,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second101.png",
+    "water_image": 11,
+    "num_objects": 11,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second102.png",
+    "water_image": 11,
+    "num_objects": 11,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second103.png",
+    "water_image": 11,
+    "num_objects": 11,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second104.png",
+    "water_image": 11,
+    "num_objects": 11,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second105.png",
+    "water_image": 11,
+    "num_objects": 11,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second106.png",
+    "water_image": 11,
+    "num_objects": 11,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second107.png",
+    "water_image": 11,
+    "num_objects": 11,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second108.png",
+    "water_image": 11,
+    "num_objects": 11,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second109.png",
+    "water_image": 11,
+    "num_objects": 11,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second110.png",
+    "water_image": 11,
+    "num_objects": 11,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second111.png",
+    "water_image": 12,
+    "num_objects": 12,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second112.png",
+    "water_image": 12,
+    "num_objects": 12,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second113.png",
+    "water_image": 12,
+    "num_objects": 12,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second114.png",
+    "water_image": 12,
+    "num_objects": 12,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second115.png",
+    "water_image": 12,
+    "num_objects": 12,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second116.png",
+    "water_image": 12,
+    "num_objects": 12,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second117.png",
+    "water_image": 12,
+    "num_objects": 12,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second118.png",
+    "water_image": 12,
+    "num_objects": 12,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second119.png",
+    "water_image": 12,
+    "num_objects": 12,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second120.png",
+    "water_image": 12,
+    "num_objects": 12,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second121.png",
+    "water_image": 13,
+    "num_objects": 13,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second122.png",
+    "water_image": 13,
+    "num_objects": 13,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second123.png",
+    "water_image": 13,
+    "num_objects": 13,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second124.png",
+    "water_image": 13,
+    "num_objects": 13,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second125.png",
+    "water_image": 13,
+    "num_objects": 13,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second126.png",
+    "water_image": 13,
+    "num_objects": 13,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second127.png",
+    "water_image": 13,
+    "num_objects": 13,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second128.png",
+    "water_image": 13,
+    "num_objects": 13,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second129.png",
+    "water_image": 13,
+    "num_objects": 13,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second130.png",
+    "water_image": 13,
+    "num_objects": 13,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second131.png",
+    "water_image": 14,
+    "num_objects": 14,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second132.png",
+    "water_image": 14,
+    "num_objects": 14,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second133.png",
+    "water_image": 14,
+    "num_objects": 14,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second134.png",
+    "water_image": 14,
+    "num_objects": 14,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second135.png",
+    "water_image": 14,
+    "num_objects": 14,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second136.png",
+    "water_image": 14,
+    "num_objects": 14,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second137.png",
+    "water_image": 14,
+    "num_objects": 14,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second138.png",
+    "water_image": 14,
+    "num_objects": 14,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second139.png",
+    "water_image": 14,
+    "num_objects": 14,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second140.png",
+    "water_image": 14,
+    "num_objects": 14,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second141.png",
+    "water_image": 15,
+    "num_objects": 15,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second142.png",
+    "water_image": 15,
+    "num_objects": 15,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second143.png",
+    "water_image": 15,
+    "num_objects": 15,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second144.png",
+    "water_image": 15,
+    "num_objects": 15,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second145.png",
+    "water_image": 15,
+    "num_objects": 15,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second146.png",
+    "water_image": 15,
+    "num_objects": 15,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second147.png",
+    "water_image": 15,
+    "num_objects": 15,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second148.png",
+    "water_image": 15,
+    "num_objects": 15,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second149.png",
+    "water_image": 15,
+    "num_objects": 15,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second150.png",
+    "water_image": 15,
+    "num_objects": 15,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second151.png",
+    "water_image": 16,
+    "num_objects": 16,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second152.png",
+    "water_image": 16,
+    "num_objects": 16,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second153.png",
+    "water_image": 16,
+    "num_objects": 16,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second154.png",
+    "water_image": 16,
+    "num_objects": 16,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second155.png",
+    "water_image": 16,
+    "num_objects": 16,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second156.png",
+    "water_image": 16,
+    "num_objects": 16,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second157.png",
+    "water_image": 16,
+    "num_objects": 16,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second158.png",
+    "water_image": 16,
+    "num_objects": 16,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second159.png",
+    "water_image": 16,
+    "num_objects": 16,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second160.png",
+    "water_image": 16,
+    "num_objects": 16,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second161.png",
+    "water_image": 17,
+    "num_objects": 17,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second162.png",
+    "water_image": 17,
+    "num_objects": 17,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second163.png",
+    "water_image": 17,
+    "num_objects": 17,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second164.png",
+    "water_image": 17,
+    "num_objects": 17,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second165.png",
+    "water_image": 17,
+    "num_objects": 17,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second166.png",
+    "water_image": 17,
+    "num_objects": 17,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second167.png",
+    "water_image": 17,
+    "num_objects": 17,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second168.png",
+    "water_image": 17,
+    "num_objects": 17,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second169.png",
+    "water_image": 17,
+    "num_objects": 17,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second170.png",
+    "water_image": 17,
+    "num_objects": 17,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second171.png",
+    "water_image": 18,
+    "num_objects": 18,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second172.png",
+    "water_image": 18,
+    "num_objects": 18,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second173.png",
+    "water_image": 18,
+    "num_objects": 18,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second174.png",
+    "water_image": 18,
+    "num_objects": 18,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second175.png",
+    "water_image": 18,
+    "num_objects": 18,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second176.png",
+    "water_image": 18,
+    "num_objects": 18,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second177.png",
+    "water_image": 18,
+    "num_objects": 18,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second178.png",
+    "water_image": 18,
+    "num_objects": 18,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second179.png",
+    "water_image": 18,
+    "num_objects": 18,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second180.png",
+    "water_image": 18,
+    "num_objects": 18,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second181.png",
+    "water_image": 19,
+    "num_objects": 19,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second182.png",
+    "water_image": 19,
+    "num_objects": 19,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second183.png",
+    "water_image": 19,
+    "num_objects": 19,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second184.png",
+    "water_image": 19,
+    "num_objects": 19,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second185.png",
+    "water_image": 19,
+    "num_objects": 19,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second186.png",
+    "water_image": 19,
+    "num_objects": 19,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second187.png",
+    "water_image": 19,
+    "num_objects": 19,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second188.png",
+    "water_image": 19,
+    "num_objects": 19,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second189.png",
+    "water_image": 19,
+    "num_objects": 19,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second190.png",
+    "water_image": 19,
+    "num_objects": 19,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second191.png",
+    "water_image": 20,
+    "num_objects": 20,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second192.png",
+    "water_image": 20,
+    "num_objects": 20,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second193.png",
+    "water_image": 20,
+    "num_objects": 20,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second194.png",
+    "water_image": 20,
+    "num_objects": 20,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second195.png",
+    "water_image": 20,
+    "num_objects": 20,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second196.png",
+    "water_image": 20,
+    "num_objects": 20,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second197.png",
+    "water_image": 20,
+    "num_objects": 20,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second198.png",
+    "water_image": 20,
+    "num_objects": 20,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second199.png",
+    "water_image": 20,
+    "num_objects": 20,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "second200.png",
+    "water_image": 20,
+    "num_objects": 20,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  }
+]

@@ -1,0 +1,5828 @@
+[
+  {
+    "id": "1.png",
+    "num_layers": 1,
+    "colors": [
+      "goldenrod"
+    ],
+    "gpt_response": "COLOURS: brown, tan, orange<|im_end|>",
+    "Output": [
+      "brown",
+      "tan"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "2.png",
+    "num_layers": 1,
+    "colors": [
+      "green"
+    ],
+    "gpt_response": "COLOURS: green<|im_end|>",
+    "Output": [],
+    "ERROR": null
+  },
+  {
+    "id": "3.png",
+    "num_layers": 1,
+    "colors": [
+      "olive"
+    ],
+    "gpt_response": "COLOURS: olive, brown, gray, black<|im_end|>",
+    "Output": [
+      "olive",
+      "brown",
+      "gray"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "4.png",
+    "num_layers": 1,
+    "colors": [
+      "red"
+    ],
+    "gpt_response": "COLOURS: red<|im_end|>",
+    "Output": [],
+    "ERROR": null
+  },
+  {
+    "id": "5.png",
+    "num_layers": 1,
+    "colors": [
+      "lavender"
+    ],
+    "gpt_response": "COLOURS: lavender, skyblue<|im_end|>",
+    "Output": [
+      "lavender"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "6.png",
+    "num_layers": 1,
+    "colors": [
+      "skyblue"
+    ],
+    "gpt_response": "COLOURS: skyblue<|im_end|>",
+    "Output": [],
+    "ERROR": null
+  },
+  {
+    "id": "7.png",
+    "num_layers": 1,
+    "colors": [
+      "lavender"
+    ],
+    "gpt_response": "COLOURS: lavender, skyblue<|im_end|>",
+    "Output": [
+      "lavender"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "8.png",
+    "num_layers": 1,
+    "colors": [
+      "green"
+    ],
+    "gpt_response": "COLOURS: green<|im_end|>",
+    "Output": [],
+    "ERROR": null
+  },
+  {
+    "id": "9.png",
+    "num_layers": 1,
+    "colors": [
+      "brown"
+    ],
+    "gpt_response": "COLOURS: maroon, black<|im_end|>",
+    "Output": [
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "10.png",
+    "num_layers": 1,
+    "colors": [
+      "tan"
+    ],
+    "gpt_response": "COLOURS: brown, tan<|im_end|>",
+    "Output": [
+      "brown"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "11.png",
+    "num_layers": 2,
+    "colors": [
+      "fuchsia",
+      "turquoise"
+    ],
+    "gpt_response": "COLOURS: turquoise , purple , pink<|im_end|>",
+    "Output": [
+      "turquoise",
+      "purple"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "12.png",
+    "num_layers": 2,
+    "colors": [
+      "lavender",
+      "purple"
+    ],
+    "gpt_response": "COLOURS: maroon, lavender<|im_end|>",
+    "Output": [
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "13.png",
+    "num_layers": 2,
+    "colors": [
+      "black",
+      "pink"
+    ],
+    "gpt_response": "COLOURS: pink, black<|im_end|>",
+    "Output": [
+      "pink"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "14.png",
+    "num_layers": 2,
+    "colors": [
+      "gray",
+      "skyblue"
+    ],
+    "gpt_response": "COLOURS: skyblue, gray<|im_end|>",
+    "Output": [
+      "skyblue"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "15.png",
+    "num_layers": 2,
+    "colors": [
+      "skyblue",
+      "tan"
+    ],
+    "gpt_response": "COLOURS: brown , skyblue<|im_end|>",
+    "Output": [
+      "brown"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "16.png",
+    "num_layers": 2,
+    "colors": [
+      "skyblue",
+      "fuchsia"
+    ],
+    "gpt_response": "COLOURS: pink, skyblue<|im_end|>",
+    "Output": [
+      "pink"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "17.png",
+    "num_layers": 2,
+    "colors": [
+      "red",
+      "ivory"
+    ],
+    "gpt_response": "COLOURS: black, gray, brown, maroon, red<|im_end|>",
+    "Output": [
+      "black",
+      "gray",
+      "brown",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "18.png",
+    "num_layers": 2,
+    "colors": [
+      "gray",
+      "black"
+    ],
+    "gpt_response": "COLOURS: black, gray<|im_end|>",
+    "Output": [
+      "black"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "19.png",
+    "num_layers": 2,
+    "colors": [
+      "lavender",
+      "green"
+    ],
+    "gpt_response": "COLOURS: green, skyblue<|im_end|>",
+    "Output": [
+      "green"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "20.png",
+    "num_layers": 2,
+    "colors": [
+      "tan",
+      "yellow"
+    ],
+    "gpt_response": "COLOURS: yellow, brown<|im_end|>",
+    "Output": [
+      "yellow"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "21.png",
+    "num_layers": 3,
+    "colors": [
+      "turquoise",
+      "pink",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: blue, pink, turquoise<|im_end|>",
+    "Output": [
+      "blue",
+      "pink"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "22.png",
+    "num_layers": 3,
+    "colors": [
+      "olive",
+      "goldenrod",
+      "coral"
+    ],
+    "gpt_response": "COLOURS: red, orange, olive<|im_end|>",
+    "Output": [
+      "red",
+      "orange"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "23.png",
+    "num_layers": 3,
+    "colors": [
+      "pink",
+      "coral",
+      "ivory"
+    ],
+    "gpt_response": "COLOURS: orange, pink<|im_end|>",
+    "Output": [
+      "orange"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "24.png",
+    "num_layers": 3,
+    "colors": [
+      "maroon",
+      "green",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: blue, green, maroon<|im_end|>",
+    "Output": [
+      "blue",
+      "green"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "25.png",
+    "num_layers": 3,
+    "colors": [
+      "skyblue",
+      "red",
+      "ivory"
+    ],
+    "gpt_response": "COLOURS: red, skyblue<|im_end|>",
+    "Output": [
+      "red"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "26.png",
+    "num_layers": 3,
+    "colors": [
+      "red",
+      "fuchsia",
+      "coral"
+    ],
+    "gpt_response": "COLOURS: brown, fuchsia, red<|im_end|>",
+    "Output": [
+      "brown",
+      "fuchsia"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "27.png",
+    "num_layers": 3,
+    "colors": [
+      "maroon",
+      "coral",
+      "purple"
+    ],
+    "gpt_response": "COLOURS: purple, orange, maroon<|im_end|>",
+    "Output": [
+      "purple",
+      "orange"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "28.png",
+    "num_layers": 3,
+    "colors": [
+      "maroon",
+      "turquoise",
+      "black"
+    ],
+    "gpt_response": "COLOURS: black, turquoise, maroon<|im_end|>",
+    "Output": [
+      "black",
+      "turquoise"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "29.png",
+    "num_layers": 3,
+    "colors": [
+      "lavender",
+      "yellow",
+      "black"
+    ],
+    "gpt_response": "COLOURS: black, yellow, skyblue<|im_end|>",
+    "Output": [
+      "black",
+      "yellow"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "30.png",
+    "num_layers": 3,
+    "colors": [
+      "brown",
+      "orange",
+      "green"
+    ],
+    "gpt_response": "COLOURS: green, orange, maroon<|im_end|>",
+    "Output": [
+      "green",
+      "orange"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "31.png",
+    "num_layers": 4,
+    "colors": [
+      "lavender",
+      "tan",
+      "turquoise",
+      "green"
+    ],
+    "gpt_response": "COLOURS: green, turquoise, tan, lavender<|im_end|>",
+    "Output": [
+      "green",
+      "turquoise",
+      "tan"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "32.png",
+    "num_layers": 4,
+    "colors": [
+      "skyblue",
+      "turquoise",
+      "pink",
+      "ivory"
+    ],
+    "gpt_response": "COLOURS: pink, turquoise, skyblue<|im_end|>",
+    "Output": [
+      "pink",
+      "turquoise"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "33.png",
+    "num_layers": 4,
+    "colors": [
+      "maroon",
+      "lavender",
+      "tan",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: blue, tan, skyblue, maroon<|im_end|>",
+    "Output": [
+      "blue",
+      "tan",
+      "skyblue"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "34.png",
+    "num_layers": 4,
+    "colors": [
+      "turquoise",
+      "orange",
+      "coral",
+      "ivory"
+    ],
+    "gpt_response": "COLOURS: coral, orange, turquoise<|im_end|>",
+    "Output": [
+      "coral",
+      "orange"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "35.png",
+    "num_layers": 4,
+    "colors": [
+      "lavender",
+      "turquoise",
+      "goldenrod",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: blue, turquoise, brown, lavender<|im_end|>",
+    "Output": [
+      "blue",
+      "turquoise",
+      "brown"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "36.png",
+    "num_layers": 4,
+    "colors": [
+      "brown",
+      "tan",
+      "yellow",
+      "pink"
+    ],
+    "gpt_response": "COLOURS: yellow, tan, gray, maroon<|im_end|>",
+    "Output": [
+      "yellow",
+      "tan",
+      "gray"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "37.png",
+    "num_layers": 4,
+    "colors": [
+      "yellow",
+      "olive",
+      "goldenrod",
+      "coral"
+    ],
+    "gpt_response": "COLOURS: red, brown, olive, yellow<|im_end|>",
+    "Output": [
+      "red",
+      "brown",
+      "olive"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "38.png",
+    "num_layers": 4,
+    "colors": [
+      "turquoise",
+      "goldenrod",
+      "pink",
+      "ivory"
+    ],
+    "gpt_response": "COLOURS: pink, brown, turquoise<|im_end|>",
+    "Output": [
+      "pink",
+      "brown"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "39.png",
+    "num_layers": 4,
+    "colors": [
+      "gray",
+      "red",
+      "black",
+      "orange"
+    ],
+    "gpt_response": "COLOURS: black, red, gray<|im_end|>",
+    "Output": [
+      "black",
+      "red"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "40.png",
+    "num_layers": 4,
+    "colors": [
+      "gray",
+      "maroon",
+      "ivory",
+      "purple"
+    ],
+    "gpt_response": "COLOURS: purple, red, gray<|im_end|>",
+    "Output": [
+      "purple",
+      "red"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "41.png",
+    "num_layers": 5,
+    "colors": [
+      "lavender",
+      "red",
+      "orange",
+      "coral",
+      "purple"
+    ],
+    "gpt_response": "COLOURS: purple, orange, red, gray<|im_end|>",
+    "Output": [
+      "purple",
+      "orange",
+      "red"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "42.png",
+    "num_layers": 5,
+    "colors": [
+      "fuchsia",
+      "black",
+      "goldenrod",
+      "ivory",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: blue, brown, black, fuchsia<|im_end|>",
+    "Output": [
+      "blue",
+      "brown",
+      "black"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "43.png",
+    "num_layers": 5,
+    "colors": [
+      "gray",
+      "red",
+      "fuchsia",
+      "goldenrod",
+      "purple"
+    ],
+    "gpt_response": "COLOURS: brown, lavender, red, gray<|im_end|>",
+    "Output": [
+      "brown",
+      "lavender",
+      "red"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "44.png",
+    "num_layers": 5,
+    "colors": [
+      "lavender",
+      "yellow",
+      "turquoise",
+      "goldenrod",
+      "pink"
+    ],
+    "gpt_response": "COLOURS: pink, brown, turquoise, yellow, lavender<|im_end|>",
+    "Output": [
+      "pink",
+      "brown",
+      "turquoise",
+      "yellow"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "45.png",
+    "num_layers": 5,
+    "colors": [
+      "gray",
+      "maroon",
+      "yellow",
+      "olive",
+      "purple"
+    ],
+    "gpt_response": "COLOURS: purple, olive, yellow, maroon, gray<|im_end|>",
+    "Output": [
+      "purple",
+      "olive",
+      "yellow",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "46.png",
+    "num_layers": 5,
+    "colors": [
+      "gray",
+      "maroon",
+      "orange",
+      "coral",
+      "ivory"
+    ],
+    "gpt_response": "COLOURS: coral, orange, maroon, gray<|im_end|>",
+    "Output": [
+      "coral",
+      "orange",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "47.png",
+    "num_layers": 5,
+    "colors": [
+      "skyblue",
+      "turquoise",
+      "orange",
+      "green",
+      "coral"
+    ],
+    "gpt_response": "COLOURS: coral, orange, turquoise, skyblue<|im_end|>",
+    "Output": [
+      "coral",
+      "orange",
+      "turquoise"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "48.png",
+    "num_layers": 5,
+    "colors": [
+      "brown",
+      "maroon",
+      "turquoise",
+      "black",
+      "pink"
+    ],
+    "gpt_response": "COLOURS: black, pink, turquoise, maroon, brown<|im_end|>",
+    "Output": [
+      "black",
+      "pink",
+      "turquoise",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "49.png",
+    "num_layers": 5,
+    "colors": [
+      "gray",
+      "fuchsia",
+      "green",
+      "goldenrod",
+      "ivory"
+    ],
+    "gpt_response": "COLOURS: goldenrod, green, fuchsia, gray<|im_end|>",
+    "Output": [
+      "goldenrod",
+      "green",
+      "fuchsia"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "50.png",
+    "num_layers": 5,
+    "colors": [
+      "yellow",
+      "turquoise",
+      "black",
+      "orange",
+      "purple"
+    ],
+    "gpt_response": "COLOURS: orange, black, turquoise, yellow<|im_end|>",
+    "Output": [
+      "orange",
+      "black",
+      "turquoise"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "51.png",
+    "num_layers": 6,
+    "colors": [
+      "skyblue",
+      "turquoise",
+      "black",
+      "green",
+      "coral",
+      "ivory"
+    ],
+    "gpt_response": "COLOURS: coral, green, black, turquoise, skyblue<|im_end|>",
+    "Output": [
+      "coral",
+      "green",
+      "black",
+      "turquoise"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "52.png",
+    "num_layers": 6,
+    "colors": [
+      "gray",
+      "brown",
+      "olive",
+      "black",
+      "green",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: green, black, yellow, maroon, gray<|im_end|>",
+    "Output": [
+      "green",
+      "black",
+      "yellow",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "53.png",
+    "num_layers": 6,
+    "colors": [
+      "maroon",
+      "yellow",
+      "fuchsia",
+      "green",
+      "goldenrod",
+      "coral"
+    ],
+    "gpt_response": "COLOURS: tan, brown, green, purple, yellow, maroon<|im_end|>",
+    "Output": [
+      "tan",
+      "brown",
+      "green",
+      "purple",
+      "yellow"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "54.png",
+    "num_layers": 6,
+    "colors": [
+      "orange",
+      "green",
+      "pink",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, pink, green, orange<|im_end|>",
+    "Output": [
+      "purple",
+      "pink",
+      "green"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "55.png",
+    "num_layers": 6,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "turquoise",
+      "black",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: black, turquoise, maroon, gray<|im_end|>",
+    "Output": [
+      "black",
+      "turquoise",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "56.png",
+    "num_layers": 6,
+    "colors": [
+      "brown",
+      "skyblue",
+      "red",
+      "orange",
+      "green",
+      "goldenrod"
+    ],
+    "gpt_response": "COLOURS: green, orange, red, skyblue, maroon<|im_end|>",
+    "Output": [
+      "green",
+      "orange",
+      "red",
+      "skyblue"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "57.png",
+    "num_layers": 6,
+    "colors": [
+      "tan",
+      "yellow",
+      "red",
+      "pink",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, pink, red, yellow, tan<|im_end|>",
+    "Output": [
+      "purple",
+      "pink",
+      "red",
+      "yellow"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "58.png",
+    "num_layers": 6,
+    "colors": [
+      "lavender",
+      "tan",
+      "turquoise",
+      "black",
+      "coral",
+      "purple"
+    ],
+    "gpt_response": "COLOURS: purple, orange, turquoise, brown, gray<|im_end|>",
+    "Output": [
+      "purple",
+      "orange",
+      "turquoise",
+      "brown"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "59.png",
+    "num_layers": 6,
+    "colors": [
+      "skyblue",
+      "fuchsia",
+      "turquoise",
+      "goldenrod",
+      "pink",
+      "purple"
+    ],
+    "gpt_response": "COLOURS: maroon, brown, turquoise, fuchsia, skyblue<|im_end|>",
+    "Output": [
+      "maroon",
+      "brown",
+      "turquoise",
+      "fuchsia"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "60.png",
+    "num_layers": 6,
+    "colors": [
+      "gray",
+      "lavender",
+      "skyblue",
+      "yellow",
+      "turquoise",
+      "ivory"
+    ],
+    "gpt_response": "COLOURS: turquoise, yellow, skyblue, gray<|im_end|>",
+    "Output": [
+      "turquoise",
+      "yellow",
+      "skyblue"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "61.png",
+    "num_layers": 7,
+    "colors": [
+      "skyblue",
+      "fuchsia",
+      "turquoise",
+      "orange",
+      "goldenrod",
+      "coral",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: coral, orange, turquoise, skyblue<|im_end|>",
+    "Output": [
+      "coral",
+      "orange",
+      "turquoise"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "62.png",
+    "num_layers": 7,
+    "colors": [
+      "maroon",
+      "olive",
+      "red",
+      "turquoise",
+      "orange",
+      "pink",
+      "purple"
+    ],
+    "gpt_response": "COLOURS: purple, pink, orange, turquoise, red, olive, brown, maroon<|im_end|>",
+    "Output": [
+      "purple",
+      "pink",
+      "orange",
+      "turquoise",
+      "red",
+      "olive",
+      "brown"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "63.png",
+    "num_layers": 7,
+    "colors": [
+      "gray",
+      "brown",
+      "turquoise",
+      "black",
+      "orange",
+      "coral",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: coral, orange, turquoise, maroon, gray<|im_end|>",
+    "Output": [
+      "coral",
+      "orange",
+      "turquoise",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "64.png",
+    "num_layers": 7,
+    "colors": [
+      "maroon",
+      "tan",
+      "yellow",
+      "olive",
+      "fuchsia",
+      "black",
+      "ivory"
+    ],
+    "gpt_response": "COLOURS: black, gray, brown, maroon, red<|im_end|>",
+    "Output": [
+      "black",
+      "gray",
+      "brown",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "65.png",
+    "num_layers": 7,
+    "colors": [
+      "brown",
+      "maroon",
+      "orange",
+      "green",
+      "goldenrod",
+      "ivory",
+      "purple"
+    ],
+    "gpt_response": "COLOURS: purple, olive, yellow, tan, coral, maroon<|im_end|>",
+    "Output": [
+      "purple",
+      "olive",
+      "yellow",
+      "tan",
+      "coral"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "66.png",
+    "num_layers": 7,
+    "colors": [
+      "gray",
+      "brown",
+      "yellow",
+      "turquoise",
+      "green",
+      "coral",
+      "ivory"
+    ],
+    "gpt_response": "COLOURS: coral, green, turquoise, yellow, maroon, gray<|im_end|>",
+    "Output": [
+      "coral",
+      "green",
+      "turquoise",
+      "yellow",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "67.png",
+    "num_layers": 7,
+    "colors": [
+      "brown",
+      "red",
+      "turquoise",
+      "black",
+      "orange",
+      "goldenrod",
+      "pink"
+    ],
+    "gpt_response": "COLOURS: goldenrod, skyblue, black, red, maroon<|im_end|>",
+    "Output": [
+      "goldenrod",
+      "skyblue",
+      "black",
+      "red"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "68.png",
+    "num_layers": 7,
+    "colors": [
+      "brown",
+      "skyblue",
+      "red",
+      "fuchsia",
+      "goldenrod",
+      "pink",
+      "ivory"
+    ],
+    "gpt_response": "COLOURS: ivory, goldenrod, purple, pink, skyblue, maroon<|im_end|>",
+    "Output": [
+      "ivory",
+      "goldenrod",
+      "purple",
+      "pink",
+      "skyblue"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "69.png",
+    "num_layers": 7,
+    "colors": [
+      "gray",
+      "yellow",
+      "olive",
+      "red",
+      "goldenrod",
+      "coral",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: blue, coral, tan, olive, yellow, gray<|im_end|>",
+    "Output": [
+      "blue",
+      "coral",
+      "tan",
+      "olive",
+      "yellow"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "70.png",
+    "num_layers": 7,
+    "colors": [
+      "gray",
+      "tan",
+      "olive",
+      "green",
+      "goldenrod",
+      "pink",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: pink, yellow, green, olive, tan, gray<|im_end|>",
+    "Output": [
+      "pink",
+      "yellow",
+      "green",
+      "olive",
+      "tan"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "71.png",
+    "num_layers": 8,
+    "colors": [
+      "maroon",
+      "lavender",
+      "red",
+      "turquoise",
+      "orange",
+      "green",
+      "coral",
+      "ivory"
+    ],
+    "gpt_response": "COLOURS: coral, olive, turquoise, yellow, red, lavender, maroon<|im_end|>",
+    "Output": [
+      "coral",
+      "olive",
+      "turquoise",
+      "yellow",
+      "red",
+      "lavender"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "72.png",
+    "num_layers": 8,
+    "colors": [
+      "gray",
+      "maroon",
+      "skyblue",
+      "tan",
+      "red",
+      "fuchsia",
+      "coral",
+      "ivory"
+    ],
+    "gpt_response": "COLOURS: coral, red, tan, maroon, skyblue, gray<|im_end|>",
+    "Output": [
+      "coral",
+      "red",
+      "tan",
+      "maroon",
+      "skyblue"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "73.png",
+    "num_layers": 8,
+    "colors": [
+      "skyblue",
+      "tan",
+      "yellow",
+      "olive",
+      "fuchsia",
+      "orange",
+      "green",
+      "goldenrod"
+    ],
+    "gpt_response": "COLOURS: brown, olive, yellow, turquoise, skyblue<|im_end|>",
+    "Output": [
+      "brown",
+      "olive",
+      "yellow",
+      "turquoise"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "74.png",
+    "num_layers": 8,
+    "colors": [
+      "maroon",
+      "lavender",
+      "tan",
+      "yellow",
+      "turquoise",
+      "orange",
+      "pink",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: blue, turquoise, orange, yellow, tan, gray, maroon<|im_end|>",
+    "Output": [
+      "blue",
+      "turquoise",
+      "orange",
+      "yellow",
+      "tan",
+      "gray"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "75.png",
+    "num_layers": 8,
+    "colors": [
+      "maroon",
+      "lavender",
+      "skyblue",
+      "tan",
+      "yellow",
+      "turquoise",
+      "orange",
+      "goldenrod"
+    ],
+    "gpt_response": "COLOURS: orange, turquoise, yellow, tan, skyblue, lavender, maroon<|im_end|>",
+    "Output": [
+      "orange",
+      "turquoise",
+      "yellow",
+      "tan",
+      "skyblue",
+      "lavender"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "76.png",
+    "num_layers": 8,
+    "colors": [
+      "skyblue",
+      "olive",
+      "fuchsia",
+      "black",
+      "orange",
+      "goldenrod",
+      "coral",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: coral, tan, orange, olive, turquoise, skyblue<|im_end|>",
+    "Output": [
+      "coral",
+      "tan",
+      "orange",
+      "olive",
+      "turquoise"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "77.png",
+    "num_layers": 8,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "red",
+      "black",
+      "pink"
+    ],
+    "gpt_response": "COLOURS: black, red, skyblue, maroon, gray<|im_end|>",
+    "Output": [
+      "black",
+      "red",
+      "skyblue",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "78.png",
+    "num_layers": 8,
+    "colors": [
+      "maroon",
+      "lavender",
+      "yellow",
+      "turquoise",
+      "black",
+      "orange",
+      "pink",
+      "coral"
+    ],
+    "gpt_response": "COLOURS: coral, orange, yellow, turquoise, gray, maroon<|im_end|>",
+    "Output": [
+      "coral",
+      "orange",
+      "yellow",
+      "turquoise",
+      "gray"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "79.png",
+    "num_layers": 8,
+    "colors": [
+      "lavender",
+      "yellow",
+      "olive",
+      "fuchsia",
+      "pink",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, yellow, olive, brown, gray, skyblue<|im_end|>",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "yellow",
+      "olive",
+      "brown",
+      "gray"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "80.png",
+    "num_layers": 8,
+    "colors": [
+      "gray",
+      "lavender",
+      "skyblue",
+      "tan",
+      "yellow",
+      "olive",
+      "red",
+      "black"
+    ],
+    "gpt_response": "COLOURS: red, olive, yellow, tan, skyblue, gray<|im_end|>",
+    "Output": [
+      "red",
+      "olive",
+      "yellow",
+      "tan",
+      "skyblue"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "81.png",
+    "num_layers": 9,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "yellow",
+      "olive",
+      "red",
+      "orange",
+      "ivory",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: blue, olive, yellow, coral, maroon, gray<|im_end|>",
+    "Output": [
+      "blue",
+      "olive",
+      "yellow",
+      "coral",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "82.png",
+    "num_layers": 9,
+    "colors": [
+      "brown",
+      "maroon",
+      "skyblue",
+      "olive",
+      "red",
+      "green",
+      "goldenrod",
+      "pink",
+      "coral"
+    ],
+    "gpt_response": "COLOURS: coral, tan, orange, ivory, goldenrod, yellow, green, olive, turquoise, skyblue, maroon<|im_end|>",
+    "Output": [
+      "coral",
+      "tan",
+      "orange",
+      "ivory",
+      "goldenrod",
+      "yellow",
+      "green",
+      "olive",
+      "turquoise",
+      "skyblue"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "83.png",
+    "num_layers": 9,
+    "colors": [
+      "brown",
+      "maroon",
+      "skyblue",
+      "tan",
+      "olive",
+      "fuchsia",
+      "orange",
+      "goldenrod",
+      "purple"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, turquoise, skyblue, olive, brown, maroon<|im_end|>",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "turquoise",
+      "skyblue",
+      "olive",
+      "brown"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "84.png",
+    "num_layers": 9,
+    "colors": [
+      "gray",
+      "maroon",
+      "yellow",
+      "red",
+      "turquoise",
+      "black",
+      "green",
+      "coral",
+      "ivory"
+    ],
+    "gpt_response": "COLOURS: coral, green, black, turquoise, yellow, maroon, gray<|im_end|>",
+    "Output": [
+      "coral",
+      "green",
+      "black",
+      "turquoise",
+      "yellow",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "85.png",
+    "num_layers": 9,
+    "colors": [
+      "brown",
+      "tan",
+      "yellow",
+      "olive",
+      "orange",
+      "green",
+      "pink",
+      "coral",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: blue, pink, coral, olive, yellow, tan, brown, maroon<|im_end|>",
+    "Output": [
+      "blue",
+      "pink",
+      "coral",
+      "olive",
+      "yellow",
+      "tan",
+      "brown"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "86.png",
+    "num_layers": 9,
+    "colors": [
+      "skyblue",
+      "tan",
+      "yellow",
+      "olive",
+      "green",
+      "goldenrod",
+      "pink",
+      "coral",
+      "ivory"
+    ],
+    "gpt_response": "COLOURS: coral, tan, olive, yellow, green, olive, yellow, tan, brown, skyblue<|im_end|>",
+    "Output": [
+      "coral",
+      "tan",
+      "olive",
+      "yellow",
+      "green",
+      "olive",
+      "yellow",
+      "tan",
+      "brown"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "87.png",
+    "num_layers": 9,
+    "colors": [
+      "lavender",
+      "skyblue",
+      "olive",
+      "red",
+      "green",
+      "pink",
+      "coral",
+      "ivory",
+      "purple"
+    ],
+    "gpt_response": "COLOURS: purple, orange, tan, green, olive, red, turquoise, skyblue<|im_end|>",
+    "Output": [
+      "purple",
+      "orange",
+      "tan",
+      "green",
+      "olive",
+      "red",
+      "turquoise"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "88.png",
+    "num_layers": 9,
+    "colors": [
+      "maroon",
+      "skyblue",
+      "yellow",
+      "olive",
+      "orange",
+      "green",
+      "pink",
+      "coral",
+      "ivory"
+    ],
+    "gpt_response": "COLOURS: coral, olive, green, yellow, skyblue, maroon<|im_end|>",
+    "Output": [
+      "coral",
+      "olive",
+      "green",
+      "yellow",
+      "skyblue"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "89.png",
+    "num_layers": 9,
+    "colors": [
+      "maroon",
+      "lavender",
+      "skyblue",
+      "olive",
+      "red",
+      "orange",
+      "goldenrod",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, yellow, orange, red, olive, skyblue, maroon<|im_end|>",
+    "Output": [
+      "purple",
+      "yellow",
+      "orange",
+      "red",
+      "olive",
+      "skyblue"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "90.png",
+    "num_layers": 9,
+    "colors": [
+      "brown",
+      "maroon",
+      "skyblue",
+      "yellow",
+      "olive",
+      "turquoise",
+      "black",
+      "orange",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: blue, turquoise, olive, yellow, skyblue, maroon<|im_end|>",
+    "Output": [
+      "blue",
+      "turquoise",
+      "olive",
+      "yellow",
+      "skyblue"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "91.png",
+    "num_layers": 10,
+    "colors": [
+      "lavender",
+      "skyblue",
+      "yellow",
+      "fuchsia",
+      "black",
+      "orange",
+      "green",
+      "pink",
+      "coral",
+      "ivory"
+    ],
+    "gpt_response": "COLOURS: coral, tan, orange, olive, turquoise, skyblue<|im_end|>",
+    "Output": [
+      "coral",
+      "tan",
+      "orange",
+      "olive",
+      "turquoise"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "92.png",
+    "num_layers": 10,
+    "colors": [
+      "gray",
+      "maroon",
+      "skyblue",
+      "yellow",
+      "red",
+      "fuchsia",
+      "black",
+      "goldenrod",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: blue, purple, pink, fuchsia, skyblue, yellow, goldenrod, tan, brown, maroon, red, coral, gray<|im_end|>",
+    "Output": [
+      "blue",
+      "purple",
+      "pink",
+      "fuchsia",
+      "skyblue",
+      "yellow",
+      "goldenrod",
+      "tan",
+      "brown",
+      "maroon",
+      "red",
+      "coral"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "93.png",
+    "num_layers": 10,
+    "colors": [
+      "gray",
+      "lavender",
+      "tan",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "orange",
+      "ivory",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: blue, turquoise, skyblue, coral, fuchsia, maroon, brown, gray<|im_end|>",
+    "Output": [
+      "blue",
+      "turquoise",
+      "skyblue",
+      "coral",
+      "fuchsia",
+      "maroon",
+      "brown"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "94.png",
+    "num_layers": 10,
+    "colors": [
+      "skyblue",
+      "yellow",
+      "olive",
+      "fuchsia",
+      "orange",
+      "goldenrod",
+      "pink",
+      "coral",
+      "ivory",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: blue, lavender, purple, pink, fuchsia, orange, tan, brown, gray, skyblue<|im_end|>",
+    "Output": [
+      "blue",
+      "lavender",
+      "purple",
+      "pink",
+      "fuchsia",
+      "orange",
+      "tan",
+      "brown",
+      "gray"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "95.png",
+    "num_layers": 10,
+    "colors": [
+      "brown",
+      "lavender",
+      "tan",
+      "fuchsia",
+      "goldenrod",
+      "pink",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, fuchsia, orange, tan, goldenrod, coral, gray, maroon<|im_end|>",
+    "Output": [
+      "purple",
+      "fuchsia",
+      "orange",
+      "tan",
+      "goldenrod",
+      "coral",
+      "gray"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "96.png",
+    "num_layers": 10,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "tan",
+      "yellow",
+      "olive",
+      "orange",
+      "pink",
+      "coral",
+      "ivory"
+    ],
+    "gpt_response": "COLOURS: coral, olive, yellow, tan, maroon, gray<|im_end|>",
+    "Output": [
+      "coral",
+      "olive",
+      "yellow",
+      "tan",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "97.png",
+    "num_layers": 10,
+    "colors": [
+      "gray",
+      "brown",
+      "lavender",
+      "yellow",
+      "turquoise",
+      "black",
+      "orange",
+      "green",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, green, yellow, orange, turquoise, gray<|im_end|>",
+    "Output": [
+      "purple",
+      "green",
+      "yellow",
+      "orange",
+      "turquoise"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "98.png",
+    "num_layers": 10,
+    "colors": [
+      "gray",
+      "lavender",
+      "olive",
+      "red",
+      "turquoise",
+      "orange",
+      "green",
+      "pink",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, pink, turquoise, yellow, olive, coral, red, gray<|im_end|>",
+    "Output": [
+      "purple",
+      "pink",
+      "turquoise",
+      "yellow",
+      "olive",
+      "coral",
+      "red"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "99.png",
+    "num_layers": 10,
+    "colors": [
+      "gray",
+      "skyblue",
+      "tan",
+      "olive",
+      "red",
+      "turquoise",
+      "black",
+      "orange",
+      "ivory",
+      "purple"
+    ],
+    "gpt_response": "COLOURS: purple, orange, red, turquoise, olive, brown, gray<|im_end|>",
+    "Output": [
+      "purple",
+      "orange",
+      "red",
+      "turquoise",
+      "olive",
+      "brown"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "100.png",
+    "num_layers": 10,
+    "colors": [
+      "gray",
+      "maroon",
+      "lavender",
+      "olive",
+      "turquoise",
+      "black",
+      "green",
+      "pink",
+      "ivory",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: blue, pink, green, olive, turquoise, skyblue, maroon, brown, gray<|im_end|>",
+    "Output": [
+      "blue",
+      "pink",
+      "green",
+      "olive",
+      "turquoise",
+      "skyblue",
+      "maroon",
+      "brown"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "101.png",
+    "num_layers": 11,
+    "colors": [
+      "brown",
+      "maroon",
+      "lavender",
+      "olive",
+      "red",
+      "turquoise",
+      "black",
+      "orange",
+      "pink",
+      "coral",
+      "purple"
+    ],
+    "gpt_response": "COLOURS: purple, pink, coral, orange, yellow, turquoise, olive, green, skyblue, maroon, brown, gray, red<|im_end|>",
+    "Output": [
+      "purple",
+      "pink",
+      "coral",
+      "orange",
+      "yellow",
+      "turquoise",
+      "olive",
+      "green",
+      "skyblue",
+      "maroon",
+      "brown",
+      "gray"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "102.png",
+    "num_layers": 11,
+    "colors": [
+      "gray",
+      "brown",
+      "tan",
+      "yellow",
+      "olive",
+      "red",
+      "black",
+      "orange",
+      "coral",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, lavender, pink, fuchsia, turquoise, skyblue, olive, goldenrod, yellow, coral, red, maroon, brown, gray<|im_end|>",
+    "Output": [
+      "purple",
+      "lavender",
+      "pink",
+      "fuchsia",
+      "turquoise",
+      "skyblue",
+      "olive",
+      "goldenrod",
+      "yellow",
+      "coral",
+      "red",
+      "maroon",
+      "brown"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "103.png",
+    "num_layers": 11,
+    "colors": [
+      "gray",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "tan",
+      "olive",
+      "black",
+      "goldenrod",
+      "pink",
+      "coral",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: blue, pink, orange, yellow, olive, tan, skyblue, maroon, gray<|im_end|>",
+    "Output": [
+      "blue",
+      "pink",
+      "orange",
+      "yellow",
+      "olive",
+      "tan",
+      "skyblue",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "104.png",
+    "num_layers": 11,
+    "colors": [
+      "gray",
+      "skyblue",
+      "yellow",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "orange",
+      "goldenrod",
+      "pink",
+      "ivory",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: blue, lavender, purple, pink, fuchsia, turquoise, skyblue, goldenrod, orange, tan, brown, maroon, red, coral, yellow, gray<|im_end|>",
+    "Output": [
+      "blue",
+      "lavender",
+      "purple",
+      "pink",
+      "fuchsia",
+      "turquoise",
+      "skyblue",
+      "goldenrod",
+      "orange",
+      "tan",
+      "brown",
+      "maroon",
+      "red",
+      "coral",
+      "yellow"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "105.png",
+    "num_layers": 11,
+    "colors": [
+      "lavender",
+      "skyblue",
+      "tan",
+      "olive",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "orange",
+      "green",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, turquoise, skyblue, olive, brown, black<|im_end|>",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "turquoise",
+      "skyblue",
+      "olive",
+      "brown"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "106.png",
+    "num_layers": 11,
+    "colors": [
+      "skyblue",
+      "olive",
+      "turquoise",
+      "black",
+      "orange",
+      "green",
+      "goldenrod",
+      "pink",
+      "coral",
+      "ivory",
+      "purple"
+    ],
+    "gpt_response": "COLOURS: purple, pink, coral, tan, orange, goldenrod, yellow, green, olive, turquoise, skyblue<|im_end|>",
+    "Output": [
+      "purple",
+      "pink",
+      "coral",
+      "tan",
+      "orange",
+      "goldenrod",
+      "yellow",
+      "green",
+      "olive",
+      "turquoise"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "107.png",
+    "num_layers": 11,
+    "colors": [
+      "brown",
+      "maroon",
+      "skyblue",
+      "yellow",
+      "olive",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "orange",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, turquoise, skyblue, yellow, goldenrod, olive, brown, maroon<|im_end|>",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "turquoise",
+      "skyblue",
+      "yellow",
+      "goldenrod",
+      "olive",
+      "brown"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "108.png",
+    "num_layers": 11,
+    "colors": [
+      "brown",
+      "maroon",
+      "skyblue",
+      "yellow",
+      "olive",
+      "red",
+      "turquoise",
+      "orange",
+      "goldenrod",
+      "coral",
+      "ivory"
+    ],
+    "gpt_response": "COLOURS: coral, tan, orange, olive, turquoise, skyblue, yellow, maroon<|im_end|>",
+    "Output": [
+      "coral",
+      "tan",
+      "orange",
+      "olive",
+      "turquoise",
+      "skyblue",
+      "yellow"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "109.png",
+    "num_layers": 11,
+    "colors": [
+      "gray",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "tan",
+      "yellow",
+      "olive",
+      "black",
+      "pink",
+      "coral",
+      "purple"
+    ],
+    "gpt_response": "COLOURS: purple, pink, coral, olive, skyblue, turquoise, yellow, goldenrod, tan, brown, maroon, gray<|im_end|>",
+    "Output": [
+      "purple",
+      "pink",
+      "coral",
+      "olive",
+      "skyblue",
+      "turquoise",
+      "yellow",
+      "goldenrod",
+      "tan",
+      "brown",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "110.png",
+    "num_layers": 11,
+    "colors": [
+      "brown",
+      "lavender",
+      "skyblue",
+      "yellow",
+      "olive",
+      "red",
+      "black",
+      "green",
+      "goldenrod",
+      "coral",
+      "ivory"
+    ],
+    "gpt_response": "COLOURS: coral, tan, olive, green, yellow, skyblue, maroon<|im_end|>",
+    "Output": [
+      "coral",
+      "tan",
+      "olive",
+      "green",
+      "yellow",
+      "skyblue"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "111.png",
+    "num_layers": 12,
+    "colors": [
+      "brown",
+      "lavender",
+      "tan",
+      "yellow",
+      "red",
+      "black",
+      "orange",
+      "green",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, blue, lavender, pink, fuchsia, turquoise, skyblue, olive, green, orange, coral, tan, gray, maroon, red, yellow, golden",
+    "Output": [
+      "purple",
+      "blue",
+      "lavender",
+      "pink",
+      "fuchsia",
+      "turquoise",
+      "skyblue",
+      "olive",
+      "green",
+      "orange",
+      "coral",
+      "tan",
+      "gray",
+      "maroon",
+      "red",
+      "yellow"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "112.png",
+    "num_layers": 12,
+    "colors": [
+      "gray",
+      "brown",
+      "lavender",
+      "fuchsia",
+      "turquoise",
+      "orange",
+      "goldenrod",
+      "pink",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: blue, lavender, purple, pink, fuchsia, turquoise, skyblue, coral, tan, orange, goldenrod, brown, maroon, gray<|im_end|>",
+    "Output": [
+      "blue",
+      "lavender",
+      "purple",
+      "pink",
+      "fuchsia",
+      "turquoise",
+      "skyblue",
+      "coral",
+      "tan",
+      "orange",
+      "goldenrod",
+      "brown",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "113.png",
+    "num_layers": 12,
+    "colors": [
+      "brown",
+      "maroon",
+      "tan",
+      "yellow",
+      "fuchsia",
+      "turquoise",
+      "orange",
+      "green",
+      "goldenrod",
+      "pink",
+      "coral",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: blue, lavender, purple, pink, fuchsia, skyblue, turquoise, olive, green, yellow, goldenrod, tan, brown, maroon<|im_end|>",
+    "Output": [
+      "blue",
+      "lavender",
+      "purple",
+      "pink",
+      "fuchsia",
+      "skyblue",
+      "turquoise",
+      "olive",
+      "green",
+      "yellow",
+      "goldenrod",
+      "tan",
+      "brown"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "114.png",
+    "num_layers": 12,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "tan",
+      "olive",
+      "red",
+      "black",
+      "goldenrod",
+      "pink",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: blue, olive, yellow, tan, coral, maroon, gray<|im_end|>",
+    "Output": [
+      "blue",
+      "olive",
+      "yellow",
+      "tan",
+      "coral",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "115.png",
+    "num_layers": 12,
+    "colors": [
+      "brown",
+      "lavender",
+      "skyblue",
+      "tan",
+      "yellow",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "orange",
+      "coral",
+      "ivory",
+      "purple"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, turquoise, skyblue, coral, orange, tan, brown, maroon<|im_end|>",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "turquoise",
+      "skyblue",
+      "coral",
+      "orange",
+      "tan",
+      "brown"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "116.png",
+    "num_layers": 12,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "tan",
+      "turquoise",
+      "orange",
+      "pink",
+      "coral",
+      "ivory",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: blue, turquoise, skyblue, coral, orange, tan, brown, maroon, gray<|im_end|>",
+    "Output": [
+      "blue",
+      "turquoise",
+      "skyblue",
+      "coral",
+      "orange",
+      "tan",
+      "brown",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "117.png",
+    "num_layers": 12,
+    "colors": [
+      "maroon",
+      "lavender",
+      "skyblue",
+      "yellow",
+      "olive",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "green",
+      "goldenrod",
+      "pink"
+    ],
+    "gpt_response": "COLOURS: black, gray, brown, maroon, red, coral, tan, orange, ivory, goldenrod, yellow, green, olive, turquoise, skyblue, blue, lavender",
+    "Output": [
+      "black",
+      "gray",
+      "brown",
+      "maroon",
+      "red",
+      "coral",
+      "tan",
+      "orange",
+      "ivory",
+      "goldenrod",
+      "yellow",
+      "green",
+      "olive",
+      "turquoise",
+      "skyblue",
+      "blue",
+      "lavender"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "118.png",
+    "num_layers": 12,
+    "colors": [
+      "brown",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "yellow",
+      "red",
+      "turquoise",
+      "green",
+      "pink",
+      "coral",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, turquoise, skyblue, olive, green, yellow, coral, tan, brown, maroon<|im_end|>",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "turquoise",
+      "skyblue",
+      "olive",
+      "green",
+      "yellow",
+      "coral",
+      "tan",
+      "brown"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "119.png",
+    "num_layers": 12,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "tan",
+      "yellow",
+      "olive",
+      "red",
+      "fuchsia",
+      "black",
+      "green",
+      "goldenrod",
+      "purple"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, lavender, turquoise, skyblue, blue, olive, goldenrod, yellow, coral, tan, brown, maroon, red, gray<|im_end|>",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "lavender",
+      "turquoise",
+      "skyblue",
+      "blue",
+      "olive",
+      "goldenrod",
+      "yellow",
+      "coral",
+      "tan",
+      "brown",
+      "maroon",
+      "red"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "120.png",
+    "num_layers": 12,
+    "colors": [
+      "brown",
+      "lavender",
+      "skyblue",
+      "yellow",
+      "olive",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "green",
+      "pink",
+      "coral"
+    ],
+    "gpt_response": "COLOURS: coral, olive, turquoise, skyblue, yellow, fuchsia, lavender, pink, purple, red, maroon<|im_end|>",
+    "Output": [
+      "coral",
+      "olive",
+      "turquoise",
+      "skyblue",
+      "yellow",
+      "fuchsia",
+      "lavender",
+      "pink",
+      "purple",
+      "red"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "121.png",
+    "num_layers": 13,
+    "colors": [
+      "brown",
+      "lavender",
+      "tan",
+      "yellow",
+      "red",
+      "turquoise",
+      "black",
+      "orange",
+      "green",
+      "goldenrod",
+      "coral",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, lavender, skyblue, turquoise, olive, green, yellow, goldenrod, tan, brown, maroon, red<|im_end|>",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "lavender",
+      "skyblue",
+      "turquoise",
+      "olive",
+      "green",
+      "yellow",
+      "goldenrod",
+      "tan",
+      "brown",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "122.png",
+    "num_layers": 13,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "tan",
+      "olive",
+      "red",
+      "fuchsia",
+      "black",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: blue, purple, pink, fuchsia, orange, tan, olive, goldenrod, coral, maroon, gray<|im_end|>",
+    "Output": [
+      "blue",
+      "purple",
+      "pink",
+      "fuchsia",
+      "orange",
+      "tan",
+      "olive",
+      "goldenrod",
+      "coral",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "123.png",
+    "num_layers": 13,
+    "colors": [
+      "brown",
+      "maroon",
+      "lavender",
+      "tan",
+      "olive",
+      "turquoise",
+      "black",
+      "orange",
+      "goldenrod",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, lavender, pink, fuchsia, turquoise, skyblue, yellow, goldenrod, orange, coral, tan, brown, gray, maroon, red<|im_end|>",
+    "Output": [
+      "purple",
+      "lavender",
+      "pink",
+      "fuchsia",
+      "turquoise",
+      "skyblue",
+      "yellow",
+      "goldenrod",
+      "orange",
+      "coral",
+      "tan",
+      "brown",
+      "gray",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "124.png",
+    "num_layers": 13,
+    "colors": [
+      "maroon",
+      "lavender",
+      "skyblue",
+      "yellow",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "orange",
+      "pink",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: blue, lavender, purple, pink, fuchsia, turquoise, skyblue, coral, tan, orange, goldenrod, yellow, black, gray, brown, maroon<|im_end|>",
+    "Output": [
+      "blue",
+      "lavender",
+      "purple",
+      "pink",
+      "fuchsia",
+      "turquoise",
+      "skyblue",
+      "coral",
+      "tan",
+      "orange",
+      "goldenrod",
+      "yellow",
+      "black",
+      "gray",
+      "brown"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "125.png",
+    "num_layers": 13,
+    "colors": [
+      "gray",
+      "lavender",
+      "skyblue",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "orange",
+      "pink",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: blue, lavender, purple, pink, fuchsia, turquoise, skyblue, coral, orange, tan, brown, gray<|im_end|>",
+    "Output": [
+      "blue",
+      "lavender",
+      "purple",
+      "pink",
+      "fuchsia",
+      "turquoise",
+      "skyblue",
+      "coral",
+      "orange",
+      "tan",
+      "brown"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "126.png",
+    "num_layers": 13,
+    "colors": [
+      "gray",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "yellow",
+      "turquoise",
+      "black",
+      "orange",
+      "green",
+      "pink",
+      "coral",
+      "ivory",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: blue, pink, olive, turquoise, skyblue, yellow, goldenrod, orange, coral, brown, maroon, gray<|im_end|>",
+    "Output": [
+      "blue",
+      "pink",
+      "olive",
+      "turquoise",
+      "skyblue",
+      "yellow",
+      "goldenrod",
+      "orange",
+      "coral",
+      "brown",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "127.png",
+    "num_layers": 13,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "green",
+      "pink",
+      "coral",
+      "ivory",
+      "purple"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, turquoise, skyblue, coral, orange, tan, olive, green, black, gray<|im_end|>",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "turquoise",
+      "skyblue",
+      "coral",
+      "orange",
+      "tan",
+      "olive",
+      "green",
+      "black"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "128.png",
+    "num_layers": 13,
+    "colors": [
+      "gray",
+      "brown",
+      "lavender",
+      "tan",
+      "yellow",
+      "olive",
+      "turquoise",
+      "black",
+      "orange",
+      "green",
+      "pink",
+      "ivory",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: blue, pink, green, olive, turquoise, skyblue, yellow, goldenrod, tan, brown, maroon, gray<|im_end|>",
+    "Output": [
+      "blue",
+      "pink",
+      "green",
+      "olive",
+      "turquoise",
+      "skyblue",
+      "yellow",
+      "goldenrod",
+      "tan",
+      "brown",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "129.png",
+    "num_layers": 13,
+    "colors": [
+      "brown",
+      "maroon",
+      "skyblue",
+      "tan",
+      "olive",
+      "red",
+      "orange",
+      "green",
+      "goldenrod",
+      "pink",
+      "coral",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, pink, tan, olive, yellow, orange, turquoise, skyblue, maroon<|im_end|>",
+    "Output": [
+      "purple",
+      "pink",
+      "tan",
+      "olive",
+      "yellow",
+      "orange",
+      "turquoise",
+      "skyblue"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "130.png",
+    "num_layers": 13,
+    "colors": [
+      "gray",
+      "skyblue",
+      "tan",
+      "yellow",
+      "olive",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "green",
+      "goldenrod",
+      "coral",
+      "ivory"
+    ],
+    "gpt_response": "COLOURS: orange, yellow, green, olive, turquoise, skyblue, lavender, purple, pink, fuchsia, maroon, brown, gray<|im_end|>",
+    "Output": [
+      "orange",
+      "yellow",
+      "green",
+      "olive",
+      "turquoise",
+      "skyblue",
+      "lavender",
+      "purple",
+      "pink",
+      "fuchsia",
+      "maroon",
+      "brown"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "131.png",
+    "num_layers": 14,
+    "colors": [
+      "maroon",
+      "skyblue",
+      "tan",
+      "yellow",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "orange",
+      "green",
+      "pink",
+      "coral",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, lavender, skyblue, turquoise, olive, green, yellow, goldenrod, tan, coral, red, maroon<|im_end|>",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "lavender",
+      "skyblue",
+      "turquoise",
+      "olive",
+      "green",
+      "yellow",
+      "goldenrod",
+      "tan",
+      "coral",
+      "red"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "132.png",
+    "num_layers": 14,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "yellow",
+      "olive",
+      "fuchsia",
+      "turquoise",
+      "orange",
+      "green",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: blue, lavender, purple, pink, fuchsia, turquoise, skyblue, coral, orange, tan, olive, green, yellow, goldenrod, brown, maroon,",
+    "Output": [
+      "blue",
+      "lavender",
+      "purple",
+      "pink",
+      "fuchsia",
+      "turquoise",
+      "skyblue",
+      "coral",
+      "orange",
+      "tan",
+      "olive",
+      "green",
+      "yellow",
+      "goldenrod",
+      "brown",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "133.png",
+    "num_layers": 14,
+    "colors": [
+      "brown",
+      "lavender",
+      "skyblue",
+      "olive",
+      "red",
+      "fuchsia",
+      "black",
+      "green",
+      "goldenrod",
+      "pink",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: blue, lavender, purple, pink, fuchsia, olive, goldenrod, tan, coral, ivory, orange, red, maroon, brown, gray, black<|im_end|>",
+    "Output": [
+      "blue",
+      "lavender",
+      "purple",
+      "pink",
+      "fuchsia",
+      "olive",
+      "goldenrod",
+      "tan",
+      "coral",
+      "ivory",
+      "orange",
+      "red",
+      "maroon",
+      "brown",
+      "gray"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "134.png",
+    "num_layers": 14,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "olive",
+      "red",
+      "turquoise",
+      "black",
+      "green",
+      "goldenrod",
+      "pink",
+      "ivory",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: blue, pink, tan, olive, turquoise, skyblue, coral, maroon, brown, gray<|im_end|>",
+    "Output": [
+      "blue",
+      "pink",
+      "tan",
+      "olive",
+      "turquoise",
+      "skyblue",
+      "coral",
+      "maroon",
+      "brown"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "135.png",
+    "num_layers": 14,
+    "colors": [
+      "brown",
+      "maroon",
+      "skyblue",
+      "tan",
+      "olive",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "green",
+      "goldenrod",
+      "pink",
+      "coral",
+      "ivory",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: blue, lavender, purple, pink, fuchsia, turquoise, skyblue, coral, orange, tan, olive, green, yellow, goldenrod, brown, gray, mar",
+    "Output": [
+      "blue",
+      "lavender",
+      "purple",
+      "pink",
+      "fuchsia",
+      "turquoise",
+      "skyblue",
+      "coral",
+      "orange",
+      "tan",
+      "olive",
+      "green",
+      "yellow",
+      "goldenrod",
+      "brown",
+      "gray"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "136.png",
+    "num_layers": 14,
+    "colors": [
+      "gray",
+      "brown",
+      "lavender",
+      "skyblue",
+      "tan",
+      "yellow",
+      "olive",
+      "red",
+      "turquoise",
+      "black",
+      "pink",
+      "coral",
+      "ivory",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: blue, lavender, pink, fuchsia, turquoise, skyblue, olive, goldenrod, yellow, coral, tan, brown, maroon, red<|im_end|>",
+    "Output": [
+      "blue",
+      "lavender",
+      "pink",
+      "fuchsia",
+      "turquoise",
+      "skyblue",
+      "olive",
+      "goldenrod",
+      "yellow",
+      "coral",
+      "tan",
+      "brown",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "137.png",
+    "num_layers": 14,
+    "colors": [
+      "gray",
+      "maroon",
+      "lavender",
+      "tan",
+      "yellow",
+      "olive",
+      "red",
+      "turquoise",
+      "black",
+      "goldenrod",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, blue, turquoise, skyblue, coral, orange, tan, brown, maroon, red, yellow, goldenrod, olive, green, ivory<|im_end|>",
+    "Output": [
+      "purple",
+      "blue",
+      "turquoise",
+      "skyblue",
+      "coral",
+      "orange",
+      "tan",
+      "brown",
+      "maroon",
+      "red",
+      "yellow",
+      "goldenrod",
+      "olive",
+      "green"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "138.png",
+    "num_layers": 14,
+    "colors": [
+      "maroon",
+      "lavender",
+      "skyblue",
+      "tan",
+      "yellow",
+      "olive",
+      "turquoise",
+      "black",
+      "green",
+      "goldenrod",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, lavender, turquoise, skyblue, coral, orange, yellow, goldenrod, olive, green, tan, brown, maroon, red<|im_end|>",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "lavender",
+      "turquoise",
+      "skyblue",
+      "coral",
+      "orange",
+      "yellow",
+      "goldenrod",
+      "olive",
+      "green",
+      "tan",
+      "brown",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "139.png",
+    "num_layers": 14,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "olive",
+      "fuchsia",
+      "turquoise",
+      "orange",
+      "green",
+      "goldenrod",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: blue, lavender, purple, pink, fuchsia, turquoise, skyblue, coral, orange, goldenrod, olive, green, tan, brown, maroon, gray<|im_end|>",
+    "Output": [
+      "blue",
+      "lavender",
+      "purple",
+      "pink",
+      "fuchsia",
+      "turquoise",
+      "skyblue",
+      "coral",
+      "orange",
+      "goldenrod",
+      "olive",
+      "green",
+      "tan",
+      "brown",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "140.png",
+    "num_layers": 14,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "skyblue",
+      "tan",
+      "yellow",
+      "olive",
+      "fuchsia",
+      "orange",
+      "pink",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: blue, lavender, purple, pink, fuchsia, turquoise, skyblue, coral, orange, tan, brown, maroon, gray<|im_end|>",
+    "Output": [
+      "blue",
+      "lavender",
+      "purple",
+      "pink",
+      "fuchsia",
+      "turquoise",
+      "skyblue",
+      "coral",
+      "orange",
+      "tan",
+      "brown",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "141.png",
+    "num_layers": 15,
+    "colors": [
+      "maroon",
+      "lavender",
+      "tan",
+      "yellow",
+      "olive",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "orange",
+      "green",
+      "goldenrod",
+      "pink",
+      "ivory",
+      "purple"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, skyblue, turquoise, olive, green, orange, tan, gray, maroon<|im_end|>",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "skyblue",
+      "turquoise",
+      "olive",
+      "green",
+      "orange",
+      "tan",
+      "gray"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "142.png",
+    "num_layers": 15,
+    "colors": [
+      "gray",
+      "brown",
+      "skyblue",
+      "yellow",
+      "olive",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "orange",
+      "green",
+      "goldenrod",
+      "coral",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, lavender, blue, turquoise, skyblue, olive, green, yellow, goldenrod, tan, brown, maroon, coral, red,",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "lavender",
+      "blue",
+      "turquoise",
+      "skyblue",
+      "olive",
+      "green",
+      "yellow",
+      "goldenrod",
+      "tan",
+      "brown",
+      "maroon",
+      "coral",
+      "red"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "143.png",
+    "num_layers": 15,
+    "colors": [
+      "gray",
+      "brown",
+      "lavender",
+      "skyblue",
+      "tan",
+      "yellow",
+      "olive",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "orange",
+      "pink",
+      "coral",
+      "ivory"
+    ],
+    "gpt_response": "COLOURS: coral, olive, turquoise, skyblue, lavender, pink, fuchsia, purple, black, gray, brown, maroon, red<|im_end|>",
+    "Output": [
+      "coral",
+      "olive",
+      "turquoise",
+      "skyblue",
+      "lavender",
+      "pink",
+      "fuchsia",
+      "purple",
+      "black",
+      "gray",
+      "brown",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "144.png",
+    "num_layers": 15,
+    "colors": [
+      "gray",
+      "maroon",
+      "tan",
+      "yellow",
+      "olive",
+      "red",
+      "fuchsia",
+      "black",
+      "orange",
+      "green",
+      "pink",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: blue, lavender, purple, pink, fuchsia, skyblue, turquoise, olive, green, yellow, goldenrod, tan, coral, maroon, brown, gray<|im_end|>",
+    "Output": [
+      "blue",
+      "lavender",
+      "purple",
+      "pink",
+      "fuchsia",
+      "skyblue",
+      "turquoise",
+      "olive",
+      "green",
+      "yellow",
+      "goldenrod",
+      "tan",
+      "coral",
+      "maroon",
+      "brown"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "145.png",
+    "num_layers": 15,
+    "colors": [
+      "brown",
+      "maroon",
+      "lavender",
+      "tan",
+      "yellow",
+      "olive",
+      "red",
+      "fuchsia",
+      "black",
+      "green",
+      "goldenrod",
+      "pink",
+      "coral",
+      "ivory",
+      "purple"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, lavender, skyblue, turquoise, blue, olive, green, goldenrod, tan, coral, orange, ivory, gray, maroon,",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "lavender",
+      "skyblue",
+      "turquoise",
+      "blue",
+      "olive",
+      "green",
+      "goldenrod",
+      "tan",
+      "coral",
+      "orange",
+      "ivory",
+      "gray",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "146.png",
+    "num_layers": 15,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "tan",
+      "olive",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "orange",
+      "goldenrod",
+      "pink",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, turquoise, skyblue, olive, goldenrod, tan, coral, orange, ivory, brown, maroon, red, gray<|im_end|>",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "turquoise",
+      "skyblue",
+      "olive",
+      "goldenrod",
+      "tan",
+      "coral",
+      "orange",
+      "ivory",
+      "brown",
+      "maroon",
+      "red"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "147.png",
+    "num_layers": 15,
+    "colors": [
+      "gray",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "tan",
+      "yellow",
+      "olive",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "orange",
+      "pink",
+      "coral",
+      "purple"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, lavender, turquoise, skyblue, olive, goldenrod, yellow, orange, tan, brown, maroon, red, coral, ivory,",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "lavender",
+      "turquoise",
+      "skyblue",
+      "olive",
+      "goldenrod",
+      "yellow",
+      "orange",
+      "tan",
+      "brown",
+      "maroon",
+      "red",
+      "coral",
+      "ivory"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "148.png",
+    "num_layers": 15,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "tan",
+      "yellow",
+      "olive",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "orange",
+      "green",
+      "goldenrod",
+      "pink",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: blue, lavender, purple, pink, fuchsia, skyblue, olive, green, yellow, goldenrod, tan, brown, maroon, coral, gray<|im_end|>",
+    "Output": [
+      "blue",
+      "lavender",
+      "purple",
+      "pink",
+      "fuchsia",
+      "skyblue",
+      "olive",
+      "green",
+      "yellow",
+      "goldenrod",
+      "tan",
+      "brown",
+      "maroon",
+      "coral"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "149.png",
+    "num_layers": 15,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "skyblue",
+      "tan",
+      "yellow",
+      "olive",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "green",
+      "pink",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, lavender, turquoise, skyblue, olive, yellow, goldenrod, tan, brown, maroon, red, coral, gray, black<|im_end|>",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "lavender",
+      "turquoise",
+      "skyblue",
+      "olive",
+      "yellow",
+      "goldenrod",
+      "tan",
+      "brown",
+      "maroon",
+      "red",
+      "coral",
+      "gray"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "150.png",
+    "num_layers": 15,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "tan",
+      "yellow",
+      "olive",
+      "red",
+      "turquoise",
+      "black",
+      "orange",
+      "goldenrod",
+      "pink",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: blue, turquoise, skyblue, olive, goldenrod, yellow, coral, tan, brown, maroon, red<|im_end|>",
+    "Output": [
+      "blue",
+      "turquoise",
+      "skyblue",
+      "olive",
+      "goldenrod",
+      "yellow",
+      "coral",
+      "tan",
+      "brown",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "151.png",
+    "num_layers": 16,
+    "colors": [
+      "maroon",
+      "lavender",
+      "tan",
+      "yellow",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "orange",
+      "green",
+      "goldenrod",
+      "pink",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, lavender, blue, skyblue, turquoise, olive, green, yellow, goldenrod, tan, coral, orange, brown, maroon,",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "lavender",
+      "blue",
+      "skyblue",
+      "turquoise",
+      "olive",
+      "green",
+      "yellow",
+      "goldenrod",
+      "tan",
+      "coral",
+      "orange",
+      "brown",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "152.png",
+    "num_layers": 16,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "tan",
+      "yellow",
+      "olive",
+      "red",
+      "turquoise",
+      "orange",
+      "green",
+      "goldenrod",
+      "pink",
+      "coral",
+      "purple"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, turquoise, skyblue, blue, olive, green, yellow, goldenrod, tan, brown, maroon, red<|im_end|>",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "turquoise",
+      "skyblue",
+      "blue",
+      "olive",
+      "green",
+      "yellow",
+      "goldenrod",
+      "tan",
+      "brown",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "153.png",
+    "num_layers": 16,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "yellow",
+      "olive",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "orange",
+      "green",
+      "pink",
+      "coral",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: blue, lavender, purple, pink, fuchsia, turquoise, skyblue, olive, green, yellow, goldenrod, tan, coral, maroon, gray<|im_end|>",
+    "Output": [
+      "blue",
+      "lavender",
+      "purple",
+      "pink",
+      "fuchsia",
+      "turquoise",
+      "skyblue",
+      "olive",
+      "green",
+      "yellow",
+      "goldenrod",
+      "tan",
+      "coral",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "154.png",
+    "num_layers": 16,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "tan",
+      "olive",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "orange",
+      "green",
+      "goldenrod",
+      "pink",
+      "coral",
+      "purple"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, turquoise, skyblue, blue, olive, green, yellow, orange, tan, brown, maroon, red<|im_end|>",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "turquoise",
+      "skyblue",
+      "blue",
+      "olive",
+      "green",
+      "yellow",
+      "orange",
+      "tan",
+      "brown",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "155.png",
+    "num_layers": 16,
+    "colors": [
+      "gray",
+      "brown",
+      "skyblue",
+      "tan",
+      "yellow",
+      "olive",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "orange",
+      "green",
+      "pink",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, lavender, turquoise, skyblue, coral, tan, olive, yellow, goldenrod, orange, red, maroon, brown, gray<|im_end|>",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "lavender",
+      "turquoise",
+      "skyblue",
+      "coral",
+      "tan",
+      "olive",
+      "yellow",
+      "goldenrod",
+      "orange",
+      "red",
+      "maroon",
+      "brown"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "156.png",
+    "num_layers": 16,
+    "colors": [
+      "maroon",
+      "lavender",
+      "skyblue",
+      "tan",
+      "yellow",
+      "olive",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "orange",
+      "pink",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, lavender, turquoise, skyblue, coral, orange, tan, olive, goldenrod, yellow, green, olive, brown, maroon,",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "lavender",
+      "turquoise",
+      "skyblue",
+      "coral",
+      "orange",
+      "tan",
+      "olive",
+      "goldenrod",
+      "yellow",
+      "green",
+      "olive",
+      "brown",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "157.png",
+    "num_layers": 16,
+    "colors": [
+      "gray",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "yellow",
+      "olive",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "orange",
+      "goldenrod",
+      "pink",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: blue, lavender, purple, pink, fuchsia, turquoise, skyblue, coral, tan, orange, goldenrod, yellow, olive, brown, maroon, gray<|im_end|>",
+    "Output": [
+      "blue",
+      "lavender",
+      "purple",
+      "pink",
+      "fuchsia",
+      "turquoise",
+      "skyblue",
+      "coral",
+      "tan",
+      "orange",
+      "goldenrod",
+      "yellow",
+      "olive",
+      "brown",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "158.png",
+    "num_layers": 16,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "tan",
+      "yellow",
+      "olive",
+      "red",
+      "fuchsia",
+      "orange",
+      "green",
+      "goldenrod",
+      "pink",
+      "coral",
+      "ivory",
+      "purple"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, turquoise, skyblue, blue, lavender, olive, green, yellow, goldenrod, tan, coral, maroon, red, gray<|im_end|>",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "turquoise",
+      "skyblue",
+      "blue",
+      "lavender",
+      "olive",
+      "green",
+      "yellow",
+      "goldenrod",
+      "tan",
+      "coral",
+      "maroon",
+      "red"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "159.png",
+    "num_layers": 16,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "tan",
+      "yellow",
+      "olive",
+      "red",
+      "turquoise",
+      "black",
+      "goldenrod",
+      "pink",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, turquoise, skyblue, olive, goldenrod, yellow, coral, maroon, brown, gray<|im_end|>",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "turquoise",
+      "skyblue",
+      "olive",
+      "goldenrod",
+      "yellow",
+      "coral",
+      "maroon",
+      "brown"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "160.png",
+    "num_layers": 16,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "tan",
+      "yellow",
+      "olive",
+      "fuchsia",
+      "black",
+      "orange",
+      "green",
+      "pink",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: blue, lavender, purple, pink, fuchsia, turquoise, skyblue, olive, green, yellow, goldenrod, tan, coral, maroon, gray<|im_end|>",
+    "Output": [
+      "blue",
+      "lavender",
+      "purple",
+      "pink",
+      "fuchsia",
+      "turquoise",
+      "skyblue",
+      "olive",
+      "green",
+      "yellow",
+      "goldenrod",
+      "tan",
+      "coral",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "161.png",
+    "num_layers": 17,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "tan",
+      "yellow",
+      "olive",
+      "fuchsia",
+      "turquoise",
+      "orange",
+      "green",
+      "pink",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: blue, lavender, purple, pink, fuchsia, turquoise, skyblue, ivory, coral, orange, tan, brown, maroon, red, goldenrod, yellow,",
+    "Output": [
+      "blue",
+      "lavender",
+      "purple",
+      "pink",
+      "fuchsia",
+      "turquoise",
+      "skyblue",
+      "ivory",
+      "coral",
+      "orange",
+      "tan",
+      "brown",
+      "maroon",
+      "red",
+      "goldenrod",
+      "yellow"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "162.png",
+    "num_layers": 17,
+    "colors": [
+      "maroon",
+      "lavender",
+      "skyblue",
+      "tan",
+      "yellow",
+      "olive",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "orange",
+      "green",
+      "goldenrod",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, lavender, turquoise, skyblue, coral, tan, olive, yellow, goldenrod, orange, red, maroon, brown, gray,",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "lavender",
+      "turquoise",
+      "skyblue",
+      "coral",
+      "tan",
+      "olive",
+      "yellow",
+      "goldenrod",
+      "orange",
+      "red",
+      "maroon",
+      "brown",
+      "gray"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "163.png",
+    "num_layers": 17,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "olive",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "orange",
+      "green",
+      "goldenrod",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, lavender, blue, turquoise, skyblue, coral, tan, olive, yellow, orange, maroon, brown, gray<|im_end|>",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "lavender",
+      "blue",
+      "turquoise",
+      "skyblue",
+      "coral",
+      "tan",
+      "olive",
+      "yellow",
+      "orange",
+      "maroon",
+      "brown"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "164.png",
+    "num_layers": 17,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "tan",
+      "yellow",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "orange",
+      "green",
+      "goldenrod",
+      "pink",
+      "coral",
+      "ivory",
+      "purple"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, turquoise, skyblue, coral, orange, tan, maroon, red, brown, gray<|im_end|>",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "turquoise",
+      "skyblue",
+      "coral",
+      "orange",
+      "tan",
+      "maroon",
+      "red",
+      "brown"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "165.png",
+    "num_layers": 17,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "tan",
+      "yellow",
+      "olive",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "orange",
+      "green",
+      "goldenrod",
+      "coral",
+      "ivory",
+      "purple"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, turquoise, skyblue, blue, lavender, olive, goldenrod, yellow, orange, coral, tan, brown, maroon, red<|im_end|>",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "turquoise",
+      "skyblue",
+      "blue",
+      "lavender",
+      "olive",
+      "goldenrod",
+      "yellow",
+      "orange",
+      "coral",
+      "tan",
+      "brown",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "166.png",
+    "num_layers": 17,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "tan",
+      "yellow",
+      "olive",
+      "red",
+      "turquoise",
+      "black",
+      "green",
+      "goldenrod",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, lavender, pink, fuchsia, turquoise, skyblue, coral, tan, olive, yellow, goldenrod, orange, red, maroon, brown, gray<|im_end|>",
+    "Output": [
+      "purple",
+      "lavender",
+      "pink",
+      "fuchsia",
+      "turquoise",
+      "skyblue",
+      "coral",
+      "tan",
+      "olive",
+      "yellow",
+      "goldenrod",
+      "orange",
+      "red",
+      "maroon",
+      "brown"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "167.png",
+    "num_layers": 17,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "tan",
+      "yellow",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "orange",
+      "green",
+      "goldenrod",
+      "coral",
+      "ivory",
+      "purple"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, turquoise, skyblue, coral, orange, tan, maroon, red, gray<|im_end|>",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "turquoise",
+      "skyblue",
+      "coral",
+      "orange",
+      "tan",
+      "maroon",
+      "red"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "168.png",
+    "num_layers": 17,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "tan",
+      "yellow",
+      "red",
+      "turquoise",
+      "black",
+      "orange",
+      "green",
+      "goldenrod",
+      "pink",
+      "coral",
+      "ivory",
+      "purple"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, lavender, turquoise, skyblue, olive, green, yellow, goldenrod, orange, coral, tan, brown, maroon, red,",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "lavender",
+      "turquoise",
+      "skyblue",
+      "olive",
+      "green",
+      "yellow",
+      "goldenrod",
+      "orange",
+      "coral",
+      "tan",
+      "brown",
+      "maroon",
+      "red"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "169.png",
+    "num_layers": 17,
+    "colors": [
+      "gray",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "tan",
+      "yellow",
+      "olive",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "orange",
+      "goldenrod",
+      "pink",
+      "coral",
+      "ivory",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: blue, lavender, purple, pink, fuchsia, turquoise, skyblue, ivory, tan, olive, goldenrod, yellow, coral, orange, brown, maroon,",
+    "Output": [
+      "blue",
+      "lavender",
+      "purple",
+      "pink",
+      "fuchsia",
+      "turquoise",
+      "skyblue",
+      "ivory",
+      "tan",
+      "olive",
+      "goldenrod",
+      "yellow",
+      "coral",
+      "orange",
+      "brown",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "170.png",
+    "num_layers": 17,
+    "colors": [
+      "gray",
+      "brown",
+      "lavender",
+      "skyblue",
+      "tan",
+      "olive",
+      "red",
+      "fuchsia",
+      "black",
+      "orange",
+      "green",
+      "goldenrod",
+      "pink",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: blue, lavender, purple, pink, fuchsia, turquoise, skyblue, coral, orange, yellow, goldenrod, tan, brown, maroon, gray<|im_end|>",
+    "Output": [
+      "blue",
+      "lavender",
+      "purple",
+      "pink",
+      "fuchsia",
+      "turquoise",
+      "skyblue",
+      "coral",
+      "orange",
+      "yellow",
+      "goldenrod",
+      "tan",
+      "brown",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "171.png",
+    "num_layers": 18,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "tan",
+      "yellow",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "orange",
+      "green",
+      "goldenrod",
+      "pink",
+      "coral",
+      "ivory",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: blue, lavender, purple, pink, fuchsia, turquoise, skyblue, olive, tan, coral, yellow, goldenrod, orange, brown, maroon, gray<|im_end|>",
+    "Output": [
+      "blue",
+      "lavender",
+      "purple",
+      "pink",
+      "fuchsia",
+      "turquoise",
+      "skyblue",
+      "olive",
+      "tan",
+      "coral",
+      "yellow",
+      "goldenrod",
+      "orange",
+      "brown",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "172.png",
+    "num_layers": 18,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "tan",
+      "yellow",
+      "olive",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "orange",
+      "goldenrod",
+      "pink",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: blue, lavender, purple, pink, fuchsia, turquoise, skyblue, ivory, tan, olive, goldenrod, yellow, orange, maroon, brown, gray<|im_end|>",
+    "Output": [
+      "blue",
+      "lavender",
+      "purple",
+      "pink",
+      "fuchsia",
+      "turquoise",
+      "skyblue",
+      "ivory",
+      "tan",
+      "olive",
+      "goldenrod",
+      "yellow",
+      "orange",
+      "maroon",
+      "brown"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "173.png",
+    "num_layers": 18,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "yellow",
+      "olive",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "orange",
+      "green",
+      "goldenrod",
+      "pink",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, turquoise, skyblue, olive, tan, coral, orange, yellow, goldenrod, green, maroon, brown, gray<|im_end|>",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "turquoise",
+      "skyblue",
+      "olive",
+      "tan",
+      "coral",
+      "orange",
+      "yellow",
+      "goldenrod",
+      "green",
+      "maroon",
+      "brown"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "174.png",
+    "num_layers": 18,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "tan",
+      "yellow",
+      "olive",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "orange",
+      "green",
+      "pink",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: blue, lavender, purple, pink, fuchsia, turquoise, skyblue, ivory, tan, olive, yellow, goldenrod, orange, maroon, brown, gray<|im_end|>",
+    "Output": [
+      "blue",
+      "lavender",
+      "purple",
+      "pink",
+      "fuchsia",
+      "turquoise",
+      "skyblue",
+      "ivory",
+      "tan",
+      "olive",
+      "yellow",
+      "goldenrod",
+      "orange",
+      "maroon",
+      "brown"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "175.png",
+    "num_layers": 18,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "tan",
+      "olive",
+      "red",
+      "turquoise",
+      "black",
+      "orange",
+      "green",
+      "goldenrod",
+      "pink",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, lavender, turquoise, skyblue, olive, yellow, orange, coral, tan, brown, maroon, red, gray<|im_end|>",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "lavender",
+      "turquoise",
+      "skyblue",
+      "olive",
+      "yellow",
+      "orange",
+      "coral",
+      "tan",
+      "brown",
+      "maroon",
+      "red"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "176.png",
+    "num_layers": 18,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "tan",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "orange",
+      "green",
+      "goldenrod",
+      "pink",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, lavender, blue, turquoise, skyblue, ivory, tan, orange, goldenrod, yellow, green, olive, coral, red, mar",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "lavender",
+      "blue",
+      "turquoise",
+      "skyblue",
+      "ivory",
+      "tan",
+      "orange",
+      "goldenrod",
+      "yellow",
+      "green",
+      "olive",
+      "coral",
+      "red"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "177.png",
+    "num_layers": 18,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "tan",
+      "yellow",
+      "olive",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "orange",
+      "green",
+      "pink",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: blue, lavender, purple, pink, fuchsia, turquoise, skyblue, ivory, tan, olive, yellow, goldenrod, orange, maroon, brown, gray<|im_end|>",
+    "Output": [
+      "blue",
+      "lavender",
+      "purple",
+      "pink",
+      "fuchsia",
+      "turquoise",
+      "skyblue",
+      "ivory",
+      "tan",
+      "olive",
+      "yellow",
+      "goldenrod",
+      "orange",
+      "maroon",
+      "brown"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "178.png",
+    "num_layers": 18,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "tan",
+      "yellow",
+      "olive",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "orange",
+      "green",
+      "goldenrod",
+      "pink",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, lavender, blue, skyblue, turquoise, olive, green, yellow, goldenrod, tan, brown, maroon, coral, red,",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "lavender",
+      "blue",
+      "skyblue",
+      "turquoise",
+      "olive",
+      "green",
+      "yellow",
+      "goldenrod",
+      "tan",
+      "brown",
+      "maroon",
+      "coral",
+      "red"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "179.png",
+    "num_layers": 18,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "tan",
+      "yellow",
+      "olive",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "orange",
+      "green",
+      "pink",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, lavender, turquoise, skyblue, coral, tan, olive, yellow, goldenrod, orange, brown, maroon, red<|im_end|>",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "lavender",
+      "turquoise",
+      "skyblue",
+      "coral",
+      "tan",
+      "olive",
+      "yellow",
+      "goldenrod",
+      "orange",
+      "brown",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "180.png",
+    "num_layers": 18,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "tan",
+      "yellow",
+      "olive",
+      "red",
+      "black",
+      "orange",
+      "green",
+      "goldenrod",
+      "pink",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, lavender, skyblue, turquoise, olive, green, yellow, goldenrod, tan, coral, maroon, red, brown, gray<|im_end|>",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "lavender",
+      "skyblue",
+      "turquoise",
+      "olive",
+      "green",
+      "yellow",
+      "goldenrod",
+      "tan",
+      "coral",
+      "maroon",
+      "red",
+      "brown"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "181.png",
+    "num_layers": 19,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "tan",
+      "olive",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "orange",
+      "green",
+      "goldenrod",
+      "pink",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, lavender, blue, turquoise, skyblue, coral, orange, yellow, goldenrod, tan, brown, maroon, red, gray<|im_end|>",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "lavender",
+      "blue",
+      "turquoise",
+      "skyblue",
+      "coral",
+      "orange",
+      "yellow",
+      "goldenrod",
+      "tan",
+      "brown",
+      "maroon",
+      "red"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "182.png",
+    "num_layers": 19,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "tan",
+      "yellow",
+      "olive",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "orange",
+      "green",
+      "goldenrod",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, lavender, blue, turquoise, skyblue, ivory, tan, olive, green, yellow, goldenrod, orange, coral, maroon,",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "lavender",
+      "blue",
+      "turquoise",
+      "skyblue",
+      "ivory",
+      "tan",
+      "olive",
+      "green",
+      "yellow",
+      "goldenrod",
+      "orange",
+      "coral",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "183.png",
+    "num_layers": 19,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "yellow",
+      "olive",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "orange",
+      "green",
+      "goldenrod",
+      "pink",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, lavender, blue, turquoise, skyblue, coral, tan, orange, yellow, goldenrod, olive, green, maroon, brown,",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "lavender",
+      "blue",
+      "turquoise",
+      "skyblue",
+      "coral",
+      "tan",
+      "orange",
+      "yellow",
+      "goldenrod",
+      "olive",
+      "green",
+      "maroon",
+      "brown"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "184.png",
+    "num_layers": 19,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "tan",
+      "yellow",
+      "olive",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "orange",
+      "green",
+      "goldenrod",
+      "pink",
+      "coral",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: blue, lavender, purple, pink, fuchsia, turquoise, skyblue, coral, tan, olive, yellow, goldenrod, orange, maroon, brown, gray<|im_end|>",
+    "Output": [
+      "blue",
+      "lavender",
+      "purple",
+      "pink",
+      "fuchsia",
+      "turquoise",
+      "skyblue",
+      "coral",
+      "tan",
+      "olive",
+      "yellow",
+      "goldenrod",
+      "orange",
+      "maroon",
+      "brown"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "185.png",
+    "num_layers": 19,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "tan",
+      "yellow",
+      "olive",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "orange",
+      "goldenrod",
+      "pink",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, lavender, turquoise, skyblue, coral, orange, tan, brown, maroon, red, gray, black<|im_end|>",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "lavender",
+      "turquoise",
+      "skyblue",
+      "coral",
+      "orange",
+      "tan",
+      "brown",
+      "maroon",
+      "red",
+      "gray"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "186.png",
+    "num_layers": 19,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "tan",
+      "yellow",
+      "olive",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "orange",
+      "green",
+      "goldenrod",
+      "pink",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, lavender, turquoise, skyblue, coral, tan, orange, ivory, goldenrod, yellow, green, olive, maroon, brown,",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "lavender",
+      "turquoise",
+      "skyblue",
+      "coral",
+      "tan",
+      "orange",
+      "ivory",
+      "goldenrod",
+      "yellow",
+      "green",
+      "olive",
+      "maroon",
+      "brown"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "187.png",
+    "num_layers": 19,
+    "colors": [
+      "gray",
+      "brown",
+      "lavender",
+      "skyblue",
+      "tan",
+      "yellow",
+      "olive",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "orange",
+      "green",
+      "goldenrod",
+      "pink",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, turquoise, skyblue, coral, tan, olive, yellow, goldenrod, orange, red, maroon, brown, gray, black<|im_end|>",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "turquoise",
+      "skyblue",
+      "coral",
+      "tan",
+      "olive",
+      "yellow",
+      "goldenrod",
+      "orange",
+      "red",
+      "maroon",
+      "brown",
+      "gray"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "188.png",
+    "num_layers": 19,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "tan",
+      "yellow",
+      "olive",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "orange",
+      "green",
+      "goldenrod",
+      "pink",
+      "coral",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: blue, lavender, purple, pink, fuchsia, turquoise, skyblue, coral, tan, olive, yellow, goldenrod, orange, maroon, brown, gray<|im_end|>",
+    "Output": [
+      "blue",
+      "lavender",
+      "purple",
+      "pink",
+      "fuchsia",
+      "turquoise",
+      "skyblue",
+      "coral",
+      "tan",
+      "olive",
+      "yellow",
+      "goldenrod",
+      "orange",
+      "maroon",
+      "brown"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "189.png",
+    "num_layers": 19,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "tan",
+      "yellow",
+      "olive",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "orange",
+      "green",
+      "goldenrod",
+      "pink",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, lavender, turquoise, skyblue, coral, tan, orange, ivory, goldenrod, yellow, green, olive, maroon, brown,",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "lavender",
+      "turquoise",
+      "skyblue",
+      "coral",
+      "tan",
+      "orange",
+      "ivory",
+      "goldenrod",
+      "yellow",
+      "green",
+      "olive",
+      "maroon",
+      "brown"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "190.png",
+    "num_layers": 19,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "yellow",
+      "olive",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "orange",
+      "green",
+      "goldenrod",
+      "pink",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, lavender, blue, turquoise, skyblue, coral, tan, orange, yellow, goldenrod, olive, green, maroon, brown,",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "lavender",
+      "blue",
+      "turquoise",
+      "skyblue",
+      "coral",
+      "tan",
+      "orange",
+      "yellow",
+      "goldenrod",
+      "olive",
+      "green",
+      "maroon",
+      "brown"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "191.png",
+    "num_layers": 20,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "tan",
+      "yellow",
+      "olive",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "orange",
+      "green",
+      "goldenrod",
+      "pink",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, lavender, blue, turquoise, skyblue, ivory, tan, olive, green, yellow, goldenrod, orange, coral, maroon,",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "lavender",
+      "blue",
+      "turquoise",
+      "skyblue",
+      "ivory",
+      "tan",
+      "olive",
+      "green",
+      "yellow",
+      "goldenrod",
+      "orange",
+      "coral",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "192.png",
+    "num_layers": 20,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "tan",
+      "yellow",
+      "olive",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "orange",
+      "green",
+      "goldenrod",
+      "pink",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, lavender, blue, turquoise, skyblue, ivory, tan, olive, green, yellow, goldenrod, orange, coral, maroon,",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "lavender",
+      "blue",
+      "turquoise",
+      "skyblue",
+      "ivory",
+      "tan",
+      "olive",
+      "green",
+      "yellow",
+      "goldenrod",
+      "orange",
+      "coral",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "193.png",
+    "num_layers": 20,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "tan",
+      "yellow",
+      "olive",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "orange",
+      "green",
+      "goldenrod",
+      "pink",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, lavender, blue, turquoise, skyblue, ivory, tan, olive, green, yellow, goldenrod, orange, coral, maroon,",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "lavender",
+      "blue",
+      "turquoise",
+      "skyblue",
+      "ivory",
+      "tan",
+      "olive",
+      "green",
+      "yellow",
+      "goldenrod",
+      "orange",
+      "coral",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "194.png",
+    "num_layers": 20,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "tan",
+      "yellow",
+      "olive",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "orange",
+      "green",
+      "goldenrod",
+      "pink",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, lavender, blue, turquoise, skyblue, ivory, tan, olive, green, yellow, goldenrod, orange, coral, maroon,",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "lavender",
+      "blue",
+      "turquoise",
+      "skyblue",
+      "ivory",
+      "tan",
+      "olive",
+      "green",
+      "yellow",
+      "goldenrod",
+      "orange",
+      "coral",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "195.png",
+    "num_layers": 20,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "tan",
+      "yellow",
+      "olive",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "orange",
+      "green",
+      "goldenrod",
+      "pink",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, lavender, blue, turquoise, skyblue, ivory, tan, olive, green, yellow, goldenrod, orange, coral, maroon,",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "lavender",
+      "blue",
+      "turquoise",
+      "skyblue",
+      "ivory",
+      "tan",
+      "olive",
+      "green",
+      "yellow",
+      "goldenrod",
+      "orange",
+      "coral",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "196.png",
+    "num_layers": 20,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "tan",
+      "yellow",
+      "olive",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "orange",
+      "green",
+      "goldenrod",
+      "pink",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, lavender, blue, turquoise, skyblue, ivory, tan, olive, green, yellow, goldenrod, orange, coral, maroon,",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "lavender",
+      "blue",
+      "turquoise",
+      "skyblue",
+      "ivory",
+      "tan",
+      "olive",
+      "green",
+      "yellow",
+      "goldenrod",
+      "orange",
+      "coral",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "197.png",
+    "num_layers": 20,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "tan",
+      "yellow",
+      "olive",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "orange",
+      "green",
+      "goldenrod",
+      "pink",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, lavender, blue, turquoise, skyblue, ivory, tan, olive, green, yellow, goldenrod, orange, coral, maroon,",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "lavender",
+      "blue",
+      "turquoise",
+      "skyblue",
+      "ivory",
+      "tan",
+      "olive",
+      "green",
+      "yellow",
+      "goldenrod",
+      "orange",
+      "coral",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "198.png",
+    "num_layers": 20,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "tan",
+      "yellow",
+      "olive",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "orange",
+      "green",
+      "goldenrod",
+      "pink",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, lavender, blue, turquoise, skyblue, ivory, tan, olive, green, yellow, goldenrod, orange, coral, maroon,",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "lavender",
+      "blue",
+      "turquoise",
+      "skyblue",
+      "ivory",
+      "tan",
+      "olive",
+      "green",
+      "yellow",
+      "goldenrod",
+      "orange",
+      "coral",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "199.png",
+    "num_layers": 20,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "tan",
+      "yellow",
+      "olive",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "orange",
+      "green",
+      "goldenrod",
+      "pink",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, lavender, blue, turquoise, skyblue, ivory, tan, olive, green, yellow, goldenrod, orange, coral, maroon,",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "lavender",
+      "blue",
+      "turquoise",
+      "skyblue",
+      "ivory",
+      "tan",
+      "olive",
+      "green",
+      "yellow",
+      "goldenrod",
+      "orange",
+      "coral",
+      "maroon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "200.png",
+    "num_layers": 20,
+    "colors": [
+      "gray",
+      "brown",
+      "maroon",
+      "lavender",
+      "skyblue",
+      "tan",
+      "yellow",
+      "olive",
+      "red",
+      "fuchsia",
+      "turquoise",
+      "black",
+      "orange",
+      "green",
+      "goldenrod",
+      "pink",
+      "coral",
+      "ivory",
+      "purple",
+      "blue"
+    ],
+    "gpt_response": "COLOURS: purple, pink, fuchsia, lavender, blue, turquoise, skyblue, ivory, tan, olive, green, yellow, goldenrod, orange, coral, maroon,",
+    "Output": [
+      "purple",
+      "pink",
+      "fuchsia",
+      "lavender",
+      "blue",
+      "turquoise",
+      "skyblue",
+      "ivory",
+      "tan",
+      "olive",
+      "green",
+      "yellow",
+      "goldenrod",
+      "orange",
+      "coral",
+      "maroon"
+    ],
+    "ERROR": null
+  }
+]

@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "second1.png",
+    "mirror_image": 1,
+    "num_objects": 1,
+    "gpt_response": "COUNT: 1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second2.png",
+    "mirror_image": 1,
+    "num_objects": 1,
+    "gpt_response": "COUNT: 1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second3.png",
+    "mirror_image": 1,
+    "num_objects": 1,
+    "gpt_response": "COUNT: 2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second4.png",
+    "mirror_image": 1,
+    "num_objects": 1,
+    "gpt_response": "COUNT: 1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second5.png",
+    "mirror_image": 1,
+    "num_objects": 1,
+    "gpt_response": "COUNT: 1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second6.png",
+    "mirror_image": 1,
+    "num_objects": 1,
+    "gpt_response": "COUNT: 1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second7.png",
+    "mirror_image": 1,
+    "num_objects": 1,
+    "gpt_response": "COUNT: 1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second8.png",
+    "mirror_image": 1,
+    "num_objects": 1,
+    "gpt_response": "COUNT: 1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second9.png",
+    "mirror_image": 1,
+    "num_objects": 1,
+    "gpt_response": "COUNT: 1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second10.png",
+    "mirror_image": 1,
+    "num_objects": 1,
+    "gpt_response": "COUNT: 2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second11.png",
+    "mirror_image": 2,
+    "num_objects": 2,
+    "gpt_response": "COUNT: 2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second12.png",
+    "mirror_image": 2,
+    "num_objects": 2,
+    "gpt_response": "COUNT: 2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second13.png",
+    "mirror_image": 2,
+    "num_objects": 2,
+    "gpt_response": "COUNT: 2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second14.png",
+    "mirror_image": 2,
+    "num_objects": 2,
+    "gpt_response": "COUNT: 2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second15.png",
+    "mirror_image": 2,
+    "num_objects": 2,
+    "gpt_response": "COUNT: 2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second16.png",
+    "mirror_image": 2,
+    "num_objects": 2,
+    "gpt_response": "COUNT: 1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second17.png",
+    "mirror_image": 2,
+    "num_objects": 2,
+    "gpt_response": "COUNT: 2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second18.png",
+    "mirror_image": 2,
+    "num_objects": 2,
+    "gpt_response": "COUNT: 2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second19.png",
+    "mirror_image": 2,
+    "num_objects": 2,
+    "gpt_response": "COUNT: 2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second20.png",
+    "mirror_image": 2,
+    "num_objects": 2,
+    "gpt_response": "COUNT: 1",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second21.png",
+    "mirror_image": 3,
+    "num_objects": 3,
+    "gpt_response": "COUNT: 2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second22.png",
+    "mirror_image": 3,
+    "num_objects": 3,
+    "gpt_response": "COUNT: 3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "second23.png",
+    "mirror_image": 3,
+    "num_objects": 3,
+    "gpt_response": "COUNT: 3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "second24.png",
+    "mirror_image": 3,
+    "num_objects": 3,
+    "gpt_response": "COUNT: 2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second25.png",
+    "mirror_image": 3,
+    "num_objects": 3,
+    "gpt_response": "COUNT: 2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second26.png",
+    "mirror_image": 3,
+    "num_objects": 3,
+    "gpt_response": "COUNT: 3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "second27.png",
+    "mirror_image": 3,
+    "num_objects": 3,
+    "gpt_response": "COUNT: 2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second28.png",
+    "mirror_image": 3,
+    "num_objects": 3,
+    "gpt_response": "COUNT: 3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "second29.png",
+    "mirror_image": 3,
+    "num_objects": 3,
+    "gpt_response": "COUNT: 2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second30.png",
+    "mirror_image": 3,
+    "num_objects": 3,
+    "gpt_response": "COUNT: 2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second31.png",
+    "mirror_image": 4,
+    "num_objects": 4,
+    "gpt_response": "COUNT: 3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "second32.png",
+    "mirror_image": 4,
+    "num_objects": 4,
+    "gpt_response": "COUNT: 3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "second33.png",
+    "mirror_image": 4,
+    "num_objects": 4,
+    "gpt_response": "COUNT: 2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second34.png",
+    "mirror_image": 4,
+    "num_objects": 4,
+    "gpt_response": "COUNT: 3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "second35.png",
+    "mirror_image": 4,
+    "num_objects": 4,
+    "gpt_response": "COUNT: 2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second36.png",
+    "mirror_image": 4,
+    "num_objects": 4,
+    "gpt_response": "COUNT: 3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "second37.png",
+    "mirror_image": 4,
+    "num_objects": 4,
+    "gpt_response": "COUNT: 2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second38.png",
+    "mirror_image": 4,
+    "num_objects": 4,
+    "gpt_response": "COUNT: 3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "second39.png",
+    "mirror_image": 4,
+    "num_objects": 4,
+    "gpt_response": "COUNT: 3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "second40.png",
+    "mirror_image": 4,
+    "num_objects": 4,
+    "gpt_response": "COUNT: 3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "second41.png",
+    "mirror_image": 5,
+    "num_objects": 5,
+    "gpt_response": "COUNT: 2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second42.png",
+    "mirror_image": 5,
+    "num_objects": 5,
+    "gpt_response": "COUNT: 4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second43.png",
+    "mirror_image": 5,
+    "num_objects": 5,
+    "gpt_response": "COUNT: 3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "second44.png",
+    "mirror_image": 5,
+    "num_objects": 5,
+    "gpt_response": "COUNT: 3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "second45.png",
+    "mirror_image": 5,
+    "num_objects": 5,
+    "gpt_response": "COUNT: 4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second46.png",
+    "mirror_image": 5,
+    "num_objects": 5,
+    "gpt_response": "COUNT: 3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "second47.png",
+    "mirror_image": 5,
+    "num_objects": 5,
+    "gpt_response": "COUNT: 5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "second48.png",
+    "mirror_image": 5,
+    "num_objects": 5,
+    "gpt_response": "COUNT: 3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "second49.png",
+    "mirror_image": 5,
+    "num_objects": 5,
+    "gpt_response": "COUNT: 2",
+    "Output": 2,
+    "ERROR": null
+  },
+  {
+    "id": "second50.png",
+    "mirror_image": 5,
+    "num_objects": 5,
+    "gpt_response": "COUNT: 3",
+    "Output": 3,
+    "ERROR": null
+  },
+  {
+    "id": "second51.png",
+    "mirror_image": 6,
+    "num_objects": 6,
+    "gpt_response": "COUNT: 4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second52.png",
+    "mirror_image": 6,
+    "num_objects": 6,
+    "gpt_response": "COUNT: 4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second53.png",
+    "mirror_image": 6,
+    "num_objects": 6,
+    "gpt_response": "COUNT: 4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second54.png",
+    "mirror_image": 6,
+    "num_objects": 6,
+    "gpt_response": "COUNT: 4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second55.png",
+    "mirror_image": 6,
+    "num_objects": 6,
+    "gpt_response": "COUNT: 5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "second56.png",
+    "mirror_image": 6,
+    "num_objects": 6,
+    "gpt_response": "COUNT: 4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second57.png",
+    "mirror_image": 6,
+    "num_objects": 6,
+    "gpt_response": "COUNT: 5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "second58.png",
+    "mirror_image": 6,
+    "num_objects": 6,
+    "gpt_response": "COUNT: 4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second59.png",
+    "mirror_image": 6,
+    "num_objects": 6,
+    "gpt_response": "COUNT: 4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second60.png",
+    "mirror_image": 6,
+    "num_objects": 6,
+    "gpt_response": "COUNT: 5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "second61.png",
+    "mirror_image": 7,
+    "num_objects": 7,
+    "gpt_response": "COUNT: 4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second62.png",
+    "mirror_image": 7,
+    "num_objects": 7,
+    "gpt_response": "COUNT: 4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second63.png",
+    "mirror_image": 7,
+    "num_objects": 7,
+    "gpt_response": "COUNT: 4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second64.png",
+    "mirror_image": 7,
+    "num_objects": 7,
+    "gpt_response": "COUNT: 4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second65.png",
+    "mirror_image": 7,
+    "num_objects": 7,
+    "gpt_response": "COUNT: 4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second66.png",
+    "mirror_image": 7,
+    "num_objects": 7,
+    "gpt_response": "COUNT: 5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "second67.png",
+    "mirror_image": 7,
+    "num_objects": 7,
+    "gpt_response": "COUNT: 4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second68.png",
+    "mirror_image": 7,
+    "num_objects": 7,
+    "gpt_response": "COUNT: 4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second69.png",
+    "mirror_image": 7,
+    "num_objects": 7,
+    "gpt_response": "COUNT: 4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second70.png",
+    "mirror_image": 7,
+    "num_objects": 7,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second71.png",
+    "mirror_image": 8,
+    "num_objects": 8,
+    "gpt_response": "COUNT: 4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second72.png",
+    "mirror_image": 8,
+    "num_objects": 8,
+    "gpt_response": "COUNT: 4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second73.png",
+    "mirror_image": 8,
+    "num_objects": 8,
+    "gpt_response": "COUNT: 5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "second74.png",
+    "mirror_image": 8,
+    "num_objects": 8,
+    "gpt_response": "COUNT: 4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second75.png",
+    "mirror_image": 8,
+    "num_objects": 8,
+    "gpt_response": "COUNT: 5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "second76.png",
+    "mirror_image": 8,
+    "num_objects": 8,
+    "gpt_response": "COUNT: 4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second77.png",
+    "mirror_image": 8,
+    "num_objects": 8,
+    "gpt_response": "COUNT: 4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second78.png",
+    "mirror_image": 8,
+    "num_objects": 8,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second79.png",
+    "mirror_image": 8,
+    "num_objects": 8,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second80.png",
+    "mirror_image": 8,
+    "num_objects": 8,
+    "gpt_response": "COUNT: 4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second81.png",
+    "mirror_image": 9,
+    "num_objects": 9,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second82.png",
+    "mirror_image": 9,
+    "num_objects": 9,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second83.png",
+    "mirror_image": 9,
+    "num_objects": 9,
+    "gpt_response": "COUNT: 5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "second84.png",
+    "mirror_image": 9,
+    "num_objects": 9,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second85.png",
+    "mirror_image": 9,
+    "num_objects": 9,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second86.png",
+    "mirror_image": 9,
+    "num_objects": 9,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second87.png",
+    "mirror_image": 9,
+    "num_objects": 9,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second88.png",
+    "mirror_image": 9,
+    "num_objects": 9,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second89.png",
+    "mirror_image": 9,
+    "num_objects": 9,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second90.png",
+    "mirror_image": 9,
+    "num_objects": 9,
+    "gpt_response": "COUNT: 5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "second91.png",
+    "mirror_image": 10,
+    "num_objects": 10,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second92.png",
+    "mirror_image": 10,
+    "num_objects": 10,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second93.png",
+    "mirror_image": 10,
+    "num_objects": 10,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second94.png",
+    "mirror_image": 10,
+    "num_objects": 10,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second95.png",
+    "mirror_image": 10,
+    "num_objects": 10,
+    "gpt_response": "COUNT: 4",
+    "Output": 4,
+    "ERROR": null
+  },
+  {
+    "id": "second96.png",
+    "mirror_image": 10,
+    "num_objects": 10,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second97.png",
+    "mirror_image": 10,
+    "num_objects": 10,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second98.png",
+    "mirror_image": 10,
+    "num_objects": 10,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second99.png",
+    "mirror_image": 10,
+    "num_objects": 10,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second100.png",
+    "mirror_image": 10,
+    "num_objects": 10,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second101.png",
+    "mirror_image": 11,
+    "num_objects": 11,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second102.png",
+    "mirror_image": 11,
+    "num_objects": 11,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second103.png",
+    "mirror_image": 11,
+    "num_objects": 11,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second104.png",
+    "mirror_image": 11,
+    "num_objects": 11,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second105.png",
+    "mirror_image": 11,
+    "num_objects": 11,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second106.png",
+    "mirror_image": 11,
+    "num_objects": 11,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second107.png",
+    "mirror_image": 11,
+    "num_objects": 11,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second108.png",
+    "mirror_image": 11,
+    "num_objects": 11,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second109.png",
+    "mirror_image": 11,
+    "num_objects": 11,
+    "gpt_response": "COUNT: 5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "second110.png",
+    "mirror_image": 11,
+    "num_objects": 11,
+    "gpt_response": "COUNT: 5",
+    "Output": 5,
+    "ERROR": null
+  },
+  {
+    "id": "second111.png",
+    "mirror_image": 12,
+    "num_objects": 12,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second112.png",
+    "mirror_image": 12,
+    "num_objects": 12,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second113.png",
+    "mirror_image": 12,
+    "num_objects": 12,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second114.png",
+    "mirror_image": 12,
+    "num_objects": 12,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second115.png",
+    "mirror_image": 12,
+    "num_objects": 12,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second116.png",
+    "mirror_image": 12,
+    "num_objects": 12,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second117.png",
+    "mirror_image": 12,
+    "num_objects": 12,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second118.png",
+    "mirror_image": 12,
+    "num_objects": 12,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second119.png",
+    "mirror_image": 12,
+    "num_objects": 12,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second120.png",
+    "mirror_image": 12,
+    "num_objects": 12,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second121.png",
+    "mirror_image": 13,
+    "num_objects": 13,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second122.png",
+    "mirror_image": 13,
+    "num_objects": 13,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second123.png",
+    "mirror_image": 13,
+    "num_objects": 13,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second124.png",
+    "mirror_image": 13,
+    "num_objects": 13,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second125.png",
+    "mirror_image": 13,
+    "num_objects": 13,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second126.png",
+    "mirror_image": 13,
+    "num_objects": 13,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second127.png",
+    "mirror_image": 13,
+    "num_objects": 13,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second128.png",
+    "mirror_image": 13,
+    "num_objects": 13,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second129.png",
+    "mirror_image": 13,
+    "num_objects": 13,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second130.png",
+    "mirror_image": 13,
+    "num_objects": 13,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second131.png",
+    "mirror_image": 14,
+    "num_objects": 14,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second132.png",
+    "mirror_image": 14,
+    "num_objects": 14,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second133.png",
+    "mirror_image": 14,
+    "num_objects": 14,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second134.png",
+    "mirror_image": 14,
+    "num_objects": 14,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second135.png",
+    "mirror_image": 14,
+    "num_objects": 14,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second136.png",
+    "mirror_image": 14,
+    "num_objects": 14,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second137.png",
+    "mirror_image": 14,
+    "num_objects": 14,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second138.png",
+    "mirror_image": 14,
+    "num_objects": 14,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second139.png",
+    "mirror_image": 14,
+    "num_objects": 14,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second140.png",
+    "mirror_image": 14,
+    "num_objects": 14,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second141.png",
+    "mirror_image": 15,
+    "num_objects": 15,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second142.png",
+    "mirror_image": 15,
+    "num_objects": 15,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second143.png",
+    "mirror_image": 15,
+    "num_objects": 15,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second144.png",
+    "mirror_image": 15,
+    "num_objects": 15,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second145.png",
+    "mirror_image": 15,
+    "num_objects": 15,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second146.png",
+    "mirror_image": 15,
+    "num_objects": 15,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second147.png",
+    "mirror_image": 15,
+    "num_objects": 15,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second148.png",
+    "mirror_image": 15,
+    "num_objects": 15,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second149.png",
+    "mirror_image": 15,
+    "num_objects": 15,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second150.png",
+    "mirror_image": 15,
+    "num_objects": 15,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second151.png",
+    "mirror_image": 16,
+    "num_objects": 16,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second152.png",
+    "mirror_image": 16,
+    "num_objects": 16,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second153.png",
+    "mirror_image": 16,
+    "num_objects": 16,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second154.png",
+    "mirror_image": 16,
+    "num_objects": 16,
+    "gpt_response": "COUNT: 10",
+    "Output": 10,
+    "ERROR": null
+  },
+  {
+    "id": "second155.png",
+    "mirror_image": 16,
+    "num_objects": 16,
+    "gpt_response": "COUNT: 12",
+    "Output": 12,
+    "ERROR": null
+  },
+  {
+    "id": "second156.png",
+    "mirror_image": 16,
+    "num_objects": 16,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second157.png",
+    "mirror_image": 16,
+    "num_objects": 16,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second158.png",
+    "mirror_image": 16,
+    "num_objects": 16,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second159.png",
+    "mirror_image": 16,
+    "num_objects": 16,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second160.png",
+    "mirror_image": 16,
+    "num_objects": 16,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second161.png",
+    "mirror_image": 17,
+    "num_objects": 17,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second162.png",
+    "mirror_image": 17,
+    "num_objects": 17,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second163.png",
+    "mirror_image": 17,
+    "num_objects": 17,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second164.png",
+    "mirror_image": 17,
+    "num_objects": 17,
+    "gpt_response": "COUNT: 16",
+    "Output": 16,
+    "ERROR": null
+  },
+  {
+    "id": "second165.png",
+    "mirror_image": 17,
+    "num_objects": 17,
+    "gpt_response": "COUNT: 12",
+    "Output": 12,
+    "ERROR": null
+  },
+  {
+    "id": "second166.png",
+    "mirror_image": 17,
+    "num_objects": 17,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second167.png",
+    "mirror_image": 17,
+    "num_objects": 17,
+    "gpt_response": "COUNT: 10",
+    "Output": 10,
+    "ERROR": null
+  },
+  {
+    "id": "second168.png",
+    "mirror_image": 17,
+    "num_objects": 17,
+    "gpt_response": "COUNT: 12",
+    "Output": 12,
+    "ERROR": null
+  },
+  {
+    "id": "second169.png",
+    "mirror_image": 17,
+    "num_objects": 17,
+    "gpt_response": "COUNT: 6",
+    "Output": 6,
+    "ERROR": null
+  },
+  {
+    "id": "second170.png",
+    "mirror_image": 17,
+    "num_objects": 17,
+    "gpt_response": "COUNT: 12",
+    "Output": 12,
+    "ERROR": null
+  },
+  {
+    "id": "second171.png",
+    "mirror_image": 18,
+    "num_objects": 18,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second172.png",
+    "mirror_image": 18,
+    "num_objects": 18,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second173.png",
+    "mirror_image": 18,
+    "num_objects": 18,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second174.png",
+    "mirror_image": 18,
+    "num_objects": 18,
+    "gpt_response": "COUNT: 12",
+    "Output": 12,
+    "ERROR": null
+  },
+  {
+    "id": "second175.png",
+    "mirror_image": 18,
+    "num_objects": 18,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second176.png",
+    "mirror_image": 18,
+    "num_objects": 18,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second177.png",
+    "mirror_image": 18,
+    "num_objects": 18,
+    "gpt_response": "COUNT: 12",
+    "Output": 12,
+    "ERROR": null
+  },
+  {
+    "id": "second178.png",
+    "mirror_image": 18,
+    "num_objects": 18,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second179.png",
+    "mirror_image": 18,
+    "num_objects": 18,
+    "gpt_response": "COUNT: 12",
+    "Output": 12,
+    "ERROR": null
+  },
+  {
+    "id": "second180.png",
+    "mirror_image": 18,
+    "num_objects": 18,
+    "gpt_response": "COUNT: 10",
+    "Output": 10,
+    "ERROR": null
+  },
+  {
+    "id": "second181.png",
+    "mirror_image": 19,
+    "num_objects": 19,
+    "gpt_response": "COUNT: 12",
+    "Output": 12,
+    "ERROR": null
+  },
+  {
+    "id": "second182.png",
+    "mirror_image": 19,
+    "num_objects": 19,
+    "gpt_response": "COUNT: 10",
+    "Output": 10,
+    "ERROR": null
+  },
+  {
+    "id": "second183.png",
+    "mirror_image": 19,
+    "num_objects": 19,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second184.png",
+    "mirror_image": 19,
+    "num_objects": 19,
+    "gpt_response": "COUNT: 12",
+    "Output": 12,
+    "ERROR": null
+  },
+  {
+    "id": "second185.png",
+    "mirror_image": 19,
+    "num_objects": 19,
+    "gpt_response": "COUNT: 10",
+    "Output": 10,
+    "ERROR": null
+  },
+  {
+    "id": "second186.png",
+    "mirror_image": 19,
+    "num_objects": 19,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second187.png",
+    "mirror_image": 19,
+    "num_objects": 19,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second188.png",
+    "mirror_image": 19,
+    "num_objects": 19,
+    "gpt_response": "COUNT: 12",
+    "Output": 12,
+    "ERROR": null
+  },
+  {
+    "id": "second189.png",
+    "mirror_image": 19,
+    "num_objects": 19,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second190.png",
+    "mirror_image": 19,
+    "num_objects": 19,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second191.png",
+    "mirror_image": 20,
+    "num_objects": 20,
+    "gpt_response": "COUNT: 12",
+    "Output": 12,
+    "ERROR": null
+  },
+  {
+    "id": "second192.png",
+    "mirror_image": 20,
+    "num_objects": 20,
+    "gpt_response": "COUNT: 12",
+    "Output": 12,
+    "ERROR": null
+  },
+  {
+    "id": "second193.png",
+    "mirror_image": 20,
+    "num_objects": 20,
+    "gpt_response": "COUNT: 12",
+    "Output": 12,
+    "ERROR": null
+  },
+  {
+    "id": "second194.png",
+    "mirror_image": 20,
+    "num_objects": 20,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second195.png",
+    "mirror_image": 20,
+    "num_objects": 20,
+    "gpt_response": "COUNT: 12",
+    "Output": 12,
+    "ERROR": null
+  },
+  {
+    "id": "second196.png",
+    "mirror_image": 20,
+    "num_objects": 20,
+    "gpt_response": "COUNT: 12",
+    "Output": 12,
+    "ERROR": null
+  },
+  {
+    "id": "second197.png",
+    "mirror_image": 20,
+    "num_objects": 20,
+    "gpt_response": "COUNT: 12",
+    "Output": 12,
+    "ERROR": null
+  },
+  {
+    "id": "second198.png",
+    "mirror_image": 20,
+    "num_objects": 20,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  },
+  {
+    "id": "second199.png",
+    "mirror_image": 20,
+    "num_objects": 20,
+    "gpt_response": "COUNT: 12",
+    "Output": 12,
+    "ERROR": null
+  },
+  {
+    "id": "second200.png",
+    "mirror_image": 20,
+    "num_objects": 20,
+    "gpt_response": "COUNT: 8",
+    "Output": 8,
+    "ERROR": null
+  }
+]

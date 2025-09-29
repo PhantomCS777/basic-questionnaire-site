@@ -1,0 +1,3 @@
+- Travel from cell labelled S to cell labelled E.
+- Follow the path marked by the black line and arrows.
+- Write down the sequence of shapes seen while moving along this path.

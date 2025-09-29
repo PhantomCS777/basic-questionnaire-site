@@ -1,0 +1,2602 @@
+[
+  {
+    "id": "1.png",
+    "circles": 0,
+    "squares": 1,
+    "triangles": 0,
+    "gpt_response": "The image contains:\n\n- Circles: 0\n- Triangles: 0\n- Squares: 1\n\nCIRCLES:0 TRIANGLES:0 SQUARES:1",
+    "Output": {
+      "circles": 0,
+      "triangles": 0,
+      "squares": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "2.png",
+    "circles": 0,
+    "squares": 1,
+    "triangles": 0,
+    "gpt_response": "CIRCLES:0 TRIANGLES:0 SQUARES:1",
+    "Output": {
+      "circles": 0,
+      "triangles": 0,
+      "squares": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "3.png",
+    "circles": 0,
+    "squares": 1,
+    "triangles": 0,
+    "gpt_response": "The image contains:\n\n- Circles: 0\n- Triangles: 0\n- Squares: 1\n\nCIRCLES:0 TRIANGLES:0 SQUARES:1",
+    "Output": {
+      "circles": 0,
+      "triangles": 0,
+      "squares": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "4.png",
+    "circles": 0,
+    "squares": 1,
+    "triangles": 0,
+    "gpt_response": "CIRCLES:0 TRIANGLES:0 SQUARES:1",
+    "Output": {
+      "circles": 0,
+      "triangles": 0,
+      "squares": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "5.png",
+    "circles": 0,
+    "squares": 0,
+    "triangles": 1,
+    "gpt_response": "CIRCLES:0 TRIANGLES:1 SQUARES:0",
+    "Output": {
+      "circles": 0,
+      "triangles": 1,
+      "squares": 0
+    },
+    "ERROR": null
+  },
+  {
+    "id": "6.png",
+    "circles": 0,
+    "squares": 0,
+    "triangles": 1,
+    "gpt_response": "CIRCLES:0 TRIANGLES:1 SQUARES:0",
+    "Output": {
+      "circles": 0,
+      "triangles": 1,
+      "squares": 0
+    },
+    "ERROR": null
+  },
+  {
+    "id": "7.png",
+    "circles": 1,
+    "squares": 0,
+    "triangles": 0,
+    "gpt_response": "CIRCLES:1 TRIANGLES:0 SQUARES:0",
+    "Output": {
+      "circles": 1,
+      "triangles": 0,
+      "squares": 0
+    },
+    "ERROR": null
+  },
+  {
+    "id": "8.png",
+    "circles": 1,
+    "squares": 0,
+    "triangles": 0,
+    "gpt_response": "CIRCLES:1 TRIANGLES:0 SQUARES:0",
+    "Output": {
+      "circles": 1,
+      "triangles": 0,
+      "squares": 0
+    },
+    "ERROR": null
+  },
+  {
+    "id": "9.png",
+    "circles": 0,
+    "squares": 0,
+    "triangles": 1,
+    "gpt_response": "The image contains:\n\n- Circles: 0\n- Triangles: 1\n- Squares: 0\n\nCIRCLES:0 TRIANGLES:1 SQUARES:0",
+    "Output": {
+      "circles": 0,
+      "triangles": 1,
+      "squares": 0
+    },
+    "ERROR": null
+  },
+  {
+    "id": "10.png",
+    "circles": 0,
+    "squares": 1,
+    "triangles": 0,
+    "gpt_response": "CIRCLES:0 TRIANGLES:0 SQUARES:1",
+    "Output": {
+      "circles": 0,
+      "triangles": 0,
+      "squares": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "11.png",
+    "circles": 0,
+    "squares": 0,
+    "triangles": 2,
+    "gpt_response": "The image contains:\n\n- Circles: 0\n- Triangles: 2\n- Squares: 0\n\nCIRCLES:0 TRIANGLES:2 SQUARES:0",
+    "Output": {
+      "circles": 0,
+      "triangles": 2,
+      "squares": 0
+    },
+    "ERROR": null
+  },
+  {
+    "id": "12.png",
+    "circles": 0,
+    "squares": 0,
+    "triangles": 2,
+    "gpt_response": "The image contains:\n\n- Circles: 0\n- Triangles: 2\n- Squares: 0\n\nCIRCLES:0 TRIANGLES:2 SQUARES:0",
+    "Output": {
+      "circles": 0,
+      "triangles": 2,
+      "squares": 0
+    },
+    "ERROR": null
+  },
+  {
+    "id": "13.png",
+    "circles": 1,
+    "squares": 1,
+    "triangles": 0,
+    "gpt_response": "The image contains:\n\n- Circles: 1\n- Triangles: 0\n- Squares: 1\n\nCIRCLES:1 TRIANGLES:0 SQUARES:1",
+    "Output": {
+      "circles": 1,
+      "triangles": 0,
+      "squares": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "14.png",
+    "circles": 0,
+    "squares": 0,
+    "triangles": 2,
+    "gpt_response": "CIRCLES:0 TRIANGLES:2 SQUARES:0",
+    "Output": {
+      "circles": 0,
+      "triangles": 2,
+      "squares": 0
+    },
+    "ERROR": null
+  },
+  {
+    "id": "15.png",
+    "circles": 1,
+    "squares": 1,
+    "triangles": 0,
+    "gpt_response": "CIRCLES:1 TRIANGLES:0 SQUARES:1",
+    "Output": {
+      "circles": 1,
+      "triangles": 0,
+      "squares": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "16.png",
+    "circles": 1,
+    "squares": 1,
+    "triangles": 0,
+    "gpt_response": "CIRCLES:1 TRIANGLES:0 SQUARES:1",
+    "Output": {
+      "circles": 1,
+      "triangles": 0,
+      "squares": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "17.png",
+    "circles": 0,
+    "squares": 0,
+    "triangles": 2,
+    "gpt_response": "The image contains:\n\n- Circles: 0\n- Triangles: 2\n- Squares: 0\n\nCIRCLES:0 TRIANGLES:2 SQUARES:0",
+    "Output": {
+      "circles": 0,
+      "triangles": 2,
+      "squares": 0
+    },
+    "ERROR": null
+  },
+  {
+    "id": "18.png",
+    "circles": 1,
+    "squares": 0,
+    "triangles": 1,
+    "gpt_response": "The image contains:\n\n- 1 circle\n- 1 triangle\n- 0 squares\n\nCIRCLES:1 TRIANGLES:1 SQUARES:0",
+    "Output": {
+      "circles": 1,
+      "triangles": 1,
+      "squares": 0
+    },
+    "ERROR": null
+  },
+  {
+    "id": "19.png",
+    "circles": 1,
+    "squares": 0,
+    "triangles": 1,
+    "gpt_response": "The image contains:\n\n- 1 circle\n- 1 triangle\n- 0 squares\n\nCIRCLES:1 TRIANGLES:1 SQUARES:0",
+    "Output": {
+      "circles": 1,
+      "triangles": 1,
+      "squares": 0
+    },
+    "ERROR": null
+  },
+  {
+    "id": "20.png",
+    "circles": 0,
+    "squares": 2,
+    "triangles": 0,
+    "gpt_response": "CIRCLES:0 TRIANGLES:0 SQUARES:2",
+    "Output": {
+      "circles": 0,
+      "triangles": 0,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "21.png",
+    "circles": 3,
+    "squares": 0,
+    "triangles": 0,
+    "gpt_response": "The image contains:\n\n- Circles: 3\n- Triangles: 0\n- Squares: 0\n\nCIRCLES:3 TRIANGLES:0 SQUARES:0",
+    "Output": {
+      "circles": 3,
+      "triangles": 0,
+      "squares": 0
+    },
+    "ERROR": null
+  },
+  {
+    "id": "22.png",
+    "circles": 1,
+    "squares": 0,
+    "triangles": 2,
+    "gpt_response": "CIRCLES:1 TRIANGLES:2 SQUARES:0",
+    "Output": {
+      "circles": 1,
+      "triangles": 2,
+      "squares": 0
+    },
+    "ERROR": null
+  },
+  {
+    "id": "23.png",
+    "circles": 1,
+    "squares": 2,
+    "triangles": 0,
+    "gpt_response": "CIRCLES:1 TRIANGLES:0 SQUARES:2",
+    "Output": {
+      "circles": 1,
+      "triangles": 0,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "24.png",
+    "circles": 1,
+    "squares": 1,
+    "triangles": 1,
+    "gpt_response": "CIRCLES:1 TRIANGLES:1 SQUARES:1",
+    "Output": {
+      "circles": 1,
+      "triangles": 1,
+      "squares": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "25.png",
+    "circles": 1,
+    "squares": 1,
+    "triangles": 1,
+    "gpt_response": "CIRCLES:1 TRIANGLES:1 SQUARES:1",
+    "Output": {
+      "circles": 1,
+      "triangles": 1,
+      "squares": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "26.png",
+    "circles": 2,
+    "squares": 1,
+    "triangles": 0,
+    "gpt_response": "CIRCLES:2 TRIANGLES:0 SQUARES:1",
+    "Output": {
+      "circles": 2,
+      "triangles": 0,
+      "squares": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "27.png",
+    "circles": 3,
+    "squares": 0,
+    "triangles": 0,
+    "gpt_response": "The image contains:\n\n- Circles: 3\n- Triangles: 0\n- Squares: 0\n\nCIRCLES:3 TRIANGLES:0 SQUARES:0",
+    "Output": {
+      "circles": 3,
+      "triangles": 0,
+      "squares": 0
+    },
+    "ERROR": null
+  },
+  {
+    "id": "28.png",
+    "circles": 3,
+    "squares": 0,
+    "triangles": 0,
+    "gpt_response": "CIRCLES:3 TRIANGLES:0 SQUARES:0",
+    "Output": {
+      "circles": 3,
+      "triangles": 0,
+      "squares": 0
+    },
+    "ERROR": null
+  },
+  {
+    "id": "29.png",
+    "circles": 2,
+    "squares": 1,
+    "triangles": 0,
+    "gpt_response": "The image contains:\n\n- Circles: 2\n- Triangles: 0\n- Squares: 1\n\nCIRCLES:2 TRIANGLES:0 SQUARES:1",
+    "Output": {
+      "circles": 2,
+      "triangles": 0,
+      "squares": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "30.png",
+    "circles": 2,
+    "squares": 0,
+    "triangles": 1,
+    "gpt_response": "The image contains:\n\n- Circles: 2\n- Triangles: 1\n- Squares: 0\n\nCIRCLES:2 TRIANGLES:1 SQUARES:0",
+    "Output": {
+      "circles": 2,
+      "triangles": 1,
+      "squares": 0
+    },
+    "ERROR": null
+  },
+  {
+    "id": "31.png",
+    "circles": 0,
+    "squares": 3,
+    "triangles": 1,
+    "gpt_response": "CIRCLES:0 TRIANGLES:1 SQUARES:3",
+    "Output": {
+      "circles": 0,
+      "triangles": 1,
+      "squares": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "32.png",
+    "circles": 0,
+    "squares": 1,
+    "triangles": 3,
+    "gpt_response": "CIRCLES:0 TRIANGLES:3 SQUARES:1",
+    "Output": {
+      "circles": 0,
+      "triangles": 3,
+      "squares": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "33.png",
+    "circles": 0,
+    "squares": 2,
+    "triangles": 2,
+    "gpt_response": "The image contains:\n\n- Circles: 0\n- Triangles: 3\n- Squares: 2\n\nCIRCLES:0 TRIANGLES:3 SQUARES:2",
+    "Output": {
+      "circles": 0,
+      "triangles": 3,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "34.png",
+    "circles": 1,
+    "squares": 1,
+    "triangles": 2,
+    "gpt_response": "The image contains:\n\n- Circles: 1\n- Triangles: 2\n- Squares: 1\n\nCIRCLES:1 TRIANGLES:2 SQUARES:1",
+    "Output": {
+      "circles": 1,
+      "triangles": 2,
+      "squares": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "35.png",
+    "circles": 0,
+    "squares": 2,
+    "triangles": 2,
+    "gpt_response": "The image contains:\n\n- Circles: 0\n- Triangles: 2\n- Squares: 2\n\nCIRCLES:0 TRIANGLES:2 SQUARES:2",
+    "Output": {
+      "circles": 0,
+      "triangles": 2,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "36.png",
+    "circles": 2,
+    "squares": 2,
+    "triangles": 0,
+    "gpt_response": "CIRCLES:2 TRIANGLES:0 SQUARES:2",
+    "Output": {
+      "circles": 2,
+      "triangles": 0,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "37.png",
+    "circles": 1,
+    "squares": 1,
+    "triangles": 2,
+    "gpt_response": "The image contains:\n\n- 1 circle\n- 2 triangles\n- 1 square\n\nCIRCLES:1 TRIANGLES:2 SQUARES:1",
+    "Output": {
+      "circles": 1,
+      "triangles": 2,
+      "squares": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "38.png",
+    "circles": 0,
+    "squares": 3,
+    "triangles": 1,
+    "gpt_response": "The image contains:\n\n- Circles: 0\n- Triangles: 1\n- Squares: 3\n\nCIRCLES:0 TRIANGLES:1 SQUARES:3",
+    "Output": {
+      "circles": 0,
+      "triangles": 1,
+      "squares": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "39.png",
+    "circles": 0,
+    "squares": 2,
+    "triangles": 2,
+    "gpt_response": "The image contains:\n\n- Circles: 0\n- Triangles: 2\n- Squares: 2\n\nCIRCLES:0 TRIANGLES:2 SQUARES:2",
+    "Output": {
+      "circles": 0,
+      "triangles": 2,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "40.png",
+    "circles": 1,
+    "squares": 2,
+    "triangles": 1,
+    "gpt_response": "CIRCLES:1 TRIANGLES:1 SQUARES:2",
+    "Output": {
+      "circles": 1,
+      "triangles": 1,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "41.png",
+    "circles": 2,
+    "squares": 1,
+    "triangles": 2,
+    "gpt_response": "The image contains:\n\n- Circles: 2\n- Triangles: 2\n- Squares: 1\n\nCIRCLES:2 TRIANGLES:2 SQUARES:1",
+    "Output": {
+      "circles": 2,
+      "triangles": 2,
+      "squares": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "42.png",
+    "circles": 1,
+    "squares": 3,
+    "triangles": 1,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 1\n- Triangles: 1\n- Squares: 3\n\nCIRCLES:1 TRIANGLES:1 SQUARES:3",
+    "Output": {
+      "circles": 1,
+      "triangles": 1,
+      "squares": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "43.png",
+    "circles": 4,
+    "squares": 1,
+    "triangles": 0,
+    "gpt_response": "The image contains:\n\n- Circles: 3\n- Triangles: 0\n- Squares: 1\n\nCIRCLES:3 TRIANGLES:0 SQUARES:1",
+    "Output": {
+      "circles": 3,
+      "triangles": 0,
+      "squares": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "44.png",
+    "circles": 0,
+    "squares": 0,
+    "triangles": 5,
+    "gpt_response": "The image contains:\n\n- Circles: 0\n- Triangles: 5\n- Squares: 0\n\nCIRCLES:0 TRIANGLES:5 SQUARES:0",
+    "Output": {
+      "circles": 0,
+      "triangles": 5,
+      "squares": 0
+    },
+    "ERROR": null
+  },
+  {
+    "id": "45.png",
+    "circles": 1,
+    "squares": 2,
+    "triangles": 2,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 1\n- Triangles: 2\n- Squares: 2\n\nCIRCLES:1 TRIANGLES:2 SQUARES:2",
+    "Output": {
+      "circles": 1,
+      "triangles": 2,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "46.png",
+    "circles": 1,
+    "squares": 2,
+    "triangles": 2,
+    "gpt_response": "The image contains:\n\n- Circles: 1\n- Triangles: 2\n- Squares: 2\n\nCIRCLES:1 TRIANGLES:2 SQUARES:2",
+    "Output": {
+      "circles": 1,
+      "triangles": 2,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "47.png",
+    "circles": 2,
+    "squares": 1,
+    "triangles": 2,
+    "gpt_response": "The image contains:\n\n- Circles: 2\n- Triangles: 2\n- Squares: 1\n\nCIRCLES:2 TRIANGLES:2 SQUARES:1",
+    "Output": {
+      "circles": 2,
+      "triangles": 2,
+      "squares": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "48.png",
+    "circles": 2,
+    "squares": 3,
+    "triangles": 0,
+    "gpt_response": "The image contains:\n\n- Circles: 2\n- Triangles: 0\n- Squares: 3\n\nCIRCLES:2 TRIANGLES:0 SQUARES:3",
+    "Output": {
+      "circles": 2,
+      "triangles": 0,
+      "squares": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "49.png",
+    "circles": 3,
+    "squares": 2,
+    "triangles": 0,
+    "gpt_response": "The image contains:\n\n- Circles: 3\n- Triangles: 0\n- Squares: 2\n\nCIRCLES:3 TRIANGLES:0 SQUARES:2",
+    "Output": {
+      "circles": 3,
+      "triangles": 0,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "50.png",
+    "circles": 1,
+    "squares": 0,
+    "triangles": 4,
+    "gpt_response": "The image contains:\n\n- Circles: 1\n- Triangles: 4\n- Squares: 0\n\nCIRCLES:1 TRIANGLES:4 SQUARES:0",
+    "Output": {
+      "circles": 1,
+      "triangles": 4,
+      "squares": 0
+    },
+    "ERROR": null
+  },
+  {
+    "id": "51.png",
+    "circles": 1,
+    "squares": 1,
+    "triangles": 4,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 1\n- Triangles: 4\n- Squares: 1\n\nCIRCLES:1 TRIANGLES:4 SQUARES:1",
+    "Output": {
+      "circles": 1,
+      "triangles": 4,
+      "squares": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "52.png",
+    "circles": 1,
+    "squares": 3,
+    "triangles": 2,
+    "gpt_response": "The image contains:\n\n- Circles: 1\n- Triangles: 2\n- Squares: 3\n\nCIRCLES:1 TRIANGLES:2 SQUARES:3",
+    "Output": {
+      "circles": 1,
+      "triangles": 2,
+      "squares": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "53.png",
+    "circles": 2,
+    "squares": 2,
+    "triangles": 2,
+    "gpt_response": "CIRCLES:2 TRIANGLES:3 SQUARES:2",
+    "Output": {
+      "circles": 2,
+      "triangles": 3,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "54.png",
+    "circles": 1,
+    "squares": 3,
+    "triangles": 2,
+    "gpt_response": "The image contains:\n\n- 1 circle\n- 2 triangles\n- 3 squares\n\nCIRCLES:1 TRIANGLES:2 SQUARES:3",
+    "Output": {
+      "circles": 1,
+      "triangles": 2,
+      "squares": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "55.png",
+    "circles": 2,
+    "squares": 3,
+    "triangles": 1,
+    "gpt_response": "The image contains:\n\n- Circles: 2\n- Triangles: 1\n- Squares: 3\n\nCIRCLES:2 TRIANGLES:1 SQUARES:3",
+    "Output": {
+      "circles": 2,
+      "triangles": 1,
+      "squares": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "56.png",
+    "circles": 2,
+    "squares": 1,
+    "triangles": 3,
+    "gpt_response": "The image contains:\n\n- Circles: 2\n- Triangles: 3\n- Squares: 1\n\nCIRCLES:2 TRIANGLES:3 SQUARES:1",
+    "Output": {
+      "circles": 2,
+      "triangles": 3,
+      "squares": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "57.png",
+    "circles": 2,
+    "squares": 2,
+    "triangles": 2,
+    "gpt_response": "The image contains:\n\n- Circles: 2\n- Triangles: 2\n- Squares: 2\n\nCIRCLES:2 TRIANGLES:2 SQUARES:2",
+    "Output": {
+      "circles": 2,
+      "triangles": 2,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "58.png",
+    "circles": 2,
+    "squares": 2,
+    "triangles": 2,
+    "gpt_response": "The image contains:\n\n- 2 circles\n- 2 triangles\n- 2 squares\n\nCIRCLES:2 TRIANGLES:2 SQUARES:2",
+    "Output": {
+      "circles": 2,
+      "triangles": 2,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "59.png",
+    "circles": 1,
+    "squares": 3,
+    "triangles": 2,
+    "gpt_response": "Circles: 1\nTriangles: 2\nSquares: 3\n\nCIRCLES:1 TRIANGLES:2 SQUARES:3",
+    "Output": {
+      "circles": 1,
+      "triangles": 2,
+      "squares": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "60.png",
+    "circles": 0,
+    "squares": 3,
+    "triangles": 3,
+    "gpt_response": "CIRCLES:0 TRIANGLES:4 SQUARES:4",
+    "Output": {
+      "circles": 0,
+      "triangles": 4,
+      "squares": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "61.png",
+    "circles": 4,
+    "squares": 1,
+    "triangles": 2,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 4\n- Triangles: 2\n- Squares: 1\n\nCIRCLES:4 TRIANGLES:2 SQUARES:1",
+    "Output": {
+      "circles": 4,
+      "triangles": 2,
+      "squares": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "62.png",
+    "circles": 2,
+    "squares": 2,
+    "triangles": 3,
+    "gpt_response": "Circles: 2\nTriangles: 3\nSquares: 2\n\nCIRCLES:2 TRIANGLES:3 SQUARES:2",
+    "Output": {
+      "circles": 2,
+      "triangles": 3,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "63.png",
+    "circles": 1,
+    "squares": 6,
+    "triangles": 0,
+    "gpt_response": "The image contains:\n\n- Circles: 1\n- Triangles: 0\n- Squares: 5\n\nCIRCLES:1 TRIANGLES:0 SQUARES:5",
+    "Output": {
+      "circles": 1,
+      "triangles": 0,
+      "squares": 5
+    },
+    "ERROR": null
+  },
+  {
+    "id": "64.png",
+    "circles": 3,
+    "squares": 3,
+    "triangles": 1,
+    "gpt_response": "The image contains:\n\n- Circles: 3\n- Triangles: 1\n- Squares: 4\n\nCIRCLES:3 TRIANGLES:1 SQUARES:4",
+    "Output": {
+      "circles": 3,
+      "triangles": 1,
+      "squares": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "65.png",
+    "circles": 2,
+    "squares": 2,
+    "triangles": 3,
+    "gpt_response": "The image contains:\n\n- Circles: 2\n- Triangles: 3\n- Squares: 2\n\nCIRCLES:2 TRIANGLES:3 SQUARES:2",
+    "Output": {
+      "circles": 2,
+      "triangles": 3,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "66.png",
+    "circles": 2,
+    "squares": 4,
+    "triangles": 1,
+    "gpt_response": "The image contains:\n\n- Circles: 2\n- Triangles: 1\n- Squares: 4\n\nCIRCLES:2 TRIANGLES:1 SQUARES:4",
+    "Output": {
+      "circles": 2,
+      "triangles": 1,
+      "squares": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "67.png",
+    "circles": 2,
+    "squares": 4,
+    "triangles": 1,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 2\n- Triangles: 1\n- Squares: 4\n\nCIRCLES:2 TRIANGLES:1 SQUARES:4",
+    "Output": {
+      "circles": 2,
+      "triangles": 1,
+      "squares": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "68.png",
+    "circles": 0,
+    "squares": 7,
+    "triangles": 0,
+    "gpt_response": "CIRCLES:0 TRIANGLES:0 SQUARES:6",
+    "Output": {
+      "circles": 0,
+      "triangles": 0,
+      "squares": 6
+    },
+    "ERROR": null
+  },
+  {
+    "id": "69.png",
+    "circles": 5,
+    "squares": 1,
+    "triangles": 1,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 5\n- Triangles: 1\n- Squares: 1\n\nCIRCLES:5 TRIANGLES:1 SQUARES:1",
+    "Output": {
+      "circles": 5,
+      "triangles": 1,
+      "squares": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "70.png",
+    "circles": 1,
+    "squares": 4,
+    "triangles": 2,
+    "gpt_response": "The image contains:\n\n- Circles: 1\n- Triangles: 2\n- Squares: 4\n\nCIRCLES:1 TRIANGLES:2 SQUARES:4",
+    "Output": {
+      "circles": 1,
+      "triangles": 2,
+      "squares": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "71.png",
+    "circles": 1,
+    "squares": 2,
+    "triangles": 5,
+    "gpt_response": "The image contains:\n\n- Circles: 1\n- Triangles: 5\n- Squares: 2\n\nCIRCLES:1 TRIANGLES:5 SQUARES:2",
+    "Output": {
+      "circles": 1,
+      "triangles": 5,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "72.png",
+    "circles": 1,
+    "squares": 5,
+    "triangles": 2,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 1\n- Triangles: 2\n- Squares: 5\n\nCIRCLES:1 TRIANGLES:2 SQUARES:5",
+    "Output": {
+      "circles": 1,
+      "triangles": 2,
+      "squares": 5
+    },
+    "ERROR": null
+  },
+  {
+    "id": "73.png",
+    "circles": 3,
+    "squares": 2,
+    "triangles": 3,
+    "gpt_response": "The image contains:\n\n- Circles: 3\n- Triangles: 3\n- Squares: 2\n\nCIRCLES:3 TRIANGLES:3 SQUARES:2",
+    "Output": {
+      "circles": 3,
+      "triangles": 3,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "74.png",
+    "circles": 6,
+    "squares": 0,
+    "triangles": 2,
+    "gpt_response": "The image contains:\n\n- Circles: 6\n- Triangles: 3\n- Squares: 0\n\nCIRCLES:6 TRIANGLES:3 SQUARES:0",
+    "Output": {
+      "circles": 6,
+      "triangles": 3,
+      "squares": 0
+    },
+    "ERROR": null
+  },
+  {
+    "id": "75.png",
+    "circles": 4,
+    "squares": 2,
+    "triangles": 2,
+    "gpt_response": "The image contains:\n\n- Circles: 4\n- Triangles: 2\n- Squares: 2\n\nCIRCLES:4 TRIANGLES:2 SQUARES:2",
+    "Output": {
+      "circles": 4,
+      "triangles": 2,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "76.png",
+    "circles": 2,
+    "squares": 4,
+    "triangles": 2,
+    "gpt_response": "CIRCLES:2 TRIANGLES:2 SQUARES:4",
+    "Output": {
+      "circles": 2,
+      "triangles": 2,
+      "squares": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "77.png",
+    "circles": 2,
+    "squares": 4,
+    "triangles": 2,
+    "gpt_response": "The image contains:\n\n- Circles: 2\n- Triangles: 2\n- Squares: 4\n\nCIRCLES:2 TRIANGLES:2 SQUARES:4",
+    "Output": {
+      "circles": 2,
+      "triangles": 2,
+      "squares": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "78.png",
+    "circles": 2,
+    "squares": 4,
+    "triangles": 2,
+    "gpt_response": "The image contains:\n\n- Circles: 2\n- Triangles: 2\n- Squares: 4\n\nCIRCLES:2 TRIANGLES:2 SQUARES:4",
+    "Output": {
+      "circles": 2,
+      "triangles": 2,
+      "squares": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "79.png",
+    "circles": 2,
+    "squares": 2,
+    "triangles": 4,
+    "gpt_response": "The image contains:\n\n- Circles: 2\n- Triangles: 4\n- Squares: 2\n\nCIRCLES:2 TRIANGLES:4 SQUARES:2",
+    "Output": {
+      "circles": 2,
+      "triangles": 4,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "80.png",
+    "circles": 2,
+    "squares": 4,
+    "triangles": 2,
+    "gpt_response": "The image contains:\n\n- Circles: 2\n- Triangles: 2\n- Squares: 4\n\nCIRCLES:2 TRIANGLES:2 SQUARES:4",
+    "Output": {
+      "circles": 2,
+      "triangles": 2,
+      "squares": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "81.png",
+    "circles": 2,
+    "squares": 3,
+    "triangles": 4,
+    "gpt_response": "The image contains:\n\n- Circles: 2\n- Triangles: 5\n- Squares: 3\n\nCIRCLES:2 TRIANGLES:5 SQUARES:3",
+    "Output": {
+      "circles": 2,
+      "triangles": 5,
+      "squares": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "82.png",
+    "circles": 2,
+    "squares": 3,
+    "triangles": 4,
+    "gpt_response": "The image contains:\n\n- Circles: 2\n- Triangles: 4\n- Squares: 3\n\nCIRCLES:2 TRIANGLES:4 SQUARES:3",
+    "Output": {
+      "circles": 2,
+      "triangles": 4,
+      "squares": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "83.png",
+    "circles": 3,
+    "squares": 4,
+    "triangles": 2,
+    "gpt_response": "The image contains:\n\n- Circles: 3\n- Triangles: 2\n- Squares: 3\n\nCIRCLES:3 TRIANGLES:2 SQUARES:3",
+    "Output": {
+      "circles": 3,
+      "triangles": 2,
+      "squares": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "84.png",
+    "circles": 2,
+    "squares": 3,
+    "triangles": 4,
+    "gpt_response": "CIRCLES:2 TRIANGLES:4 SQUARES:3",
+    "Output": {
+      "circles": 2,
+      "triangles": 4,
+      "squares": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "85.png",
+    "circles": 3,
+    "squares": 2,
+    "triangles": 4,
+    "gpt_response": "The image contains:\n\n- Circles: 3\n- Triangles: 4\n- Squares: 2\n\nCIRCLES:3 TRIANGLES:4 SQUARES:2",
+    "Output": {
+      "circles": 3,
+      "triangles": 4,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "86.png",
+    "circles": 6,
+    "squares": 0,
+    "triangles": 3,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 5\n- Triangles: 3\n- Squares: 0\n\nCIRCLES:5 TRIANGLES:3 SQUARES:0",
+    "Output": {
+      "circles": 5,
+      "triangles": 3,
+      "squares": 0
+    },
+    "ERROR": null
+  },
+  {
+    "id": "87.png",
+    "circles": 4,
+    "squares": 2,
+    "triangles": 3,
+    "gpt_response": "CIRCLES:3 TRIANGLES:3 SQUARES:2",
+    "Output": {
+      "circles": 3,
+      "triangles": 3,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "88.png",
+    "circles": 3,
+    "squares": 3,
+    "triangles": 3,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 2\n- Triangles: 3\n- Squares: 3\n\nCIRCLES:2 TRIANGLES:3 SQUARES:3",
+    "Output": {
+      "circles": 2,
+      "triangles": 3,
+      "squares": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "89.png",
+    "circles": 2,
+    "squares": 5,
+    "triangles": 2,
+    "gpt_response": "The image contains:\n\n- Circles: 2\n- Triangles: 2\n- Squares: 5\n\nCIRCLES:2 TRIANGLES:2 SQUARES:5",
+    "Output": {
+      "circles": 2,
+      "triangles": 2,
+      "squares": 5
+    },
+    "ERROR": null
+  },
+  {
+    "id": "90.png",
+    "circles": 1,
+    "squares": 7,
+    "triangles": 1,
+    "gpt_response": "The image contains:\n\n- Circles: 1\n- Triangles: 1\n- Squares: 7\n\nCIRCLES:1 TRIANGLES:1 SQUARES:7",
+    "Output": {
+      "circles": 1,
+      "triangles": 1,
+      "squares": 7
+    },
+    "ERROR": null
+  },
+  {
+    "id": "91.png",
+    "circles": 3,
+    "squares": 2,
+    "triangles": 5,
+    "gpt_response": "Circles: 2\nTriangles: 5\nSquares: 2\n\nCIRCLES:2 TRIANGLES:5 SQUARES:2",
+    "Output": {
+      "circles": 2,
+      "triangles": 5,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "92.png",
+    "circles": 3,
+    "squares": 4,
+    "triangles": 3,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 3\n- Triangles: 3\n- Squares: 4\n\nCIRCLES:3 TRIANGLES:3 SQUARES:4",
+    "Output": {
+      "circles": 3,
+      "triangles": 3,
+      "squares": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "93.png",
+    "circles": 5,
+    "squares": 4,
+    "triangles": 1,
+    "gpt_response": "Circles: 4\nTriangles: 1\nSquares: 4\n\nCIRCLES:4 TRIANGLES:1 SQUARES:4",
+    "Output": {
+      "circles": 4,
+      "triangles": 1,
+      "squares": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "94.png",
+    "circles": 5,
+    "squares": 4,
+    "triangles": 1,
+    "gpt_response": "The image contains:\n\n- Circles: 4\n- Triangles: 1\n- Squares: 4\n\nCIRCLES:4 TRIANGLES:1 SQUARES:4",
+    "Output": {
+      "circles": 4,
+      "triangles": 1,
+      "squares": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "95.png",
+    "circles": 6,
+    "squares": 3,
+    "triangles": 1,
+    "gpt_response": "Circles: 5\nTriangles: 1\nSquares: 3\n\nCIRCLES:5 TRIANGLES:1 SQUARES:3",
+    "Output": {
+      "circles": 5,
+      "triangles": 1,
+      "squares": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "96.png",
+    "circles": 5,
+    "squares": 2,
+    "triangles": 3,
+    "gpt_response": "Circles: 3\nTriangles: 3\nSquares: 2\n\nCIRCLES:3 TRIANGLES:3 SQUARES:2",
+    "Output": {
+      "circles": 3,
+      "triangles": 3,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "97.png",
+    "circles": 1,
+    "squares": 3,
+    "triangles": 6,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 1\n- Triangles: 6\n- Squares: 3\n\nCIRCLES:1 TRIANGLES:6 SQUARES:3",
+    "Output": {
+      "circles": 1,
+      "triangles": 6,
+      "squares": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "98.png",
+    "circles": 3,
+    "squares": 2,
+    "triangles": 5,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 3\n- Triangles: 5\n- Squares: 2\n\nCIRCLES:3 TRIANGLES:5 SQUARES:2",
+    "Output": {
+      "circles": 3,
+      "triangles": 5,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "99.png",
+    "circles": 4,
+    "squares": 3,
+    "triangles": 3,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 4\n- Triangles: 4\n- Squares: 3\n\nCIRCLES:4 TRIANGLES:4 SQUARES:3",
+    "Output": {
+      "circles": 4,
+      "triangles": 4,
+      "squares": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "100.png",
+    "circles": 4,
+    "squares": 3,
+    "triangles": 3,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 3\n- Triangles: 3\n- Squares: 3\n\nCIRCLES:3 TRIANGLES:3 SQUARES:3",
+    "Output": {
+      "circles": 3,
+      "triangles": 3,
+      "squares": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "101.png",
+    "circles": 2,
+    "squares": 6,
+    "triangles": 3,
+    "gpt_response": "The image contains:\n\n- Circles: 2\n- Triangles: 4\n- Squares: 5\n\nCIRCLES:2 TRIANGLES:4 SQUARES:5",
+    "Output": {
+      "circles": 2,
+      "triangles": 4,
+      "squares": 5
+    },
+    "ERROR": null
+  },
+  {
+    "id": "102.png",
+    "circles": 2,
+    "squares": 5,
+    "triangles": 4,
+    "gpt_response": "The image contains:\n\n- Circles: 2\n- Triangles: 4\n- Squares: 5\n\nCIRCLES:2 TRIANGLES:4 SQUARES:5",
+    "Output": {
+      "circles": 2,
+      "triangles": 4,
+      "squares": 5
+    },
+    "ERROR": null
+  },
+  {
+    "id": "103.png",
+    "circles": 4,
+    "squares": 2,
+    "triangles": 5,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 4\n- Triangles: 5\n- Squares: 2\n\nCIRCLES:4 TRIANGLES:5 SQUARES:2",
+    "Output": {
+      "circles": 4,
+      "triangles": 5,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "104.png",
+    "circles": 1,
+    "squares": 5,
+    "triangles": 5,
+    "gpt_response": "CIRCLES:1 TRIANGLES:6 SQUARES:5",
+    "Output": {
+      "circles": 1,
+      "triangles": 6,
+      "squares": 5
+    },
+    "ERROR": null
+  },
+  {
+    "id": "105.png",
+    "circles": 4,
+    "squares": 5,
+    "triangles": 2,
+    "gpt_response": "CIRCLES:3 TRIANGLES:2 SQUARES:4",
+    "Output": {
+      "circles": 3,
+      "triangles": 2,
+      "squares": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "106.png",
+    "circles": 5,
+    "squares": 2,
+    "triangles": 4,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 4\n- Triangles: 4\n- Squares: 2\n\nCIRCLES:4 TRIANGLES:4 SQUARES:2",
+    "Output": {
+      "circles": 4,
+      "triangles": 4,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "107.png",
+    "circles": 3,
+    "squares": 2,
+    "triangles": 6,
+    "gpt_response": "CIRCLES:3 TRIANGLES:6 SQUARES:2",
+    "Output": {
+      "circles": 3,
+      "triangles": 6,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "108.png",
+    "circles": 4,
+    "squares": 5,
+    "triangles": 2,
+    "gpt_response": "The image contains:\n\n- Circles: 4\n- Triangles: 2\n- Squares: 5\n\nCIRCLES:4 TRIANGLES:2 SQUARES:5",
+    "Output": {
+      "circles": 4,
+      "triangles": 2,
+      "squares": 5
+    },
+    "ERROR": null
+  },
+  {
+    "id": "109.png",
+    "circles": 5,
+    "squares": 4,
+    "triangles": 2,
+    "gpt_response": "Circles: 5\nTriangles: 2\nSquares: 4\n\nCIRCLES:5 TRIANGLES:2 SQUARES:4",
+    "Output": {
+      "circles": 5,
+      "triangles": 2,
+      "squares": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "110.png",
+    "circles": 5,
+    "squares": 2,
+    "triangles": 4,
+    "gpt_response": "The image contains:\n\n- Circles: 4\n- Triangles: 4\n- Squares: 2\n\nCIRCLES:4 TRIANGLES:4 SQUARES:2",
+    "Output": {
+      "circles": 4,
+      "triangles": 4,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "111.png",
+    "circles": 4,
+    "squares": 4,
+    "triangles": 4,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 3\n- Triangles: 4\n- Squares: 3\n\nCIRCLES:3 TRIANGLES:4 SQUARES:3",
+    "Output": {
+      "circles": 3,
+      "triangles": 4,
+      "squares": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "112.png",
+    "circles": 0,
+    "squares": 5,
+    "triangles": 7,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 0\n- Triangles: 7\n- Squares: 5\n\nCIRCLES:0 TRIANGLES:7 SQUARES:5",
+    "Output": {
+      "circles": 0,
+      "triangles": 7,
+      "squares": 5
+    },
+    "ERROR": null
+  },
+  {
+    "id": "113.png",
+    "circles": 1,
+    "squares": 2,
+    "triangles": 9,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 1\n- Triangles: 8\n- Squares: 2\n\nCIRCLES:1 TRIANGLES:8 SQUARES:2",
+    "Output": {
+      "circles": 1,
+      "triangles": 8,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "114.png",
+    "circles": 5,
+    "squares": 5,
+    "triangles": 2,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 5\n- Triangles: 2\n- Squares: 4\n\nCIRCLES:5 TRIANGLES:2 SQUARES:4",
+    "Output": {
+      "circles": 5,
+      "triangles": 2,
+      "squares": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "115.png",
+    "circles": 4,
+    "squares": 5,
+    "triangles": 3,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 3\n- Triangles: 3\n- Squares: 4\n\nCIRCLES:3 TRIANGLES:3 SQUARES:4",
+    "Output": {
+      "circles": 3,
+      "triangles": 3,
+      "squares": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "116.png",
+    "circles": 4,
+    "squares": 1,
+    "triangles": 7,
+    "gpt_response": "CIRCLES:3 TRIANGLES:7 SQUARES:1",
+    "Output": {
+      "circles": 3,
+      "triangles": 7,
+      "squares": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "117.png",
+    "circles": 3,
+    "squares": 6,
+    "triangles": 3,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 3\n- Triangles: 3\n- Squares: 5\n\nCIRCLES:3 TRIANGLES:3 SQUARES:5",
+    "Output": {
+      "circles": 3,
+      "triangles": 3,
+      "squares": 5
+    },
+    "ERROR": null
+  },
+  {
+    "id": "118.png",
+    "circles": 2,
+    "squares": 3,
+    "triangles": 7,
+    "gpt_response": "Circles: 2\nTriangles: 8\nSquares: 3\n\nCIRCLES:2 TRIANGLES:8 SQUARES:3",
+    "Output": {
+      "circles": 2,
+      "triangles": 8,
+      "squares": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "119.png",
+    "circles": 5,
+    "squares": 1,
+    "triangles": 6,
+    "gpt_response": "The image contains:\n\n- Circles: 5\n- Triangles: 7\n- Squares: 1\n\nCIRCLES:5 TRIANGLES:7 SQUARES:1",
+    "Output": {
+      "circles": 5,
+      "triangles": 7,
+      "squares": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "120.png",
+    "circles": 6,
+    "squares": 3,
+    "triangles": 3,
+    "gpt_response": "The image contains:\n\n- Circles: 5\n- Triangles: 3\n- Squares: 4\n\nCIRCLES:5 TRIANGLES:3 SQUARES:4",
+    "Output": {
+      "circles": 5,
+      "triangles": 3,
+      "squares": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "121.png",
+    "circles": 4,
+    "squares": 4,
+    "triangles": 5,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 4\n- Triangles: 5\n- Squares: 3\n\nCIRCLES:4 TRIANGLES:5 SQUARES:3",
+    "Output": {
+      "circles": 4,
+      "triangles": 5,
+      "squares": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "122.png",
+    "circles": 2,
+    "squares": 2,
+    "triangles": 9,
+    "gpt_response": "CIRCLES:2 TRIANGLES:9 SQUARES:2",
+    "Output": {
+      "circles": 2,
+      "triangles": 9,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "123.png",
+    "circles": 4,
+    "squares": 4,
+    "triangles": 5,
+    "gpt_response": "Circles: 3\n\nTriangles: 5\n\nSquares: 4\n\nCIRCLES:3 TRIANGLES:5 SQUARES:4",
+    "Output": {
+      "circles": 3,
+      "triangles": 5,
+      "squares": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "124.png",
+    "circles": 6,
+    "squares": 5,
+    "triangles": 2,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 4\n- Triangles: 2\n- Squares: 4\n\nCIRCLES:4 TRIANGLES:2 SQUARES:4",
+    "Output": {
+      "circles": 4,
+      "triangles": 2,
+      "squares": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "125.png",
+    "circles": 5,
+    "squares": 4,
+    "triangles": 4,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 4\n- Triangles: 5\n- Squares: 4\n\nCIRCLES:4 TRIANGLES:5 SQUARES:4",
+    "Output": {
+      "circles": 4,
+      "triangles": 5,
+      "squares": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "126.png",
+    "circles": 6,
+    "squares": 4,
+    "triangles": 3,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 5\n- Triangles: 3\n- Squares: 4\n\nCIRCLES:5 TRIANGLES:3 SQUARES:4",
+    "Output": {
+      "circles": 5,
+      "triangles": 3,
+      "squares": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "127.png",
+    "circles": 3,
+    "squares": 4,
+    "triangles": 6,
+    "gpt_response": "The image contains:\n\n- Circles: 3\n- Triangles: 6\n- Squares: 4\n\nCIRCLES:3 TRIANGLES:6 SQUARES:4",
+    "Output": {
+      "circles": 3,
+      "triangles": 6,
+      "squares": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "128.png",
+    "circles": 4,
+    "squares": 5,
+    "triangles": 4,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 3\n- Triangles: 4\n- Squares: 4\n\nCIRCLES:3 TRIANGLES:4 SQUARES:4",
+    "Output": {
+      "circles": 3,
+      "triangles": 4,
+      "squares": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "129.png",
+    "circles": 4,
+    "squares": 6,
+    "triangles": 3,
+    "gpt_response": "CIRCLES:3 TRIANGLES:3 SQUARES:5",
+    "Output": {
+      "circles": 3,
+      "triangles": 3,
+      "squares": 5
+    },
+    "ERROR": null
+  },
+  {
+    "id": "130.png",
+    "circles": 5,
+    "squares": 4,
+    "triangles": 4,
+    "gpt_response": "The image contains:\n\n- Circles: 5\n- Triangles: 4\n- Squares: 4\n\nCIRCLES:5 TRIANGLES:4 SQUARES:4",
+    "Output": {
+      "circles": 5,
+      "triangles": 4,
+      "squares": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "131.png",
+    "circles": 4,
+    "squares": 8,
+    "triangles": 2,
+    "gpt_response": "The image contains:\n\n- Circles: 4\n- Triangles: 2\n- Squares: 8\n\nCIRCLES:4 TRIANGLES:2 SQUARES:8",
+    "Output": {
+      "circles": 4,
+      "triangles": 2,
+      "squares": 8
+    },
+    "ERROR": null
+  },
+  {
+    "id": "132.png",
+    "circles": 5,
+    "squares": 3,
+    "triangles": 6,
+    "gpt_response": "The image contains:\n\n- Circles: 4\n- Triangles: 6\n- Squares: 3\n\nCIRCLES:4 TRIANGLES:6 SQUARES:3",
+    "Output": {
+      "circles": 4,
+      "triangles": 6,
+      "squares": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "133.png",
+    "circles": 6,
+    "squares": 4,
+    "triangles": 4,
+    "gpt_response": "The image contains:\n\n- Circles: 5\n- Triangles: 5\n- Squares: 3\n\nCIRCLES:5 TRIANGLES:5 SQUARES:3",
+    "Output": {
+      "circles": 5,
+      "triangles": 5,
+      "squares": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "134.png",
+    "circles": 3,
+    "squares": 7,
+    "triangles": 4,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 3\n- Triangles: 4\n- Squares: 5\n\nCIRCLES:3 TRIANGLES:4 SQUARES:5",
+    "Output": {
+      "circles": 3,
+      "triangles": 4,
+      "squares": 5
+    },
+    "ERROR": null
+  },
+  {
+    "id": "135.png",
+    "circles": 6,
+    "squares": 4,
+    "triangles": 4,
+    "gpt_response": "The image contains:\n\n- Circles: 6\n- Triangles: 5\n- Squares: 4\n\nCIRCLES:6 TRIANGLES:5 SQUARES:4",
+    "Output": {
+      "circles": 6,
+      "triangles": 5,
+      "squares": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "136.png",
+    "circles": 7,
+    "squares": 1,
+    "triangles": 6,
+    "gpt_response": "CIRCLES:6 TRIANGLES:7 SQUARES:1",
+    "Output": {
+      "circles": 6,
+      "triangles": 7,
+      "squares": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "137.png",
+    "circles": 7,
+    "squares": 5,
+    "triangles": 2,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 5\n- Triangles: 2\n- Squares: 4\n\nCIRCLES:5 TRIANGLES:2 SQUARES:4",
+    "Output": {
+      "circles": 5,
+      "triangles": 2,
+      "squares": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "138.png",
+    "circles": 6,
+    "squares": 5,
+    "triangles": 3,
+    "gpt_response": "Circles: 5\n\nTriangles: 3\n\nSquares: 4\n\nCIRCLES:5 TRIANGLES:3 SQUARES:4",
+    "Output": {
+      "circles": 5,
+      "triangles": 3,
+      "squares": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "139.png",
+    "circles": 1,
+    "squares": 5,
+    "triangles": 8,
+    "gpt_response": "CIRCLES:1 TRIANGLES:7 SQUARES:6",
+    "Output": {
+      "circles": 1,
+      "triangles": 7,
+      "squares": 6
+    },
+    "ERROR": null
+  },
+  {
+    "id": "140.png",
+    "circles": 6,
+    "squares": 3,
+    "triangles": 5,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 5\n- Triangles: 5\n- Squares: 3\n\nCIRCLES:5 TRIANGLES:5 SQUARES:3",
+    "Output": {
+      "circles": 5,
+      "triangles": 5,
+      "squares": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "141.png",
+    "circles": 6,
+    "squares": 4,
+    "triangles": 5,
+    "gpt_response": "Circles: 5\nTriangles: 5\nSquares: 4\n\nCIRCLES:5 TRIANGLES:5 SQUARES:4",
+    "Output": {
+      "circles": 5,
+      "triangles": 5,
+      "squares": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "142.png",
+    "circles": 4,
+    "squares": 5,
+    "triangles": 6,
+    "gpt_response": "Circles: 3\n\nTriangles: 6\n\nSquares: 6\n\nCIRCLES:3 TRIANGLES:6 SQUARES:6",
+    "Output": {
+      "circles": 3,
+      "triangles": 6,
+      "squares": 6
+    },
+    "ERROR": null
+  },
+  {
+    "id": "143.png",
+    "circles": 1,
+    "squares": 5,
+    "triangles": 9,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 1\n- Triangles: 9\n- Squares: 4\n\nCIRCLES:1 TRIANGLES:9 SQUARES:4",
+    "Output": {
+      "circles": 1,
+      "triangles": 9,
+      "squares": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "144.png",
+    "circles": 2,
+    "squares": 7,
+    "triangles": 6,
+    "gpt_response": "CIRCLES:2 TRIANGLES:6 SQUARES:6",
+    "Output": {
+      "circles": 2,
+      "triangles": 6,
+      "squares": 6
+    },
+    "ERROR": null
+  },
+  {
+    "id": "145.png",
+    "circles": 3,
+    "squares": 3,
+    "triangles": 9,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 3\n- Triangles: 9\n- Squares: 3\n\nCIRCLES:3 TRIANGLES:9 SQUARES:3",
+    "Output": {
+      "circles": 3,
+      "triangles": 9,
+      "squares": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "146.png",
+    "circles": 7,
+    "squares": 3,
+    "triangles": 5,
+    "gpt_response": "The image contains:\n\n- Circles: 6\n- Triangles: 5\n- Squares: 3\n\nCIRCLES:6 TRIANGLES:5 SQUARES:3",
+    "Output": {
+      "circles": 6,
+      "triangles": 5,
+      "squares": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "147.png",
+    "circles": 6,
+    "squares": 4,
+    "triangles": 5,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 5\n- Triangles: 5\n- Squares: 5\n\nCIRCLES:5 TRIANGLES:5 SQUARES:5",
+    "Output": {
+      "circles": 5,
+      "triangles": 5,
+      "squares": 5
+    },
+    "ERROR": null
+  },
+  {
+    "id": "148.png",
+    "circles": 7,
+    "squares": 2,
+    "triangles": 6,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 6\n- Triangles: 6\n- Squares: 2\n\nCIRCLES:6 TRIANGLES:6 SQUARES:2",
+    "Output": {
+      "circles": 6,
+      "triangles": 6,
+      "squares": 2
+    },
+    "ERROR": null
+  },
+  {
+    "id": "149.png",
+    "circles": 5,
+    "squares": 6,
+    "triangles": 4,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 5\n- Triangles: 5\n- Squares: 5\n\nCIRCLES:5 TRIANGLES:5 SQUARES:5",
+    "Output": {
+      "circles": 5,
+      "triangles": 5,
+      "squares": 5
+    },
+    "ERROR": null
+  },
+  {
+    "id": "150.png",
+    "circles": 5,
+    "squares": 8,
+    "triangles": 2,
+    "gpt_response": "The image contains:\n\n- Circles: 4\n- Triangles: 2\n- Squares: 8\n\nCIRCLES:4 TRIANGLES:2 SQUARES:8",
+    "Output": {
+      "circles": 4,
+      "triangles": 2,
+      "squares": 8
+    },
+    "ERROR": null
+  },
+  {
+    "id": "151.png",
+    "circles": 8,
+    "squares": 3,
+    "triangles": 5,
+    "gpt_response": "Circles: 6\nTriangles: 6\nSquares: 4\n\nCIRCLES:6 TRIANGLES:6 SQUARES:4",
+    "Output": {
+      "circles": 6,
+      "triangles": 6,
+      "squares": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "152.png",
+    "circles": 7,
+    "squares": 5,
+    "triangles": 4,
+    "gpt_response": "CIRCLES:6 TRIANGLES:5 SQUARES:5",
+    "Output": {
+      "circles": 6,
+      "triangles": 5,
+      "squares": 5
+    },
+    "ERROR": null
+  },
+  {
+    "id": "153.png",
+    "circles": 7,
+    "squares": 7,
+    "triangles": 2,
+    "gpt_response": "CIRCLES:6 TRIANGLES:3 SQUARES:7",
+    "Output": {
+      "circles": 6,
+      "triangles": 3,
+      "squares": 7
+    },
+    "ERROR": null
+  },
+  {
+    "id": "154.png",
+    "circles": 6,
+    "squares": 6,
+    "triangles": 4,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 5\n- Triangles: 5\n- Squares: 6\n\nCIRCLES:5 TRIANGLES:5 SQUARES:6",
+    "Output": {
+      "circles": 5,
+      "triangles": 5,
+      "squares": 6
+    },
+    "ERROR": null
+  },
+  {
+    "id": "155.png",
+    "circles": 4,
+    "squares": 6,
+    "triangles": 6,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 4\n- Triangles: 6\n- Squares: 5\n\nCIRCLES:4 TRIANGLES:6 SQUARES:5",
+    "Output": {
+      "circles": 4,
+      "triangles": 6,
+      "squares": 5
+    },
+    "ERROR": null
+  },
+  {
+    "id": "156.png",
+    "circles": 6,
+    "squares": 7,
+    "triangles": 3,
+    "gpt_response": "Circles: 5\nTriangles: 3\nSquares: 6\n\nCIRCLES:5 TRIANGLES:3 SQUARES:6",
+    "Output": {
+      "circles": 5,
+      "triangles": 3,
+      "squares": 6
+    },
+    "ERROR": null
+  },
+  {
+    "id": "157.png",
+    "circles": 3,
+    "squares": 7,
+    "triangles": 6,
+    "gpt_response": "Circles: 3\nTriangles: 7\nSquares: 7\n\nCIRCLES:3 TRIANGLES:7 SQUARES:7",
+    "Output": {
+      "circles": 3,
+      "triangles": 7,
+      "squares": 7
+    },
+    "ERROR": null
+  },
+  {
+    "id": "158.png",
+    "circles": 7,
+    "squares": 6,
+    "triangles": 3,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 6\n- Triangles: 4\n- Squares: 6\n\nCIRCLES:6 TRIANGLES:4 SQUARES:6",
+    "Output": {
+      "circles": 6,
+      "triangles": 4,
+      "squares": 6
+    },
+    "ERROR": null
+  },
+  {
+    "id": "159.png",
+    "circles": 3,
+    "squares": 5,
+    "triangles": 8,
+    "gpt_response": "The image contains:\n\n- Circles: 3\n- Triangles: 9\n- Squares: 5\n\nCIRCLES:3 TRIANGLES:9 SQUARES:5",
+    "Output": {
+      "circles": 3,
+      "triangles": 9,
+      "squares": 5
+    },
+    "ERROR": null
+  },
+  {
+    "id": "160.png",
+    "circles": 9,
+    "squares": 3,
+    "triangles": 4,
+    "gpt_response": "The image contains:\n\n- Circles: 6\n- Triangles: 5\n- Squares: 4\n\nCIRCLES:6 TRIANGLES:5 SQUARES:4",
+    "Output": {
+      "circles": 6,
+      "triangles": 5,
+      "squares": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "161.png",
+    "circles": 7,
+    "squares": 8,
+    "triangles": 2,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 6\n- Triangles: 2\n- Squares: 8\n\nCIRCLES:6 TRIANGLES:2 SQUARES:8",
+    "Output": {
+      "circles": 6,
+      "triangles": 2,
+      "squares": 8
+    },
+    "ERROR": null
+  },
+  {
+    "id": "162.png",
+    "circles": 3,
+    "squares": 7,
+    "triangles": 7,
+    "gpt_response": "Circles: 3\nTriangles: 7\nSquares: 6\n\nCIRCLES:3 TRIANGLES:7 SQUARES:6",
+    "Output": {
+      "circles": 3,
+      "triangles": 7,
+      "squares": 6
+    },
+    "ERROR": null
+  },
+  {
+    "id": "163.png",
+    "circles": 7,
+    "squares": 5,
+    "triangles": 5,
+    "gpt_response": "CIRCLES:6 TRIANGLES:6 SQUARES:5",
+    "Output": {
+      "circles": 6,
+      "triangles": 6,
+      "squares": 5
+    },
+    "ERROR": null
+  },
+  {
+    "id": "164.png",
+    "circles": 8,
+    "squares": 6,
+    "triangles": 3,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 6\n- Triangles: 4\n- Squares: 6\n\nCIRCLES:6 TRIANGLES:4 SQUARES:6",
+    "Output": {
+      "circles": 6,
+      "triangles": 4,
+      "squares": 6
+    },
+    "ERROR": null
+  },
+  {
+    "id": "165.png",
+    "circles": 5,
+    "squares": 5,
+    "triangles": 7,
+    "gpt_response": "CIRCLES:4 TRIANGLES:6 SQUARES:5",
+    "Output": {
+      "circles": 4,
+      "triangles": 6,
+      "squares": 5
+    },
+    "ERROR": null
+  },
+  {
+    "id": "166.png",
+    "circles": 6,
+    "squares": 3,
+    "triangles": 8,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 5\n- Triangles: 8\n- Squares: 3\n\nCIRCLES:5 TRIANGLES:8 SQUARES:3",
+    "Output": {
+      "circles": 5,
+      "triangles": 8,
+      "squares": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "167.png",
+    "circles": 9,
+    "squares": 3,
+    "triangles": 5,
+    "gpt_response": "Circles: 6\nTriangles: 5\nSquares: 3\n\nCIRCLES:6 TRIANGLES:5 SQUARES:3",
+    "Output": {
+      "circles": 6,
+      "triangles": 5,
+      "squares": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "168.png",
+    "circles": 8,
+    "squares": 4,
+    "triangles": 5,
+    "gpt_response": "The image contains the following number of shapes:\n\n- Circles: 6\n- Triangles: 6\n- Squares: 5\n\nCIRCLES:6 TRIANGLES:6 SQUARES:5",
+    "Output": {
+      "circles": 6,
+      "triangles": 6,
+      "squares": 5
+    },
+    "ERROR": null
+  },
+  {
+    "id": "169.png",
+    "circles": 5,
+    "squares": 7,
+    "triangles": 5,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 5\n- Triangles: 5\n- Squares: 6\n\nCIRCLES:5 TRIANGLES:5 SQUARES:6",
+    "Output": {
+      "circles": 5,
+      "triangles": 5,
+      "squares": 6
+    },
+    "ERROR": null
+  },
+  {
+    "id": "170.png",
+    "circles": 5,
+    "squares": 7,
+    "triangles": 5,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 5\n- Triangles: 6\n- Squares: 5\n\nCIRCLES:5 TRIANGLES:6 SQUARES:5",
+    "Output": {
+      "circles": 5,
+      "triangles": 6,
+      "squares": 5
+    },
+    "ERROR": null
+  },
+  {
+    "id": "171.png",
+    "circles": 8,
+    "squares": 4,
+    "triangles": 6,
+    "gpt_response": "The image contains:\n\n- Circles: 6\n- Triangles: 7\n- Squares: 4\n\nCIRCLES:6 TRIANGLES:7 SQUARES:4",
+    "Output": {
+      "circles": 6,
+      "triangles": 7,
+      "squares": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "172.png",
+    "circles": 9,
+    "squares": 1,
+    "triangles": 8,
+    "gpt_response": "Circles: 7\nTriangles: 9\nSquares: 1\n\nCIRCLES:7 TRIANGLES:9 SQUARES:1",
+    "Output": {
+      "circles": 7,
+      "triangles": 9,
+      "squares": 1
+    },
+    "ERROR": null
+  },
+  {
+    "id": "173.png",
+    "circles": 5,
+    "squares": 5,
+    "triangles": 8,
+    "gpt_response": "Circles: 4\nTriangles: 9\nSquares: 5\n\nCIRCLES:4 TRIANGLES:9 SQUARES:5",
+    "Output": {
+      "circles": 4,
+      "triangles": 9,
+      "squares": 5
+    },
+    "ERROR": null
+  },
+  {
+    "id": "174.png",
+    "circles": 5,
+    "squares": 8,
+    "triangles": 5,
+    "gpt_response": "Circles: 5\nTriangles: 6\nSquares: 6\n\nCIRCLES:5 TRIANGLES:6 SQUARES:6",
+    "Output": {
+      "circles": 5,
+      "triangles": 6,
+      "squares": 6
+    },
+    "ERROR": null
+  },
+  {
+    "id": "175.png",
+    "circles": 6,
+    "squares": 7,
+    "triangles": 5,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 6\n- Triangles: 5\n- Squares: 6\n\nCIRCLES:6 TRIANGLES:5 SQUARES:6",
+    "Output": {
+      "circles": 6,
+      "triangles": 5,
+      "squares": 6
+    },
+    "ERROR": null
+  },
+  {
+    "id": "176.png",
+    "circles": 8,
+    "squares": 3,
+    "triangles": 7,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 7\n- Triangles: 7\n- Squares: 3\n\nCIRCLES:7 TRIANGLES:7 SQUARES:3",
+    "Output": {
+      "circles": 7,
+      "triangles": 7,
+      "squares": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "177.png",
+    "circles": 7,
+    "squares": 7,
+    "triangles": 4,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 6\n- Triangles: 5\n- Squares: 6\n\nCIRCLES:6 TRIANGLES:5 SQUARES:6",
+    "Output": {
+      "circles": 6,
+      "triangles": 5,
+      "squares": 6
+    },
+    "ERROR": null
+  },
+  {
+    "id": "178.png",
+    "circles": 8,
+    "squares": 7,
+    "triangles": 3,
+    "gpt_response": "The image contains:\n\n- Circles: 6\n- Triangles: 3\n- Squares: 5\n\nCIRCLES:6 TRIANGLES:3 SQUARES:5",
+    "Output": {
+      "circles": 6,
+      "triangles": 3,
+      "squares": 5
+    },
+    "ERROR": null
+  },
+  {
+    "id": "179.png",
+    "circles": 7,
+    "squares": 6,
+    "triangles": 5,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 5\n- Triangles: 5\n- Squares: 5\n\nCIRCLES:5 TRIANGLES:5 SQUARES:5",
+    "Output": {
+      "circles": 5,
+      "triangles": 5,
+      "squares": 5
+    },
+    "ERROR": null
+  },
+  {
+    "id": "180.png",
+    "circles": 4,
+    "squares": 9,
+    "triangles": 5,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 4\n- Triangles: 5\n- Squares: 6\n\nCIRCLES:4 TRIANGLES:5 SQUARES:6",
+    "Output": {
+      "circles": 4,
+      "triangles": 5,
+      "squares": 6
+    },
+    "ERROR": null
+  },
+  {
+    "id": "181.png",
+    "circles": 7,
+    "squares": 7,
+    "triangles": 5,
+    "gpt_response": "Circles: 6\nTriangles: 5\nSquares: 7\n\nCIRCLES:6 TRIANGLES:5 SQUARES:7",
+    "Output": {
+      "circles": 6,
+      "triangles": 5,
+      "squares": 7
+    },
+    "ERROR": null
+  },
+  {
+    "id": "182.png",
+    "circles": 8,
+    "squares": 7,
+    "triangles": 4,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 6\n- Triangles: 5\n- Squares: 7\n\nCIRCLES:6 TRIANGLES:5 SQUARES:7",
+    "Output": {
+      "circles": 6,
+      "triangles": 5,
+      "squares": 7
+    },
+    "ERROR": null
+  },
+  {
+    "id": "183.png",
+    "circles": 7,
+    "squares": 7,
+    "triangles": 5,
+    "gpt_response": "CIRCLES:6 TRIANGLES:7 SQUARES:7",
+    "Output": {
+      "circles": 6,
+      "triangles": 7,
+      "squares": 7
+    },
+    "ERROR": null
+  },
+  {
+    "id": "184.png",
+    "circles": 4,
+    "squares": 4,
+    "triangles": 11,
+    "gpt_response": "The image contains:\n\n- Circles: 3\n- Triangles: 10\n- Squares: 5\n\nCIRCLES:3 TRIANGLES:10 SQUARES:5",
+    "Output": {
+      "circles": 3,
+      "triangles": 10,
+      "squares": 5
+    },
+    "ERROR": null
+  },
+  {
+    "id": "185.png",
+    "circles": 5,
+    "squares": 5,
+    "triangles": 9,
+    "gpt_response": "CIRCLES:4 TRIANGLES:10 SQUARES:5",
+    "Output": {
+      "circles": 4,
+      "triangles": 10,
+      "squares": 5
+    },
+    "ERROR": null
+  },
+  {
+    "id": "186.png",
+    "circles": 9,
+    "squares": 5,
+    "triangles": 5,
+    "gpt_response": "Circles: 7\nTriangles: 6\nSquares: 5\n\nCIRCLES:7 TRIANGLES:6 SQUARES:5",
+    "Output": {
+      "circles": 7,
+      "triangles": 6,
+      "squares": 5
+    },
+    "ERROR": null
+  },
+  {
+    "id": "187.png",
+    "circles": 6,
+    "squares": 9,
+    "triangles": 4,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 6\n- Triangles: 5\n- Squares: 7\n\nCIRCLES:6 TRIANGLES:5 SQUARES:7",
+    "Output": {
+      "circles": 6,
+      "triangles": 5,
+      "squares": 7
+    },
+    "ERROR": null
+  },
+  {
+    "id": "188.png",
+    "circles": 7,
+    "squares": 6,
+    "triangles": 6,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 7\n- Triangles: 6\n- Squares: 5\n\nCIRCLES:7 TRIANGLES:6 SQUARES:5",
+    "Output": {
+      "circles": 7,
+      "triangles": 6,
+      "squares": 5
+    },
+    "ERROR": null
+  },
+  {
+    "id": "189.png",
+    "circles": 10,
+    "squares": 3,
+    "triangles": 6,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 9\n- Triangles: 6\n- Squares: 4\n\nCIRCLES:9 TRIANGLES:6 SQUARES:4",
+    "Output": {
+      "circles": 9,
+      "triangles": 6,
+      "squares": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "190.png",
+    "circles": 10,
+    "squares": 4,
+    "triangles": 5,
+    "gpt_response": "The image contains:\n\n- Circles: 9\n- Triangles: 6\n- Squares: 4\n\nCIRCLES:9 TRIANGLES:6 SQUARES:4",
+    "Output": {
+      "circles": 9,
+      "triangles": 6,
+      "squares": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "191.png",
+    "circles": 6,
+    "squares": 8,
+    "triangles": 6,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 5\n- Triangles: 7\n- Squares: 7\n\nCIRCLES:5 TRIANGLES:7 SQUARES:7",
+    "Output": {
+      "circles": 5,
+      "triangles": 7,
+      "squares": 7
+    },
+    "ERROR": null
+  },
+  {
+    "id": "192.png",
+    "circles": 8,
+    "squares": 3,
+    "triangles": 9,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 6\n- Triangles: 9\n- Squares: 3\n\nCIRCLES:6 TRIANGLES:9 SQUARES:3",
+    "Output": {
+      "circles": 6,
+      "triangles": 9,
+      "squares": 3
+    },
+    "ERROR": null
+  },
+  {
+    "id": "193.png",
+    "circles": 8,
+    "squares": 6,
+    "triangles": 6,
+    "gpt_response": "The image contains:\n\n- Circles: 9\n- Triangles: 8\n- Squares: 7\n\nCIRCLES:9 TRIANGLES:8 SQUARES:7",
+    "Output": {
+      "circles": 9,
+      "triangles": 8,
+      "squares": 7
+    },
+    "ERROR": null
+  },
+  {
+    "id": "194.png",
+    "circles": 9,
+    "squares": 4,
+    "triangles": 7,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 7\n- Triangles: 6\n- Squares: 4\n\nCIRCLES:7 TRIANGLES:6 SQUARES:4",
+    "Output": {
+      "circles": 7,
+      "triangles": 6,
+      "squares": 4
+    },
+    "ERROR": null
+  },
+  {
+    "id": "195.png",
+    "circles": 9,
+    "squares": 6,
+    "triangles": 5,
+    "gpt_response": "CIRCLES:9 TRIANGLES:5 SQUARES:6",
+    "Output": {
+      "circles": 9,
+      "triangles": 5,
+      "squares": 6
+    },
+    "ERROR": null
+  },
+  {
+    "id": "196.png",
+    "circles": 6,
+    "squares": 5,
+    "triangles": 9,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 5\n- Triangles: 9\n- Squares: 5\n\nCIRCLES:5 TRIANGLES:9 SQUARES:5",
+    "Output": {
+      "circles": 5,
+      "triangles": 9,
+      "squares": 5
+    },
+    "ERROR": null
+  },
+  {
+    "id": "197.png",
+    "circles": 4,
+    "squares": 7,
+    "triangles": 9,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 4\n- Triangles: 9\n- Squares: 5\n\nCIRCLES:4 TRIANGLES:9 SQUARES:5",
+    "Output": {
+      "circles": 4,
+      "triangles": 9,
+      "squares": 5
+    },
+    "ERROR": null
+  },
+  {
+    "id": "198.png",
+    "circles": 7,
+    "squares": 9,
+    "triangles": 4,
+    "gpt_response": "Circles: 6\nTriangles: 5\nSquares: 7\n\nCIRCLES:6 TRIANGLES:5 SQUARES:7",
+    "Output": {
+      "circles": 6,
+      "triangles": 5,
+      "squares": 7
+    },
+    "ERROR": null
+  },
+  {
+    "id": "199.png",
+    "circles": 8,
+    "squares": 9,
+    "triangles": 3,
+    "gpt_response": "CIRCLES:8 TRIANGLES:3 SQUARES:8",
+    "Output": {
+      "circles": 8,
+      "triangles": 3,
+      "squares": 8
+    },
+    "ERROR": null
+  },
+  {
+    "id": "200.png",
+    "circles": 6,
+    "squares": 8,
+    "triangles": 6,
+    "gpt_response": "The image contains the following shapes:\n\n- Circles: 5\n- Triangles: 6\n- Squares: 6\n\nCIRCLES:5 TRIANGLES:6 SQUARES:6",
+    "Output": {
+      "circles": 5,
+      "triangles": 6,
+      "squares": 6
+    },
+    "ERROR": null
+  }
+]

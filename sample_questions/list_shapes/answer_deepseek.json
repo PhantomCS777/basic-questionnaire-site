@@ -1,0 +1,2483 @@
+[
+  {
+    "id": "1.png",
+    "list_shapes": [
+      "triangle"
+    ],
+    "num_objects": 1,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "2.png",
+    "list_shapes": [
+      "rectangle"
+    ],
+    "num_objects": 1,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "3.png",
+    "list_shapes": [
+      "pentagon"
+    ],
+    "num_objects": 1,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "4.png",
+    "list_shapes": [
+      "rectangle"
+    ],
+    "num_objects": 1,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "5.png",
+    "list_shapes": [
+      "triangle"
+    ],
+    "num_objects": 1,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "6.png",
+    "list_shapes": [
+      "pentagon"
+    ],
+    "num_objects": 1,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "7.png",
+    "list_shapes": [
+      "triangle"
+    ],
+    "num_objects": 1,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "8.png",
+    "list_shapes": [
+      "pentagon"
+    ],
+    "num_objects": 1,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "9.png",
+    "list_shapes": [
+      "circle"
+    ],
+    "num_objects": 1,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "10.png",
+    "list_shapes": [
+      "rectangle"
+    ],
+    "num_objects": 1,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "11.png",
+    "list_shapes": [
+      "circle",
+      "pentagon"
+    ],
+    "num_objects": 2,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "12.png",
+    "list_shapes": [
+      "circle",
+      "triangle"
+    ],
+    "num_objects": 2,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "13.png",
+    "list_shapes": [
+      "pentagon",
+      "triangle"
+    ],
+    "num_objects": 2,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "14.png",
+    "list_shapes": [
+      "circle"
+    ],
+    "num_objects": 2,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "15.png",
+    "list_shapes": [
+      "pentagon",
+      "rectangle"
+    ],
+    "num_objects": 2,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "16.png",
+    "list_shapes": [
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 2,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "17.png",
+    "list_shapes": [
+      "pentagon",
+      "triangle"
+    ],
+    "num_objects": 2,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "18.png",
+    "list_shapes": [
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 2,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "19.png",
+    "list_shapes": [
+      "circle",
+      "rectangle"
+    ],
+    "num_objects": 2,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "20.png",
+    "list_shapes": [
+      "circle",
+      "rectangle"
+    ],
+    "num_objects": 2,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "21.png",
+    "list_shapes": [
+      "circle",
+      "pentagon"
+    ],
+    "num_objects": 3,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "22.png",
+    "list_shapes": [
+      "circle",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 3,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "23.png",
+    "list_shapes": [
+      "circle",
+      "triangle"
+    ],
+    "num_objects": 3,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "24.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "triangle"
+    ],
+    "num_objects": 3,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "25.png",
+    "list_shapes": [
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 3,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "26.png",
+    "list_shapes": [
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 3,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "27.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle"
+    ],
+    "num_objects": 3,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "28.png",
+    "list_shapes": [
+      "circle",
+      "rectangle"
+    ],
+    "num_objects": 3,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "29.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle"
+    ],
+    "num_objects": 3,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "30.png",
+    "list_shapes": [
+      "circle",
+      "pentagon"
+    ],
+    "num_objects": 3,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "31.png",
+    "list_shapes": [
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 4,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "32.png",
+    "list_shapes": [
+      "circle"
+    ],
+    "num_objects": 4,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "33.png",
+    "list_shapes": [
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 4,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "34.png",
+    "list_shapes": [
+      "circle",
+      "pentagon"
+    ],
+    "num_objects": 4,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "35.png",
+    "list_shapes": [
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 4,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "36.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 4,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "37.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle"
+    ],
+    "num_objects": 4,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "38.png",
+    "list_shapes": [
+      "circle",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 4,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "39.png",
+    "list_shapes": [
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 4,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "40.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 4,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "41.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 5,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "42.png",
+    "list_shapes": [
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 5,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "43.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle"
+    ],
+    "num_objects": 5,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "44.png",
+    "list_shapes": [
+      "circle",
+      "triangle"
+    ],
+    "num_objects": 5,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "45.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle"
+    ],
+    "num_objects": 5,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "46.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "triangle"
+    ],
+    "num_objects": 5,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "47.png",
+    "list_shapes": [
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 5,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "48.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle"
+    ],
+    "num_objects": 5,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "49.png",
+    "list_shapes": [
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 5,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "50.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle"
+    ],
+    "num_objects": 5,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "51.png",
+    "list_shapes": [
+      "pentagon",
+      "triangle"
+    ],
+    "num_objects": 6,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "52.png",
+    "list_shapes": [
+      "circle",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 6,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "53.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 6,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "54.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle"
+    ],
+    "num_objects": 6,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "55.png",
+    "list_shapes": [
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 6,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "56.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 6,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "57.png",
+    "list_shapes": [
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 6,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "58.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle"
+    ],
+    "num_objects": 6,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "59.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "triangle"
+    ],
+    "num_objects": 6,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "60.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle"
+    ],
+    "num_objects": 6,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "61.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 7,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "62.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "triangle"
+    ],
+    "num_objects": 7,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "63.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 7,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "64.png",
+    "list_shapes": [
+      "pentagon",
+      "rectangle"
+    ],
+    "num_objects": 7,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "65.png",
+    "list_shapes": [
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 7,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "66.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "triangle"
+    ],
+    "num_objects": 7,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "67.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 7,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "68.png",
+    "list_shapes": [
+      "circle",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 7,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "69.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 7,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "70.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 7,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "71.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 8,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "72.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 8,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "73.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 8,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "74.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 8,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "75.png",
+    "list_shapes": [
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 8,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "76.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 8,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "77.png",
+    "list_shapes": [
+      "circle",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 8,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "78.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 8,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "79.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 8,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "80.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 8,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "81.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle"
+    ],
+    "num_objects": 9,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "82.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 9,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "83.png",
+    "list_shapes": [
+      "circle",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 9,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "84.png",
+    "list_shapes": [
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 9,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "85.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 9,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "86.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 9,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "87.png",
+    "list_shapes": [
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 9,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "88.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 9,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "89.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 9,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "90.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 9,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "91.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 10,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "92.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 10,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "93.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 10,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "94.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 10,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "95.png",
+    "list_shapes": [
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 10,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "96.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 10,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "97.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 10,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "98.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 10,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "99.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "triangle"
+    ],
+    "num_objects": 10,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "100.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 10,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "101.png",
+    "list_shapes": [
+      "circle",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 11,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "102.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 11,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "103.png",
+    "list_shapes": [
+      "circle",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 11,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "104.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "triangle"
+    ],
+    "num_objects": 11,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "105.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 11,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "106.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 11,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "107.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 11,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "108.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle"
+    ],
+    "num_objects": 11,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "109.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 11,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "110.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 11,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "111.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 12,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "112.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 12,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "113.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 12,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "114.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 12,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "115.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 12,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "116.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 12,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "117.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 12,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "118.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 12,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "119.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 12,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "120.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 12,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "121.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 13,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "122.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 13,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "123.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 13,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "124.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 13,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "125.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "triangle"
+    ],
+    "num_objects": 13,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "126.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 13,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "127.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 13,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "128.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 13,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "129.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 13,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "130.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 13,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "131.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 14,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "132.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 14,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "133.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 14,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "134.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 14,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "135.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 14,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "136.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 14,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "137.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 14,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "138.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 14,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "139.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 14,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "140.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 14,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "141.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 15,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "142.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 15,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "143.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 15,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "144.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 15,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "145.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 15,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "146.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 15,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "147.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 15,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "148.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 15,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "149.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 15,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "150.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 15,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "151.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 16,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "152.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 16,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "153.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 16,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "154.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 16,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "155.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 16,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "156.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 16,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "157.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 16,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "158.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 16,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "159.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 16,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "160.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 16,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "161.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 17,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "162.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 17,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "163.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 17,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "164.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 17,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "165.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 17,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "166.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 17,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "167.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 17,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "168.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 17,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "169.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 17,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "170.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 17,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "171.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 18,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "172.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 18,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "173.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 18,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "174.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 18,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "175.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 18,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "176.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 18,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "177.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 18,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "178.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 18,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "179.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 18,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "180.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 18,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "181.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 19,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "182.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 19,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "183.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 19,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "184.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 19,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "185.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 19,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "186.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 19,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "187.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 19,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "188.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 19,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "189.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 19,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "190.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 19,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "191.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 20,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "192.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 20,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "193.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 20,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "194.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 20,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "195.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 20,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "196.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 20,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "197.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 20,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "198.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 20,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "199.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 20,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  },
+  {
+    "id": "200.png",
+    "list_shapes": [
+      "circle",
+      "pentagon",
+      "rectangle",
+      "triangle"
+    ],
+    "num_objects": 20,
+    "gpt_response": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "Does not give correct format"
+  }
+]

@@ -1,0 +1,2002 @@
+[
+  {
+    "id": "second1.png",
+    "circles": 0,
+    "squares": 1,
+    "triangles": 1,
+    "vanished": 1,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second2.png",
+    "circles": 1,
+    "squares": 0,
+    "triangles": 1,
+    "vanished": 1,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second3.png",
+    "circles": 1,
+    "squares": 0,
+    "triangles": 1,
+    "vanished": 1,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second4.png",
+    "circles": 1,
+    "squares": 0,
+    "triangles": 1,
+    "vanished": 1,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second5.png",
+    "circles": 0,
+    "squares": 1,
+    "triangles": 1,
+    "vanished": 1,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second6.png",
+    "circles": 2,
+    "squares": 0,
+    "triangles": 0,
+    "vanished": 1,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second7.png",
+    "circles": 0,
+    "squares": 1,
+    "triangles": 1,
+    "vanished": 1,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second8.png",
+    "circles": 1,
+    "squares": 0,
+    "triangles": 1,
+    "vanished": 1,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second9.png",
+    "circles": 1,
+    "squares": 1,
+    "triangles": 0,
+    "vanished": 1,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second10.png",
+    "circles": 0,
+    "squares": 1,
+    "triangles": 1,
+    "vanished": 1,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second11.png",
+    "circles": 1,
+    "squares": 1,
+    "triangles": 2,
+    "vanished": 2,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second12.png",
+    "circles": 1,
+    "squares": 2,
+    "triangles": 1,
+    "vanished": 2,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second13.png",
+    "circles": 1,
+    "squares": 1,
+    "triangles": 2,
+    "vanished": 2,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second14.png",
+    "circles": 0,
+    "squares": 2,
+    "triangles": 2,
+    "vanished": 2,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second15.png",
+    "circles": 1,
+    "squares": 2,
+    "triangles": 1,
+    "vanished": 2,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second16.png",
+    "circles": 1,
+    "squares": 2,
+    "triangles": 1,
+    "vanished": 2,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second17.png",
+    "circles": 1,
+    "squares": 1,
+    "triangles": 2,
+    "vanished": 2,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second18.png",
+    "circles": 3,
+    "squares": 0,
+    "triangles": 1,
+    "vanished": 2,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second19.png",
+    "circles": 1,
+    "squares": 1,
+    "triangles": 2,
+    "vanished": 2,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second20.png",
+    "circles": 1,
+    "squares": 2,
+    "triangles": 1,
+    "vanished": 2,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second21.png",
+    "circles": 2,
+    "squares": 1,
+    "triangles": 3,
+    "vanished": 3,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second22.png",
+    "circles": 2,
+    "squares": 3,
+    "triangles": 1,
+    "vanished": 3,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second23.png",
+    "circles": 3,
+    "squares": 0,
+    "triangles": 3,
+    "vanished": 3,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second24.png",
+    "circles": 2,
+    "squares": 4,
+    "triangles": 0,
+    "vanished": 3,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second25.png",
+    "circles": 3,
+    "squares": 2,
+    "triangles": 1,
+    "vanished": 3,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second26.png",
+    "circles": 3,
+    "squares": 2,
+    "triangles": 1,
+    "vanished": 3,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second27.png",
+    "circles": 1,
+    "squares": 1,
+    "triangles": 4,
+    "vanished": 3,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second28.png",
+    "circles": 1,
+    "squares": 4,
+    "triangles": 1,
+    "vanished": 3,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second29.png",
+    "circles": 1,
+    "squares": 4,
+    "triangles": 1,
+    "vanished": 3,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second30.png",
+    "circles": 2,
+    "squares": 2,
+    "triangles": 2,
+    "vanished": 3,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second31.png",
+    "circles": 2,
+    "squares": 2,
+    "triangles": 4,
+    "vanished": 4,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second32.png",
+    "circles": 1,
+    "squares": 5,
+    "triangles": 2,
+    "vanished": 4,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second33.png",
+    "circles": 3,
+    "squares": 3,
+    "triangles": 2,
+    "vanished": 4,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second34.png",
+    "circles": 3,
+    "squares": 3,
+    "triangles": 2,
+    "vanished": 4,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second35.png",
+    "circles": 5,
+    "squares": 0,
+    "triangles": 3,
+    "vanished": 4,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second36.png",
+    "circles": 1,
+    "squares": 2,
+    "triangles": 5,
+    "vanished": 4,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second37.png",
+    "circles": 1,
+    "squares": 5,
+    "triangles": 2,
+    "vanished": 4,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second38.png",
+    "circles": 3,
+    "squares": 2,
+    "triangles": 3,
+    "vanished": 4,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second39.png",
+    "circles": 3,
+    "squares": 1,
+    "triangles": 4,
+    "vanished": 4,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second40.png",
+    "circles": 1,
+    "squares": 5,
+    "triangles": 2,
+    "vanished": 4,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second41.png",
+    "circles": 5,
+    "squares": 2,
+    "triangles": 3,
+    "vanished": 5,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second42.png",
+    "circles": 2,
+    "squares": 3,
+    "triangles": 5,
+    "vanished": 5,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second43.png",
+    "circles": 1,
+    "squares": 3,
+    "triangles": 6,
+    "vanished": 5,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second44.png",
+    "circles": 3,
+    "squares": 4,
+    "triangles": 3,
+    "vanished": 5,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second45.png",
+    "circles": 4,
+    "squares": 4,
+    "triangles": 2,
+    "vanished": 5,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second46.png",
+    "circles": 4,
+    "squares": 3,
+    "triangles": 3,
+    "vanished": 5,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second47.png",
+    "circles": 5,
+    "squares": 3,
+    "triangles": 2,
+    "vanished": 5,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second48.png",
+    "circles": 1,
+    "squares": 2,
+    "triangles": 7,
+    "vanished": 5,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second49.png",
+    "circles": 1,
+    "squares": 3,
+    "triangles": 6,
+    "vanished": 5,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second50.png",
+    "circles": 4,
+    "squares": 4,
+    "triangles": 2,
+    "vanished": 5,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second51.png",
+    "circles": 7,
+    "squares": 2,
+    "triangles": 3,
+    "vanished": 6,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second52.png",
+    "circles": 5,
+    "squares": 1,
+    "triangles": 6,
+    "vanished": 6,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second53.png",
+    "circles": 4,
+    "squares": 4,
+    "triangles": 4,
+    "vanished": 6,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second54.png",
+    "circles": 6,
+    "squares": 2,
+    "triangles": 4,
+    "vanished": 6,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second55.png",
+    "circles": 4,
+    "squares": 4,
+    "triangles": 4,
+    "vanished": 6,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second56.png",
+    "circles": 6,
+    "squares": 3,
+    "triangles": 3,
+    "vanished": 6,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second57.png",
+    "circles": 4,
+    "squares": 6,
+    "triangles": 2,
+    "vanished": 6,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second58.png",
+    "circles": 2,
+    "squares": 1,
+    "triangles": 9,
+    "vanished": 6,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second59.png",
+    "circles": 5,
+    "squares": 3,
+    "triangles": 4,
+    "vanished": 6,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second60.png",
+    "circles": 2,
+    "squares": 6,
+    "triangles": 4,
+    "vanished": 6,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second61.png",
+    "circles": 4,
+    "squares": 5,
+    "triangles": 5,
+    "vanished": 7,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second62.png",
+    "circles": 4,
+    "squares": 7,
+    "triangles": 3,
+    "vanished": 7,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second63.png",
+    "circles": 4,
+    "squares": 5,
+    "triangles": 5,
+    "vanished": 7,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second64.png",
+    "circles": 5,
+    "squares": 4,
+    "triangles": 5,
+    "vanished": 7,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second65.png",
+    "circles": 3,
+    "squares": 3,
+    "triangles": 8,
+    "vanished": 7,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second66.png",
+    "circles": 7,
+    "squares": 2,
+    "triangles": 5,
+    "vanished": 7,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second67.png",
+    "circles": 8,
+    "squares": 4,
+    "triangles": 2,
+    "vanished": 7,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second68.png",
+    "circles": 6,
+    "squares": 5,
+    "triangles": 3,
+    "vanished": 7,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second69.png",
+    "circles": 3,
+    "squares": 7,
+    "triangles": 4,
+    "vanished": 7,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second70.png",
+    "circles": 5,
+    "squares": 6,
+    "triangles": 3,
+    "vanished": 7,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second71.png",
+    "circles": 4,
+    "squares": 5,
+    "triangles": 7,
+    "vanished": 8,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second72.png",
+    "circles": 7,
+    "squares": 3,
+    "triangles": 6,
+    "vanished": 8,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second73.png",
+    "circles": 7,
+    "squares": 5,
+    "triangles": 4,
+    "vanished": 8,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second74.png",
+    "circles": 7,
+    "squares": 5,
+    "triangles": 4,
+    "vanished": 8,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second75.png",
+    "circles": 5,
+    "squares": 5,
+    "triangles": 6,
+    "vanished": 8,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second76.png",
+    "circles": 9,
+    "squares": 5,
+    "triangles": 2,
+    "vanished": 8,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second77.png",
+    "circles": 7,
+    "squares": 4,
+    "triangles": 5,
+    "vanished": 8,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second78.png",
+    "circles": 5,
+    "squares": 7,
+    "triangles": 4,
+    "vanished": 8,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second79.png",
+    "circles": 8,
+    "squares": 2,
+    "triangles": 6,
+    "vanished": 8,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second80.png",
+    "circles": 6,
+    "squares": 1,
+    "triangles": 9,
+    "vanished": 8,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second81.png",
+    "circles": 6,
+    "squares": 4,
+    "triangles": 8,
+    "vanished": 9,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second82.png",
+    "circles": 7,
+    "squares": 5,
+    "triangles": 6,
+    "vanished": 9,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second83.png",
+    "circles": 6,
+    "squares": 5,
+    "triangles": 7,
+    "vanished": 9,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second84.png",
+    "circles": 3,
+    "squares": 9,
+    "triangles": 6,
+    "vanished": 9,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second85.png",
+    "circles": 1,
+    "squares": 5,
+    "triangles": 12,
+    "vanished": 9,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second86.png",
+    "circles": 5,
+    "squares": 6,
+    "triangles": 7,
+    "vanished": 9,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second87.png",
+    "circles": 5,
+    "squares": 6,
+    "triangles": 7,
+    "vanished": 9,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second88.png",
+    "circles": 5,
+    "squares": 3,
+    "triangles": 10,
+    "vanished": 9,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second89.png",
+    "circles": 6,
+    "squares": 7,
+    "triangles": 5,
+    "vanished": 9,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second90.png",
+    "circles": 7,
+    "squares": 6,
+    "triangles": 5,
+    "vanished": 9,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second91.png",
+    "circles": 9,
+    "squares": 6,
+    "triangles": 5,
+    "vanished": 10,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second92.png",
+    "circles": 8,
+    "squares": 8,
+    "triangles": 4,
+    "vanished": 10,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second93.png",
+    "circles": 8,
+    "squares": 7,
+    "triangles": 5,
+    "vanished": 10,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second94.png",
+    "circles": 8,
+    "squares": 6,
+    "triangles": 6,
+    "vanished": 10,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second95.png",
+    "circles": 4,
+    "squares": 12,
+    "triangles": 4,
+    "vanished": 10,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second96.png",
+    "circles": 3,
+    "squares": 9,
+    "triangles": 8,
+    "vanished": 10,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second97.png",
+    "circles": 7,
+    "squares": 6,
+    "triangles": 7,
+    "vanished": 10,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second98.png",
+    "circles": 9,
+    "squares": 6,
+    "triangles": 5,
+    "vanished": 10,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second99.png",
+    "circles": 7,
+    "squares": 6,
+    "triangles": 7,
+    "vanished": 10,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second100.png",
+    "circles": 12,
+    "squares": 4,
+    "triangles": 4,
+    "vanished": 10,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second101.png",
+    "circles": 11,
+    "squares": 6,
+    "triangles": 5,
+    "vanished": 11,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second102.png",
+    "circles": 6,
+    "squares": 7,
+    "triangles": 9,
+    "vanished": 11,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second103.png",
+    "circles": 8,
+    "squares": 8,
+    "triangles": 6,
+    "vanished": 11,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second104.png",
+    "circles": 6,
+    "squares": 6,
+    "triangles": 10,
+    "vanished": 11,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second105.png",
+    "circles": 9,
+    "squares": 8,
+    "triangles": 5,
+    "vanished": 11,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second106.png",
+    "circles": 6,
+    "squares": 10,
+    "triangles": 6,
+    "vanished": 11,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second107.png",
+    "circles": 8,
+    "squares": 8,
+    "triangles": 6,
+    "vanished": 11,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second108.png",
+    "circles": 6,
+    "squares": 12,
+    "triangles": 4,
+    "vanished": 11,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second109.png",
+    "circles": 8,
+    "squares": 10,
+    "triangles": 4,
+    "vanished": 11,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second110.png",
+    "circles": 7,
+    "squares": 9,
+    "triangles": 6,
+    "vanished": 11,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second111.png",
+    "circles": 7,
+    "squares": 10,
+    "triangles": 7,
+    "vanished": 12,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second112.png",
+    "circles": 5,
+    "squares": 10,
+    "triangles": 9,
+    "vanished": 12,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second113.png",
+    "circles": 5,
+    "squares": 11,
+    "triangles": 8,
+    "vanished": 12,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second114.png",
+    "circles": 5,
+    "squares": 8,
+    "triangles": 11,
+    "vanished": 12,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second115.png",
+    "circles": 5,
+    "squares": 11,
+    "triangles": 8,
+    "vanished": 12,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second116.png",
+    "circles": 9,
+    "squares": 7,
+    "triangles": 8,
+    "vanished": 12,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second117.png",
+    "circles": 11,
+    "squares": 7,
+    "triangles": 6,
+    "vanished": 12,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second118.png",
+    "circles": 14,
+    "squares": 3,
+    "triangles": 7,
+    "vanished": 12,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second119.png",
+    "circles": 5,
+    "squares": 9,
+    "triangles": 10,
+    "vanished": 12,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second120.png",
+    "circles": 7,
+    "squares": 9,
+    "triangles": 8,
+    "vanished": 12,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second121.png",
+    "circles": 7,
+    "squares": 7,
+    "triangles": 12,
+    "vanished": 13,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second122.png",
+    "circles": 8,
+    "squares": 9,
+    "triangles": 9,
+    "vanished": 13,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second123.png",
+    "circles": 7,
+    "squares": 9,
+    "triangles": 10,
+    "vanished": 13,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second124.png",
+    "circles": 7,
+    "squares": 11,
+    "triangles": 8,
+    "vanished": 13,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second125.png",
+    "circles": 8,
+    "squares": 6,
+    "triangles": 12,
+    "vanished": 13,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second126.png",
+    "circles": 8,
+    "squares": 5,
+    "triangles": 13,
+    "vanished": 13,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second127.png",
+    "circles": 7,
+    "squares": 13,
+    "triangles": 6,
+    "vanished": 13,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second128.png",
+    "circles": 14,
+    "squares": 7,
+    "triangles": 5,
+    "vanished": 13,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second129.png",
+    "circles": 11,
+    "squares": 8,
+    "triangles": 7,
+    "vanished": 13,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second130.png",
+    "circles": 11,
+    "squares": 11,
+    "triangles": 4,
+    "vanished": 13,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second131.png",
+    "circles": 10,
+    "squares": 10,
+    "triangles": 8,
+    "vanished": 14,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second132.png",
+    "circles": 12,
+    "squares": 7,
+    "triangles": 9,
+    "vanished": 14,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second133.png",
+    "circles": 9,
+    "squares": 12,
+    "triangles": 7,
+    "vanished": 14,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second134.png",
+    "circles": 11,
+    "squares": 11,
+    "triangles": 6,
+    "vanished": 14,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second135.png",
+    "circles": 9,
+    "squares": 5,
+    "triangles": 14,
+    "vanished": 14,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second136.png",
+    "circles": 6,
+    "squares": 5,
+    "triangles": 17,
+    "vanished": 14,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second137.png",
+    "circles": 12,
+    "squares": 7,
+    "triangles": 9,
+    "vanished": 14,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second138.png",
+    "circles": 10,
+    "squares": 9,
+    "triangles": 9,
+    "vanished": 14,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second139.png",
+    "circles": 10,
+    "squares": 10,
+    "triangles": 8,
+    "vanished": 14,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second140.png",
+    "circles": 11,
+    "squares": 10,
+    "triangles": 7,
+    "vanished": 14,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second141.png",
+    "circles": 10,
+    "squares": 10,
+    "triangles": 10,
+    "vanished": 15,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second142.png",
+    "circles": 13,
+    "squares": 7,
+    "triangles": 10,
+    "vanished": 15,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second143.png",
+    "circles": 8,
+    "squares": 15,
+    "triangles": 7,
+    "vanished": 15,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second144.png",
+    "circles": 10,
+    "squares": 12,
+    "triangles": 8,
+    "vanished": 15,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second145.png",
+    "circles": 9,
+    "squares": 9,
+    "triangles": 12,
+    "vanished": 15,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second146.png",
+    "circles": 8,
+    "squares": 11,
+    "triangles": 11,
+    "vanished": 15,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second147.png",
+    "circles": 5,
+    "squares": 9,
+    "triangles": 16,
+    "vanished": 15,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second148.png",
+    "circles": 12,
+    "squares": 5,
+    "triangles": 13,
+    "vanished": 15,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second149.png",
+    "circles": 11,
+    "squares": 12,
+    "triangles": 7,
+    "vanished": 15,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second150.png",
+    "circles": 13,
+    "squares": 3,
+    "triangles": 14,
+    "vanished": 15,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second151.png",
+    "circles": 10,
+    "squares": 10,
+    "triangles": 12,
+    "vanished": 16,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second152.png",
+    "circles": 8,
+    "squares": 11,
+    "triangles": 13,
+    "vanished": 16,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second153.png",
+    "circles": 10,
+    "squares": 16,
+    "triangles": 6,
+    "vanished": 16,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second154.png",
+    "circles": 10,
+    "squares": 13,
+    "triangles": 9,
+    "vanished": 16,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second155.png",
+    "circles": 7,
+    "squares": 11,
+    "triangles": 14,
+    "vanished": 16,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second156.png",
+    "circles": 8,
+    "squares": 9,
+    "triangles": 15,
+    "vanished": 16,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second157.png",
+    "circles": 14,
+    "squares": 10,
+    "triangles": 8,
+    "vanished": 16,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second158.png",
+    "circles": 10,
+    "squares": 11,
+    "triangles": 11,
+    "vanished": 16,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second159.png",
+    "circles": 16,
+    "squares": 10,
+    "triangles": 6,
+    "vanished": 16,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second160.png",
+    "circles": 12,
+    "squares": 10,
+    "triangles": 10,
+    "vanished": 16,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second161.png",
+    "circles": 13,
+    "squares": 8,
+    "triangles": 13,
+    "vanished": 17,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second162.png",
+    "circles": 16,
+    "squares": 9,
+    "triangles": 9,
+    "vanished": 17,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second163.png",
+    "circles": 9,
+    "squares": 14,
+    "triangles": 11,
+    "vanished": 17,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second164.png",
+    "circles": 13,
+    "squares": 10,
+    "triangles": 11,
+    "vanished": 17,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second165.png",
+    "circles": 8,
+    "squares": 13,
+    "triangles": 13,
+    "vanished": 17,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second166.png",
+    "circles": 10,
+    "squares": 16,
+    "triangles": 8,
+    "vanished": 17,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second167.png",
+    "circles": 9,
+    "squares": 12,
+    "triangles": 13,
+    "vanished": 17,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second168.png",
+    "circles": 13,
+    "squares": 9,
+    "triangles": 12,
+    "vanished": 17,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second169.png",
+    "circles": 10,
+    "squares": 14,
+    "triangles": 10,
+    "vanished": 17,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second170.png",
+    "circles": 9,
+    "squares": 11,
+    "triangles": 14,
+    "vanished": 17,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second171.png",
+    "circles": 12,
+    "squares": 13,
+    "triangles": 11,
+    "vanished": 18,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second172.png",
+    "circles": 10,
+    "squares": 13,
+    "triangles": 13,
+    "vanished": 18,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second173.png",
+    "circles": 10,
+    "squares": 11,
+    "triangles": 15,
+    "vanished": 18,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second174.png",
+    "circles": 11,
+    "squares": 15,
+    "triangles": 10,
+    "vanished": 18,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second175.png",
+    "circles": 15,
+    "squares": 14,
+    "triangles": 7,
+    "vanished": 18,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second176.png",
+    "circles": 15,
+    "squares": 11,
+    "triangles": 10,
+    "vanished": 18,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second177.png",
+    "circles": 11,
+    "squares": 6,
+    "triangles": 19,
+    "vanished": 18,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second178.png",
+    "circles": 11,
+    "squares": 9,
+    "triangles": 16,
+    "vanished": 18,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second179.png",
+    "circles": 14,
+    "squares": 10,
+    "triangles": 12,
+    "vanished": 18,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second180.png",
+    "circles": 9,
+    "squares": 10,
+    "triangles": 17,
+    "vanished": 18,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second181.png",
+    "circles": 12,
+    "squares": 9,
+    "triangles": 17,
+    "vanished": 19,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second182.png",
+    "circles": 13,
+    "squares": 8,
+    "triangles": 17,
+    "vanished": 19,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second183.png",
+    "circles": 14,
+    "squares": 11,
+    "triangles": 13,
+    "vanished": 19,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second184.png",
+    "circles": 18,
+    "squares": 10,
+    "triangles": 10,
+    "vanished": 19,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second185.png",
+    "circles": 10,
+    "squares": 10,
+    "triangles": 18,
+    "vanished": 19,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second186.png",
+    "circles": 14,
+    "squares": 13,
+    "triangles": 11,
+    "vanished": 19,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second187.png",
+    "circles": 7,
+    "squares": 14,
+    "triangles": 17,
+    "vanished": 19,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second188.png",
+    "circles": 19,
+    "squares": 11,
+    "triangles": 8,
+    "vanished": 19,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second189.png",
+    "circles": 13,
+    "squares": 13,
+    "triangles": 12,
+    "vanished": 19,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second190.png",
+    "circles": 18,
+    "squares": 9,
+    "triangles": 11,
+    "vanished": 19,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second191.png",
+    "circles": 15,
+    "squares": 13,
+    "triangles": 12,
+    "vanished": 20,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second192.png",
+    "circles": 11,
+    "squares": 15,
+    "triangles": 14,
+    "vanished": 20,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second193.png",
+    "circles": 15,
+    "squares": 12,
+    "triangles": 13,
+    "vanished": 20,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second194.png",
+    "circles": 12,
+    "squares": 10,
+    "triangles": 18,
+    "vanished": 20,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second195.png",
+    "circles": 12,
+    "squares": 15,
+    "triangles": 13,
+    "vanished": 20,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second196.png",
+    "circles": 8,
+    "squares": 21,
+    "triangles": 11,
+    "vanished": 20,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second197.png",
+    "circles": 17,
+    "squares": 9,
+    "triangles": 14,
+    "vanished": 20,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second198.png",
+    "circles": 7,
+    "squares": 17,
+    "triangles": 16,
+    "vanished": 20,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second199.png",
+    "circles": 13,
+    "squares": 13,
+    "triangles": 14,
+    "vanished": 20,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  },
+  {
+    "id": "second200.png",
+    "circles": 15,
+    "squares": 12,
+    "triangles": 13,
+    "vanished": 20,
+    "gpt_response": "1<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": 1,
+    "ERROR": null
+  }
+]

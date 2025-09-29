@@ -1,0 +1,5489 @@
+[
+  {
+    "id": "1.png",
+    "num_layers": 1,
+    "order": [
+      "square"
+    ],
+    "gpt_response": "Single shape detected: diamond  \nSHAPES : diamond",
+    "Output": [
+      "diamond"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "2.png",
+    "num_layers": 1,
+    "order": [
+      "square"
+    ],
+    "gpt_response": "The image contains a single diamond shape.  \nSHAPES : diamond",
+    "Output": [
+      "diamond"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "3.png",
+    "num_layers": 1,
+    "order": [
+      "square"
+    ],
+    "gpt_response": "The image contains a single diamond.  \nSHAPES : diamond",
+    "Output": [
+      "diamond"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "4.png",
+    "num_layers": 1,
+    "order": [
+      "triangle"
+    ],
+    "gpt_response": "The image shows a single shape: a triangle.\n\nSHAPES : triangle",
+    "Output": [
+      "triangle"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "5.png",
+    "num_layers": 1,
+    "order": [
+      "square"
+    ],
+    "gpt_response": "The image contains a single diamond shape.  \nSHAPES : diamond",
+    "Output": [
+      "diamond"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "6.png",
+    "num_layers": 1,
+    "order": [
+      "square"
+    ],
+    "gpt_response": "There is a single shape in the image: a diamond.\n\nSHAPES : diamond",
+    "Output": [
+      "diamond"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "7.png",
+    "num_layers": 1,
+    "order": [
+      "square"
+    ],
+    "gpt_response": "Single shape detected: diamond  \nSHAPES : diamond",
+    "Output": [
+      "diamond"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "8.png",
+    "num_layers": 1,
+    "order": [
+      "square"
+    ],
+    "gpt_response": "SHAPES : diamond",
+    "Output": [
+      "diamond"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "9.png",
+    "num_layers": 1,
+    "order": [
+      "triangle"
+    ],
+    "gpt_response": "Only a single shape is present: a triangle.\n\nSHAPES : triangle",
+    "Output": [
+      "triangle"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "10.png",
+    "num_layers": 1,
+    "order": [
+      "hexagon"
+    ],
+    "gpt_response": "Single shape detected: hexagon  \nSHAPES : hexagon",
+    "Output": [
+      "hexagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "11.png",
+    "num_layers": 2,
+    "order": [
+      "hexagon",
+      "hexagon"
+    ],
+    "gpt_response": "Inside layer: small hexagon  \nOutside layer: large hexagon  \nSHAPES : hexagon, hexagon",
+    "Output": [
+      "hexagon",
+      "hexagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "12.png",
+    "num_layers": 2,
+    "order": [
+      "triangle",
+      "hexagon"
+    ],
+    "gpt_response": "Inside layer: triangle  \nOutside layer: hexagon  \n\nSHAPES : Triangle , Hexagon",
+    "Output": [
+      "Triangle",
+      "Hexagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "13.png",
+    "num_layers": 2,
+    "order": [
+      "pentagon",
+      "pentagon"
+    ],
+    "gpt_response": "Inside layer: Pentagon  \nOutside layer: Pentagon  \nSHAPES : pentagon, pentagon",
+    "Output": [
+      "pentagon",
+      "pentagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "14.png",
+    "num_layers": 2,
+    "order": [
+      "hexagon",
+      "square"
+    ],
+    "gpt_response": "Inside layer: Hexagon  \nOutside layer: Diamond  \n\nSHAPES : Hexagon , Diamond",
+    "Output": [
+      "Hexagon",
+      "Diamond"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "15.png",
+    "num_layers": 2,
+    "order": [
+      "hexagon",
+      "square"
+    ],
+    "gpt_response": "Inside layer: hexagon  \nOutside layer: square  \nSHAPES : Hexagon , Square",
+    "Output": [
+      "Hexagon",
+      "Square"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "16.png",
+    "num_layers": 2,
+    "order": [
+      "triangle",
+      "square"
+    ],
+    "gpt_response": "Inside layer: triangle  \nOutside layer: diamond  \n\nSHAPES : Triangle , Diamond",
+    "Output": [
+      "Triangle",
+      "Diamond"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "17.png",
+    "num_layers": 2,
+    "order": [
+      "triangle",
+      "pentagon"
+    ],
+    "gpt_response": "Inside layer: triangle  \nOutside layer: pentagon  \nSHAPES : triangle, pentagon",
+    "Output": [
+      "triangle",
+      "pentagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "18.png",
+    "num_layers": 2,
+    "order": [
+      "hexagon",
+      "triangle"
+    ],
+    "gpt_response": "Inside layer: hexagon  \nOutside layer: triangle  \nSHAPES : Hexagon , Triangle",
+    "Output": [
+      "Hexagon",
+      "Triangle"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "19.png",
+    "num_layers": 2,
+    "order": [
+      "pentagon",
+      "triangle"
+    ],
+    "gpt_response": "Inside layer: Pentagon  \nOutside layer: Triangle  \nSHAPES : Pentagon , Triangle",
+    "Output": [
+      "Pentagon",
+      "Triangle"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "20.png",
+    "num_layers": 2,
+    "order": [
+      "pentagon",
+      "pentagon"
+    ],
+    "gpt_response": "Inside layer: pentagon  \nOutside layer: pentagon  \n\nSHAPES: pentagon, pentagon",
+    "Output": [
+      "pentagon",
+      "pentagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "21.png",
+    "num_layers": 3,
+    "order": [
+      "triangle",
+      "triangle",
+      "pentagon"
+    ],
+    "gpt_response": "Inner layer: triangle  \nMiddle layer: triangle  \nOuter layer: pentagon  \n\nSHAPES : triangle , triangle , pentagon",
+    "Output": [
+      "triangle",
+      "triangle",
+      "pentagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "22.png",
+    "num_layers": 3,
+    "order": [
+      "square",
+      "triangle",
+      "triangle"
+    ],
+    "gpt_response": "Inside layer: diamond  \nMiddle layer: triangle  \nOutside layer: triangle  \n\nSHAPES : diamond, triangle, triangle",
+    "Output": [
+      "diamond",
+      "triangle",
+      "triangle"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "23.png",
+    "num_layers": 3,
+    "order": [
+      "triangle",
+      "pentagon",
+      "hexagon"
+    ],
+    "gpt_response": "Inside layer: triangle  \nMiddle layer: pentagon  \nOutside layer: hexagon  \n\nSHAPES : Triangle , Pentagon , Hexagon",
+    "Output": [
+      "Triangle",
+      "Pentagon",
+      "Hexagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "24.png",
+    "num_layers": 3,
+    "order": [
+      "hexagon",
+      "hexagon",
+      "triangle"
+    ],
+    "gpt_response": "Inside to outside layers:\n1. Small hexagon  \n2. Large hexagon  \n3. Triangle  \n\nSHAPES : Hexagon, Hexagon, Triangle",
+    "Output": [
+      "Hexagon",
+      "Hexagon",
+      "Triangle"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "25.png",
+    "num_layers": 3,
+    "order": [
+      "pentagon",
+      "pentagon",
+      "pentagon"
+    ],
+    "gpt_response": "Inside layer: pentagon  \nMiddle layer: pentagon  \nOutside layer: pentagon  \nSHAPES : pentagon, pentagon, pentagon",
+    "Output": [
+      "pentagon",
+      "pentagon",
+      "pentagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "26.png",
+    "num_layers": 3,
+    "order": [
+      "triangle",
+      "hexagon",
+      "pentagon"
+    ],
+    "gpt_response": "Inside layer: Triangle  \nMiddle layer: Hexagon  \nOuter layer: Hexagon  \n\nSHAPES : Triangle , Hexagon , Hexagon",
+    "Output": [
+      "Triangle",
+      "Hexagon",
+      "Hexagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "27.png",
+    "num_layers": 3,
+    "order": [
+      "square",
+      "hexagon",
+      "square"
+    ],
+    "gpt_response": "Inside layer: diamond  \nMiddle layer: hexagon  \nOutside layer: diamond  \nSHAPES : Diamond , Hexagon , Diamond",
+    "Output": [
+      "Diamond",
+      "Hexagon",
+      "Diamond"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "28.png",
+    "num_layers": 3,
+    "order": [
+      "triangle",
+      "square",
+      "square"
+    ],
+    "gpt_response": "Innermost layer: triangle  \nMiddle layer: square (rotated 45\u00b0)  \nOuter layer: square (rotated 45\u00b0)  \nSHAPES : triangle, square, square",
+    "Output": [
+      "triangle",
+      "square",
+      "square"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "29.png",
+    "num_layers": 3,
+    "order": [
+      "triangle",
+      "hexagon",
+      "triangle"
+    ],
+    "gpt_response": "Inside layer: triangle  \nMiddle layer: hexagon  \nOutside layer: triangle  \nSHAPES : triangle, hexagon, triangle",
+    "Output": [
+      "triangle",
+      "hexagon",
+      "triangle"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "30.png",
+    "num_layers": 3,
+    "order": [
+      "square",
+      "hexagon",
+      "hexagon"
+    ],
+    "gpt_response": "Sequence of shapes from the inside layer to the outside layer:\n1. Diamond  \n2. Hexagon  \n3. Hexagon  \n\nSHAPES : Diamond , Hexagon , Hexagon",
+    "Output": [
+      "Diamond",
+      "Hexagon",
+      "Hexagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "31.png",
+    "num_layers": 4,
+    "order": [
+      "pentagon",
+      "triangle",
+      "triangle",
+      "triangle"
+    ],
+    "gpt_response": "Inside layer: pentagon  \n2nd layer: triangle  \n3rd layer: triangle  \nOutside layer: triangle  \nSHAPES : Pentagon , Triangle , Triangle , Triangle",
+    "Output": [
+      "Pentagon",
+      "Triangle",
+      "Triangle",
+      "Triangle"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "32.png",
+    "num_layers": 4,
+    "order": [
+      "triangle",
+      "triangle",
+      "pentagon",
+      "hexagon"
+    ],
+    "gpt_response": "Inside layer: triangle  \nSecond layer: triangle  \nThird layer: pentagon  \nOutside layer: hexagon  \n\nSHAPES : Triangle, Triangle, Pentagon, Hexagon",
+    "Output": [
+      "Triangle",
+      "Triangle",
+      "Pentagon",
+      "Hexagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "33.png",
+    "num_layers": 4,
+    "order": [
+      "hexagon",
+      "pentagon",
+      "square",
+      "hexagon"
+    ],
+    "gpt_response": "The shapes from the inside layer to the outside layer are:\n\n1. Hexagon  \n2. Pentagon  \n3. Square  \n4. Hexagon  \n\nSHAPES : hexagon , pentagon , square , hexagon",
+    "Output": [
+      "hexagon",
+      "pentagon",
+      "square",
+      "hexagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "34.png",
+    "num_layers": 4,
+    "order": [
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon"
+    ],
+    "gpt_response": "Sequence from inside to outside:\n- Hexagon\n- Hexagon\n- Hexagon\n- Hexagon\n\nSHAPES : hexagon, hexagon, hexagon, hexagon",
+    "Output": [
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "35.png",
+    "num_layers": 4,
+    "order": [
+      "hexagon",
+      "square",
+      "square",
+      "triangle"
+    ],
+    "gpt_response": "Inside layer: Hexagon  \nNext: Square (rotated)  \nNext: Square (rotated)  \nOutside layer: Triangle  \n\nSHAPES : Hexagon , Square , Square , Triangle",
+    "Output": [
+      "Hexagon",
+      "Square",
+      "Square",
+      "Triangle"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "36.png",
+    "num_layers": 4,
+    "order": [
+      "hexagon",
+      "square",
+      "hexagon",
+      "pentagon"
+    ],
+    "gpt_response": "Sequence from the inside layer to the outside layer:  \n1. Small regular hexagon  \n2. Square  \n3. Hexagon  \n4. Heptagon  \n\nSHAPES : hexagon , square , hexagon , heptagon",
+    "Output": [
+      "hexagon",
+      "square",
+      "hexagon",
+      "heptagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "37.png",
+    "num_layers": 4,
+    "order": [
+      "square",
+      "pentagon",
+      "triangle",
+      "hexagon"
+    ],
+    "gpt_response": "1. Innermost layer: a small rotated square (diamond)  \n2. Next layer: a five\u2010sided polygon (pentagon)  \n3. Next layer: three identical triangles  \n4. Outermost layer: a large hexagon  \n\nSHAPES : Square, Pentagon, Triangle, Hexagon",
+    "Output": [
+      "Square",
+      "Pentagon",
+      "Triangle",
+      "Hexagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "38.png",
+    "num_layers": 4,
+    "order": [
+      "pentagon",
+      "pentagon",
+      "square",
+      "pentagon"
+    ],
+    "gpt_response": "Inner layer: pentagon  \n2nd layer: hexagon  \n3rd layer: square  \nOuter layer: pentagon  \n\nSHAPES : Pentagon, Hexagon, Square, Pentagon",
+    "Output": [
+      "Pentagon",
+      "Hexagon",
+      "Square",
+      "Pentagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "39.png",
+    "num_layers": 4,
+    "order": [
+      "triangle",
+      "pentagon",
+      "hexagon",
+      "pentagon"
+    ],
+    "gpt_response": "Inside to outside:\n1. Triangle  \n2. Pentagon  \n3. Hexagon  \n4. Heptagon  \n\nSHAPES : triangle , pentagon , hexagon , heptagon",
+    "Output": [
+      "triangle",
+      "pentagon",
+      "hexagon",
+      "heptagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "40.png",
+    "num_layers": 4,
+    "order": [
+      "square",
+      "triangle",
+      "square",
+      "pentagon"
+    ],
+    "gpt_response": "Inside to outside: small square (diamond) \u2192 triangle \u2192 larger square (diamond) \u2192 pentagon  \nSHAPES : Square , Triangle , Square , Pentagon",
+    "Output": [
+      "Square",
+      "Triangle",
+      "Square",
+      "Pentagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "41.png",
+    "num_layers": 5,
+    "order": [
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "square",
+      "triangle"
+    ],
+    "gpt_response": "Inside layer: hexagon  \nNext layer: pentagon  \nThen: five-pointed star  \nThen: square (as a diamond)  \nOutside layer: triangle  \n\nSHAPES : Hexagon, Pentagon, Star, Square, Triangle",
+    "Output": [
+      "Hexagon",
+      "Pentagon",
+      "Star",
+      "Square",
+      "Triangle"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "42.png",
+    "num_layers": 5,
+    "order": [
+      "triangle",
+      "hexagon",
+      "square",
+      "hexagon",
+      "pentagon"
+    ],
+    "gpt_response": "Sequence of shapes from the inside layer to the outside layer:\n1. Triangle  \n2. Small hexagon  \n3. Medium hexagon  \n4. Large hexagon  \n5. Largest hexagon  \n\nSHAPES : Triangle , Hexagon , Hexagon , Hexagon , Hexagon",
+    "Output": [
+      "Triangle",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "43.png",
+    "num_layers": 5,
+    "order": [
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "triangle",
+      "hexagon"
+    ],
+    "gpt_response": "Inside to outside layers:  \n1. Small pentagon  \n2. Larger pentagon outline  \n3. Filled triangle  \n4. Larger triangle outline  \n5. Hexagon  \n\nSHAPES : pentagon, pentagon, triangle, triangle, hexagon",
+    "Output": [
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "triangle",
+      "hexagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "44.png",
+    "num_layers": 5,
+    "order": [
+      "triangle",
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "triangle"
+    ],
+    "gpt_response": "Inside \u2192 Outside Layers  \n1. Triangle  \n2. Pentagon  \n3. Heptagon  \n4. Triangle  \n5. Triangle  \n\nSHAPES : triangle , pentagon , heptagon , triangle , triangle",
+    "Output": [
+      "triangle",
+      "pentagon",
+      "heptagon",
+      "triangle",
+      "triangle"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "45.png",
+    "num_layers": 5,
+    "order": [
+      "triangle",
+      "triangle",
+      "triangle",
+      "triangle",
+      "triangle"
+    ],
+    "gpt_response": "Inside layer: triangle  \n2nd layer: triangle  \n3rd layer: triangle  \n4th layer: triangle  \nOutside layer: triangle  \n\nSHAPES: Triangle, Triangle, Triangle, Triangle, Triangle",
+    "Output": [
+      "Triangle",
+      "Triangle",
+      "Triangle",
+      "Triangle",
+      "Triangle"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "46.png",
+    "num_layers": 5,
+    "order": [
+      "square",
+      "square",
+      "hexagon",
+      "pentagon",
+      "hexagon"
+    ],
+    "gpt_response": "Sequence of shapes from inside to outside:\n1. Rotated square  \n2. Small regular hexagon  \n3. Medium regular hexagon  \n4. Irregular hexagon  \n5. Large regular hexagon  \n\nSHAPES : Square , Hexagon , Hexagon , Hexagon , Hexagon",
+    "Output": [
+      "Square",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "47.png",
+    "num_layers": 5,
+    "order": [
+      "square",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "pentagon"
+    ],
+    "gpt_response": "Inside layer: diamond  \nNext: hexagon  \nNext: hexagon  \nNext: hexagon  \nOutside layer: heptagon  \n\nSHAPES : diamond, hexagon, hexagon, hexagon, heptagon",
+    "Output": [
+      "diamond",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "heptagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "48.png",
+    "num_layers": 5,
+    "order": [
+      "hexagon",
+      "square",
+      "square",
+      "triangle",
+      "hexagon"
+    ],
+    "gpt_response": "Inside layer: Small hexagon  \nNext: Small rotated square (diamond)  \nNext: Large rotated square (diamond)  \nNext: Isosceles triangle  \nOutside layer: Large hexagon  \n\nSHAPES : Hexagon, Square, Square, Triangle, Hexagon",
+    "Output": [
+      "Hexagon",
+      "Square",
+      "Square",
+      "Triangle",
+      "Hexagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "49.png",
+    "num_layers": 5,
+    "order": [
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "pentagon"
+    ],
+    "gpt_response": "Inside to outside layers:\n1. Small central hexagon  \n2. Second hexagon  \n3. Third hexagon  \n4. Fourth hexagon  \n5. Largest outer hexagon  \n\nSHAPES : Hexagon, Hexagon, Hexagon, Hexagon, Hexagon",
+    "Output": [
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "50.png",
+    "num_layers": 5,
+    "order": [
+      "pentagon",
+      "hexagon",
+      "square",
+      "triangle",
+      "square"
+    ],
+    "gpt_response": "Inside to outside layers:\n1. Pentagon  \n2. Hexagon  \n3. Square  \n4. Quadrilateral  \n5. Square  \n\nSHAPES : Pentagon, Hexagon, Square, Quadrilateral, Square",
+    "Output": [
+      "Pentagon",
+      "Hexagon",
+      "Square",
+      "Quadrilateral",
+      "Square"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "51.png",
+    "num_layers": 6,
+    "order": [
+      "triangle",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "triangle",
+      "square"
+    ],
+    "gpt_response": "Inside to outside layers:\n1. Small pink triangle  \n2. Blue hexagon  \n3. Red triangle  \n4. Teal seven-sided polygon (heptagon)  \n5. Purple three-pointed star  \n6. Green square (rotated 45\u00b0)  \n\nSHAPES : Triangle , Hexagon , Triangle , Heptagon , Three-pointed star , Square",
+    "Output": [
+      "Triangle",
+      "Hexagon",
+      "Triangle",
+      "Heptagon",
+      "Three-pointed star",
+      "Square"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "52.png",
+    "num_layers": 6,
+    "order": [
+      "triangle",
+      "square",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "hexagon"
+    ],
+    "gpt_response": "Sequence of shapes from the inside layer to the outside layer:\n1. Triangle  \n2. Diamond  \n3. Triangle  \n4. Triangle  \n5. Hexagon  \n6. Hexagon  \n\nSHAPES : Triangle , Diamond , Triangle , Triangle , Hexagon , Hexagon",
+    "Output": [
+      "Triangle",
+      "Diamond",
+      "Triangle",
+      "Triangle",
+      "Hexagon",
+      "Hexagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "53.png",
+    "num_layers": 6,
+    "order": [
+      "pentagon",
+      "square",
+      "square",
+      "pentagon",
+      "triangle",
+      "pentagon"
+    ],
+    "gpt_response": "Inside layer: small pentagon  \nNext layer: slightly larger pentagon  \nNext layer: larger pentagon  \nNext layer: octagon  \nNext layer: two triangles  \nOutside layer: large pentagon  \n\nSHAPES : Pentagon , Pentagon , Pentagon , Octagon , Triangle , Triangle , Pentagon",
+    "Output": [
+      "Pentagon",
+      "Pentagon",
+      "Pentagon",
+      "Octagon",
+      "Triangle",
+      "Triangle",
+      "Pentagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "54.png",
+    "num_layers": 6,
+    "order": [
+      "pentagon",
+      "square",
+      "triangle",
+      "triangle",
+      "triangle",
+      "square"
+    ],
+    "gpt_response": "Inside to outside layers:\nPentagon  \nSquare  \nTriangle  \nTriangle  \nTriangle  \nSquare  \n\nSHAPES : Pentagon , Square , Triangle , Triangle , Triangle , Square",
+    "Output": [
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Triangle",
+      "Triangle",
+      "Square"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "55.png",
+    "num_layers": 6,
+    "order": [
+      "pentagon",
+      "square",
+      "hexagon",
+      "square",
+      "hexagon",
+      "square"
+    ],
+    "gpt_response": "Octagon  \nSquare  \nOctagon  \nSquare  \nOctagon  \nSquare  \nSHAPES : octagon, square, octagon, square, octagon, square",
+    "Output": [
+      "octagon",
+      "square",
+      "octagon",
+      "square",
+      "octagon",
+      "square"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "56.png",
+    "num_layers": 6,
+    "order": [
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "hexagon"
+    ],
+    "gpt_response": "Sequence from inside to outside:\n1. Hexagon  \n2. Hexagon  \n3. Hexagon  \n4. Hexagon  \n5. Hexagon  \n\nSHAPES : hexagon, hexagon, hexagon, hexagon, hexagon",
+    "Output": [
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "57.png",
+    "num_layers": 6,
+    "order": [
+      "pentagon",
+      "square",
+      "square",
+      "square",
+      "triangle",
+      "hexagon"
+    ],
+    "gpt_response": "Innermost layer: pentagon  \n2nd layer: small rotated square  \n3rd layer: medium rotated square  \n4th layer: large rotated square  \n5th layer: right\u2010pointing triangle  \nOutermost layer: hexagon  \n\nSHAPES : pentagon , square , square , square , triangle , hexagon",
+    "Output": [
+      "pentagon",
+      "square",
+      "square",
+      "square",
+      "triangle",
+      "hexagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "58.png",
+    "num_layers": 6,
+    "order": [
+      "square",
+      "square",
+      "square",
+      "triangle",
+      "pentagon",
+      "pentagon"
+    ],
+    "gpt_response": "Sequence from inside to outside:\n1. Diamond\n2. Diamond\n3. Diamond\n4. Star\n5. Pentagon\n6. Pentagon\n\nSHAPES : diamond , diamond , diamond , star , pentagon , pentagon",
+    "Output": [
+      "diamond",
+      "diamond",
+      "diamond",
+      "star",
+      "pentagon",
+      "pentagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "59.png",
+    "num_layers": 6,
+    "order": [
+      "triangle",
+      "triangle",
+      "square",
+      "triangle",
+      "hexagon",
+      "pentagon"
+    ],
+    "gpt_response": "Innermost layer: small triangle  \n2nd layer: larger triangle  \n3rd layer: rotated square (diamond)  \n4th layer: octagon  \nOutermost layer: heptagon  \n\nSHAPES : Triangle , Triangle , Square , Octagon , Heptagon",
+    "Output": [
+      "Triangle",
+      "Triangle",
+      "Square",
+      "Octagon",
+      "Heptagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "60.png",
+    "num_layers": 6,
+    "order": [
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "triangle"
+    ],
+    "gpt_response": "Sequence from the innermost layer to the outermost layer:\n\n1. Small pentagon  \n2. Small triangle  \n3. Medium triangle  \n4. Large triangle  \n5. Hexagon  \n6. Three triangles  \n\nSHAPES : pentagon , triangle , triangle , triangle , hexagon , triangle",
+    "Output": [
+      "pentagon",
+      "triangle",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "triangle"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "61.png",
+    "num_layers": 7,
+    "order": [
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "triangle",
+      "hexagon",
+      "pentagon",
+      "hexagon"
+    ],
+    "gpt_response": "Inside to outside layers:\n1. Hexagon  \n2. Hexagon  \n3. Hexagon  \n4. Hexagon  \n5. Hexagon  \n6. Hexagon  \n\nSHAPES : hexagon, hexagon, hexagon, hexagon, hexagon, hexagon",
+    "Output": [
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "62.png",
+    "num_layers": 7,
+    "order": [
+      "pentagon",
+      "square",
+      "pentagon",
+      "hexagon",
+      "square",
+      "pentagon",
+      "triangle"
+    ],
+    "gpt_response": "Sequence of layers from inside to outside:\n1. Pentagon  \n2. Pentagon  \n3. Pentagon  \n4. Pentagon  \n5. Pentagon  \n6. Heptagon  \n7. Star  \n\nSHAPES : pentagon , pentagon , pentagon , pentagon , pentagon , heptagon , star",
+    "Output": [
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "heptagon",
+      "star"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "63.png",
+    "num_layers": 7,
+    "order": [
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "pentagon"
+    ],
+    "gpt_response": "1. Innermost layer: hexagon  \n2. Next layer: hexagon  \n3. Then a triangle  \n4. Then a quadrilateral  \n5. Then a heptagon  \n6. Outermost layer: hexagon  \n\nSHAPES : hexagon, hexagon, triangle, quadrilateral, heptagon, hexagon",
+    "Output": [
+      "hexagon",
+      "hexagon",
+      "triangle",
+      "quadrilateral",
+      "heptagon",
+      "hexagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "64.png",
+    "num_layers": 7,
+    "order": [
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "hexagon",
+      "square",
+      "pentagon"
+    ],
+    "gpt_response": "Inside to outside layers:\n1. Triangle  \n2. Pentagon (small)  \n3. Pentagon (medium)  \n4. Pentagon (large)  \n5. Square (rotated)  \n6. Hexagon  \n\nSHAPES : Triangle , Pentagon , Pentagon , Pentagon , Square , Hexagon",
+    "Output": [
+      "Triangle",
+      "Pentagon",
+      "Pentagon",
+      "Pentagon",
+      "Square",
+      "Hexagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "65.png",
+    "num_layers": 7,
+    "order": [
+      "square",
+      "triangle",
+      "triangle",
+      "square",
+      "square",
+      "pentagon",
+      "square"
+    ],
+    "gpt_response": "Sequence of shapes from the inside layer to the outside layer:\n1. Small rotated square  \n2. Solid triangle  \n3. Triangular outline  \n4. Medium rotated square  \n5. Large rotated square  \n6. Irregular pentagon  \n7. Largest rotated square  \n\nSHAPES : Square , Triangle , Triangle , Square , Square , Pentagon , Square",
+    "Output": [
+      "Square",
+      "Triangle",
+      "Triangle",
+      "Square",
+      "Square",
+      "Pentagon",
+      "Square"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "66.png",
+    "num_layers": 7,
+    "order": [
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "triangle"
+    ],
+    "gpt_response": "Sequence of layers from inside to outside:\n1. Small central hexagon  \n2. Medium purple hexagon  \n3. Larger pink hexagon  \n4. Pale yellow hexagon  \n5. Light green hexagon  \n6. Olive green hexagon  \n7. Reddish-brown hexagon  \n8. Three dark brown triangles behind the hexagons  \n\nSHAPES : Hexagon , Hexagon , Hexagon , Hexagon , Hexagon , Hexagon , Hexagon , Triangle",
+    "Output": [
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Triangle"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "67.png",
+    "num_layers": 7,
+    "order": [
+      "square",
+      "square",
+      "pentagon",
+      "pentagon",
+      "square",
+      "pentagon",
+      "square"
+    ],
+    "gpt_response": "1. Innermost: small purple diamond \u2013 square  \n2. Pink diamond \u2013 square  \n3. Dark gray shape \u2013 hexagon  \n4. Brown shape \u2013 pentagon  \n5. Purple diamond \u2013 square  \n6. Light-gray shape \u2013 heptagon  \n7. Outermost: green diamond \u2013 square  \n\nSHAPES : square , square , hexagon , pentagon , square , heptagon , square",
+    "Output": [
+      "square",
+      "square",
+      "hexagon",
+      "pentagon",
+      "square",
+      "heptagon",
+      "square"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "68.png",
+    "num_layers": 7,
+    "order": [
+      "triangle",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "square",
+      "square",
+      "triangle"
+    ],
+    "gpt_response": "Layer sequence (inside \u2192 outside):\n\n1. Triangle  \n2. Heptagon  \n3. Hexagon  \n4. Pentagon  \n5. Square  \n6. Square (rotated, i.e. diamond)  \n7. Triangle  \n\nSHAPES : Triangle, Heptagon, Hexagon, Pentagon, Square, Square, Triangle",
+    "Output": [
+      "Triangle",
+      "Heptagon",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Square",
+      "Triangle"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "69.png",
+    "num_layers": 7,
+    "order": [
+      "pentagon",
+      "hexagon",
+      "square",
+      "pentagon",
+      "square",
+      "pentagon",
+      "pentagon"
+    ],
+    "gpt_response": "Sequence from innermost to outermost:\n1. Pentagon  \n2. Pentagon  \n3. Pentagon  \n4. Pentagon  \n5. Pentagon  \n6. Pentagon  \n7. Pentagon  \n\nSHAPES : Pentagon, Pentagon, Pentagon, Pentagon, Pentagon, Pentagon, Pentagon",
+    "Output": [
+      "Pentagon",
+      "Pentagon",
+      "Pentagon",
+      "Pentagon",
+      "Pentagon",
+      "Pentagon",
+      "Pentagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "70.png",
+    "num_layers": 7,
+    "order": [
+      "hexagon",
+      "hexagon",
+      "square",
+      "triangle",
+      "triangle",
+      "pentagon",
+      "pentagon"
+    ],
+    "gpt_response": "Sequence of layers from inside to outside:\n1. Small hexagon  \n2. Larger hexagon  \n3. Rotated square  \n4. Smaller triangle  \n5. Larger triangle  \n6. Outermost hexagon  \n\nSHAPES : hexagon, hexagon, square, triangle, triangle, hexagon",
+    "Output": [
+      "hexagon",
+      "hexagon",
+      "square",
+      "triangle",
+      "triangle",
+      "hexagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "71.png",
+    "num_layers": 8,
+    "order": [
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "triangle",
+      "square",
+      "hexagon"
+    ],
+    "gpt_response": "Inside\u2010out layers:\n1. Small pentagon  \n2. Small hexagon  \n3. Small triangle (grey)  \n4. Larger triangle (red)  \n5. Middle hexagon (light green)  \n6. Square (green diamond)  \n7. Outer hexagon (purple)  \n\nSHAPES : Pentagon , Hexagon , Triangle , Triangle , Hexagon , Square , Hexagon",
+    "Output": [
+      "Pentagon",
+      "Hexagon",
+      "Triangle",
+      "Triangle",
+      "Hexagon",
+      "Square",
+      "Hexagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "72.png",
+    "num_layers": 8,
+    "order": [
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "square",
+      "pentagon",
+      "pentagon"
+    ],
+    "gpt_response": "Sequence from the innermost to the outermost layer:\n\n1. Triangle  \n2. Square  \n3. Pentagon  \n4. Hexagon  \n5. Heptagon  \n6. Octagon  \n7. Nonagon  \n\nSHAPES : triangle , square , pentagon , hexagon , heptagon , octagon , nonagon",
+    "Output": [
+      "triangle",
+      "square",
+      "pentagon",
+      "hexagon",
+      "heptagon",
+      "octagon",
+      "nonagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "73.png",
+    "num_layers": 8,
+    "order": [
+      "triangle",
+      "hexagon",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "triangle",
+      "pentagon"
+    ],
+    "gpt_response": "Sequence of shapes from the inside layer to the outside layer:\n\n1. Small right\u2010pointing triangle  \n2. Pentagon  \n3. Smaller triangle  \n4. Larger triangle  \n5. Regular hexagon (filled)  \n6. Regular hexagon (outline)  \n7. Irregular hexagon  \n\nSHAPES : triangle , pentagon , triangle , triangle , hexagon , hexagon , hexagon",
+    "Output": [
+      "triangle",
+      "pentagon",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "hexagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "74.png",
+    "num_layers": 8,
+    "order": [
+      "pentagon",
+      "square",
+      "triangle",
+      "square",
+      "square",
+      "pentagon",
+      "hexagon",
+      "pentagon"
+    ],
+    "gpt_response": "From the inside layer to the outside layer the shapes are:\n\n1. small hexagon  \n2. pentagon  \n3. triangle  \n4. hexagon  \n5. heptagon  \n6. octagon  \n7. nonagon  \n8. decagon\n\nSHAPES : Hexagon , Pentagon , Triangle , Hexagon , Heptagon , Octagon , Nonagon , Decagon",
+    "Output": [
+      "Hexagon",
+      "Pentagon",
+      "Triangle",
+      "Hexagon",
+      "Heptagon",
+      "Octagon",
+      "Nonagon",
+      "Decagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "75.png",
+    "num_layers": 8,
+    "order": [
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "hexagon",
+      "hexagon",
+      "triangle"
+    ],
+    "gpt_response": "1. Innermost: small solid hexagon  \n2. Next: green outline hexagon  \n3. Next: muted\u2010purple outline hexagon  \n4. Next: rust\u2010orange solid hexagon  \n5. Next: slate\u2010blue solid hexagon  \n6. Next: three light-purple triangles  \n7. Outermost: thick purple border hexagon  \n\nSHAPES : hexagon, hexagon, hexagon, hexagon, hexagon, triangle, hexagon",
+    "Output": [
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "triangle",
+      "hexagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "76.png",
+    "num_layers": 8,
+    "order": [
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "square",
+      "square",
+      "square"
+    ],
+    "gpt_response": "Inside to outside layers:\n1. Small pentagon  \n2. Medium pentagon  \n3. Pentagonal outline  \n4. Five-pointed star  \n5. Decagon  \n6. Square  \n7. Larger square  \n8. Largest square  \n\nSHAPES : pentagon , pentagon , pentagon , star , decagon , square , square , square",
+    "Output": [
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "star",
+      "decagon",
+      "square",
+      "square",
+      "square"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "77.png",
+    "num_layers": 8,
+    "order": [
+      "triangle",
+      "square",
+      "hexagon",
+      "square",
+      "hexagon",
+      "triangle",
+      "triangle",
+      "pentagon"
+    ],
+    "gpt_response": "Inside to outside layers:  \n1. Triangle  \n2. Pentagon  \n3. Pentagon  \n4. Pentagon  \n5. Five-pointed star  \n6. Heptagon  \n\nSHAPES : triangle, pentagon, pentagon, pentagon, star, heptagon",
+    "Output": [
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "star",
+      "heptagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "78.png",
+    "num_layers": 8,
+    "order": [
+      "triangle",
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "square",
+      "triangle",
+      "hexagon"
+    ],
+    "gpt_response": "Inside to outside layers:\n\n1. Triangle  \n2. Pentagon  \n3. Hexagon  \n4. Star (5-point)  \n5. Octagon  \n6. Square  \n7. Star (5-point)  \n8. Hexagon  \n\nSHAPES : Triangle , Pentagon , Hexagon , Star , Octagon , Square , Star , Hexagon",
+    "Output": [
+      "Triangle",
+      "Pentagon",
+      "Hexagon",
+      "Star",
+      "Octagon",
+      "Square",
+      "Star",
+      "Hexagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "79.png",
+    "num_layers": 8,
+    "order": [
+      "triangle",
+      "triangle",
+      "triangle",
+      "triangle",
+      "square",
+      "square",
+      "pentagon",
+      "pentagon"
+    ],
+    "gpt_response": "1. Innermost: small dark triangle  \n2. next: slightly larger teal triangle  \n3. next: pink triangle  \n4. next: blue triangle  \n5. next: golden square (diamond)  \n6. next: pale blue pentagon  \n7. outermost: bright green hexagon  \n\nSHAPES : Triangle , Triangle , Triangle , Triangle , Square , Pentagon , Hexagon",
+    "Output": [
+      "Triangle",
+      "Triangle",
+      "Triangle",
+      "Triangle",
+      "Square",
+      "Pentagon",
+      "Hexagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "80.png",
+    "num_layers": 8,
+    "order": [
+      "square",
+      "square",
+      "pentagon",
+      "triangle",
+      "square",
+      "square",
+      "square",
+      "square"
+    ],
+    "gpt_response": "Sequence from the innermost layer to the outermost:\n\n1. Small rotated square  \n2. Larger rotated square  \n3. Pentagon  \n4. Concave hexagon  \n5. Rotated square  \n6. Rotated square  \n7. Rotated square  \n8. Rotated square  \n\nSHAPES : Square , Square , Pentagon , Hexagon , Square , Square , Square , Square",
+    "Output": [
+      "Square",
+      "Square",
+      "Pentagon",
+      "Hexagon",
+      "Square",
+      "Square",
+      "Square",
+      "Square"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "81.png",
+    "num_layers": 9,
+    "order": [
+      "hexagon",
+      "square",
+      "hexagon",
+      "pentagon",
+      "hexagon",
+      "square",
+      "triangle",
+      "pentagon",
+      "triangle"
+    ],
+    "gpt_response": "The layers form a series of regular polygons with increasing numbers of sides. From the innermost to the outermost you have:\n\n1. Pentagon  \n2. Hexagon  \n3. Heptagon  \n4. Octagon  \n5. Nonagon  \n6. Decagon  \n7. Hendecagon  \n\nSHAPES : pentagon, hexagon, heptagon, octagon, nonagon, decagon, hendecagon",
+    "Output": [
+      "pentagon",
+      "hexagon",
+      "heptagon",
+      "octagon",
+      "nonagon",
+      "decagon",
+      "hendecagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "82.png",
+    "num_layers": 9,
+    "order": [
+      "pentagon",
+      "triangle",
+      "pentagon",
+      "square",
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "triangle",
+      "pentagon"
+    ],
+    "gpt_response": "Sequence of layers from inside to outside:\n1. Small pentagon  \n2. Medium pentagon  \n3. Hexagon  \n4. Diamond (square)  \n5. Larger pentagon  \n6. Triangle  \n7. Largest pentagon  \n\nSHAPES : pentagon , pentagon , hexagon , square , pentagon , triangle , pentagon",
+    "Output": [
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "square",
+      "pentagon",
+      "triangle",
+      "pentagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "83.png",
+    "num_layers": 9,
+    "order": [
+      "hexagon",
+      "hexagon",
+      "square",
+      "square",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "square"
+    ],
+    "gpt_response": "1. Innermost layer: hexagon  \n2. 2nd layer: hexagon  \n3. 3rd layer: hexagon  \n4. 4th layer: hexagon  \n5. 5th layer: hexagon  \n6. 6th layer: hexagon  \n7. Outermost layer: square  \n\nSHAPES : Hexagon , Hexagon , Hexagon , Hexagon , Hexagon , Hexagon , Square",
+    "Output": [
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Square"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "84.png",
+    "num_layers": 9,
+    "order": [
+      "hexagon",
+      "square",
+      "hexagon",
+      "square",
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "pentagon",
+      "square"
+    ],
+    "gpt_response": "1. Innermost layer: pentagon  \n2. next layers (2\u20136): five nested hexagons  \n3. next layer: triangle  \n4. outermost layer: square  \n\nSHAPES : Pentagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Triangle, Square",
+    "Output": [
+      "Pentagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Triangle",
+      "Square"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "85.png",
+    "num_layers": 9,
+    "order": [
+      "triangle",
+      "pentagon",
+      "square",
+      "hexagon",
+      "triangle",
+      "square",
+      "pentagon",
+      "square",
+      "square"
+    ],
+    "gpt_response": "Inside\u2192Outside layers:\n1. Triangle  \n2. Square  \n3. Pentagon  \n4. Hexagon  \n5. Heptagon  \n6. Octagon  \n7. Nonagon  \n8. Decagon  \n\nSHAPES : Triangle , Square , Pentagon , Hexagon , Heptagon , Octagon , Nonagon , Decagon",
+    "Output": [
+      "Triangle",
+      "Square",
+      "Pentagon",
+      "Hexagon",
+      "Heptagon",
+      "Octagon",
+      "Nonagon",
+      "Decagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "86.png",
+    "num_layers": 9,
+    "order": [
+      "triangle",
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "square",
+      "pentagon",
+      "triangle",
+      "square",
+      "hexagon"
+    ],
+    "gpt_response": "Layer 1: triangle  \nLayer 2: hexagon  \nLayer 3: hexagon  \nLayer 4: hexagon  \nLayer 5: hexagon  \nLayer 6: hexagon  \nLayer 7: hexagon  \nLayer 8: hexagon  \nLayer 9: hexagon  \n\nSHAPES : Triangle , Hexagon , Hexagon , Hexagon , Hexagon , Hexagon , Hexagon , Hexagon , Hexagon",
+    "Output": [
+      "Triangle",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "87.png",
+    "num_layers": 9,
+    "order": [
+      "pentagon",
+      "hexagon",
+      "square",
+      "hexagon",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "triangle",
+      "triangle"
+    ],
+    "gpt_response": "Sequence of layers from innermost to outermost:\n1. Hexagon  \n2. Hexagon  \n3. Hexagon  \n4. Hexagon  \n5. Triangle  \n6. Triangle  \n7. Triangle  \n\nSHAPES : hexagon, hexagon, hexagon, hexagon, triangle, triangle, triangle",
+    "Output": [
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "triangle",
+      "triangle",
+      "triangle"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "88.png",
+    "num_layers": 9,
+    "order": [
+      "triangle",
+      "triangle",
+      "square",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "square",
+      "hexagon",
+      "pentagon"
+    ],
+    "gpt_response": "Inside \u2192 Outside layers:\n\n1. Triangle  \n2. Square  \n3. Pentagon  \n4. Hexagon  \n5. Heptagon  \n6. Octagon  \n7. Nonagon  \n8. Decagon  \n\nSHAPES : Triangle , Square , Pentagon , Hexagon , Heptagon , Octagon , Nonagon , Decagon",
+    "Output": [
+      "Triangle",
+      "Square",
+      "Pentagon",
+      "Hexagon",
+      "Heptagon",
+      "Octagon",
+      "Nonagon",
+      "Decagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "89.png",
+    "num_layers": 9,
+    "order": [
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "square"
+    ],
+    "gpt_response": "The shapes, from the innermost layer outward, are:\n\n1. 11-sided polygon (hendecagon)  \n2. 10-sided polygon (decagon)  \n3. 9-sided polygon (nonagon)  \n4. 8-sided polygon (octagon)  \n5. 7-sided polygon (heptagon)  \n6. 6-sided polygon (hexagon)  \n7. 5-sided polygon (pentagon)  \n8. 4-sided polygon (quadrilateral)  \n\nSHAPES : Hendecagon , Decagon , Nonagon , Octagon , Heptagon , Hexagon , Pentagon , Quadrilateral",
+    "Output": [
+      "Hendecagon",
+      "Decagon",
+      "Nonagon",
+      "Octagon",
+      "Heptagon",
+      "Hexagon",
+      "Pentagon",
+      "Quadrilateral"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "90.png",
+    "num_layers": 9,
+    "order": [
+      "hexagon",
+      "triangle",
+      "square",
+      "square",
+      "square",
+      "square",
+      "hexagon",
+      "square",
+      "triangle"
+    ],
+    "gpt_response": "1. Innermost layer: Pentagon  \n2. 2nd layer: Hexagon  \n3. 3rd layer: Heptagon  \n4. 4th layer: Octagon  \n5. 5th layer: Nonagon  \n6. 6th layer: Decagon  \n7. 7th layer: Hendecagon  \n8. Outermost layer: Dodecagon  \n\nSHAPES : Pentagon , Hexagon , Heptagon , Octagon , Nonagon , Decagon , Hendecagon , Dodecagon",
+    "Output": [
+      "Pentagon",
+      "Hexagon",
+      "Heptagon",
+      "Octagon",
+      "Nonagon",
+      "Decagon",
+      "Hendecagon",
+      "Dodecagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "91.png",
+    "num_layers": 10,
+    "order": [
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "square",
+      "square",
+      "pentagon",
+      "hexagon",
+      "triangle"
+    ],
+    "gpt_response": "Sequence of shapes from the innermost (top) layer to the outermost (bottom) layer:\n\n1. Pentagon  \n2. Hexagon  \n3. Triangle  \n4. Heptagon  \n5. Square  \n6. Hexagon  \n7. Heptagon  \n8. Triangle  \n\nSHAPES : Pentagon, Hexagon, Triangle, Heptagon, Square, Hexagon, Heptagon, Triangle",
+    "Output": [
+      "Pentagon",
+      "Hexagon",
+      "Triangle",
+      "Heptagon",
+      "Square",
+      "Hexagon",
+      "Heptagon",
+      "Triangle"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "92.png",
+    "num_layers": 10,
+    "order": [
+      "triangle",
+      "pentagon",
+      "triangle",
+      "square",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "pentagon"
+    ],
+    "gpt_response": "1. The topmost visible shape is a pentagon.  \n2. Just beneath it lies a triangle.  \n3. Under that is a square.  \n4. Next is another triangle.  \n5. Then comes a hexagon.  \n6. Below that is a heptagon.  \n7. Next outward is an octagon.  \n8. The rearmost layer is another octagon.  \n\nSHAPES : pentagon, triangle, square, triangle, hexagon, heptagon, octagon, octagon",
+    "Output": [
+      "pentagon",
+      "triangle",
+      "square",
+      "triangle",
+      "hexagon",
+      "heptagon",
+      "octagon",
+      "octagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "93.png",
+    "num_layers": 10,
+    "order": [
+      "hexagon",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "square"
+    ],
+    "gpt_response": "1. Innermost layer: hexagon  \n2. Next layer: hexagon  \n3. Next layer: hexagon  \n4. Next layer: hexagon  \n5. Next layer: hexagon  \n6. Next layer: triangle  \n7. Outermost layer: square  \n\nSHAPES : Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Triangle, Square",
+    "Output": [
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Triangle",
+      "Square"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "94.png",
+    "num_layers": 10,
+    "order": [
+      "hexagon",
+      "square",
+      "pentagon",
+      "square",
+      "pentagon",
+      "hexagon",
+      "square",
+      "square",
+      "triangle",
+      "square"
+    ],
+    "gpt_response": "Sequence of shapes from the inside layer to the outside layer:\n\n1. Pentagon  \n2. Hexagon  \n3. Heptagon  \n4. Octagon  \n5. Nonagon  \n6. Decagon  \n7. Triangle  \n8. Square  \n9. Square  \n10. Square  \n\nSHAPES : pentagon , hexagon , heptagon , octagon , nonagon , decagon , triangle , square , square , square",
+    "Output": [
+      "pentagon",
+      "hexagon",
+      "heptagon",
+      "octagon",
+      "nonagon",
+      "decagon",
+      "triangle",
+      "square",
+      "square",
+      "square"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "95.png",
+    "num_layers": 10,
+    "order": [
+      "square",
+      "square",
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "square",
+      "triangle",
+      "pentagon",
+      "triangle",
+      "triangle"
+    ],
+    "gpt_response": "Inside\u2010out layering:\n1. Small rotated square  \n2. Regular hexagon  \n3. Heptagon  \n4. Pentagon  \n5. Octagon  \n6. Triangle  \n\nSHAPES : square , hexagon , heptagon , pentagon , octagon , triangle",
+    "Output": [
+      "square",
+      "hexagon",
+      "heptagon",
+      "pentagon",
+      "octagon",
+      "triangle"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "96.png",
+    "num_layers": 10,
+    "order": [
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "square",
+      "hexagon",
+      "square",
+      "triangle"
+    ],
+    "gpt_response": "Inside to outside layers:\n1. Pentagon  \n2. Hexagon  \n3. Heptagon  \n4. Octagon  \n5. Nonagon  \n6. Square (rotated)  \n7. Square (rotated)\n\nSHAPES : Pentagon , Hexagon , Heptagon , Octagon , Nonagon , Square , Square",
+    "Output": [
+      "Pentagon",
+      "Hexagon",
+      "Heptagon",
+      "Octagon",
+      "Nonagon",
+      "Square",
+      "Square"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "97.png",
+    "num_layers": 10,
+    "order": [
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "triangle",
+      "square",
+      "triangle"
+    ],
+    "gpt_response": "Inside\u2192Outside sequence:\n1. Triangle  \n2. Hexagon  \n3. Hexagon  \n4. Hexagon  \n5. Hexagon  \n6. Hexagon  \n7. Square  \n8. Square  \n\nSHAPES : Triangle , Hexagon , Hexagon , Hexagon , Hexagon , Hexagon , Square , Square",
+    "Output": [
+      "Triangle",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Square",
+      "Square"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "98.png",
+    "num_layers": 10,
+    "order": [
+      "hexagon",
+      "triangle",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "hexagon"
+    ],
+    "gpt_response": "There are eight nested five-sided shapes, all regular pentagons.  \nSHAPES : Pentagon, Pentagon, Pentagon, Pentagon, Pentagon, Pentagon, Pentagon, Pentagon",
+    "Output": [
+      "Pentagon",
+      "Pentagon",
+      "Pentagon",
+      "Pentagon",
+      "Pentagon",
+      "Pentagon",
+      "Pentagon",
+      "Pentagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "99.png",
+    "num_layers": 10,
+    "order": [
+      "hexagon",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "hexagon",
+      "hexagon",
+      "square",
+      "pentagon",
+      "pentagon",
+      "triangle"
+    ],
+    "gpt_response": "The shapes, in order from the deepest (inside) layer to the outermost, are:\n\n1. Triangle  \n2. Square  \n3. Pentagon  \n4. Hexagon  \n5. Heptagon  \n6. Octagon  \n7. Nonagon  \n8. Decagon  \n9. Hendecagon  \n10. Dodecagon  \n\nSHAPES : triangle, square, pentagon, hexagon, heptagon, octagon, nonagon, decagon, hendecagon, dodecagon",
+    "Output": [
+      "triangle",
+      "square",
+      "pentagon",
+      "hexagon",
+      "heptagon",
+      "octagon",
+      "nonagon",
+      "decagon",
+      "hendecagon",
+      "dodecagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "100.png",
+    "num_layers": 10,
+    "order": [
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "square",
+      "pentagon",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "pentagon"
+    ],
+    "gpt_response": "Sequence of shapes from the innermost to the outermost layer:\n1. Pentagon  \n2. Hexagon  \n3. Heptagon  \n4. Octagon  \n5. Nonagon  \n6. Decagon  \n7. Hendecagon  \n8. Dodecagon  \n9. Tridecagon  \n\nSHAPES : pentagon, hexagon, heptagon, octagon, nonagon, decagon, hendecagon, dodecagon, tridecagon",
+    "Output": [
+      "pentagon",
+      "hexagon",
+      "heptagon",
+      "octagon",
+      "nonagon",
+      "decagon",
+      "hendecagon",
+      "dodecagon",
+      "tridecagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "101.png",
+    "num_layers": 11,
+    "order": [
+      "triangle",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "square",
+      "hexagon",
+      "square",
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "hexagon"
+    ],
+    "gpt_response": "Inside to outside layers:\n1. Triangle  \n2. Quadrilateral  \n3. Pentagon  \n4. Hexagon  \n5. Heptagon  \n6. Octagon  \n7. Nonagon  \n8. Decagon  \n9. Hendecagon  \n10. Dodecagon  \n\nSHAPES : Triangle , Quadrilateral , Pentagon , Hexagon , Heptagon , Octagon , Nonagon , Decagon , Hendecagon , Dodecagon",
+    "Output": [
+      "Triangle",
+      "Quadrilateral",
+      "Pentagon",
+      "Hexagon",
+      "Heptagon",
+      "Octagon",
+      "Nonagon",
+      "Decagon",
+      "Hendecagon",
+      "Dodecagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "102.png",
+    "num_layers": 11,
+    "order": [
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "pentagon"
+    ],
+    "gpt_response": "Inside\u2192Outside sequence of layers:\n\n1. Triangle  \n2. Heptagon  \n3. Heptagon  \n4. Heptagon  \n5. Heptagon  \n6. Heptagon  \n7. Heptagon  \n8. Heptagon  \n9. Heptagon  \n10. Heptagon  \n\nSHAPES : Triangle , Heptagon , Heptagon , Heptagon , Heptagon , Heptagon , Heptagon , Heptagon , Heptagon , Heptagon",
+    "Output": [
+      "Triangle",
+      "Heptagon",
+      "Heptagon",
+      "Heptagon",
+      "Heptagon",
+      "Heptagon",
+      "Heptagon",
+      "Heptagon",
+      "Heptagon",
+      "Heptagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "103.png",
+    "num_layers": 11,
+    "order": [
+      "pentagon",
+      "triangle",
+      "square",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "square",
+      "triangle",
+      "triangle",
+      "square",
+      "square"
+    ],
+    "gpt_response": "Sequence of shapes from the innermost layer to the outermost layer:\nPentagon, Star, Pentagon, Pentagon, Pentagon, Square, Pentagon, Square\n\nSHAPES : Pentagon , Star , Pentagon , Pentagon , Pentagon , Square , Pentagon , Square",
+    "Output": [
+      "Pentagon",
+      "Star",
+      "Pentagon",
+      "Pentagon",
+      "Pentagon",
+      "Square",
+      "Pentagon",
+      "Square"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "104.png",
+    "num_layers": 11,
+    "order": [
+      "hexagon",
+      "square",
+      "pentagon",
+      "pentagon",
+      "square",
+      "square",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "square",
+      "triangle"
+    ],
+    "gpt_response": "1. Innermost layer: pentagon  \n2. Next layer: hexagon  \n3. Next layer: heptagon  \n4. Next layer: octagon  \n5. Next layer: nonagon  \n6. Outermost layer: decagon  \n\nSHAPES : Pentagon , Hexagon , Heptagon , Octagon , Nonagon , Decagon",
+    "Output": [
+      "Pentagon",
+      "Hexagon",
+      "Heptagon",
+      "Octagon",
+      "Nonagon",
+      "Decagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "105.png",
+    "num_layers": 11,
+    "order": [
+      "pentagon",
+      "square",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "square",
+      "triangle",
+      "pentagon"
+    ],
+    "gpt_response": "1. Innermost (topmost) shape: hexagon  \n2. Next: pentagon  \n3. Then: triangle  \n4. Then: hexagon  \n5. Then: quadrilateral  \n6. Then: pentagon  \n7. Then: hexagon  \n8. Then: heptagon  \n9. Then: octagon  \n10. Outermost (bottommost): nonagon  \n\nSHAPES : Hexagon , Pentagon , Triangle , Hexagon , Quadrilateral , Pentagon , Hexagon , Heptagon , Octagon , Nonagon",
+    "Output": [
+      "Hexagon",
+      "Pentagon",
+      "Triangle",
+      "Hexagon",
+      "Quadrilateral",
+      "Pentagon",
+      "Hexagon",
+      "Heptagon",
+      "Octagon",
+      "Nonagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "106.png",
+    "num_layers": 11,
+    "order": [
+      "triangle",
+      "square",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "square",
+      "pentagon"
+    ],
+    "gpt_response": "Sequence of layers from innermost to outermost:\n\n1. small triangle  \n2. small square (diamond)  \n3. medium triangle  \n4. larger triangle  \n5. heptagon  \n6. octagon  \n7. hexagon  \n8. nonagon  \n9. decagon  \n\nSHAPES : triangle, square, triangle, triangle, heptagon, octagon, hexagon, nonagon, decagon",
+    "Output": [
+      "triangle",
+      "square",
+      "triangle",
+      "triangle",
+      "heptagon",
+      "octagon",
+      "hexagon",
+      "nonagon",
+      "decagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "107.png",
+    "num_layers": 11,
+    "order": [
+      "hexagon",
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "square",
+      "square",
+      "triangle",
+      "pentagon"
+    ],
+    "gpt_response": "Sequence of shapes from the innermost layer to the outermost layer:\n1. A small pentagon  \n2. A slightly larger hexagon  \n3. A heptagon  \n4. A triangle  \n5. Another heptagon  \n6. An octagon  \n7. A rotated square (diamond)  \n8. Another rotated square (diamond)  \n9. A long rectangle (one of two overlapping bars)  \n10. A large heptagon  \n\nSHAPES : pentagon , hexagon , heptagon , triangle , heptagon , octagon , square , square , rectangle , heptagon",
+    "Output": [
+      "pentagon",
+      "hexagon",
+      "heptagon",
+      "triangle",
+      "heptagon",
+      "octagon",
+      "square",
+      "square",
+      "rectangle",
+      "heptagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "108.png",
+    "num_layers": 11,
+    "order": [
+      "square",
+      "pentagon",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "triangle",
+      "hexagon",
+      "hexagon"
+    ],
+    "gpt_response": "Sequence of shapes from the innermost to the outermost layer:\n\n1. Square  \n2. Pentagon  \n3. Triangle  \n4. Hexagon (magenta)  \n5. Hexagon (turquoise)  \n6. Hexagon (lavender)  \n7. Hexagon (olive)  \n8. Hexagon (brown)  \n\nSHAPES : Square , Pentagon , Triangle , Hexagon , Hexagon , Hexagon , Hexagon , Hexagon",
+    "Output": [
+      "Square",
+      "Pentagon",
+      "Triangle",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "109.png",
+    "num_layers": 11,
+    "order": [
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "square",
+      "hexagon",
+      "triangle"
+    ],
+    "gpt_response": "Sequence from inside to outside layers:\n1. Triangle  \n2. Square  \n3. Pentagon  \n4. Hexagon  \n5. Heptagon  \n6. Octagon  \n7. Nonagon  \n8. Decagon  \n9. Hendecagon  \n10. Dodecagon  \n\nSHAPES : triangle, square, pentagon, hexagon, heptagon, octagon, nonagon, decagon, hendecagon, dodecagon",
+    "Output": [
+      "triangle",
+      "square",
+      "pentagon",
+      "hexagon",
+      "heptagon",
+      "octagon",
+      "nonagon",
+      "decagon",
+      "hendecagon",
+      "dodecagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "110.png",
+    "num_layers": 11,
+    "order": [
+      "hexagon",
+      "hexagon",
+      "square",
+      "pentagon",
+      "square",
+      "hexagon",
+      "triangle",
+      "triangle",
+      "pentagon",
+      "triangle",
+      "pentagon"
+    ],
+    "gpt_response": "Sequence from innermost to outermost:\n1. Hexagon  \n2. Hexagon  \n3. Hexagon  \n4. Hexagon  \n5. Hexagon  \n6. Triangle  \n7. Hexagon  \n\nSHAPES : Hexagon , Hexagon , Hexagon , Hexagon , Hexagon , Triangle , Hexagon",
+    "Output": [
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Triangle",
+      "Hexagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "111.png",
+    "num_layers": 12,
+    "order": [
+      "hexagon",
+      "square",
+      "square",
+      "triangle",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "triangle"
+    ],
+    "gpt_response": "Pentagon  \nSquare  \nTriangle  \nTriangle  \nHeptagon  \nHexagon  \nTriangle  \n\nSHAPES : Pentagon , Square , Triangle , Triangle , Heptagon , Hexagon , Triangle",
+    "Output": [
+      "Pentagon",
+      "Square",
+      "Triangle",
+      "Triangle",
+      "Heptagon",
+      "Hexagon",
+      "Triangle"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "112.png",
+    "num_layers": 12,
+    "order": [
+      "square",
+      "square",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "square",
+      "hexagon",
+      "square",
+      "hexagon"
+    ],
+    "gpt_response": "The shapes, from the innermost layer to the outermost, are:\n\n1. Square  \n2. Pentagon  \n3. Hexagon  \n4. Hexagon  \n5. Hexagon  \n6. Heptagon  \n7. Hexagon  \n\nSHAPES : Square , Pentagon , Hexagon , Hexagon , Hexagon , Heptagon , Hexagon",
+    "Output": [
+      "Square",
+      "Pentagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Heptagon",
+      "Hexagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "113.png",
+    "num_layers": 12,
+    "order": [
+      "pentagon",
+      "square",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "square",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "triangle"
+    ],
+    "gpt_response": "Sequence of overlaid shapes (inside to outside):\n\n1. Regular heptagon (purple)  \n2. Regular heptagon (green)  \n3. Regular heptagon (light yellow)  \n4. Regular heptagon (cyan)  \n5. Regular heptagon (mint)  \n6. Regular heptagon (blue)  \n7. Regular heptagon (violet)  \n8. Regular heptagon (brown)  \n9. Regular heptagon (red)  \n10. Regular heptagon (pale green)  \n\nSHAPES : heptagon , heptagon , heptagon , heptagon , heptagon , heptagon , heptagon , heptagon , heptagon , heptagon",
+    "Output": [
+      "heptagon",
+      "heptagon",
+      "heptagon",
+      "heptagon",
+      "heptagon",
+      "heptagon",
+      "heptagon",
+      "heptagon",
+      "heptagon",
+      "heptagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "114.png",
+    "num_layers": 12,
+    "order": [
+      "square",
+      "pentagon",
+      "square",
+      "pentagon",
+      "pentagon",
+      "square",
+      "square",
+      "pentagon",
+      "triangle",
+      "pentagon",
+      "square",
+      "triangle"
+    ],
+    "gpt_response": "Inside to outside layers:\n1. Square  \n2. Pentagon  \n3. Hexagon  \n4. Heptagon  \n5. Octagon  \n6. Nonagon  \n7. Decagon  \n8. Undecagon  \n9. Dodecagon  \n10. Tridecagon  \n\nSHAPES : Square, Pentagon, Hexagon, Heptagon, Octagon, Nonagon, Decagon, Undecagon, Dodecagon, Tridecagon",
+    "Output": [
+      "Square",
+      "Pentagon",
+      "Hexagon",
+      "Heptagon",
+      "Octagon",
+      "Nonagon",
+      "Decagon",
+      "Undecagon",
+      "Dodecagon",
+      "Tridecagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "115.png",
+    "num_layers": 12,
+    "order": [
+      "hexagon",
+      "square",
+      "pentagon",
+      "triangle",
+      "triangle",
+      "square",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "square",
+      "pentagon",
+      "pentagon"
+    ],
+    "gpt_response": "Layers from inside to outside:\n1. Pentagon  \n2. Hexagon  \n3. Triangle  \n4. Octagon  \n5. Heptagon  \n6. Square  \n7. Nonagon  \n8. Decagon  \n\nSHAPES : pentagon , hexagon , triangle , octagon , heptagon , square , nonagon , decagon",
+    "Output": [
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "octagon",
+      "heptagon",
+      "square",
+      "nonagon",
+      "decagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "116.png",
+    "num_layers": 12,
+    "order": [
+      "triangle",
+      "hexagon",
+      "square",
+      "square",
+      "triangle",
+      "triangle",
+      "square",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "square",
+      "pentagon"
+    ],
+    "gpt_response": "Sequence of layers from innermost to outermost:\n1. Triangle  \n2. Square  \n3. Pentagon  \n4. Hexagon  \n5. Heptagon  \n6. Octagon  \n7. Nonagon  \n8. Decagon  \n\nSHAPES : triangle , square , pentagon , hexagon , heptagon , octagon , nonagon , decagon",
+    "Output": [
+      "triangle",
+      "square",
+      "pentagon",
+      "hexagon",
+      "heptagon",
+      "octagon",
+      "nonagon",
+      "decagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "117.png",
+    "num_layers": 12,
+    "order": [
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "square",
+      "hexagon",
+      "square",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "pentagon"
+    ],
+    "gpt_response": "1. The innermost shape is a pentagon.  \n2. Around it sits a hexagon.  \n3. Next is a heptagon.  \n4. Then comes an octagon.  \n5. Outside that is a nonagon.  \n6. Then a decagon.  \n7. Next up is an 11-sided hendecagon.  \n8. Outside it sits a 12-sided dodecagon.  \n9. Finally the outermost is a 13-sided tridecagon.  \n  \nSHAPES : pentagon , hexagon , heptagon , octagon , nonagon , decagon , hendecagon , dodecagon , tridecagon",
+    "Output": [
+      "pentagon",
+      "hexagon",
+      "heptagon",
+      "octagon",
+      "nonagon",
+      "decagon",
+      "hendecagon",
+      "dodecagon",
+      "tridecagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "118.png",
+    "num_layers": 12,
+    "order": [
+      "square",
+      "square",
+      "pentagon",
+      "pentagon",
+      "square",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "triangle"
+    ],
+    "gpt_response": "1. Smallest shape: square  \n2. Next: regular pentagon  \n3. Next: regular hexagon  \n4. Next: regular heptagon  \n5. Next: regular octagon  \n6. Next: regular nonagon  \n7. Next: regular decagon  \n8. Next: regular hendecagon  \n9. Outermost: regular dodecagon  \n\nSHAPES : Square, Pentagon, Hexagon, Heptagon, Octagon, Nonagon, Decagon, Hendecagon, Dodecagon",
+    "Output": [
+      "Square",
+      "Pentagon",
+      "Hexagon",
+      "Heptagon",
+      "Octagon",
+      "Nonagon",
+      "Decagon",
+      "Hendecagon",
+      "Dodecagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "119.png",
+    "num_layers": 12,
+    "order": [
+      "triangle",
+      "triangle",
+      "hexagon",
+      "triangle",
+      "triangle",
+      "square",
+      "hexagon",
+      "square",
+      "pentagon",
+      "pentagon",
+      "square",
+      "triangle"
+    ],
+    "gpt_response": "Inside layer: Triangle  \n2nd layer: Quadrilateral  \n3rd layer: Pentagon  \n4th layer: Hexagon  \n5th layer: Heptagon  \n6th layer: Octagon  \n7th layer: Nonagon  \n8th layer: Decagon  \nOutside layer: Hendecagon  \n\nSHAPES : Triangle , Quadrilateral , Pentagon , Hexagon , Heptagon , Octagon , Nonagon , Decagon , Hendecagon",
+    "Output": [
+      "Triangle",
+      "Quadrilateral",
+      "Pentagon",
+      "Hexagon",
+      "Heptagon",
+      "Octagon",
+      "Nonagon",
+      "Decagon",
+      "Hendecagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "120.png",
+    "num_layers": 12,
+    "order": [
+      "triangle",
+      "pentagon",
+      "square",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "square",
+      "hexagon",
+      "triangle"
+    ],
+    "gpt_response": "Inside\u2010out order of the layered shapes:  \n1. Triangle  \n2. Square  \n3. Pentagon  \n4. Hexagon  \n5. Heptagon  \n6. Octagon  \n\nSHAPES : triangle, square, pentagon, hexagon, heptagon, octagon",
+    "Output": [
+      "triangle",
+      "square",
+      "pentagon",
+      "hexagon",
+      "heptagon",
+      "octagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "121.png",
+    "num_layers": 13,
+    "order": [
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "square",
+      "hexagon",
+      "square",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "pentagon",
+      "square",
+      "square"
+    ],
+    "gpt_response": "Inner to outer layers:\n1. A small regular pentagon  \n2. A regular hexagon  \n3. A regular heptagon  \n4. A regular octagon  \n5. A square (teal)  \n6. A square (tan)\n\nSHAPES : pentagon, hexagon, heptagon, octagon, square, square",
+    "Output": [
+      "pentagon",
+      "hexagon",
+      "heptagon",
+      "octagon",
+      "square",
+      "square"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "122.png",
+    "num_layers": 13,
+    "order": [
+      "triangle",
+      "triangle",
+      "square",
+      "pentagon",
+      "hexagon",
+      "hexagon",
+      "square",
+      "hexagon",
+      "hexagon",
+      "square",
+      "pentagon",
+      "triangle",
+      "pentagon"
+    ],
+    "gpt_response": "Sequence of shapes from the inside layer to the outside layer:\n1. Triangle  \n2. Square  \n3. Pentagon  \n4. Hexagon  \n5. Heptagon  \n6. Octagon  \n7. Nonagon  \n8. Decagon  \n\nSHAPES : triangle , square , pentagon , hexagon , heptagon , octagon , nonagon , decagon",
+    "Output": [
+      "triangle",
+      "square",
+      "pentagon",
+      "hexagon",
+      "heptagon",
+      "octagon",
+      "nonagon",
+      "decagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "123.png",
+    "num_layers": 13,
+    "order": [
+      "triangle",
+      "square",
+      "square",
+      "hexagon",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "pentagon",
+      "pentagon"
+    ],
+    "gpt_response": "Inside layer: Triangle  \nThen: Square  \nThen: Pentagon  \nThen: Hexagon  \nThen: Heptagon  \nThen: Octagon  \nThen: Nonagon  \nOutside layer: Decagon  \n\nSHAPES : Triangle, Square, Pentagon, Hexagon, Heptagon, Octagon, Nonagon, Decagon",
+    "Output": [
+      "Triangle",
+      "Square",
+      "Pentagon",
+      "Hexagon",
+      "Heptagon",
+      "Octagon",
+      "Nonagon",
+      "Decagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "124.png",
+    "num_layers": 13,
+    "order": [
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "hexagon",
+      "square",
+      "hexagon",
+      "triangle",
+      "hexagon",
+      "square",
+      "triangle",
+      "hexagon",
+      "square",
+      "hexagon"
+    ],
+    "gpt_response": "The image shows eight concentric layers, each a regular hexagon (alternately rotated).  \n\nSHAPES : hexagon, hexagon, hexagon, hexagon, hexagon, hexagon, hexagon, hexagon",
+    "Output": [
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "125.png",
+    "num_layers": 13,
+    "order": [
+      "square",
+      "triangle",
+      "hexagon",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "square",
+      "pentagon",
+      "triangle",
+      "triangle",
+      "triangle"
+    ],
+    "gpt_response": "Sequence of shapes from the inside (center) to the outside (background):\n\n1. Triangle  \n2. Five-pointed star  \n3. Pentagon  \n4. Hexagon  \n5. Heptagon  \n6. Octagon  \n7. Nonagon  \n8. Decagon  \n9. Triangle  \n\nSHAPES : triangle, star, pentagon, hexagon, heptagon, octagon, nonagon, decagon, triangle",
+    "Output": [
+      "triangle",
+      "star",
+      "pentagon",
+      "hexagon",
+      "heptagon",
+      "octagon",
+      "nonagon",
+      "decagon",
+      "triangle"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "126.png",
+    "num_layers": 13,
+    "order": [
+      "square",
+      "triangle",
+      "square",
+      "pentagon",
+      "square",
+      "triangle",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "square",
+      "hexagon",
+      "triangle",
+      "pentagon"
+    ],
+    "gpt_response": "Sequence of shapes from the inside layer to the outside layer:\n1. Triangle  \n2. Square  \n3. Pentagon  \n4. Hexagon  \n5. Heptagon  \n6. Octagon  \n7. Nonagon  \n8. Decagon  \n9. Hendecagon  \n10. Dodecagon  \n\nSHAPES : Triangle , Square , Pentagon , Hexagon , Heptagon , Octagon , Nonagon , Decagon , Hendecagon , Dodecagon",
+    "Output": [
+      "Triangle",
+      "Square",
+      "Pentagon",
+      "Hexagon",
+      "Heptagon",
+      "Octagon",
+      "Nonagon",
+      "Decagon",
+      "Hendecagon",
+      "Dodecagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "127.png",
+    "num_layers": 13,
+    "order": [
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "pentagon",
+      "hexagon",
+      "hexagon",
+      "square",
+      "pentagon",
+      "square",
+      "hexagon",
+      "triangle",
+      "square",
+      "pentagon"
+    ],
+    "gpt_response": "The shapes, from the innermost to the outermost, are:\n\n1. Triangle  \n2. Square  \n3. Pentagon  \n4. Hexagon  \n5. Heptagon  \n6. Octagon  \n7. Nonagon  \n8. Decagon  \n\nSHAPES : Triangle , Square , Pentagon , Hexagon , Heptagon , Octagon , Nonagon , Decagon",
+    "Output": [
+      "Triangle",
+      "Square",
+      "Pentagon",
+      "Hexagon",
+      "Heptagon",
+      "Octagon",
+      "Nonagon",
+      "Decagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "128.png",
+    "num_layers": 13,
+    "order": [
+      "square",
+      "pentagon",
+      "square",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "square",
+      "hexagon",
+      "square",
+      "hexagon",
+      "square",
+      "triangle"
+    ],
+    "gpt_response": "1. square  \n2. pentagon  \n3. hexagon  \n4. heptagon  \n5. octagon  \n6. nonagon  \n7. decagon  \n8. hendecagon  \n9. dodecagon  \n\nSHAPES : square , pentagon , hexagon , heptagon , octagon , nonagon , decagon , hendecagon , dodecagon",
+    "Output": [
+      "square",
+      "pentagon",
+      "hexagon",
+      "heptagon",
+      "octagon",
+      "nonagon",
+      "decagon",
+      "hendecagon",
+      "dodecagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "129.png",
+    "num_layers": 13,
+    "order": [
+      "triangle",
+      "hexagon",
+      "square",
+      "pentagon",
+      "hexagon",
+      "square",
+      "square",
+      "hexagon",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "square",
+      "pentagon"
+    ],
+    "gpt_response": "Inside to outside:\n1. Triangle  \n2. Square  \n3. Pentagon  \n4. Hexagon  \n5. Heptagon  \n6. Octagon  \n7. Nonagon  \n8. Decagon  \n9. Hendecagon  \n\nSHAPES : triangle, square, pentagon, hexagon, heptagon, octagon, nonagon, decagon, hendecagon",
+    "Output": [
+      "triangle",
+      "square",
+      "pentagon",
+      "hexagon",
+      "heptagon",
+      "octagon",
+      "nonagon",
+      "decagon",
+      "hendecagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "130.png",
+    "num_layers": 13,
+    "order": [
+      "pentagon",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "square",
+      "triangle",
+      "pentagon"
+    ],
+    "gpt_response": "1. Innermost shape: small filled hexagon  \n2. Next layer: hexagon outline  \n3. Next layer: hexagon outline  \n4. Next layer: hexagon outline  \n5. Next layer: hexagon outline  \n6. Behind those: triangle  \n7. Behind that: square (rotated)  \n8. Outermost: large hexagon  \n\nSHAPES : Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Triangle, Square, Hexagon",
+    "Output": [
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Triangle",
+      "Square",
+      "Hexagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "131.png",
+    "num_layers": 14,
+    "order": [
+      "triangle",
+      "square",
+      "pentagon",
+      "triangle",
+      "triangle",
+      "triangle",
+      "square",
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "triangle",
+      "triangle"
+    ],
+    "gpt_response": "Inside to outside layers:\n1. Triangle  \n2. Pentagonal shape  \n3. Square (diamond orientation)  \n4. Larger pentagon  \n5. Small hexagon  \n6. Medium hexagon  \n7. Large hexagon  \n\nSHAPES : triangle, pentagon, square, pentagon, hexagon, hexagon, hexagon",
+    "Output": [
+      "triangle",
+      "pentagon",
+      "square",
+      "pentagon",
+      "hexagon",
+      "hexagon",
+      "hexagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "132.png",
+    "num_layers": 14,
+    "order": [
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "triangle",
+      "triangle",
+      "triangle",
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "square",
+      "hexagon",
+      "pentagon"
+    ],
+    "gpt_response": "Sequence of layers (innermost to outermost):\n\n1. Pentagon  \n2. Hexagon  \n3. Heptagon  \n4. Triangle  \n5. Nonagon  \n6. Decagon  \n7. Hendecagon  \n8. Dodecagon  \n9. Tridecagon  \n\nSHAPES : pentagon , hexagon , heptagon , triangle , nonagon , decagon , hendecagon , dodecagon , tridecagon",
+    "Output": [
+      "pentagon",
+      "hexagon",
+      "heptagon",
+      "triangle",
+      "nonagon",
+      "decagon",
+      "hendecagon",
+      "dodecagon",
+      "tridecagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "133.png",
+    "num_layers": 14,
+    "order": [
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "square",
+      "hexagon",
+      "square",
+      "triangle",
+      "triangle",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "triangle"
+    ],
+    "gpt_response": "Inner to outer sequence of overlaid polygons:\n\n1. Triangle  \n2. Square  \n3. Pentagon  \n4. Hexagon  \n5. Heptagon  \n6. Octagon  \n\nSHAPES : triangle, square, pentagon, hexagon, heptagon, octagon",
+    "Output": [
+      "triangle",
+      "square",
+      "pentagon",
+      "hexagon",
+      "heptagon",
+      "octagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "134.png",
+    "num_layers": 14,
+    "order": [
+      "triangle",
+      "square",
+      "triangle",
+      "triangle",
+      "triangle",
+      "pentagon",
+      "square",
+      "square",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "square",
+      "hexagon"
+    ],
+    "gpt_response": "Inside\u2010out:\n1. Triangle  \n2. Square  \n3. Pentagon  \n4. Hexagon  \n5. Heptagon  \n6. Octagon  \n7. Nonagon  \n8. Decagon  \n\nSHAPES : Triangle , Square , Pentagon , Hexagon , Heptagon , Octagon , Nonagon , Decagon",
+    "Output": [
+      "Triangle",
+      "Square",
+      "Pentagon",
+      "Hexagon",
+      "Heptagon",
+      "Octagon",
+      "Nonagon",
+      "Decagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "135.png",
+    "num_layers": 14,
+    "order": [
+      "square",
+      "square",
+      "hexagon",
+      "square",
+      "pentagon",
+      "pentagon",
+      "square",
+      "triangle",
+      "square",
+      "square",
+      "triangle",
+      "pentagon",
+      "hexagon",
+      "triangle"
+    ],
+    "gpt_response": "Inner to outer layers:\n1. Square  \n2. Hexagon  \n3. Heptagon  \n4. Octagon  \n\nSHAPES : Square , Hexagon , Heptagon , Octagon",
+    "Output": [
+      "Square",
+      "Hexagon",
+      "Heptagon",
+      "Octagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "136.png",
+    "num_layers": 14,
+    "order": [
+      "triangle",
+      "pentagon",
+      "square",
+      "triangle",
+      "pentagon",
+      "square",
+      "square",
+      "hexagon",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "triangle"
+    ],
+    "gpt_response": "Sequence from the innermost (top) layer to the outermost (bottom) layer:\n\n1. Triangle  \n2. Quadrilateral  \n3. Pentagon  \n4. Hexagon  \n5. Heptagon  \n6. Octagon  \n7. Nonagon  \n8. Decagon  \n\nSHAPES : triangle , quadrilateral , pentagon , hexagon , heptagon , octagon , nonagon , decagon",
+    "Output": [
+      "triangle",
+      "quadrilateral",
+      "pentagon",
+      "hexagon",
+      "heptagon",
+      "octagon",
+      "nonagon",
+      "decagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "137.png",
+    "num_layers": 14,
+    "order": [
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "square",
+      "triangle",
+      "square",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "square",
+      "square"
+    ],
+    "gpt_response": "The shapes, listed from the innermost (top) layer to the outermost (bottom) layer, are:\n\n1. Triangle  \n2. Pentagon  \n3. Hexagon  \n4. Heptagon  \n5. Octagon  \n6. Nonagon  \n7. Decagon  \n8. Hendecagon  \n9. Square  \n\nSHAPES : triangle, pentagon, hexagon, heptagon, octagon, nonagon, decagon, hendecagon, square",
+    "Output": [
+      "triangle",
+      "pentagon",
+      "hexagon",
+      "heptagon",
+      "octagon",
+      "nonagon",
+      "decagon",
+      "hendecagon",
+      "square"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "138.png",
+    "num_layers": 14,
+    "order": [
+      "square",
+      "square",
+      "hexagon",
+      "square",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "square",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "triangle",
+      "square",
+      "hexagon"
+    ],
+    "gpt_response": "Inner to outer layers:\n1. Square  \n2. Square (rotated 45\u00b0)  \n3. Square (rotated)  \n4. Triangle  \n5. Hexagon  \n6. Octagon  \n\nSHAPES : Square , Square , Square , Triangle , Hexagon , Octagon",
+    "Output": [
+      "Square",
+      "Square",
+      "Square",
+      "Triangle",
+      "Hexagon",
+      "Octagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "139.png",
+    "num_layers": 14,
+    "order": [
+      "hexagon",
+      "square",
+      "square",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "square",
+      "pentagon"
+    ],
+    "gpt_response": "Inside\u2192Outside layers:\n\n1. Diamond  \n2. Hexagon  \n3. Hexagon  \n4. Hexagon  \n5. Hexagon  \n6. Hexagon  \n7. Hexagon  \n8. Hexagon  \n9. Hexagon  \n10. Diamond  \n\nSHAPES : diamond , hexagon , hexagon , hexagon , hexagon , hexagon , hexagon , hexagon , hexagon , diamond",
+    "Output": [
+      "diamond",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "diamond"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "140.png",
+    "num_layers": 14,
+    "order": [
+      "square",
+      "square",
+      "square",
+      "hexagon",
+      "triangle",
+      "hexagon",
+      "square",
+      "triangle",
+      "square",
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "pentagon",
+      "triangle"
+    ],
+    "gpt_response": "1. Innermost: square  \n2. pentagon  \n3. hexagon  \n4. heptagon  \n5. octagon  \n6. nonagon  \n7. decagon  \n8. hendecagon  \n9. dodecagon  \n\nSHAPES : square, pentagon, hexagon, heptagon, octagon, nonagon, decagon, hendecagon, dodecagon",
+    "Output": [
+      "square",
+      "pentagon",
+      "hexagon",
+      "heptagon",
+      "octagon",
+      "nonagon",
+      "decagon",
+      "hendecagon",
+      "dodecagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "141.png",
+    "num_layers": 15,
+    "order": [
+      "pentagon",
+      "square",
+      "triangle",
+      "triangle",
+      "square",
+      "hexagon",
+      "hexagon",
+      "triangle",
+      "triangle",
+      "triangle",
+      "square",
+      "square",
+      "triangle",
+      "pentagon",
+      "hexagon"
+    ],
+    "gpt_response": "Sequence of shapes from the innermost layer to the outermost layer:\n\n1. Square  \n2. Triangle  \n3. Pentagon  \n4. Hexagon  \n5. Heptagon  \n6. Octagon  \n\nSHAPES : Square , Triangle , Pentagon , Hexagon , Heptagon , Octagon",
+    "Output": [
+      "Square",
+      "Triangle",
+      "Pentagon",
+      "Hexagon",
+      "Heptagon",
+      "Octagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "142.png",
+    "num_layers": 15,
+    "order": [
+      "square",
+      "triangle",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "triangle",
+      "hexagon",
+      "square",
+      "square",
+      "hexagon",
+      "hexagon",
+      "square",
+      "hexagon",
+      "triangle",
+      "square"
+    ],
+    "gpt_response": "Inside \u2192 Outside layers:\n1. square  \n2. triangle  \n3. pentagon  \n4. heptagon  \n5. octagon  \n6. decagon  \n\nSHAPES : Square , Triangle , Pentagon , Heptagon , Octagon , Decagon",
+    "Output": [
+      "Square",
+      "Triangle",
+      "Pentagon",
+      "Heptagon",
+      "Octagon",
+      "Decagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "143.png",
+    "num_layers": 15,
+    "order": [
+      "hexagon",
+      "hexagon",
+      "square",
+      "square",
+      "hexagon",
+      "square",
+      "triangle",
+      "triangle",
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "square"
+    ],
+    "gpt_response": "Inside\u2192outside layers:\n1. Hexagon  \n2. Hexagon  \n3. Hexagon  \n4. Hexagon  \n5. Hexagon  \n6. Triangle  \n7. Hexagon  \n8. Hexagon  \n9. Hexagon  \n10. Square  \n\nSHAPES : Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Triangle, Hexagon, Hexagon, Hexagon, Square",
+    "Output": [
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Triangle",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Square"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "144.png",
+    "num_layers": 15,
+    "order": [
+      "pentagon",
+      "square",
+      "hexagon",
+      "pentagon",
+      "hexagon",
+      "hexagon",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "triangle"
+    ],
+    "gpt_response": "1. Innermost layer: regular hexagon  \n2. 2nd layer: regular heptagon  \n3. 3rd layer: regular octagon  \n4. 4th layer: regular nonagon  \n5. 5th layer: regular decagon  \n6. 6th layer: regular hendecagon (11-gon)  \n7. 7th layer: regular dodecagon (12-gon)  \n8. 8th layer: regular tridecagon (13-gon)  \n9. 9th layer: regular tetradecagon (14-gon)  \n10. 10th layer: regular pentadecagon (15-gon)  \n11. Outermost layer (on top): triangles  \n\nSHAPES : Hexagon, Heptagon, Octagon, Nonagon, Decagon, Hendecagon, Dodecagon, Tridecagon, Tetradecagon, Pentadecagon, Triangle",
+    "Output": [
+      "Hexagon",
+      "Heptagon",
+      "Octagon",
+      "Nonagon",
+      "Decagon",
+      "Hendecagon",
+      "Dodecagon",
+      "Tridecagon",
+      "Tetradecagon",
+      "Pentadecagon",
+      "Triangle"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "145.png",
+    "num_layers": 15,
+    "order": [
+      "pentagon",
+      "pentagon",
+      "square",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "square",
+      "pentagon",
+      "hexagon",
+      "square",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "hexagon",
+      "pentagon"
+    ],
+    "gpt_response": "Inside to outside layers of polygons by number of sides:\n\n1. Hexagon  \n2. Heptagon  \n3. Octagon  \n4. Nonagon  \n5. Decagon  \n6. Hendecagon (11-gon)  \n7. Dodecagon (12-gon)  \n8. Tridecagon (13-gon)  \n9. Tetradecagon (14-gon)  \n10. Pentadecagon (15-gon)  \n\nSHAPES : Hexagon , Heptagon , Octagon , Nonagon , Decagon , Hendecagon , Dodecagon , Tridecagon , Tetradecagon , Pentadecagon",
+    "Output": [
+      "Hexagon",
+      "Heptagon",
+      "Octagon",
+      "Nonagon",
+      "Decagon",
+      "Hendecagon",
+      "Dodecagon",
+      "Tridecagon",
+      "Tetradecagon",
+      "Pentadecagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "146.png",
+    "num_layers": 15,
+    "order": [
+      "hexagon",
+      "pentagon",
+      "square",
+      "pentagon",
+      "triangle",
+      "square",
+      "pentagon",
+      "pentagon",
+      "square",
+      "square",
+      "hexagon",
+      "triangle",
+      "triangle",
+      "pentagon",
+      "hexagon"
+    ],
+    "gpt_response": "The image shows ten concentric hexagons, layered from smallest in the center to largest at the outside.\n\nSHAPES : hexagon , hexagon , hexagon , hexagon , hexagon , hexagon , hexagon , hexagon , hexagon , hexagon",
+    "Output": [
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "147.png",
+    "num_layers": 15,
+    "order": [
+      "triangle",
+      "triangle",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "square",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "pentagon",
+      "square",
+      "pentagon",
+      "hexagon",
+      "square"
+    ],
+    "gpt_response": "Sequence of shapes from the innermost layer to the outermost layer:  \n1. Triangle  \n2. Square  \n3. Pentagon  \n4. Hexagon  \n5. Heptagon  \n6. Octagon  \n7. Nonagon  \n8. Decagon  \n9. Hendecagon  \n10. Dodecagon  \n\nSHAPES : Triangle, Square, Pentagon, Hexagon, Heptagon, Octagon, Nonagon, Decagon, Hendecagon, Dodecagon",
+    "Output": [
+      "Triangle",
+      "Square",
+      "Pentagon",
+      "Hexagon",
+      "Heptagon",
+      "Octagon",
+      "Nonagon",
+      "Decagon",
+      "Hendecagon",
+      "Dodecagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "148.png",
+    "num_layers": 15,
+    "order": [
+      "square",
+      "square",
+      "triangle",
+      "hexagon",
+      "triangle",
+      "triangle",
+      "pentagon",
+      "triangle",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "square",
+      "triangle",
+      "triangle"
+    ],
+    "gpt_response": "Inside to outside layers:\n\n1. square  \n2. pentagon  \n3. hexagon  \n4. heptagon  \n5. octagon  \n6. nonagon  \n7. decagon  \n8. hendecagon  \n9. dodecagon  \n10. tridecagon  \n\nSHAPES : square, pentagon, hexagon, heptagon, octagon, nonagon, decagon, hendecagon, dodecagon, tridecagon",
+    "Output": [
+      "square",
+      "pentagon",
+      "hexagon",
+      "heptagon",
+      "octagon",
+      "nonagon",
+      "decagon",
+      "hendecagon",
+      "dodecagon",
+      "tridecagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "149.png",
+    "num_layers": 15,
+    "order": [
+      "pentagon",
+      "hexagon",
+      "square",
+      "pentagon",
+      "square",
+      "hexagon",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "square",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "pentagon"
+    ],
+    "gpt_response": "Sequence of layers from the inside out:  \n1. Octagon  \n2. Octagon  \n3. Octagon  \n4. Octagon  \n5. Octagon  \n6. Octagon  \n7. Octagon  \n8. Octagon  \n9. Octagon  \n10. Octagon  \n11. Octagon  \n12. Octagon  \n\nSHAPES : Octagon, Octagon, Octagon, Octagon, Octagon, Octagon, Octagon, Octagon, Octagon, Octagon, Octagon, Octagon",
+    "Output": [
+      "Octagon",
+      "Octagon",
+      "Octagon",
+      "Octagon",
+      "Octagon",
+      "Octagon",
+      "Octagon",
+      "Octagon",
+      "Octagon",
+      "Octagon",
+      "Octagon",
+      "Octagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "150.png",
+    "num_layers": 15,
+    "order": [
+      "pentagon",
+      "hexagon",
+      "square",
+      "hexagon",
+      "pentagon",
+      "square",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "square",
+      "pentagon",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "square"
+    ],
+    "gpt_response": "Inside\u2010out layer sequence of shapes:\n\n1. Triangle  \n2. Square  \n3. Pentagon  \n4. Hexagon  \n5. Heptagon  \n6. Octagon  \n7. Nonagon  \n8. Decagon  \n9. Hendecagon  \n10. Dodecagon  \n\nSHAPES : triangle, square, pentagon, hexagon, heptagon, octagon, nonagon, decagon, hendecagon, dodecagon",
+    "Output": [
+      "triangle",
+      "square",
+      "pentagon",
+      "hexagon",
+      "heptagon",
+      "octagon",
+      "nonagon",
+      "decagon",
+      "hendecagon",
+      "dodecagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "151.png",
+    "num_layers": 16,
+    "order": [
+      "hexagon",
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "square",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "square",
+      "triangle"
+    ],
+    "gpt_response": "Inside \u2192 Outside layers:\n1. Small dark gray regular hexagon  \n2. Light beige regular heptagon  \n3. Mint\u2010green (pale) regular octagon  \n4. Magenta regular nonagon  \n5. Aqua regular decagon  \n6. Teal regular hendecagon (11 sides)  \n7. Pink regular dodecagon (12 sides)  \n8. Pale turquoise regular tridecagon (13 sides)  \n9. Dark green regular tetradecagon (14 sides)  \n10. Purple regular pentadecagon (15 sides)  \n\nSHAPES : Hexagon , Heptagon , Octagon , Nonagon , Decagon , Hendecagon , Dodecagon , Tridecagon , Tetradecagon , Pentadecagon",
+    "Output": [
+      "Hexagon",
+      "Heptagon",
+      "Octagon",
+      "Nonagon",
+      "Decagon",
+      "Hendecagon",
+      "Dodecagon",
+      "Tridecagon",
+      "Tetradecagon",
+      "Pentadecagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "152.png",
+    "num_layers": 16,
+    "order": [
+      "triangle",
+      "pentagon",
+      "square",
+      "pentagon",
+      "hexagon",
+      "square",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "triangle",
+      "square",
+      "triangle",
+      "pentagon",
+      "square",
+      "triangle"
+    ],
+    "gpt_response": "1. Innermost layer: triangle  \n2. next layer: square  \n3. then: pentagon  \n4. then: hexagon  \n5. then: heptagon  \n6. then: octagon  \n7. then: nonagon  \n8. outermost layer: decagon  \n\nSHAPES : triangle, square, pentagon, hexagon, heptagon, octagon, nonagon, decagon",
+    "Output": [
+      "triangle",
+      "square",
+      "pentagon",
+      "hexagon",
+      "heptagon",
+      "octagon",
+      "nonagon",
+      "decagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "153.png",
+    "num_layers": 16,
+    "order": [
+      "square",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "square",
+      "hexagon",
+      "triangle",
+      "hexagon",
+      "square",
+      "triangle",
+      "square",
+      "square",
+      "hexagon",
+      "pentagon",
+      "square"
+    ],
+    "gpt_response": "1. Innermost layer: square  \n2. Next: pentagon  \n3. Next: hexagon  \n4. Next: heptagon  \n5. Next: octagon  \n6. Next: nonagon  \n7. Next: decagon  \n8. Next: hendecagon  \n9. Outermost layer: dodecagon  \n\nSHAPES : Square , Pentagon , Hexagon , Heptagon , Octagon , Nonagon , Decagon , Hendecagon , Dodecagon",
+    "Output": [
+      "Square",
+      "Pentagon",
+      "Hexagon",
+      "Heptagon",
+      "Octagon",
+      "Nonagon",
+      "Decagon",
+      "Hendecagon",
+      "Dodecagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "154.png",
+    "num_layers": 16,
+    "order": [
+      "pentagon",
+      "triangle",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "pentagon",
+      "square",
+      "triangle",
+      "hexagon",
+      "triangle",
+      "square",
+      "square",
+      "hexagon",
+      "triangle",
+      "triangle"
+    ],
+    "gpt_response": "Sequence from inner to outer layer:\nSeven nested regular hexagons.\n\nSHAPES : hexagon, hexagon, hexagon, hexagon, hexagon, hexagon, hexagon",
+    "Output": [
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "155.png",
+    "num_layers": 16,
+    "order": [
+      "triangle",
+      "hexagon",
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "triangle"
+    ],
+    "gpt_response": "The shapes, from the innermost layer outward, form the regular polygons with increasing numbers of sides:\n\n1. Triangle  \n2. Square  \n3. Pentagon  \n4. Hexagon  \n5. Heptagon  \n6. Octagon  \n7. Nonagon  \n8. Decagon  \n9. Hendecagon  \n10. Dodecagon  \n\nSHAPES : Triangle , Square , Pentagon , Hexagon , Heptagon , Octagon , Nonagon , Decagon , Hendecagon , Dodecagon",
+    "Output": [
+      "Triangle",
+      "Square",
+      "Pentagon",
+      "Hexagon",
+      "Heptagon",
+      "Octagon",
+      "Nonagon",
+      "Decagon",
+      "Hendecagon",
+      "Dodecagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "156.png",
+    "num_layers": 16,
+    "order": [
+      "square",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "hexagon",
+      "square",
+      "pentagon",
+      "triangle",
+      "triangle",
+      "pentagon",
+      "square",
+      "triangle",
+      "hexagon",
+      "pentagon",
+      "square"
+    ],
+    "gpt_response": "Sequence from the inside layer to the outside layer:\n1. Pentagon  \n2. Hexagon  \n3. Heptagon  \n4. Octagon  \n5. Nonagon  \n6. Decagon  \n7. Hendecagon  \n8. Dodecagon  \n9. Square  \n\nSHAPES : Pentagon , Hexagon , Heptagon , Octagon , Nonagon , Decagon , Hendecagon , Dodecagon , Square",
+    "Output": [
+      "Pentagon",
+      "Hexagon",
+      "Heptagon",
+      "Octagon",
+      "Nonagon",
+      "Decagon",
+      "Hendecagon",
+      "Dodecagon",
+      "Square"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "157.png",
+    "num_layers": 16,
+    "order": [
+      "square",
+      "triangle",
+      "pentagon",
+      "square",
+      "triangle",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "triangle",
+      "square",
+      "pentagon",
+      "hexagon",
+      "hexagon",
+      "square",
+      "triangle"
+    ],
+    "gpt_response": "1. Innermost layer: square (rotated diamond)  \n2. Next: pentagon  \n3. Next: hexagon  \n4. Next: heptagon  \n5. Next: octagon  \n6. Next: nonagon  \n7. Next: decagon  \n8. Next: hendecagon  \n9. Outermost: dodecagon  \n\nSHAPES : Square, Pentagon, Hexagon, Heptagon, Octagon, Nonagon, Decagon, Hendecagon, Dodecagon",
+    "Output": [
+      "Square",
+      "Pentagon",
+      "Hexagon",
+      "Heptagon",
+      "Octagon",
+      "Nonagon",
+      "Decagon",
+      "Hendecagon",
+      "Dodecagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "158.png",
+    "num_layers": 16,
+    "order": [
+      "square",
+      "triangle",
+      "square",
+      "hexagon",
+      "square",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "square",
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "pentagon",
+      "triangle",
+      "square",
+      "hexagon"
+    ],
+    "gpt_response": "1. Innermost layer: square  \n2. then an octagon  \n3. then another octagon  \n4. then another octagon  \n5. then another octagon  \n6. then another octagon  \n7. then another octagon  \n8. then another octagon  \n9. then another octagon  \n10. outermost layer: octagon  \n\nSHAPES : square , octagon , octagon , octagon , octagon , octagon , octagon , octagon , octagon , octagon",
+    "Output": [
+      "square",
+      "octagon",
+      "octagon",
+      "octagon",
+      "octagon",
+      "octagon",
+      "octagon",
+      "octagon",
+      "octagon",
+      "octagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "159.png",
+    "num_layers": 16,
+    "order": [
+      "square",
+      "hexagon",
+      "square",
+      "pentagon",
+      "square",
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "triangle",
+      "square",
+      "hexagon",
+      "pentagon",
+      "square",
+      "hexagon",
+      "pentagon",
+      "hexagon"
+    ],
+    "gpt_response": "Layer 1 (innermost): square  \nLayer 2: pentagon  \nLayer 3: hexagon  \nLayer 4: heptagon  \nLayer 5: octagon  \nLayer 6: nonagon  \nLayer 7: decagon  \nLayer 8: hendecagon  \nLayer 9 (outermost): dodecagon  \n\nSHAPES : square, pentagon, hexagon, heptagon, octagon, nonagon, decagon, hendecagon, dodecagon",
+    "Output": [
+      "square",
+      "pentagon",
+      "hexagon",
+      "heptagon",
+      "octagon",
+      "nonagon",
+      "decagon",
+      "hendecagon",
+      "dodecagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "160.png",
+    "num_layers": 16,
+    "order": [
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "square",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "square",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "square",
+      "triangle"
+    ],
+    "gpt_response": "Inside to outside the image shows nested regular polygons with increasing numbers of sides.\n\nSHAPES : Hexagon , Heptagon , Octagon , Nonagon , Decagon , Hendecagon , Dodecagon",
+    "Output": [
+      "Hexagon",
+      "Heptagon",
+      "Octagon",
+      "Nonagon",
+      "Decagon",
+      "Hendecagon",
+      "Dodecagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "161.png",
+    "num_layers": 17,
+    "order": [
+      "square",
+      "square",
+      "pentagon",
+      "square",
+      "square",
+      "triangle",
+      "hexagon",
+      "square",
+      "square",
+      "hexagon",
+      "square",
+      "triangle",
+      "triangle",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "hexagon"
+    ],
+    "gpt_response": "1. Innermost layer: square  \n2. 2nd layer: pentagon  \n3. 3rd layer: hexagon  \n4. 4th layer: heptagon  \n5. 5th layer: octagon  \n6. 6th layer: nonagon  \n7. 7th layer: decagon  \n8. 8th layer: hendecagon  \n9. Outermost layer: dodecagon  \n\nSHAPES : Square, Pentagon, Hexagon, Heptagon, Octagon, Nonagon, Decagon, Hendecagon, Dodecagon",
+    "Output": [
+      "Square",
+      "Pentagon",
+      "Hexagon",
+      "Heptagon",
+      "Octagon",
+      "Nonagon",
+      "Decagon",
+      "Hendecagon",
+      "Dodecagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "162.png",
+    "num_layers": 17,
+    "order": [
+      "square",
+      "hexagon",
+      "square",
+      "square",
+      "square",
+      "square",
+      "pentagon",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "square",
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "square"
+    ],
+    "gpt_response": "1. The innermost layer is a small square (rotated 45\u00b0).  \n2. Surrounding it are concentric regular polygons with increasing numbers of sides: pentagon, hexagon, heptagon, octagon, nonagon, decagon.  \n3. On top of the decagon sits a pair of identical triangles (one on either side).  \n4. Finally, the entire stack is framed by a large rotated square.  \n\nSHAPES : Square , Pentagon , Hexagon , Heptagon , Octagon , Nonagon , Decagon , Triangle , Square",
+    "Output": [
+      "Square",
+      "Pentagon",
+      "Hexagon",
+      "Heptagon",
+      "Octagon",
+      "Nonagon",
+      "Decagon",
+      "Triangle",
+      "Square"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "163.png",
+    "num_layers": 17,
+    "order": [
+      "square",
+      "hexagon",
+      "pentagon",
+      "square",
+      "square",
+      "triangle",
+      "hexagon",
+      "square",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "square",
+      "triangle",
+      "pentagon",
+      "triangle",
+      "triangle"
+    ],
+    "gpt_response": "Layer order (inside \u2192 outside):\n\n1. Small rotated square  \n2. Triangle  \n3. Larger rotated square  \n4. Pentagon  \n5. Hexagon  \n6. Heptagon  \n7. Octagon  \n\nSHAPES : Square , Triangle , Square , Pentagon , Hexagon , Heptagon , Octagon",
+    "Output": [
+      "Square",
+      "Triangle",
+      "Square",
+      "Pentagon",
+      "Hexagon",
+      "Heptagon",
+      "Octagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "164.png",
+    "num_layers": 17,
+    "order": [
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "triangle",
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "triangle",
+      "square",
+      "square",
+      "triangle",
+      "pentagon",
+      "square",
+      "triangle",
+      "square",
+      "hexagon"
+    ],
+    "gpt_response": "Inner to outer layers:  \n1. Triangle  \n2. Hexagon  \n3. Octagon  \n4. Decagon  \n5. Dodecagon  \n6. Tetradecagon  \n7. Hexagon  \n\nSHAPES : triangle, hexagon, octagon, decagon, dodecagon, tetradecagon, hexagon",
+    "Output": [
+      "triangle",
+      "hexagon",
+      "octagon",
+      "decagon",
+      "dodecagon",
+      "tetradecagon",
+      "hexagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "165.png",
+    "num_layers": 17,
+    "order": [
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "hexagon",
+      "triangle",
+      "square",
+      "hexagon",
+      "square",
+      "hexagon",
+      "triangle",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "square",
+      "pentagon",
+      "square",
+      "triangle"
+    ],
+    "gpt_response": "Inside\u2192Outside layers:\n1. Hexagon  \n2. Heptagon  \n3. Octagon  \n4. Nonagon  \n5. Decagon  \n6. Hendecagon  \n7. Dodecagon  \n8. Tridecagon  \n9. Tetradecagon  \n10. Pentadecagon  \n\nSHAPES : hexagon, heptagon, octagon, nonagon, decagon, hendecagon, dodecagon, tridecagon, tetradecagon, pentadecagon",
+    "Output": [
+      "hexagon",
+      "heptagon",
+      "octagon",
+      "nonagon",
+      "decagon",
+      "hendecagon",
+      "dodecagon",
+      "tridecagon",
+      "tetradecagon",
+      "pentadecagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "166.png",
+    "num_layers": 17,
+    "order": [
+      "square",
+      "pentagon",
+      "square",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "square",
+      "triangle",
+      "hexagon",
+      "triangle",
+      "square",
+      "square",
+      "pentagon",
+      "pentagon",
+      "pentagon"
+    ],
+    "gpt_response": "All of the visible layers are regular hexagons, nested from the smallest at the center to the largest at the edge.\n\nSHAPES : Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon, Hexagon",
+    "Output": [
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "167.png",
+    "num_layers": 17,
+    "order": [
+      "hexagon",
+      "pentagon",
+      "square",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "triangle",
+      "square",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "triangle"
+    ],
+    "gpt_response": "Inside to outside:\n1. Smallest dark-centre decagon  \n2. Teal decagon  \n3. Violet decagon  \n4. Red decagon  \n5. Brown-grey decagon  \n6. Green decagon  \n7. Light-green decagon  \n8. Grey decagon  \n9. Olive decagon  \n10. Pink-grey decagon  \n11. Outermost purple decagon  \n\nSHAPES : Decagon , Decagon , Decagon , Decagon , Decagon , Decagon , Decagon , Decagon , Decagon , Decagon , Decagon",
+    "Output": [
+      "Decagon",
+      "Decagon",
+      "Decagon",
+      "Decagon",
+      "Decagon",
+      "Decagon",
+      "Decagon",
+      "Decagon",
+      "Decagon",
+      "Decagon",
+      "Decagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "168.png",
+    "num_layers": 17,
+    "order": [
+      "pentagon",
+      "hexagon",
+      "square",
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "square",
+      "triangle",
+      "square",
+      "square",
+      "square",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "triangle",
+      "hexagon"
+    ],
+    "gpt_response": "Layered from the innermost to the outermost, the shapes are:\n\n1. regular octagon  \n2. regular octagon  \n3. regular octagon  \n4. regular octagon  \n5. regular octagon  \n6. regular octagon  \n7. regular octagon  \n8. regular octagon  \n9. six-pointed star  \n10. regular hexagon  \n\nSHAPES : Octagon, Octagon, Octagon, Octagon, Octagon, Octagon, Octagon, Octagon, Star, Hexagon",
+    "Output": [
+      "Octagon",
+      "Octagon",
+      "Octagon",
+      "Octagon",
+      "Octagon",
+      "Octagon",
+      "Octagon",
+      "Octagon",
+      "Star",
+      "Hexagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "169.png",
+    "num_layers": 17,
+    "order": [
+      "pentagon",
+      "square",
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "triangle",
+      "pentagon",
+      "square",
+      "pentagon",
+      "square",
+      "square",
+      "square"
+    ],
+    "gpt_response": "The image shows a stack of regular polygons, each with one vertex pointing straight up. From the very center outward you have:\n\n1. Triangle  \n2. Square  \n3. Pentagon  \n4. Hexagon  \n5. Heptagon  \n6. Octagon  \n7. Nonagon  \n8. Decagon  \n9. Hendecagon (11-gon)  \n10. Dodecagon (12-gon)  \n11. Tridecagon (13-gon)\n\nSHAPES : Triangle, Square, Pentagon, Hexagon, Heptagon, Octagon, Nonagon, Decagon, Hendecagon, Dodecagon, Tridecagon",
+    "Output": [
+      "Triangle",
+      "Square",
+      "Pentagon",
+      "Hexagon",
+      "Heptagon",
+      "Octagon",
+      "Nonagon",
+      "Decagon",
+      "Hendecagon",
+      "Dodecagon",
+      "Tridecagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "170.png",
+    "num_layers": 17,
+    "order": [
+      "triangle",
+      "square",
+      "hexagon",
+      "square",
+      "triangle",
+      "triangle",
+      "triangle",
+      "pentagon",
+      "square",
+      "square",
+      "triangle",
+      "square",
+      "triangle",
+      "square",
+      "hexagon",
+      "pentagon",
+      "square"
+    ],
+    "gpt_response": "Inner to outer layers:\n1. Triangle  \n2. Square  \n3. Pentagon  \n4. Hexagon  \n5. Heptagon  \n6. Octagon  \n7. Nonagon  \n8. Decagon  \n9. Hendecagon  \n10. Dodecagon  \n\nSHAPES : triangle , square , pentagon , hexagon , heptagon , octagon , nonagon , decagon , hendecagon , dodecagon",
+    "Output": [
+      "triangle",
+      "square",
+      "pentagon",
+      "hexagon",
+      "heptagon",
+      "octagon",
+      "nonagon",
+      "decagon",
+      "hendecagon",
+      "dodecagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "171.png",
+    "num_layers": 18,
+    "order": [
+      "hexagon",
+      "square",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "square",
+      "hexagon",
+      "hexagon",
+      "square",
+      "triangle",
+      "pentagon",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "pentagon"
+    ],
+    "gpt_response": "Inside\u2010to\u2010outside sequence of regular polygons:  \n1. Triangle  \n2. Square  \n3. Pentagon  \n4. Hexagon  \n5. Heptagon  \n6. Octagon  \n7. Nonagon  \n8. Decagon  \n9. Hendecagon  \n10. Dodecagon  \n\nSHAPES : Triangle , Square , Pentagon , Hexagon , Heptagon , Octagon , Nonagon , Decagon , Hendecagon , Dodecagon",
+    "Output": [
+      "Triangle",
+      "Square",
+      "Pentagon",
+      "Hexagon",
+      "Heptagon",
+      "Octagon",
+      "Nonagon",
+      "Decagon",
+      "Hendecagon",
+      "Dodecagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "172.png",
+    "num_layers": 18,
+    "order": [
+      "triangle",
+      "hexagon",
+      "pentagon",
+      "square",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "pentagon",
+      "square",
+      "pentagon",
+      "square",
+      "hexagon",
+      "square",
+      "pentagon",
+      "pentagon"
+    ],
+    "gpt_response": "Sequence of shapes from the inside layer to the outside layer:\n1. Triangle  \n2. Square  \n3. Pentagon  \n4. Hexagon  \n5. Heptagon  \n6. Octagon  \n7. Nonagon  \n8. Decagon  \n9. Hendecagon  \n10. Dodecagon  \n\nSHAPES : triangle , square , pentagon , hexagon , heptagon , octagon , nonagon , decagon , hendecagon , dodecagon",
+    "Output": [
+      "triangle",
+      "square",
+      "pentagon",
+      "hexagon",
+      "heptagon",
+      "octagon",
+      "nonagon",
+      "decagon",
+      "hendecagon",
+      "dodecagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "173.png",
+    "num_layers": 18,
+    "order": [
+      "triangle",
+      "square",
+      "triangle",
+      "square",
+      "pentagon",
+      "hexagon",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "square",
+      "triangle",
+      "pentagon",
+      "square",
+      "pentagon",
+      "triangle",
+      "triangle",
+      "pentagon"
+    ],
+    "gpt_response": "Sequence from the innermost layer outward:  \n1. Triangle  \n2. Square  \n3. Pentagon  \n4. Hexagon  \n5. Heptagon  \n6. Octagon  \n7. Nonagon  \n\nSHAPES : triangle , square , pentagon , hexagon , heptagon , octagon , nonagon",
+    "Output": [
+      "triangle",
+      "square",
+      "pentagon",
+      "hexagon",
+      "heptagon",
+      "octagon",
+      "nonagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "174.png",
+    "num_layers": 18,
+    "order": [
+      "square",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "square",
+      "square",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "square",
+      "square",
+      "square",
+      "pentagon",
+      "square",
+      "hexagon",
+      "pentagon",
+      "square"
+    ],
+    "gpt_response": "The shapes form a stack of regular polygons, growing by one side at each layer. From the innermost to the outermost you can see:\n\n1. Square  \n2. Pentagon  \n3. Hexagon  \n4. Heptagon  \n5. Octagon  \n6. Nonagon  \n7. Decagon  \n8. Hendecagon (11-gon)  \n9. Dodecagon (12-gon)  \n10. Tridecagon (13-gon)  \n11. Tetradecagon (14-gon)  \n12. Pentadecagon (15-gon)  \n\nSHAPES : Square, Pentagon, Hexagon, Heptagon, Octagon, Nonagon, Decagon, Hendecagon, Dodecagon, Tridecagon, Tetradecagon, Pentadecagon",
+    "Output": [
+      "Square",
+      "Pentagon",
+      "Hexagon",
+      "Heptagon",
+      "Octagon",
+      "Nonagon",
+      "Decagon",
+      "Hendecagon",
+      "Dodecagon",
+      "Tridecagon",
+      "Tetradecagon",
+      "Pentadecagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "175.png",
+    "num_layers": 18,
+    "order": [
+      "square",
+      "square",
+      "square",
+      "square",
+      "triangle",
+      "pentagon",
+      "square",
+      "hexagon",
+      "pentagon",
+      "square",
+      "square",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "square"
+    ],
+    "gpt_response": "Inside to outside layers:\n1. Square  \n2. Pentagon  \n3. Hexagon  \n4. Heptagon  \n5. Octagon  \n6. Nonagon  \n7. Decagon  \n8. Hendecagon (11-gon)  \n9. Dodecagon (12-gon)  \n10. Tridecagon (13-gon)  \n11. Tetradecagon (14-gon)\n\nSHAPES : Square , Pentagon , Hexagon , Heptagon , Octagon , Nonagon , Decagon , Hendecagon , Dodecagon , Tridecagon , Tetradecagon",
+    "Output": [
+      "Square",
+      "Pentagon",
+      "Hexagon",
+      "Heptagon",
+      "Octagon",
+      "Nonagon",
+      "Decagon",
+      "Hendecagon",
+      "Dodecagon",
+      "Tridecagon",
+      "Tetradecagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "176.png",
+    "num_layers": 18,
+    "order": [
+      "square",
+      "triangle",
+      "square",
+      "square",
+      "triangle",
+      "square",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "square",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "square"
+    ],
+    "gpt_response": "Layers from the innermost to the outermost are as follows:\n\n1. square  \n2. square  \n3. hexagon  \n4. hexagon  \n5. hexagon  \n6. hexagon  \n7. hexagon  \n8. hexagon  \n9. square  \n\nSHAPES : Square , Square , Hexagon , Hexagon , Hexagon , Hexagon , Hexagon , Hexagon , Square",
+    "Output": [
+      "Square",
+      "Square",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Square"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "177.png",
+    "num_layers": 18,
+    "order": [
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "square",
+      "square",
+      "hexagon",
+      "triangle",
+      "square",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "square",
+      "triangle",
+      "hexagon"
+    ],
+    "gpt_response": "The shapes, from the innermost layer to the outermost, are:\n\n1. Triangle  \n2. Square  \n3. Pentagon  \n4. Hexagon  \n\nSHAPES : Triangle , Square , Pentagon , Hexagon",
+    "Output": [
+      "Triangle",
+      "Square",
+      "Pentagon",
+      "Hexagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "178.png",
+    "num_layers": 18,
+    "order": [
+      "triangle",
+      "triangle",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "square",
+      "hexagon",
+      "triangle",
+      "hexagon",
+      "pentagon",
+      "square",
+      "square",
+      "hexagon",
+      "triangle",
+      "hexagon"
+    ],
+    "gpt_response": "The layers from innermost to outermost are, by shape:\n\n1. Triangle  \n2. Square  \n3. Pentagon  \n4. Hexagon  \n5. Heptagon (7-gon)  \n6. Octagon  \n7. Nonagon (9-gon)  \n8. Decagon (10-gon)  \n\nSHAPES : Triangle, Square, Pentagon, Hexagon, Heptagon, Octagon, Nonagon, Decagon",
+    "Output": [
+      "Triangle",
+      "Square",
+      "Pentagon",
+      "Hexagon",
+      "Heptagon",
+      "Octagon",
+      "Nonagon",
+      "Decagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "179.png",
+    "num_layers": 18,
+    "order": [
+      "square",
+      "pentagon",
+      "triangle",
+      "pentagon",
+      "square",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "square",
+      "pentagon",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "pentagon",
+      "triangle"
+    ],
+    "gpt_response": "Inside layer: square  \n2nd layer: pentagon  \n3rd layer: hexagon  \n4th layer: heptagon  \n5th layer: octagon  \n6th layer: nonagon  \n7th layer: decagon  \n8th layer: hendecagon  \n9th layer: dodecagon  \n10th layer: tridecagon  \nOutside layer: tetradecagon  \n\nSHAPES : Square , Pentagon , Hexagon , Heptagon , Octagon , Nonagon , Decagon , Hendecagon , Dodecagon , Tridecagon , Tetradecagon",
+    "Output": [
+      "Square",
+      "Pentagon",
+      "Hexagon",
+      "Heptagon",
+      "Octagon",
+      "Nonagon",
+      "Decagon",
+      "Hendecagon",
+      "Dodecagon",
+      "Tridecagon",
+      "Tetradecagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "180.png",
+    "num_layers": 18,
+    "order": [
+      "triangle",
+      "hexagon",
+      "pentagon",
+      "square",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "hexagon",
+      "triangle",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "square",
+      "triangle"
+    ],
+    "gpt_response": "1. Innermost layer: triangle  \n2. 4-sided polygon (square)  \n3. 5-sided polygon (pentagon)  \n4. 6-sided polygon (hexagon)  \n5. 7-sided polygon (heptagon)  \n6. 8-sided polygon (octagon)  \n7. 9-sided polygon (nonagon)  \n8. 10-sided polygon (decagon)  \n9. 11-sided polygon (hendecagon)  \n10. Outermost layer: 12-sided polygon (dodecagon)  \n\nSHAPES : triangle, square, pentagon, hexagon, heptagon, octagon, nonagon, decagon, hendecagon, dodecagon",
+    "Output": [
+      "triangle",
+      "square",
+      "pentagon",
+      "hexagon",
+      "heptagon",
+      "octagon",
+      "nonagon",
+      "decagon",
+      "hendecagon",
+      "dodecagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "181.png",
+    "num_layers": 19,
+    "order": [
+      "hexagon",
+      "hexagon",
+      "triangle",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "square",
+      "triangle",
+      "square",
+      "hexagon",
+      "hexagon",
+      "square",
+      "pentagon",
+      "square",
+      "triangle",
+      "triangle",
+      "hexagon"
+    ],
+    "gpt_response": "The image shows nine translucent shapes stacked concentrically. From the very center outward they are:\n\n1. A right-pointing arrow  \n2. A 5-pointed star  \n3. An octagon (8-sided polygon)  \n4. A decagon (10-sided polygon)  \n5. A dodecagon (12-sided polygon)  \n6. A tetradecagon (14-sided polygon)  \n7. A hexadecagon (16-sided polygon)  \n8. An octadecagon (18-sided polygon)  \n9. A hexagon (6-sided polygon)\n\nSHAPES : Arrow, Star, Octagon, Decagon, Dodecagon, Tetradecagon, Hexadecagon, Octadecagon, Hexagon",
+    "Output": [
+      "Arrow",
+      "Star",
+      "Octagon",
+      "Decagon",
+      "Dodecagon",
+      "Tetradecagon",
+      "Hexadecagon",
+      "Octadecagon",
+      "Hexagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "182.png",
+    "num_layers": 19,
+    "order": [
+      "square",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "triangle",
+      "triangle",
+      "pentagon",
+      "hexagon",
+      "square",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "square",
+      "pentagon"
+    ],
+    "gpt_response": "Layer 1 (innermost): square  \nLayer 2: pentagon  \nLayer 3: hexagon  \nLayer 4: heptagon  \nLayer 5: octagon  \nLayer 6: nonagon  \nLayer 7: decagon  \nLayer 8: hendecagon  \nLayer 9 (outermost): dodecagon  \n\nSHAPES : square, pentagon, hexagon, heptagon, octagon, nonagon, decagon, hendecagon, dodecagon",
+    "Output": [
+      "square",
+      "pentagon",
+      "hexagon",
+      "heptagon",
+      "octagon",
+      "nonagon",
+      "decagon",
+      "hendecagon",
+      "dodecagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "183.png",
+    "num_layers": 19,
+    "order": [
+      "pentagon",
+      "square",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "square",
+      "pentagon",
+      "hexagon",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "triangle",
+      "pentagon",
+      "square",
+      "square",
+      "triangle",
+      "square",
+      "square",
+      "pentagon"
+    ],
+    "gpt_response": "Innermost: square  \nthen pentagon  \nthen hexagon  \nthen heptagon  \nthen octagon  \nthen nonagon  \nthen decagon  \nthen hendecagon  \noutermost: dodecagon  \n\nSHAPES : square , pentagon , hexagon , heptagon , octagon , nonagon , decagon , hendecagon , dodecagon",
+    "Output": [
+      "square",
+      "pentagon",
+      "hexagon",
+      "heptagon",
+      "octagon",
+      "nonagon",
+      "decagon",
+      "hendecagon",
+      "dodecagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "184.png",
+    "num_layers": 19,
+    "order": [
+      "pentagon",
+      "square",
+      "square",
+      "square",
+      "triangle",
+      "triangle",
+      "square",
+      "hexagon",
+      "pentagon",
+      "square",
+      "square",
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "square",
+      "hexagon",
+      "triangle",
+      "square",
+      "square"
+    ],
+    "gpt_response": "1. Innermost layer: regular pentagon  \n2. Next layer: regular hexagon  \n3. Next layer: regular heptagon  \n4. Next layer: regular octagon  \n5. Next layer: regular nonagon  \n6. Next layer: regular decagon  \n7. Next layer: regular dodecagon  \n8. Outermost layer: square  \n\nSHAPES : pentagon , hexagon , heptagon , octagon , nonagon , decagon , dodecagon , square",
+    "Output": [
+      "pentagon",
+      "hexagon",
+      "heptagon",
+      "octagon",
+      "nonagon",
+      "decagon",
+      "dodecagon",
+      "square"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "185.png",
+    "num_layers": 19,
+    "order": [
+      "square",
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "square",
+      "square",
+      "hexagon",
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "square",
+      "square"
+    ],
+    "gpt_response": "Sequence of shapes from the innermost layer to the outermost layer:\n1. Square  \n2. Pentagon  \n3. Hexagon  \n4. Heptagon  \n5. Octagon  \n6. Nonagon  \n7. Decagon  \n8. Hendecagon  \n9. Dodecagon  \n\nSHAPES : Square , Pentagon , Hexagon , Heptagon , Octagon , Nonagon , Decagon , Hendecagon , Dodecagon",
+    "Output": [
+      "Square",
+      "Pentagon",
+      "Hexagon",
+      "Heptagon",
+      "Octagon",
+      "Nonagon",
+      "Decagon",
+      "Hendecagon",
+      "Dodecagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "186.png",
+    "num_layers": 19,
+    "order": [
+      "triangle",
+      "triangle",
+      "triangle",
+      "square",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "square",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "square",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "square"
+    ],
+    "gpt_response": "Sequence of shapes from the innermost layer to the outermost layer:\ntriangle \u2192 square \u2192 pentagon \u2192 hexagon \u2192 heptagon \u2192 octagon \u2192 nonagon \u2192 decagon\n\nSHAPES : triangle , square , pentagon , hexagon , heptagon , octagon , nonagon , decagon",
+    "Output": [
+      "triangle",
+      "square",
+      "pentagon",
+      "hexagon",
+      "heptagon",
+      "octagon",
+      "nonagon",
+      "decagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "187.png",
+    "num_layers": 19,
+    "order": [
+      "pentagon",
+      "hexagon",
+      "hexagon",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "square",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "triangle",
+      "pentagon",
+      "square"
+    ],
+    "gpt_response": "Sequence of shapes from the innermost (topmost) layer to the outermost layer:\n\n1. Dodecagon  \n2. Hendecagon  \n3. Decagon  \n4. Nonagon  \n5. Octagon  \n6. Heptagon  \n7. Hexagon  \n8. Pentagon  \n9. Square  \n10. Triangle  \n\nSHAPES : Dodecagon , Hendecagon , Decagon , Nonagon , Octagon , Heptagon , Hexagon , Pentagon , Square , Triangle",
+    "Output": [
+      "Dodecagon",
+      "Hendecagon",
+      "Decagon",
+      "Nonagon",
+      "Octagon",
+      "Heptagon",
+      "Hexagon",
+      "Pentagon",
+      "Square",
+      "Triangle"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "188.png",
+    "num_layers": 19,
+    "order": [
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "triangle",
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "triangle",
+      "square",
+      "triangle",
+      "pentagon",
+      "square",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "triangle"
+    ],
+    "gpt_response": "The shapes, from the innermost layer outward, are:\n\n1. Hexagon  \n2. Pentagon  \n3. Triangle  \n4. Heptagon  \n5. Hexagon  \n6. Octagon  \n7. Octagon  \n\nSHAPES : hexagon, pentagon, triangle, heptagon, hexagon, octagon, octagon",
+    "Output": [
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "heptagon",
+      "hexagon",
+      "octagon",
+      "octagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "189.png",
+    "num_layers": 19,
+    "order": [
+      "hexagon",
+      "pentagon",
+      "hexagon",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "square",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "hexagon"
+    ],
+    "gpt_response": "All of the shapes are regular hexagons, layered concentrically from the smallest in the center to the largest on the outside.\n\nSHAPES : hexagon, hexagon, hexagon, hexagon, hexagon, hexagon, hexagon, hexagon, hexagon, hexagon, hexagon, hexagon, hexagon, hexagon, hexagon",
+    "Output": [
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon",
+      "hexagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "190.png",
+    "num_layers": 19,
+    "order": [
+      "triangle",
+      "square",
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "square",
+      "hexagon",
+      "hexagon",
+      "square",
+      "square",
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "pentagon",
+      "square",
+      "pentagon",
+      "square"
+    ],
+    "gpt_response": "Inside the stack you see a small triangle. Beneath it lies a rotated square (diamond). All the surrounding layers beyond that are regular octagons.  \nSHAPES : Triangle , Square , Octagon",
+    "Output": [
+      "Triangle",
+      "Square",
+      "Octagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "191.png",
+    "num_layers": 20,
+    "order": [
+      "hexagon",
+      "square",
+      "pentagon",
+      "pentagon",
+      "square",
+      "square",
+      "hexagon",
+      "pentagon",
+      "hexagon",
+      "square",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "square",
+      "triangle",
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "hexagon",
+      "hexagon"
+    ],
+    "gpt_response": "The image is made up of nine overlapping regular heptagons, each slightly rotated and scaled.\n\nSHAPES : heptagon , heptagon , heptagon , heptagon , heptagon , heptagon , heptagon , heptagon , heptagon",
+    "Output": [
+      "heptagon",
+      "heptagon",
+      "heptagon",
+      "heptagon",
+      "heptagon",
+      "heptagon",
+      "heptagon",
+      "heptagon",
+      "heptagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "192.png",
+    "num_layers": 20,
+    "order": [
+      "square",
+      "triangle",
+      "square",
+      "pentagon",
+      "pentagon",
+      "square",
+      "hexagon",
+      "hexagon",
+      "triangle",
+      "hexagon",
+      "square",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "triangle",
+      "square"
+    ],
+    "gpt_response": "The shapes form nested regular polygons whose number of sides increases by one each time.  From the innermost layer to the outermost layer they are:\n\n1. Square  \n2. Pentagon  \n3. Hexagon  \n4. Heptagon  \n5. Octagon  \n6. Nonagon  \n7. Decagon  \n8. Hendecagon (11\u2010gon)  \n9. Dodecagon (12\u2010gon)\n\nSHAPES : Square , Pentagon , Hexagon , Heptagon , Octagon , Nonagon , Decagon , Hendecagon , Dodecagon",
+    "Output": [
+      "Square",
+      "Pentagon",
+      "Hexagon",
+      "Heptagon",
+      "Octagon",
+      "Nonagon",
+      "Decagon",
+      "Hendecagon",
+      "Dodecagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "193.png",
+    "num_layers": 20,
+    "order": [
+      "pentagon",
+      "pentagon",
+      "square",
+      "pentagon",
+      "pentagon",
+      "square",
+      "square",
+      "hexagon",
+      "triangle",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "square",
+      "square",
+      "pentagon",
+      "triangle",
+      "square",
+      "triangle",
+      "hexagon"
+    ],
+    "gpt_response": "Inside layer: Pentagon  \n2nd layer: Hexagon  \n3rd layer: Heptagon  \n4th layer: Octagon  \n5th layer: Nonagon  \n6th layer: Decagon  \n7th layer: Hendecagon  \nOutside layer: Dodecagon  \n\nSHAPES : Pentagon, Hexagon, Heptagon, Octagon, Nonagon, Decagon, Hendecagon, Dodecagon",
+    "Output": [
+      "Pentagon",
+      "Hexagon",
+      "Heptagon",
+      "Octagon",
+      "Nonagon",
+      "Decagon",
+      "Hendecagon",
+      "Dodecagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "194.png",
+    "num_layers": 20,
+    "order": [
+      "pentagon",
+      "triangle",
+      "square",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "square",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "square",
+      "pentagon",
+      "triangle",
+      "square",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "pentagon"
+    ],
+    "gpt_response": "1. The innermost layer is a small hexagon.  \n2. Next comes a rotated square.  \n3. Then a pentagon.  \n4. Followed by another larger hexagon.  \n5. Then a heptagon.  \n6. Next an octagon.  \n7. Then a nonagon.  \n8. Followed by a decagon.  \n9. Next a hendecagon (11 sides).  \n10. The outermost layer is a dodecagon (12 sides).  \n\nSHAPES : hexagon, square, pentagon, hexagon, heptagon, octagon, nonagon, decagon, hendecagon, dodecagon",
+    "Output": [
+      "hexagon",
+      "square",
+      "pentagon",
+      "hexagon",
+      "heptagon",
+      "octagon",
+      "nonagon",
+      "decagon",
+      "hendecagon",
+      "dodecagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "195.png",
+    "num_layers": 20,
+    "order": [
+      "square",
+      "hexagon",
+      "triangle",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "triangle",
+      "hexagon",
+      "hexagon",
+      "square",
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "square",
+      "hexagon",
+      "square",
+      "square"
+    ],
+    "gpt_response": "1. Innermost layer: hexagon  \n2. next layer: triangle  \n3. then: heptagon  \n4. then: octagon  \n5. then: nonagon  \n6. then: decagon  \n7. then: hendecagon  \n8. then: dodecagon  \n9. outermost layer: square  \n\nSHAPES : Hexagon , Triangle , Heptagon , Octagon , Nonagon , Decagon , Hendecagon , Dodecagon , Square",
+    "Output": [
+      "Hexagon",
+      "Triangle",
+      "Heptagon",
+      "Octagon",
+      "Nonagon",
+      "Decagon",
+      "Hendecagon",
+      "Dodecagon",
+      "Square"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "196.png",
+    "num_layers": 20,
+    "order": [
+      "square",
+      "pentagon",
+      "triangle",
+      "triangle",
+      "triangle",
+      "square",
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "square",
+      "triangle",
+      "square",
+      "hexagon",
+      "pentagon",
+      "hexagon",
+      "triangle"
+    ],
+    "gpt_response": "Sequence from the innermost to the outermost layer:\n\n1. Square  \n2. Triangle  \n3. Pentagon  \n4. Hexagon  \n5. Heptagon  \n6. Octagon  \n7. Nonagon  \n8. Decagon  \n9. Hendecagon  \n10. Dodecagon  \n\nSHAPES : Square , Triangle , Pentagon , Hexagon , Heptagon , Octagon , Nonagon , Decagon , Hendecagon , Dodecagon",
+    "Output": [
+      "Square",
+      "Triangle",
+      "Pentagon",
+      "Hexagon",
+      "Heptagon",
+      "Octagon",
+      "Nonagon",
+      "Decagon",
+      "Hendecagon",
+      "Dodecagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "197.png",
+    "num_layers": 20,
+    "order": [
+      "triangle",
+      "pentagon",
+      "square",
+      "hexagon",
+      "square",
+      "square",
+      "hexagon",
+      "pentagon",
+      "triangle",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "triangle",
+      "pentagon",
+      "hexagon",
+      "triangle",
+      "square",
+      "triangle",
+      "square",
+      "pentagon"
+    ],
+    "gpt_response": "Inside\u2192outside: triangle, square, pentagon, hexagon, heptagon, octagon, nonagon, decagon, hendecagon, dodecagon  \nSHAPES : triangle , square , pentagon , hexagon , heptagon , octagon , nonagon , decagon , hendecagon , dodecagon",
+    "Output": [
+      "triangle",
+      "square",
+      "pentagon",
+      "hexagon",
+      "heptagon",
+      "octagon",
+      "nonagon",
+      "decagon",
+      "hendecagon",
+      "dodecagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "198.png",
+    "num_layers": 20,
+    "order": [
+      "triangle",
+      "square",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "triangle",
+      "square",
+      "square",
+      "triangle",
+      "square",
+      "hexagon",
+      "pentagon",
+      "hexagon",
+      "square",
+      "hexagon",
+      "pentagon",
+      "square",
+      "triangle",
+      "hexagon",
+      "hexagon"
+    ],
+    "gpt_response": "The image shows a stack of regular polygons, all sharing the same center, with their number of sides increasing outward.  \n\nSequence of shapes from the innermost layer to the outermost layer:  \n1. Triangle  \n2. Square  \n3. Pentagon  \n4. Hexagon  \n5. Heptagon  \n6. Octagon  \n7. Nonagon  \n8. Decagon  \n\nSHAPES : Triangle , Square , Pentagon , Hexagon , Heptagon , Octagon , Nonagon , Decagon",
+    "Output": [
+      "Triangle",
+      "Square",
+      "Pentagon",
+      "Hexagon",
+      "Heptagon",
+      "Octagon",
+      "Nonagon",
+      "Decagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "199.png",
+    "num_layers": 20,
+    "order": [
+      "pentagon",
+      "triangle",
+      "triangle",
+      "triangle",
+      "triangle",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "pentagon",
+      "square",
+      "triangle",
+      "triangle",
+      "square",
+      "triangle",
+      "hexagon",
+      "pentagon",
+      "pentagon",
+      "triangle",
+      "pentagon",
+      "square"
+    ],
+    "gpt_response": "1. Innermost layer: triangle  \n2. next: square  \n3. next: pentagon  \n4. next: hexagon  \n5. next: heptagon  \n6. next: octagon  \n7. next: nonagon  \n8. next: decagon  \n9. next: hendecagon  \n10. outermost: dodecagon  \n\nSHAPES : triangle, square, pentagon, hexagon, heptagon, octagon, nonagon, decagon, hendecagon, dodecagon",
+    "Output": [
+      "triangle",
+      "square",
+      "pentagon",
+      "hexagon",
+      "heptagon",
+      "octagon",
+      "nonagon",
+      "decagon",
+      "hendecagon",
+      "dodecagon"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "200.png",
+    "num_layers": 20,
+    "order": [
+      "pentagon",
+      "triangle",
+      "square",
+      "square",
+      "square",
+      "square",
+      "hexagon",
+      "triangle",
+      "pentagon",
+      "hexagon",
+      "hexagon",
+      "pentagon",
+      "square",
+      "triangle",
+      "triangle",
+      "hexagon",
+      "square",
+      "hexagon",
+      "pentagon",
+      "hexagon"
+    ],
+    "gpt_response": "1. Small central pentagon  \n2. Overlaid triangle  \n3. Filled square  \n4. Bordered square  \n5. Three nested octagons  \n6. Four nested hexagons  \n\nSHAPES : Pentagon , Triangle , Square , Square , Octagon , Octagon , Octagon , Hexagon , Hexagon , Hexagon , Hexagon",
+    "Output": [
+      "Pentagon",
+      "Triangle",
+      "Square",
+      "Square",
+      "Octagon",
+      "Octagon",
+      "Octagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon",
+      "Hexagon"
+    ],
+    "ERROR": null
+  }
+]

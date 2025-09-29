@@ -1,0 +1,4045 @@
+[
+  {
+    "id": "1.png",
+    "Gold_output": [
+      "Blue"
+    ],
+    "Rows": 1,
+    "gpt_response": "Row 1: The blue circle is larger than the green circle.  \nANSWER: Blue",
+    "Output": [
+      "blue"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "2.png",
+    "Gold_output": [
+      "Green"
+    ],
+    "Rows": 1,
+    "gpt_response": "Row 1: The green circle is larger.  \nANSWER: Green",
+    "Output": [
+      "green"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "3.png",
+    "Gold_output": [
+      "Green"
+    ],
+    "Rows": 1,
+    "gpt_response": "ANSWER: Green",
+    "Output": [
+      "green"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "4.png",
+    "Gold_output": [
+      "Blue"
+    ],
+    "Rows": 1,
+    "gpt_response": "In the single row shown, the blue circle is noticeably larger than the green circle.\n\nANSWER: Blue",
+    "Output": [
+      "blue"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "5.png",
+    "Gold_output": [
+      "Blue"
+    ],
+    "Rows": 1,
+    "gpt_response": "Row 1: The blue circle is larger than the green circle.\n\nANSWER: Blue",
+    "Output": [
+      "blue"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "6.png",
+    "Gold_output": [
+      "Blue"
+    ],
+    "Rows": 1,
+    "gpt_response": "ANSWER: Blue",
+    "Output": [
+      "blue"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "7.png",
+    "Gold_output": [
+      "Blue"
+    ],
+    "Rows": 1,
+    "gpt_response": "The blue circle is larger than the green circle in the only row shown.  \nANSWER: Blue",
+    "Output": [
+      "blue"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "8.png",
+    "Gold_output": [
+      "Green"
+    ],
+    "Rows": 1,
+    "gpt_response": "In the shown row, the green circle is larger than the blue circle.\n\nANSWER: Green",
+    "Output": [
+      "green"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "9.png",
+    "Gold_output": [
+      "Blue"
+    ],
+    "Rows": 1,
+    "gpt_response": "The blue circle is larger than the green circle.  \nANSWER: Blue",
+    "Output": [
+      "blue"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "10.png",
+    "Gold_output": [
+      "Green"
+    ],
+    "Rows": 1,
+    "gpt_response": "Row 1: the green circle is noticeably larger than the blue circle.\n\nANSWER: Green",
+    "Output": [
+      "green"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "11.png",
+    "Gold_output": [
+      "Blue",
+      "Blue"
+    ],
+    "Rows": 2,
+    "gpt_response": "Row 1: the blue circle is larger.  \nRow 2: the blue circle is larger.  \n\nANSWER: Blue Blue",
+    "Output": [
+      "blue",
+      "blue"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "12.png",
+    "Gold_output": [
+      "Blue",
+      "Green"
+    ],
+    "Rows": 2,
+    "gpt_response": "Row 1: The blue circle is larger than the green circle.  \nRow 2: The green circle is larger than the blue circle.  \n\nANSWER: Blue Green",
+    "Output": [
+      "blue",
+      "green"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "13.png",
+    "Gold_output": [
+      "Blue",
+      "Blue"
+    ],
+    "Rows": 2,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "14.png",
+    "Gold_output": [
+      "Blue",
+      "Green"
+    ],
+    "Rows": 2,
+    "gpt_response": "Row 1: the blue circle is larger.  \nRow 2: the green circle is larger.  \n\nANSWER: Blue Green",
+    "Output": [
+      "blue",
+      "green"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "15.png",
+    "Gold_output": [
+      "Blue",
+      "Green"
+    ],
+    "Rows": 2,
+    "gpt_response": "Row 1: the blue circle is larger than the green.  \nRow 2: the green circle is larger than the blue.  \n\nANSWER: Blue Green",
+    "Output": [
+      "blue",
+      "green"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "16.png",
+    "Gold_output": [
+      "Green",
+      "Blue"
+    ],
+    "Rows": 2,
+    "gpt_response": "ANSWER: Green Blue",
+    "Output": [
+      "green",
+      "blue"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "17.png",
+    "Gold_output": [
+      "Green",
+      "Blue"
+    ],
+    "Rows": 2,
+    "gpt_response": "Row 1: The green circle is larger than the blue circle.  \nRow 2: The blue circle is larger than the green circle.  \n\nANSWER: Green Blue",
+    "Output": [
+      "green",
+      "blue"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "18.png",
+    "Gold_output": [
+      "Green",
+      "Green"
+    ],
+    "Rows": 2,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "19.png",
+    "Gold_output": [
+      "Blue",
+      "Green"
+    ],
+    "Rows": 2,
+    "gpt_response": "Row 1 (above the first line): the blue circle is larger than the green circle.  \nRow 2 (between the lines): the green circle is larger than the blue circle.  \n\nANSWER: Blue Green",
+    "Output": [
+      "blue",
+      "green"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "20.png",
+    "Gold_output": [
+      "Blue",
+      "Green"
+    ],
+    "Rows": 2,
+    "gpt_response": "Row 1: the blue circle is larger than the green.  \nRow 2: the green circle is larger than the blue.\n\nANSWER: Blue Green",
+    "Output": [
+      "blue",
+      "green"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "21.png",
+    "Gold_output": [
+      "Green",
+      "Green",
+      "Green"
+    ],
+    "Rows": 3,
+    "gpt_response": "Row 1: the green circle is larger  \nRow 2: the blue circle is larger  \nRow 3: the green circle is larger  \n\nANSWER: Green Blue Green",
+    "Output": [
+      "green",
+      "blue",
+      "green"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "22.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Blue"
+    ],
+    "Rows": 3,
+    "gpt_response": "Row 1: the blue circle is larger than the green.  \nRow 2: the green circle is larger than the blue.  \nRow 3: the blue circle is larger than the green.  \n\nANSWER: Blue Green Blue",
+    "Output": [
+      "blue",
+      "green",
+      "blue"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "23.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Blue"
+    ],
+    "Rows": 3,
+    "gpt_response": "Row 1: Blue is larger than Green  \nRow 2: Green is larger than Blue  \nRow 3: Blue is larger than Green  \n\nANSWER: Blue Green Blue",
+    "Output": [
+      "blue",
+      "green",
+      "blue"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "24.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 3,
+    "gpt_response": "Row 1: the green circle is larger than the blue.  \nRow 2: the blue circle is larger than the green.  \nRow 3: the green circle is larger than the blue.  \n\nANSWER: Green Blue Green",
+    "Output": [
+      "green",
+      "blue",
+      "green"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "25.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Green"
+    ],
+    "Rows": 3,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "26.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Green"
+    ],
+    "Rows": 3,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "27.png",
+    "Gold_output": [
+      "Blue",
+      "Blue",
+      "Blue"
+    ],
+    "Rows": 3,
+    "gpt_response": "Row 1: Blue  \nRow 2: Blue  \nRow 3: Blue  \n\nANSWER: Blue Blue Blue",
+    "Output": [
+      "blue",
+      "blue",
+      "blue"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "28.png",
+    "Gold_output": [
+      "Blue",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 3,
+    "gpt_response": "Row 1: The blue circle is larger than the green circle.  \nRow 2: The blue circle is larger than the green circle.  \nRow 3: The green circle is larger than the blue circle.  \n\nANSWER: Blue Blue Green",
+    "Output": [
+      "blue",
+      "blue",
+      "green"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "29.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Blue"
+    ],
+    "Rows": 3,
+    "gpt_response": "Top row: the green circle is larger than the blue.  \nMiddle row: the blue circle is larger than the green.  \nBottom row: the blue circle is larger than the green.\n\nANSWER: Green Blue Blue",
+    "Output": [
+      "green",
+      "blue",
+      "blue"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "30.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Green"
+    ],
+    "Rows": 3,
+    "gpt_response": "Row 1: the blue circle is larger than the green circle.  \nRow 2: the green circle is larger than the blue circle.  \nRow 3: the green circle is larger than the blue circle.  \n\nANSWER: Blue Green Green",
+    "Output": [
+      "blue",
+      "green",
+      "green"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "31.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 4,
+    "gpt_response": "Row 1: the blue circle is larger than the green.  \nRow 2: the green circle is larger than the blue.  \nRow 3: the blue circle is larger than the green.  \nRow 4: the green circle is larger than the blue.  \n\nANSWER: Blue Green Blue Green",
+    "Output": [
+      "blue",
+      "green",
+      "blue",
+      "green"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "32.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Green",
+      "Green"
+    ],
+    "Rows": 4,
+    "gpt_response": "Row 1: Blue  \nRow 2: Green  \nRow 3: Green  \nRow 4: Green  \n\nANSWER: Blue Green Green Green",
+    "Output": [
+      "blue",
+      "green",
+      "green",
+      "green"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "33.png",
+    "Gold_output": [
+      "Blue",
+      "Blue",
+      "Green",
+      "Green"
+    ],
+    "Rows": 4,
+    "gpt_response": "Row 1: The blue circle is larger than the green.  \nRow 2: The blue circle is larger than the green.  \nRow 3: The green circle is larger than the blue.  \nRow 4: The green circle is larger than the blue.  \n\nANSWER: Blue Blue Green Green",
+    "Output": [
+      "blue",
+      "blue",
+      "green",
+      "green"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "34.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Green",
+      "Blue"
+    ],
+    "Rows": 4,
+    "gpt_response": "ANSWER: Green Blue Green Blue",
+    "Output": [
+      "green",
+      "blue",
+      "green",
+      "blue"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "35.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue"
+    ],
+    "Rows": 4,
+    "gpt_response": "Row 1: Blue  \nRow 2: Green  \nRow 3: Blue  \nRow 4: Blue  \n\nANSWER: Blue Green Blue Blue",
+    "Output": [
+      "blue",
+      "green",
+      "blue",
+      "blue"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "36.png",
+    "Gold_output": [
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 4,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "37.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Green",
+      "Green"
+    ],
+    "Rows": 4,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "38.png",
+    "Gold_output": [
+      "Green",
+      "Green",
+      "Green",
+      "Blue"
+    ],
+    "Rows": 4,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "39.png",
+    "Gold_output": [
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 4,
+    "gpt_response": "Row 1: the blue circle is larger than the green.  \nRow 2: the blue circle is larger than the green.  \nRow 3: the blue circle is larger than the green.  \nRow 4: the green circle is larger than the blue.  \n\nANSWER: Blue Blue Blue Green",
+    "Output": [
+      "blue",
+      "blue",
+      "blue",
+      "green"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "40.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 4,
+    "gpt_response": "Row 1: the green circle is larger.  \nRow 2: the blue circle is larger.  \nRow 3: the blue circle is larger.  \nRow 4: the green circle is larger.  \n\nANSWER: Green Blue Blue Green",
+    "Output": [
+      "green",
+      "blue",
+      "blue",
+      "green"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "41.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green"
+    ],
+    "Rows": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "42.png",
+    "Gold_output": [
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Green"
+    ],
+    "Rows": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "43.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue"
+    ],
+    "Rows": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "44.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue"
+    ],
+    "Rows": 5,
+    "gpt_response": "ANSWER: Blue Green Blue Green Blue",
+    "Output": [
+      "blue",
+      "green",
+      "blue",
+      "green",
+      "blue"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "45.png",
+    "Gold_output": [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green"
+    ],
+    "Rows": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "46.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue"
+    ],
+    "Rows": 5,
+    "gpt_response": "ANSWER: Blue Green Green Blue Blue",
+    "Output": [
+      "blue",
+      "green",
+      "green",
+      "blue",
+      "blue"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "47.png",
+    "Gold_output": [
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 5,
+    "gpt_response": "ANSWER: Blue Blue Green Blue Green",
+    "Output": [
+      "blue",
+      "blue",
+      "green",
+      "blue",
+      "green"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "48.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue"
+    ],
+    "Rows": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "49.png",
+    "Gold_output": [
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue"
+    ],
+    "Rows": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "50.png",
+    "Gold_output": [
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green"
+    ],
+    "Rows": 5,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "51.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Green"
+    ],
+    "Rows": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "52.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue"
+    ],
+    "Rows": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "53.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Green"
+    ],
+    "Rows": 6,
+    "gpt_response": "Row 1: Green is bigger  \nRow 2: Blue is bigger  \nRow 3: Green is bigger  \nRow 4: Blue is bigger  \nRow 5: Green is bigger  \nRow 6: Green is bigger  \n\nANSWER: Green Blue Green Blue Green Green",
+    "Output": [
+      "green",
+      "blue",
+      "green",
+      "blue",
+      "green",
+      "green"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "54.png",
+    "Gold_output": [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue"
+    ],
+    "Rows": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "55.png",
+    "Gold_output": [
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue"
+    ],
+    "Rows": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "56.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "57.png",
+    "Gold_output": [
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue"
+    ],
+    "Rows": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "58.png",
+    "Gold_output": [
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue"
+    ],
+    "Rows": 6,
+    "gpt_response": "Row 1: Blue  \nRow 2: Blue  \nRow 3: Green  \nRow 4: Green  \nRow 5: Blue  \nRow 6: Blue  \n\nANSWER: Blue Blue Green Green Blue Blue",
+    "Output": [
+      "blue",
+      "blue",
+      "green",
+      "green",
+      "blue",
+      "blue"
+    ],
+    "ERROR": null
+  },
+  {
+    "id": "59.png",
+    "Gold_output": [
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue"
+    ],
+    "Rows": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "60.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue"
+    ],
+    "Rows": 6,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "61.png",
+    "Gold_output": [
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue"
+    ],
+    "Rows": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "62.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue"
+    ],
+    "Rows": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "63.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green"
+    ],
+    "Rows": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "64.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green"
+    ],
+    "Rows": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "65.png",
+    "Gold_output": [
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Blue"
+    ],
+    "Rows": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "66.png",
+    "Gold_output": [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "67.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Blue"
+    ],
+    "Rows": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "68.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "69.png",
+    "Gold_output": [
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue"
+    ],
+    "Rows": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "70.png",
+    "Gold_output": [
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue"
+    ],
+    "Rows": 7,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "71.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue"
+    ],
+    "Rows": 8,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "72.png",
+    "Gold_output": [
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue"
+    ],
+    "Rows": 8,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "73.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green"
+    ],
+    "Rows": 8,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "74.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 8,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "75.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green"
+    ],
+    "Rows": 8,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "76.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue"
+    ],
+    "Rows": 8,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "77.png",
+    "Gold_output": [
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 8,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "78.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Green"
+    ],
+    "Rows": 8,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "79.png",
+    "Gold_output": [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue"
+    ],
+    "Rows": 8,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "80.png",
+    "Gold_output": [
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 8,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "81.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue"
+    ],
+    "Rows": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "82.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green"
+    ],
+    "Rows": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "83.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue"
+    ],
+    "Rows": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "84.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue"
+    ],
+    "Rows": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "85.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "86.png",
+    "Gold_output": [
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue"
+    ],
+    "Rows": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "87.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue"
+    ],
+    "Rows": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "88.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue"
+    ],
+    "Rows": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "89.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green"
+    ],
+    "Rows": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "90.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Green"
+    ],
+    "Rows": 9,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "91.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue"
+    ],
+    "Rows": 10,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "92.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue"
+    ],
+    "Rows": 10,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "93.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 10,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "94.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue"
+    ],
+    "Rows": 10,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "95.png",
+    "Gold_output": [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 10,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "96.png",
+    "Gold_output": [
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 10,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "97.png",
+    "Gold_output": [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green"
+    ],
+    "Rows": 10,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "98.png",
+    "Gold_output": [
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Green"
+    ],
+    "Rows": 10,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "99.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 10,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "100.png",
+    "Gold_output": [
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 10,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "101.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 11,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "102.png",
+    "Gold_output": [
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 11,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "103.png",
+    "Gold_output": [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Green"
+    ],
+    "Rows": 11,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "104.png",
+    "Gold_output": [
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 11,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "105.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 11,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "106.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue"
+    ],
+    "Rows": 11,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "107.png",
+    "Gold_output": [
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue"
+    ],
+    "Rows": 11,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "108.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green"
+    ],
+    "Rows": 11,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "109.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green"
+    ],
+    "Rows": 11,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "110.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 11,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "111.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Green"
+    ],
+    "Rows": 12,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "112.png",
+    "Gold_output": [
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green"
+    ],
+    "Rows": 12,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "113.png",
+    "Gold_output": [
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green"
+    ],
+    "Rows": 12,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "114.png",
+    "Gold_output": [
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Green"
+    ],
+    "Rows": 12,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "115.png",
+    "Gold_output": [
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green"
+    ],
+    "Rows": 12,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "116.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 12,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "117.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 12,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "118.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue"
+    ],
+    "Rows": 12,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "119.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue"
+    ],
+    "Rows": 12,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "120.png",
+    "Gold_output": [
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green"
+    ],
+    "Rows": 12,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "121.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Green"
+    ],
+    "Rows": 13,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "122.png",
+    "Gold_output": [
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue"
+    ],
+    "Rows": 13,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "123.png",
+    "Gold_output": [
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue"
+    ],
+    "Rows": 13,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "124.png",
+    "Gold_output": [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue"
+    ],
+    "Rows": 13,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "125.png",
+    "Gold_output": [
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green"
+    ],
+    "Rows": 13,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "126.png",
+    "Gold_output": [
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green"
+    ],
+    "Rows": 13,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "127.png",
+    "Gold_output": [
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue"
+    ],
+    "Rows": 13,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "128.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green"
+    ],
+    "Rows": 13,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "129.png",
+    "Gold_output": [
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue"
+    ],
+    "Rows": 13,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "130.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Green"
+    ],
+    "Rows": 13,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "131.png",
+    "Gold_output": [
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 14,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "132.png",
+    "Gold_output": [
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 14,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "133.png",
+    "Gold_output": [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 14,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "134.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue"
+    ],
+    "Rows": 14,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "135.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 14,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "136.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue"
+    ],
+    "Rows": 14,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "137.png",
+    "Gold_output": [
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue"
+    ],
+    "Rows": 14,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "138.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 14,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "139.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue"
+    ],
+    "Rows": 14,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "140.png",
+    "Gold_output": [
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue"
+    ],
+    "Rows": 14,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "141.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue"
+    ],
+    "Rows": 15,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "142.png",
+    "Gold_output": [
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue"
+    ],
+    "Rows": 15,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "143.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green"
+    ],
+    "Rows": 15,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "144.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue"
+    ],
+    "Rows": 15,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "145.png",
+    "Gold_output": [
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue"
+    ],
+    "Rows": 15,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "146.png",
+    "Gold_output": [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 15,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "147.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue"
+    ],
+    "Rows": 15,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "148.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue"
+    ],
+    "Rows": 15,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "149.png",
+    "Gold_output": [
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue"
+    ],
+    "Rows": 15,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "150.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue"
+    ],
+    "Rows": 15,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "151.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue"
+    ],
+    "Rows": 16,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "152.png",
+    "Gold_output": [
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Green"
+    ],
+    "Rows": 16,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "153.png",
+    "Gold_output": [
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 16,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "154.png",
+    "Gold_output": [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Blue"
+    ],
+    "Rows": 16,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "155.png",
+    "Gold_output": [
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green"
+    ],
+    "Rows": 16,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "156.png",
+    "Gold_output": [
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue"
+    ],
+    "Rows": 16,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "157.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 16,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "158.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green"
+    ],
+    "Rows": 16,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "159.png",
+    "Gold_output": [
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green"
+    ],
+    "Rows": 16,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "160.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 16,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "161.png",
+    "Gold_output": [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 17,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "162.png",
+    "Gold_output": [
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue"
+    ],
+    "Rows": 17,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "163.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue"
+    ],
+    "Rows": 17,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "164.png",
+    "Gold_output": [
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue"
+    ],
+    "Rows": 17,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "165.png",
+    "Gold_output": [
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green"
+    ],
+    "Rows": 17,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "166.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 17,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "167.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue"
+    ],
+    "Rows": 17,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "168.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 17,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "169.png",
+    "Gold_output": [
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue"
+    ],
+    "Rows": 17,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "170.png",
+    "Gold_output": [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 17,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "171.png",
+    "Gold_output": [
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue"
+    ],
+    "Rows": 18,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "172.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green"
+    ],
+    "Rows": 18,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "173.png",
+    "Gold_output": [
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue"
+    ],
+    "Rows": 18,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "174.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 18,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "175.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue"
+    ],
+    "Rows": 18,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "176.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 18,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "177.png",
+    "Gold_output": [
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue"
+    ],
+    "Rows": 18,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "178.png",
+    "Gold_output": [
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue"
+    ],
+    "Rows": 18,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "179.png",
+    "Gold_output": [
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 18,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "180.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 18,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "181.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 19,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "182.png",
+    "Gold_output": [
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue"
+    ],
+    "Rows": 19,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "183.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 19,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "184.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 19,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "185.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green"
+    ],
+    "Rows": 19,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "186.png",
+    "Gold_output": [
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue"
+    ],
+    "Rows": 19,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "187.png",
+    "Gold_output": [
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 19,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "188.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 19,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "189.png",
+    "Gold_output": [
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue"
+    ],
+    "Rows": 19,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "190.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue"
+    ],
+    "Rows": 19,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "191.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue"
+    ],
+    "Rows": 20,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "192.png",
+    "Gold_output": [
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 20,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "193.png",
+    "Gold_output": [
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 20,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "194.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green"
+    ],
+    "Rows": 20,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "195.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green"
+    ],
+    "Rows": 20,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "196.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Green"
+    ],
+    "Rows": 20,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "197.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue"
+    ],
+    "Rows": 20,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "198.png",
+    "Gold_output": [
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 20,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "199.png",
+    "Gold_output": [
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Green"
+    ],
+    "Rows": 20,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  },
+  {
+    "id": "200.png",
+    "Gold_output": [
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue",
+      "Green",
+      "Blue",
+      "Blue",
+      "Blue"
+    ],
+    "Rows": 20,
+    "gpt_response": "",
+    "Output": null,
+    "ERROR": "list index out of range"
+  }
+]

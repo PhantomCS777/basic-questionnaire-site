@@ -1,0 +1,2 @@
+- The first image consists of a sequence of shapes and the second image consists of a sequence of shadows of shapes
+- Determine the number of shapes in the first image that match the shadows in the corresponding place in the second image.

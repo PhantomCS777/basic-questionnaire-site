@@ -1,0 +1,3902 @@
+[
+  {
+    "id": "1.png",
+    "Gold_output": [
+      1
+    ],
+    "Rows": 1,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "2.png",
+    "Gold_output": [
+      1
+    ],
+    "Rows": 1,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "3.png",
+    "Gold_output": [
+      1
+    ],
+    "Rows": 1,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "4.png",
+    "Gold_output": [
+      1
+    ],
+    "Rows": 1,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "5.png",
+    "Gold_output": [
+      1
+    ],
+    "Rows": 1,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "6.png",
+    "Gold_output": [
+      1
+    ],
+    "Rows": 1,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "7.png",
+    "Gold_output": [
+      1
+    ],
+    "Rows": 1,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "8.png",
+    "Gold_output": [
+      1
+    ],
+    "Rows": 1,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "9.png",
+    "Gold_output": [
+      1
+    ],
+    "Rows": 1,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "10.png",
+    "Gold_output": [
+      1
+    ],
+    "Rows": 1,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "11.png",
+    "Gold_output": [
+      1,
+      2
+    ],
+    "Rows": 2,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "12.png",
+    "Gold_output": [
+      1,
+      2
+    ],
+    "Rows": 2,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "13.png",
+    "Gold_output": [
+      1,
+      2
+    ],
+    "Rows": 2,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "14.png",
+    "Gold_output": [
+      2,
+      1
+    ],
+    "Rows": 2,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "15.png",
+    "Gold_output": [
+      2,
+      1
+    ],
+    "Rows": 2,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "16.png",
+    "Gold_output": [
+      2,
+      1
+    ],
+    "Rows": 2,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "17.png",
+    "Gold_output": [
+      1,
+      2
+    ],
+    "Rows": 2,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "18.png",
+    "Gold_output": [
+      1,
+      2
+    ],
+    "Rows": 2,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "19.png",
+    "Gold_output": [
+      1,
+      2
+    ],
+    "Rows": 2,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "20.png",
+    "Gold_output": [
+      2,
+      1
+    ],
+    "Rows": 2,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "21.png",
+    "Gold_output": [
+      1,
+      3,
+      2
+    ],
+    "Rows": 3,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "22.png",
+    "Gold_output": [
+      1,
+      2,
+      3
+    ],
+    "Rows": 3,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "23.png",
+    "Gold_output": [
+      3,
+      1,
+      2
+    ],
+    "Rows": 3,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "24.png",
+    "Gold_output": [
+      2,
+      1,
+      3
+    ],
+    "Rows": 3,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "25.png",
+    "Gold_output": [
+      2,
+      3,
+      1
+    ],
+    "Rows": 3,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "26.png",
+    "Gold_output": [
+      1,
+      2,
+      3
+    ],
+    "Rows": 3,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "27.png",
+    "Gold_output": [
+      1,
+      2,
+      3
+    ],
+    "Rows": 3,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "28.png",
+    "Gold_output": [
+      2,
+      3,
+      1
+    ],
+    "Rows": 3,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "29.png",
+    "Gold_output": [
+      3,
+      2,
+      1
+    ],
+    "Rows": 3,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "30.png",
+    "Gold_output": [
+      3,
+      1,
+      2
+    ],
+    "Rows": 3,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "31.png",
+    "Gold_output": [
+      3,
+      4,
+      2,
+      1
+    ],
+    "Rows": 4,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "32.png",
+    "Gold_output": [
+      1,
+      4,
+      3,
+      2
+    ],
+    "Rows": 4,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "33.png",
+    "Gold_output": [
+      4,
+      2,
+      1,
+      3
+    ],
+    "Rows": 4,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "34.png",
+    "Gold_output": [
+      3,
+      1,
+      4,
+      2
+    ],
+    "Rows": 4,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "35.png",
+    "Gold_output": [
+      3,
+      1,
+      2,
+      4
+    ],
+    "Rows": 4,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "36.png",
+    "Gold_output": [
+      4,
+      3,
+      1,
+      2
+    ],
+    "Rows": 4,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "37.png",
+    "Gold_output": [
+      2,
+      3,
+      4,
+      1
+    ],
+    "Rows": 4,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "38.png",
+    "Gold_output": [
+      2,
+      1,
+      3,
+      4
+    ],
+    "Rows": 4,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "39.png",
+    "Gold_output": [
+      1,
+      4,
+      2,
+      3
+    ],
+    "Rows": 4,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "40.png",
+    "Gold_output": [
+      4,
+      1,
+      3,
+      2
+    ],
+    "Rows": 4,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "41.png",
+    "Gold_output": [
+      4,
+      3,
+      5,
+      2,
+      1
+    ],
+    "Rows": 5,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "42.png",
+    "Gold_output": [
+      4,
+      1,
+      2,
+      3,
+      5
+    ],
+    "Rows": 5,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "43.png",
+    "Gold_output": [
+      4,
+      1,
+      5,
+      3,
+      2
+    ],
+    "Rows": 5,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "44.png",
+    "Gold_output": [
+      4,
+      1,
+      3,
+      2,
+      5
+    ],
+    "Rows": 5,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "45.png",
+    "Gold_output": [
+      2,
+      4,
+      3,
+      5,
+      1
+    ],
+    "Rows": 5,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "46.png",
+    "Gold_output": [
+      5,
+      1,
+      2,
+      4,
+      3
+    ],
+    "Rows": 5,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "47.png",
+    "Gold_output": [
+      3,
+      4,
+      5,
+      1,
+      2
+    ],
+    "Rows": 5,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "48.png",
+    "Gold_output": [
+      1,
+      4,
+      2,
+      5,
+      3
+    ],
+    "Rows": 5,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "49.png",
+    "Gold_output": [
+      4,
+      1,
+      3,
+      5,
+      2
+    ],
+    "Rows": 5,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "50.png",
+    "Gold_output": [
+      5,
+      3,
+      2,
+      4,
+      1
+    ],
+    "Rows": 5,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "51.png",
+    "Gold_output": [
+      4,
+      3,
+      2,
+      5,
+      6,
+      1
+    ],
+    "Rows": 6,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "52.png",
+    "Gold_output": [
+      6,
+      3,
+      2,
+      5,
+      4,
+      1
+    ],
+    "Rows": 6,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "53.png",
+    "Gold_output": [
+      3,
+      5,
+      4,
+      1,
+      6,
+      2
+    ],
+    "Rows": 6,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "54.png",
+    "Gold_output": [
+      1,
+      4,
+      2,
+      6,
+      3,
+      5
+    ],
+    "Rows": 6,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "55.png",
+    "Gold_output": [
+      6,
+      3,
+      5,
+      4,
+      2,
+      1
+    ],
+    "Rows": 6,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "56.png",
+    "Gold_output": [
+      1,
+      3,
+      2,
+      4,
+      6,
+      5
+    ],
+    "Rows": 6,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "57.png",
+    "Gold_output": [
+      1,
+      3,
+      5,
+      4,
+      2,
+      6
+    ],
+    "Rows": 6,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "58.png",
+    "Gold_output": [
+      4,
+      3,
+      5,
+      2,
+      6,
+      1
+    ],
+    "Rows": 6,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "59.png",
+    "Gold_output": [
+      1,
+      2,
+      6,
+      4,
+      3,
+      5
+    ],
+    "Rows": 6,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "60.png",
+    "Gold_output": [
+      4,
+      1,
+      6,
+      3,
+      2,
+      5
+    ],
+    "Rows": 6,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "61.png",
+    "Gold_output": [
+      1,
+      2,
+      4,
+      7,
+      5,
+      3,
+      6
+    ],
+    "Rows": 7,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "62.png",
+    "Gold_output": [
+      6,
+      1,
+      5,
+      7,
+      4,
+      2,
+      3
+    ],
+    "Rows": 7,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "63.png",
+    "Gold_output": [
+      2,
+      5,
+      3,
+      6,
+      1,
+      4,
+      7
+    ],
+    "Rows": 7,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "64.png",
+    "Gold_output": [
+      3,
+      2,
+      6,
+      4,
+      7,
+      1,
+      5
+    ],
+    "Rows": 7,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "65.png",
+    "Gold_output": [
+      6,
+      4,
+      2,
+      5,
+      3,
+      7,
+      1
+    ],
+    "Rows": 7,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "66.png",
+    "Gold_output": [
+      1,
+      2,
+      3,
+      5,
+      6,
+      4,
+      7
+    ],
+    "Rows": 7,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "67.png",
+    "Gold_output": [
+      7,
+      4,
+      3,
+      6,
+      2,
+      1,
+      5
+    ],
+    "Rows": 7,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "68.png",
+    "Gold_output": [
+      5,
+      7,
+      1,
+      3,
+      6,
+      4,
+      2
+    ],
+    "Rows": 7,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "69.png",
+    "Gold_output": [
+      2,
+      7,
+      3,
+      5,
+      6,
+      4,
+      1
+    ],
+    "Rows": 7,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "70.png",
+    "Gold_output": [
+      5,
+      7,
+      3,
+      6,
+      1,
+      4,
+      2
+    ],
+    "Rows": 7,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "71.png",
+    "Gold_output": [
+      4,
+      3,
+      8,
+      2,
+      7,
+      6,
+      1,
+      5
+    ],
+    "Rows": 8,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "72.png",
+    "Gold_output": [
+      7,
+      8,
+      1,
+      3,
+      4,
+      2,
+      5,
+      6
+    ],
+    "Rows": 8,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "73.png",
+    "Gold_output": [
+      4,
+      3,
+      6,
+      1,
+      7,
+      5,
+      2,
+      8
+    ],
+    "Rows": 8,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "74.png",
+    "Gold_output": [
+      3,
+      4,
+      8,
+      5,
+      6,
+      7,
+      1,
+      2
+    ],
+    "Rows": 8,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "75.png",
+    "Gold_output": [
+      5,
+      4,
+      2,
+      7,
+      8,
+      6,
+      1,
+      3
+    ],
+    "Rows": 8,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "76.png",
+    "Gold_output": [
+      5,
+      1,
+      2,
+      3,
+      6,
+      8,
+      4,
+      7
+    ],
+    "Rows": 8,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "77.png",
+    "Gold_output": [
+      7,
+      4,
+      5,
+      3,
+      8,
+      6,
+      1,
+      2
+    ],
+    "Rows": 8,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "78.png",
+    "Gold_output": [
+      1,
+      5,
+      6,
+      3,
+      2,
+      7,
+      8,
+      4
+    ],
+    "Rows": 8,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "79.png",
+    "Gold_output": [
+      5,
+      1,
+      2,
+      6,
+      4,
+      7,
+      8,
+      3
+    ],
+    "Rows": 8,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "80.png",
+    "Gold_output": [
+      8,
+      4,
+      3,
+      5,
+      7,
+      6,
+      2,
+      1
+    ],
+    "Rows": 8,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "81.png",
+    "Gold_output": [
+      1,
+      2,
+      7,
+      9,
+      6,
+      4,
+      5,
+      8,
+      3
+    ],
+    "Rows": 9,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "82.png",
+    "Gold_output": [
+      2,
+      5,
+      7,
+      9,
+      1,
+      3,
+      8,
+      4,
+      6
+    ],
+    "Rows": 9,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "83.png",
+    "Gold_output": [
+      2,
+      6,
+      1,
+      7,
+      8,
+      9,
+      5,
+      3,
+      4
+    ],
+    "Rows": 9,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "84.png",
+    "Gold_output": [
+      5,
+      7,
+      6,
+      4,
+      2,
+      3,
+      8,
+      1,
+      9
+    ],
+    "Rows": 9,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "85.png",
+    "Gold_output": [
+      1,
+      4,
+      7,
+      6,
+      9,
+      8,
+      5,
+      3,
+      2
+    ],
+    "Rows": 9,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "86.png",
+    "Gold_output": [
+      5,
+      4,
+      3,
+      2,
+      7,
+      6,
+      1,
+      8,
+      9
+    ],
+    "Rows": 9,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "87.png",
+    "Gold_output": [
+      8,
+      2,
+      5,
+      7,
+      3,
+      9,
+      4,
+      6,
+      1
+    ],
+    "Rows": 9,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "88.png",
+    "Gold_output": [
+      7,
+      6,
+      2,
+      1,
+      9,
+      5,
+      3,
+      4,
+      8
+    ],
+    "Rows": 9,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "89.png",
+    "Gold_output": [
+      2,
+      8,
+      7,
+      6,
+      3,
+      5,
+      4,
+      1,
+      9
+    ],
+    "Rows": 9,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "90.png",
+    "Gold_output": [
+      6,
+      4,
+      2,
+      5,
+      7,
+      8,
+      3,
+      9,
+      1
+    ],
+    "Rows": 9,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "91.png",
+    "Gold_output": [
+      7,
+      6,
+      1,
+      3,
+      8,
+      2,
+      9,
+      10,
+      5,
+      4
+    ],
+    "Rows": 10,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "92.png",
+    "Gold_output": [
+      2,
+      4,
+      7,
+      6,
+      1,
+      9,
+      10,
+      8,
+      5,
+      3
+    ],
+    "Rows": 10,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "93.png",
+    "Gold_output": [
+      3,
+      6,
+      5,
+      8,
+      1,
+      10,
+      7,
+      4,
+      9,
+      2
+    ],
+    "Rows": 10,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "94.png",
+    "Gold_output": [
+      7,
+      9,
+      10,
+      4,
+      1,
+      3,
+      2,
+      5,
+      8,
+      6
+    ],
+    "Rows": 10,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "95.png",
+    "Gold_output": [
+      3,
+      5,
+      10,
+      6,
+      9,
+      1,
+      4,
+      8,
+      2,
+      7
+    ],
+    "Rows": 10,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "96.png",
+    "Gold_output": [
+      4,
+      3,
+      5,
+      1,
+      10,
+      6,
+      9,
+      2,
+      8,
+      7
+    ],
+    "Rows": 10,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "97.png",
+    "Gold_output": [
+      6,
+      3,
+      7,
+      8,
+      2,
+      1,
+      4,
+      9,
+      10,
+      5
+    ],
+    "Rows": 10,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "98.png",
+    "Gold_output": [
+      1,
+      8,
+      2,
+      10,
+      7,
+      9,
+      6,
+      4,
+      3,
+      5
+    ],
+    "Rows": 10,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "99.png",
+    "Gold_output": [
+      4,
+      1,
+      7,
+      5,
+      9,
+      10,
+      2,
+      3,
+      8,
+      6
+    ],
+    "Rows": 10,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "100.png",
+    "Gold_output": [
+      5,
+      4,
+      10,
+      6,
+      3,
+      9,
+      7,
+      2,
+      1,
+      8
+    ],
+    "Rows": 10,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "101.png",
+    "Gold_output": [
+      4,
+      2,
+      10,
+      6,
+      9,
+      5,
+      11,
+      1,
+      8,
+      7,
+      3
+    ],
+    "Rows": 11,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "102.png",
+    "Gold_output": [
+      5,
+      1,
+      2,
+      11,
+      3,
+      10,
+      8,
+      6,
+      7,
+      4,
+      9
+    ],
+    "Rows": 11,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "103.png",
+    "Gold_output": [
+      8,
+      7,
+      1,
+      11,
+      6,
+      9,
+      10,
+      3,
+      5,
+      4,
+      2
+    ],
+    "Rows": 11,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "104.png",
+    "Gold_output": [
+      8,
+      7,
+      4,
+      11,
+      9,
+      5,
+      3,
+      10,
+      6,
+      1,
+      2
+    ],
+    "Rows": 11,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "105.png",
+    "Gold_output": [
+      8,
+      6,
+      1,
+      7,
+      4,
+      2,
+      10,
+      3,
+      11,
+      5,
+      9
+    ],
+    "Rows": 11,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "106.png",
+    "Gold_output": [
+      5,
+      4,
+      6,
+      11,
+      3,
+      7,
+      2,
+      1,
+      10,
+      8,
+      9
+    ],
+    "Rows": 11,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "107.png",
+    "Gold_output": [
+      4,
+      3,
+      5,
+      10,
+      1,
+      9,
+      8,
+      6,
+      11,
+      7,
+      2
+    ],
+    "Rows": 11,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "108.png",
+    "Gold_output": [
+      2,
+      8,
+      9,
+      11,
+      10,
+      1,
+      4,
+      5,
+      7,
+      3,
+      6
+    ],
+    "Rows": 11,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "109.png",
+    "Gold_output": [
+      10,
+      6,
+      7,
+      1,
+      11,
+      3,
+      4,
+      8,
+      9,
+      5,
+      2
+    ],
+    "Rows": 11,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "110.png",
+    "Gold_output": [
+      10,
+      5,
+      8,
+      3,
+      6,
+      2,
+      11,
+      1,
+      7,
+      4,
+      9
+    ],
+    "Rows": 11,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "111.png",
+    "Gold_output": [
+      6,
+      5,
+      2,
+      1,
+      12,
+      4,
+      10,
+      7,
+      3,
+      11,
+      9,
+      8
+    ],
+    "Rows": 12,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "112.png",
+    "Gold_output": [
+      7,
+      2,
+      12,
+      4,
+      11,
+      5,
+      3,
+      9,
+      6,
+      8,
+      1,
+      10
+    ],
+    "Rows": 12,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "113.png",
+    "Gold_output": [
+      11,
+      4,
+      8,
+      5,
+      10,
+      6,
+      9,
+      12,
+      3,
+      2,
+      7,
+      1
+    ],
+    "Rows": 12,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "114.png",
+    "Gold_output": [
+      3,
+      9,
+      11,
+      12,
+      1,
+      8,
+      4,
+      6,
+      5,
+      2,
+      10,
+      7
+    ],
+    "Rows": 12,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "115.png",
+    "Gold_output": [
+      4,
+      3,
+      1,
+      7,
+      9,
+      6,
+      8,
+      12,
+      10,
+      5,
+      11,
+      2
+    ],
+    "Rows": 12,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "116.png",
+    "Gold_output": [
+      10,
+      5,
+      4,
+      7,
+      11,
+      6,
+      3,
+      9,
+      12,
+      1,
+      8,
+      2
+    ],
+    "Rows": 12,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "117.png",
+    "Gold_output": [
+      12,
+      8,
+      1,
+      10,
+      2,
+      3,
+      9,
+      11,
+      5,
+      6,
+      7,
+      4
+    ],
+    "Rows": 12,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "118.png",
+    "Gold_output": [
+      9,
+      8,
+      7,
+      6,
+      5,
+      4,
+      1,
+      12,
+      3,
+      2,
+      11,
+      10
+    ],
+    "Rows": 12,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "119.png",
+    "Gold_output": [
+      1,
+      7,
+      12,
+      6,
+      5,
+      10,
+      4,
+      3,
+      8,
+      11,
+      2,
+      9
+    ],
+    "Rows": 12,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "120.png",
+    "Gold_output": [
+      1,
+      9,
+      12,
+      5,
+      3,
+      7,
+      6,
+      4,
+      11,
+      8,
+      2,
+      10
+    ],
+    "Rows": 12,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "121.png",
+    "Gold_output": [
+      7,
+      2,
+      13,
+      5,
+      12,
+      8,
+      1,
+      4,
+      9,
+      3,
+      10,
+      6,
+      11
+    ],
+    "Rows": 13,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "122.png",
+    "Gold_output": [
+      1,
+      10,
+      5,
+      7,
+      8,
+      9,
+      6,
+      12,
+      4,
+      2,
+      13,
+      3,
+      11
+    ],
+    "Rows": 13,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "123.png",
+    "Gold_output": [
+      2,
+      10,
+      6,
+      8,
+      9,
+      3,
+      5,
+      7,
+      12,
+      13,
+      4,
+      1,
+      11
+    ],
+    "Rows": 13,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "124.png",
+    "Gold_output": [
+      3,
+      10,
+      5,
+      4,
+      8,
+      2,
+      9,
+      13,
+      11,
+      1,
+      12,
+      7,
+      6
+    ],
+    "Rows": 13,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "125.png",
+    "Gold_output": [
+      7,
+      10,
+      4,
+      2,
+      5,
+      13,
+      8,
+      3,
+      1,
+      6,
+      12,
+      9,
+      11
+    ],
+    "Rows": 13,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "126.png",
+    "Gold_output": [
+      1,
+      6,
+      5,
+      2,
+      11,
+      4,
+      10,
+      13,
+      7,
+      9,
+      12,
+      3,
+      8
+    ],
+    "Rows": 13,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "127.png",
+    "Gold_output": [
+      8,
+      4,
+      12,
+      10,
+      5,
+      1,
+      3,
+      11,
+      6,
+      2,
+      7,
+      9,
+      13
+    ],
+    "Rows": 13,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "128.png",
+    "Gold_output": [
+      3,
+      8,
+      1,
+      7,
+      9,
+      2,
+      12,
+      13,
+      5,
+      10,
+      4,
+      11,
+      6
+    ],
+    "Rows": 13,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "129.png",
+    "Gold_output": [
+      3,
+      6,
+      2,
+      7,
+      1,
+      10,
+      13,
+      11,
+      9,
+      8,
+      5,
+      12,
+      4
+    ],
+    "Rows": 13,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "130.png",
+    "Gold_output": [
+      9,
+      4,
+      1,
+      3,
+      10,
+      2,
+      8,
+      11,
+      13,
+      12,
+      7,
+      6,
+      5
+    ],
+    "Rows": 13,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "131.png",
+    "Gold_output": [
+      12,
+      6,
+      14,
+      5,
+      4,
+      13,
+      8,
+      3,
+      2,
+      9,
+      1,
+      7,
+      11,
+      10
+    ],
+    "Rows": 14,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "132.png",
+    "Gold_output": [
+      8,
+      3,
+      9,
+      5,
+      14,
+      7,
+      1,
+      2,
+      12,
+      6,
+      4,
+      11,
+      10,
+      13
+    ],
+    "Rows": 14,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "133.png",
+    "Gold_output": [
+      10,
+      9,
+      1,
+      8,
+      6,
+      11,
+      7,
+      12,
+      4,
+      5,
+      13,
+      2,
+      3,
+      14
+    ],
+    "Rows": 14,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "134.png",
+    "Gold_output": [
+      6,
+      2,
+      1,
+      5,
+      11,
+      14,
+      4,
+      13,
+      10,
+      8,
+      12,
+      3,
+      7,
+      9
+    ],
+    "Rows": 14,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "135.png",
+    "Gold_output": [
+      13,
+      14,
+      12,
+      5,
+      8,
+      1,
+      4,
+      6,
+      3,
+      7,
+      9,
+      2,
+      10,
+      11
+    ],
+    "Rows": 14,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "136.png",
+    "Gold_output": [
+      9,
+      14,
+      1,
+      4,
+      12,
+      8,
+      2,
+      3,
+      6,
+      11,
+      7,
+      10,
+      13,
+      5
+    ],
+    "Rows": 14,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "137.png",
+    "Gold_output": [
+      6,
+      12,
+      3,
+      1,
+      4,
+      13,
+      8,
+      14,
+      2,
+      7,
+      11,
+      10,
+      5,
+      9
+    ],
+    "Rows": 14,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "138.png",
+    "Gold_output": [
+      2,
+      8,
+      5,
+      6,
+      1,
+      3,
+      9,
+      12,
+      4,
+      10,
+      7,
+      14,
+      13,
+      11
+    ],
+    "Rows": 14,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "139.png",
+    "Gold_output": [
+      4,
+      5,
+      12,
+      7,
+      3,
+      13,
+      10,
+      6,
+      2,
+      1,
+      9,
+      14,
+      8,
+      11
+    ],
+    "Rows": 14,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "140.png",
+    "Gold_output": [
+      8,
+      12,
+      10,
+      6,
+      1,
+      14,
+      2,
+      7,
+      11,
+      4,
+      13,
+      3,
+      9,
+      5
+    ],
+    "Rows": 14,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "141.png",
+    "Gold_output": [
+      5,
+      8,
+      9,
+      14,
+      13,
+      15,
+      1,
+      2,
+      12,
+      10,
+      7,
+      11,
+      3,
+      4,
+      6
+    ],
+    "Rows": 15,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "142.png",
+    "Gold_output": [
+      7,
+      13,
+      9,
+      1,
+      5,
+      4,
+      12,
+      11,
+      6,
+      3,
+      2,
+      15,
+      8,
+      10,
+      14
+    ],
+    "Rows": 15,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "143.png",
+    "Gold_output": [
+      10,
+      6,
+      1,
+      3,
+      11,
+      12,
+      9,
+      13,
+      8,
+      14,
+      5,
+      2,
+      4,
+      7,
+      15
+    ],
+    "Rows": 15,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "144.png",
+    "Gold_output": [
+      11,
+      13,
+      2,
+      3,
+      14,
+      8,
+      15,
+      6,
+      4,
+      7,
+      12,
+      5,
+      10,
+      9,
+      1
+    ],
+    "Rows": 15,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "145.png",
+    "Gold_output": [
+      13,
+      5,
+      14,
+      3,
+      7,
+      2,
+      10,
+      6,
+      4,
+      12,
+      9,
+      15,
+      1,
+      11,
+      8
+    ],
+    "Rows": 15,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "146.png",
+    "Gold_output": [
+      10,
+      8,
+      13,
+      2,
+      7,
+      14,
+      11,
+      15,
+      12,
+      4,
+      9,
+      3,
+      1,
+      6,
+      5
+    ],
+    "Rows": 15,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "147.png",
+    "Gold_output": [
+      6,
+      15,
+      11,
+      12,
+      1,
+      13,
+      8,
+      5,
+      10,
+      7,
+      14,
+      2,
+      3,
+      9,
+      4
+    ],
+    "Rows": 15,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "148.png",
+    "Gold_output": [
+      14,
+      5,
+      3,
+      15,
+      1,
+      9,
+      7,
+      6,
+      8,
+      13,
+      10,
+      2,
+      11,
+      4,
+      12
+    ],
+    "Rows": 15,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "149.png",
+    "Gold_output": [
+      4,
+      5,
+      3,
+      6,
+      2,
+      8,
+      10,
+      13,
+      14,
+      12,
+      7,
+      11,
+      15,
+      9,
+      1
+    ],
+    "Rows": 15,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "150.png",
+    "Gold_output": [
+      15,
+      5,
+      12,
+      10,
+      7,
+      9,
+      8,
+      3,
+      1,
+      14,
+      6,
+      4,
+      2,
+      13,
+      11
+    ],
+    "Rows": 15,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "151.png",
+    "Gold_output": [
+      14,
+      15,
+      4,
+      12,
+      9,
+      13,
+      7,
+      11,
+      2,
+      3,
+      6,
+      5,
+      1,
+      16,
+      10,
+      8
+    ],
+    "Rows": 16,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "152.png",
+    "Gold_output": [
+      11,
+      15,
+      10,
+      9,
+      8,
+      4,
+      14,
+      6,
+      7,
+      3,
+      2,
+      13,
+      5,
+      16,
+      1,
+      12
+    ],
+    "Rows": 16,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "153.png",
+    "Gold_output": [
+      6,
+      4,
+      1,
+      8,
+      2,
+      9,
+      5,
+      16,
+      11,
+      7,
+      14,
+      12,
+      10,
+      15,
+      3,
+      13
+    ],
+    "Rows": 16,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "154.png",
+    "Gold_output": [
+      16,
+      14,
+      11,
+      6,
+      10,
+      3,
+      2,
+      9,
+      5,
+      12,
+      15,
+      7,
+      8,
+      1,
+      4,
+      13
+    ],
+    "Rows": 16,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "155.png",
+    "Gold_output": [
+      10,
+      5,
+      6,
+      16,
+      2,
+      9,
+      14,
+      15,
+      3,
+      7,
+      8,
+      1,
+      11,
+      12,
+      4,
+      13
+    ],
+    "Rows": 16,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "156.png",
+    "Gold_output": [
+      5,
+      15,
+      1,
+      2,
+      13,
+      11,
+      16,
+      10,
+      9,
+      3,
+      8,
+      6,
+      4,
+      7,
+      14,
+      12
+    ],
+    "Rows": 16,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "157.png",
+    "Gold_output": [
+      6,
+      11,
+      13,
+      1,
+      12,
+      8,
+      15,
+      9,
+      2,
+      7,
+      5,
+      3,
+      4,
+      16,
+      10,
+      14
+    ],
+    "Rows": 16,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "158.png",
+    "Gold_output": [
+      12,
+      2,
+      6,
+      5,
+      7,
+      4,
+      8,
+      3,
+      11,
+      9,
+      10,
+      13,
+      15,
+      1,
+      14,
+      16
+    ],
+    "Rows": 16,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "159.png",
+    "Gold_output": [
+      12,
+      3,
+      1,
+      4,
+      5,
+      11,
+      10,
+      8,
+      15,
+      9,
+      2,
+      13,
+      14,
+      6,
+      7,
+      16
+    ],
+    "Rows": 16,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "160.png",
+    "Gold_output": [
+      16,
+      14,
+      7,
+      12,
+      6,
+      8,
+      5,
+      9,
+      11,
+      15,
+      2,
+      13,
+      10,
+      4,
+      3,
+      1
+    ],
+    "Rows": 16,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "161.png",
+    "Gold_output": [
+      12,
+      15,
+      4,
+      10,
+      7,
+      5,
+      16,
+      6,
+      2,
+      9,
+      13,
+      8,
+      17,
+      3,
+      11,
+      14,
+      1
+    ],
+    "Rows": 17,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "162.png",
+    "Gold_output": [
+      9,
+      8,
+      16,
+      7,
+      2,
+      13,
+      10,
+      12,
+      1,
+      15,
+      4,
+      3,
+      14,
+      11,
+      6,
+      5,
+      17
+    ],
+    "Rows": 17,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "163.png",
+    "Gold_output": [
+      6,
+      5,
+      10,
+      7,
+      12,
+      13,
+      3,
+      17,
+      11,
+      14,
+      9,
+      1,
+      2,
+      16,
+      8,
+      4,
+      15
+    ],
+    "Rows": 17,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "164.png",
+    "Gold_output": [
+      17,
+      14,
+      13,
+      10,
+      16,
+      11,
+      6,
+      8,
+      1,
+      4,
+      7,
+      2,
+      9,
+      3,
+      15,
+      5,
+      12
+    ],
+    "Rows": 17,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "165.png",
+    "Gold_output": [
+      14,
+      4,
+      5,
+      2,
+      7,
+      3,
+      11,
+      15,
+      16,
+      1,
+      10,
+      13,
+      8,
+      12,
+      17,
+      6,
+      9
+    ],
+    "Rows": 17,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "166.png",
+    "Gold_output": [
+      16,
+      3,
+      6,
+      14,
+      12,
+      13,
+      7,
+      4,
+      1,
+      17,
+      5,
+      9,
+      2,
+      10,
+      15,
+      8,
+      11
+    ],
+    "Rows": 17,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "167.png",
+    "Gold_output": [
+      6,
+      17,
+      4,
+      7,
+      9,
+      3,
+      16,
+      14,
+      5,
+      1,
+      2,
+      11,
+      8,
+      12,
+      15,
+      10,
+      13
+    ],
+    "Rows": 17,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "168.png",
+    "Gold_output": [
+      10,
+      3,
+      4,
+      17,
+      13,
+      15,
+      8,
+      7,
+      1,
+      2,
+      5,
+      12,
+      16,
+      9,
+      6,
+      14,
+      11
+    ],
+    "Rows": 17,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "169.png",
+    "Gold_output": [
+      12,
+      5,
+      2,
+      3,
+      17,
+      1,
+      13,
+      8,
+      14,
+      4,
+      10,
+      15,
+      16,
+      9,
+      11,
+      6,
+      7
+    ],
+    "Rows": 17,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "170.png",
+    "Gold_output": [
+      1,
+      3,
+      4,
+      11,
+      5,
+      7,
+      14,
+      2,
+      6,
+      17,
+      12,
+      9,
+      10,
+      8,
+      16,
+      13,
+      15
+    ],
+    "Rows": 17,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "171.png",
+    "Gold_output": [
+      1,
+      3,
+      14,
+      11,
+      18,
+      12,
+      15,
+      6,
+      5,
+      8,
+      7,
+      13,
+      2,
+      17,
+      10,
+      9,
+      4,
+      16
+    ],
+    "Rows": 18,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "172.png",
+    "Gold_output": [
+      4,
+      18,
+      2,
+      13,
+      9,
+      16,
+      17,
+      3,
+      5,
+      11,
+      8,
+      6,
+      14,
+      1,
+      7,
+      12,
+      10,
+      15
+    ],
+    "Rows": 18,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "173.png",
+    "Gold_output": [
+      13,
+      1,
+      7,
+      3,
+      5,
+      14,
+      8,
+      16,
+      15,
+      11,
+      9,
+      10,
+      17,
+      4,
+      18,
+      6,
+      12,
+      2
+    ],
+    "Rows": 18,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "174.png",
+    "Gold_output": [
+      13,
+      12,
+      6,
+      10,
+      14,
+      8,
+      11,
+      15,
+      9,
+      7,
+      17,
+      5,
+      2,
+      1,
+      18,
+      4,
+      3,
+      16
+    ],
+    "Rows": 18,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "175.png",
+    "Gold_output": [
+      2,
+      15,
+      1,
+      17,
+      3,
+      13,
+      9,
+      7,
+      10,
+      16,
+      18,
+      4,
+      11,
+      12,
+      6,
+      14,
+      8,
+      5
+    ],
+    "Rows": 18,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "176.png",
+    "Gold_output": [
+      13,
+      17,
+      9,
+      14,
+      7,
+      3,
+      5,
+      15,
+      12,
+      11,
+      8,
+      18,
+      16,
+      6,
+      10,
+      4,
+      2,
+      1
+    ],
+    "Rows": 18,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "177.png",
+    "Gold_output": [
+      15,
+      12,
+      6,
+      5,
+      13,
+      18,
+      9,
+      1,
+      3,
+      10,
+      7,
+      17,
+      2,
+      16,
+      8,
+      4,
+      14,
+      11
+    ],
+    "Rows": 18,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "178.png",
+    "Gold_output": [
+      4,
+      3,
+      12,
+      14,
+      17,
+      8,
+      6,
+      2,
+      9,
+      10,
+      5,
+      11,
+      16,
+      1,
+      13,
+      15,
+      18,
+      7
+    ],
+    "Rows": 18,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "179.png",
+    "Gold_output": [
+      1,
+      9,
+      8,
+      13,
+      17,
+      6,
+      16,
+      11,
+      3,
+      7,
+      15,
+      4,
+      18,
+      12,
+      14,
+      2,
+      5,
+      10
+    ],
+    "Rows": 18,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "180.png",
+    "Gold_output": [
+      7,
+      11,
+      6,
+      9,
+      17,
+      10,
+      5,
+      14,
+      16,
+      1,
+      18,
+      12,
+      4,
+      8,
+      2,
+      13,
+      15,
+      3
+    ],
+    "Rows": 18,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "181.png",
+    "Gold_output": [
+      15,
+      1,
+      13,
+      5,
+      14,
+      2,
+      8,
+      3,
+      4,
+      12,
+      18,
+      19,
+      17,
+      6,
+      7,
+      16,
+      9,
+      11,
+      10
+    ],
+    "Rows": 19,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "182.png",
+    "Gold_output": [
+      17,
+      15,
+      6,
+      18,
+      7,
+      3,
+      9,
+      8,
+      16,
+      19,
+      13,
+      5,
+      14,
+      1,
+      11,
+      12,
+      10,
+      4,
+      2
+    ],
+    "Rows": 19,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "183.png",
+    "Gold_output": [
+      5,
+      16,
+      17,
+      3,
+      18,
+      8,
+      11,
+      10,
+      12,
+      6,
+      1,
+      7,
+      19,
+      15,
+      2,
+      9,
+      14,
+      13,
+      4
+    ],
+    "Rows": 19,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "184.png",
+    "Gold_output": [
+      8,
+      9,
+      7,
+      17,
+      4,
+      2,
+      12,
+      11,
+      10,
+      19,
+      14,
+      16,
+      1,
+      5,
+      15,
+      3,
+      6,
+      13,
+      18
+    ],
+    "Rows": 19,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "185.png",
+    "Gold_output": [
+      18,
+      4,
+      19,
+      15,
+      12,
+      14,
+      11,
+      1,
+      10,
+      7,
+      6,
+      16,
+      13,
+      3,
+      2,
+      17,
+      5,
+      8,
+      9
+    ],
+    "Rows": 19,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "186.png",
+    "Gold_output": [
+      4,
+      9,
+      11,
+      15,
+      2,
+      8,
+      1,
+      7,
+      10,
+      6,
+      12,
+      18,
+      19,
+      17,
+      5,
+      3,
+      14,
+      13,
+      16
+    ],
+    "Rows": 19,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "187.png",
+    "Gold_output": [
+      11,
+      12,
+      5,
+      19,
+      6,
+      2,
+      9,
+      17,
+      1,
+      16,
+      13,
+      4,
+      18,
+      8,
+      10,
+      7,
+      3,
+      14,
+      15
+    ],
+    "Rows": 19,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "188.png",
+    "Gold_output": [
+      3,
+      8,
+      13,
+      10,
+      9,
+      1,
+      4,
+      2,
+      19,
+      17,
+      11,
+      12,
+      6,
+      7,
+      14,
+      16,
+      15,
+      18,
+      5
+    ],
+    "Rows": 19,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "189.png",
+    "Gold_output": [
+      11,
+      7,
+      13,
+      3,
+      2,
+      14,
+      5,
+      9,
+      4,
+      18,
+      8,
+      10,
+      6,
+      17,
+      19,
+      15,
+      16,
+      12,
+      1
+    ],
+    "Rows": 19,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "190.png",
+    "Gold_output": [
+      13,
+      15,
+      7,
+      4,
+      18,
+      6,
+      11,
+      3,
+      8,
+      16,
+      12,
+      5,
+      17,
+      19,
+      10,
+      14,
+      1,
+      9,
+      2
+    ],
+    "Rows": 19,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "191.png",
+    "Gold_output": [
+      11,
+      15,
+      19,
+      13,
+      12,
+      1,
+      6,
+      17,
+      2,
+      9,
+      20,
+      4,
+      3,
+      14,
+      18,
+      8,
+      10,
+      7,
+      5,
+      16
+    ],
+    "Rows": 20,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "192.png",
+    "Gold_output": [
+      18,
+      2,
+      14,
+      17,
+      4,
+      13,
+      20,
+      9,
+      11,
+      5,
+      19,
+      10,
+      7,
+      8,
+      6,
+      16,
+      3,
+      15,
+      1,
+      12
+    ],
+    "Rows": 20,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "193.png",
+    "Gold_output": [
+      19,
+      13,
+      1,
+      14,
+      11,
+      20,
+      6,
+      5,
+      8,
+      10,
+      7,
+      18,
+      2,
+      17,
+      4,
+      12,
+      9,
+      15,
+      16,
+      3
+    ],
+    "Rows": 20,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "194.png",
+    "Gold_output": [
+      8,
+      18,
+      17,
+      19,
+      12,
+      2,
+      16,
+      13,
+      4,
+      1,
+      15,
+      14,
+      11,
+      9,
+      5,
+      10,
+      20,
+      3,
+      7,
+      6
+    ],
+    "Rows": 20,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "195.png",
+    "Gold_output": [
+      1,
+      19,
+      9,
+      4,
+      16,
+      10,
+      8,
+      3,
+      13,
+      17,
+      18,
+      7,
+      14,
+      5,
+      12,
+      11,
+      6,
+      20,
+      2,
+      15
+    ],
+    "Rows": 20,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "196.png",
+    "Gold_output": [
+      6,
+      15,
+      17,
+      18,
+      4,
+      9,
+      5,
+      10,
+      19,
+      7,
+      16,
+      11,
+      3,
+      8,
+      12,
+      1,
+      13,
+      2,
+      20,
+      14
+    ],
+    "Rows": 20,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "197.png",
+    "Gold_output": [
+      12,
+      15,
+      3,
+      2,
+      19,
+      4,
+      6,
+      10,
+      14,
+      20,
+      8,
+      13,
+      7,
+      1,
+      17,
+      11,
+      5,
+      18,
+      16,
+      9
+    ],
+    "Rows": 20,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "198.png",
+    "Gold_output": [
+      2,
+      10,
+      17,
+      4,
+      1,
+      9,
+      7,
+      16,
+      8,
+      3,
+      20,
+      18,
+      5,
+      14,
+      6,
+      19,
+      13,
+      12,
+      15,
+      11
+    ],
+    "Rows": 20,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "199.png",
+    "Gold_output": [
+      9,
+      20,
+      6,
+      16,
+      14,
+      2,
+      19,
+      7,
+      8,
+      3,
+      4,
+      13,
+      15,
+      5,
+      1,
+      12,
+      17,
+      18,
+      11,
+      10
+    ],
+    "Rows": 20,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  },
+  {
+    "id": "200.png",
+    "Gold_output": [
+      10,
+      20,
+      5,
+      18,
+      14,
+      11,
+      12,
+      4,
+      3,
+      13,
+      19,
+      6,
+      16,
+      9,
+      2,
+      7,
+      1,
+      15,
+      8,
+      17
+    ],
+    "Rows": 20,
+    "gpt_response": "[1, 2, 3, 4, 5]<\uff5cend\u2581of\u2581sentence\uff5c>",
+    "Output": null,
+    "ERROR": "invalid literal for int() with base 10: '[1,'"
+  }
+]

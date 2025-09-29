@@ -18,14 +18,16 @@ def list_domains():
 
 def choose_for_domain(domain):
     domain_path = QUESTIONS_ROOT / domain
-    # pick a random prompt file from domain/prompt/*.txt
-    prompt_dir = domain_path / "prompt"
-    prompt_files = [p for p in prompt_dir.iterdir() if p.is_file() and p.suffix.lower() == ".txt"]
-    if not prompt_files:
-        prompt_text = ""
+    # pick a random prompts file from domain/prompts/*.txt
+    prompts_dir = domain_path / "prompts"
+    prompts_files = [p for p in prompts_dir.iterdir() if p.is_file() and p.suffix.lower() == ".txt"]
+    if not prompts_files:
+        prompts_text = ""
     else:
-        pf = random.choice(prompt_files)
-        prompt_text = pf.read_text(encoding="utf-8")
+        # pf = random.choice(prompts_files)
+        prompts_texts = [pf.read_text(encoding="utf-8").strip() for pf in prompts_files if pf.stat().st_size > 0]
+        # prompts_text = pf.read_text(encoding="utf-8")
+        prompts_text = [""+ x + "\n" for x in prompts_texts if x][-1]
     # pick a random image from domain/data/*
     data_dir = domain_path / "data"
     image_files = [p for p in data_dir.iterdir() if p.is_file() and p.suffix.lower() in [".png",".jpg",".jpeg",".gif"]]
@@ -35,7 +37,7 @@ def choose_for_domain(domain):
         img = random.choice(image_files)
         # we will serve under /questions/<domain>/<filename>
         image_url = f"/questions/{domain}/{img.name}"
-    return {"domain": domain, "prompt": prompt_text, "image": image_url}
+    return {"domain": domain, "prompts": prompts_text, "image": image_url}
 
 @app.route("/")
 def index():
@@ -108,4 +110,4 @@ def submit():
     return jsonify({"status":"ok", "saved": filename})
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000, debug=True)
+    app.run(host="0.0.0.0", port=5050, debug=False)
